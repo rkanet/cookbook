@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zelenina on My New Hugo Site</title>
+    <link>http://example.org/ingredience/zelenina/</link>
+    <description>Recent content in zelenina on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jul 2023 18:25:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/zelenina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pizza s nočním kynutím</title>
+      <link>http://example.org/recepty/23-07-pizza-nocni-kybuti/</link>
+      <pubDate>Sun, 30 Jul 2023 18:25:39 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/23-07-pizza-nocni-kybuti/</guid>
+      <description>Suroviny (cca 2ks)  500 kg hladké mouky 00 (popřípadě přímo silnější italské mouky na pizzu) 325-350 ml vody (přilévejte postupně podle savosti mouky) 20 g olivového oleje 3 g droždí (pro rychlejší verzi 15 g ) 10 g soli  Postup Poznámky </description>
+    </item>
+    
+    <item>
+      <title>Cizrnová frittata</title>
+      <link>http://example.org/recepty/23-07-cizrnova-frittata/</link>
+      <pubDate>Fri, 14 Jul 2023 23:25:39 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/23-07-cizrnova-frittata/</guid>
+      <description>Suroviny  200 g cirnová mouka cca 400 g voda 2 PL olej 100 g bílý jogurt zelenina (paprika, rajče, cibule, cuketa&amp;hellip;) sůl a koření  Postup  cizrnu zalijeme vodou a necháme cca hodinu stát (případně nechávám i přes noc v lednici) nakrájíme zeleninu smícháme všechny ingeredience a přidáme zeleninu pečeme na pekáčku vyloženém pečícím papírem  Poznámky Lépe se krájí vychladle. Dobré je koření kari korma z Lidlu. Dávají se i rozmixované kešu&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

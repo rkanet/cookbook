@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>papriky on My New Hugo Site</title>
+    <link>http://example.org/ingredience/papriky/</link>
+    <description>Recent content in papriky on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jul 2023 20:25:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/papriky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gemista</title>
+      <link>http://example.org/recepty/23-07-gemista/</link>
+      <pubDate>Sun, 30 Jul 2023 20:25:39 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/23-07-gemista/</guid>
+      <description>Suroviny na originál Zelenina k plnění
+ 3 onions 6 tomatoes 3 green bell peppers  Doplněk na plech:
+ 500 g baby potatoes 2 tablespoon(s) olive oil salt pepper  Náplň
+ 4 tablespoon(s) olive oil 350 g round grain rice 400 ml water 1 vegetable bouillon cube 2 clove(s) of garlic 1 tablespoon(s) tomato paste 1 zucchini 1 carrot 1 tablespoon(s) granulated sugar salt, generous amount pepper, generous amount 1 bunch parsley 1 bunch mint 1/3 bunch dill olive oil mint leaves  Na závěr na pekáč</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jablko on My New Hugo Site</title>
+    <link>http://example.org/ingredience/jablko/</link>
+    <description>Recent content in jablko on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Aug 2023 11:25:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/jablko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ovocné knedlíky</title>
+      <link>http://example.org/recepty/23-08-ovocne-knedliky/</link>
+      <pubDate>Sat, 12 Aug 2023 11:25:39 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/23-08-ovocne-knedliky/</guid>
+      <description>Suroviny  180g brambor 250g tvaroh tučný vanička 1 vejce 200h hrubé mouky (lzice pohankove, 30g rýžové a zbyte dosypat Jizerkou) špetka soli 2-3 jablka dle velikosti  Borůvkový rozvar
+ bvorůvky lesní (lze i koupené) cukr dle chuti škrob na zahuštění  Postup  předem (ráno) uvařit brambory ve slupce a nechat dobře vychladnout borůvky krátce povaříme s cukrem a trochou škrobu oloupaná jablka nakrájet na meší kousky veřené brambory nastrouháme na jemno, přidáme ostatní suroviny a na vále zpracujeme těsto těsto rozválíme, nakrájíme na kousky a plníme jablky knedlíky vaříme ve vodě cca 6 minut  Poznámky </description>
+    </item>
+    
+    <item>
+      <title>Tvarohové muffiny</title>
+      <link>http://example.org/recepty/23-08-tvarohve-muffiny/</link>
+      <pubDate>Thu, 10 Aug 2023 10:25:39 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/23-08-tvarohve-muffiny/</guid>
+      <description>Suroviny na 12ks muffinu  2 vejce 90g třtinového cukru 1 vanilkovy cukr 75 ml oleje 250g vanickoveho tvarohu (tučný) 200g mouky 1/2 prasku do peciva 1 rovná ČL skořice do testa  Postup dala jsem do muf. pekace a jeste do papirovych kosicku&amp;hellip;
+ smichat zloutky s tvarohem, vanilkovým cukrem a skořicí a olejem smíchat mouku s kypřícím práškem ušlehat snih z bilku a a pak do něj zašlehat cukr Smíchat mouku s tvarohovou částí a nakonec opatrně vmíchat sníh Pomocí dvou polevkových lžic dávkujeme do formiček, přidat ždibek marmelády/povidel a kousek jablíčka navrch pečeme v předehřáte troubě 200 stupňů, asi 25minut  Poznámky Do muffinové formy používám ještě papírové vložky, ale lze i rovnou do vymazané a moukou vysypané formy.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+
+
+{{ define "main" }}
+
+
+<div id="page-wrapper">
+
+	<!-- Header-->
+	{{ partial "header" . }}  
+
+	<!-- Features -->
+		<section id="features">
+			<div class="container">
+				<header>
+					<h2>Co bude dnes dobrého k obědu? Upečeš <strong>něco</strong>?</h2>
+				</header>
+				<div class="row aln-center">
+									<!-- ranges through content in ascending order according to the "title" field set in front matter -->
+									
+									{{ range  first 6 .Site.RegularPages }}	
+									
+											<div class="col-4 col-6-medium col-12-small">
+											<a href="{{ .Permalink }}" class="image fit"><img src="{{ .Params.Imgsrc }}" alt="{{ .Params.Imgname }}" /></a>
+											<header>
+												<h3>{{ .Name }}</h3>
+											</header>
+									</div>
+									{{ end }}	
+
+
+									{{ range .Site.Taxonomies.tag.sladke }}
+									 
+									<div class="col-4 col-6-medium col-12-small">
+											<a href="{{ .RelPermalink }}" class="image fit"><img src="{{ .Params.Imgsrc }}" alt="{{ .Params.Imgname }}" /></a>
+											<header>
+												<h3>{{ .Name }}</h3>
+											</header>
+									</div>
+									{{ end }}
+					
+			
+					<div class="col-12">
+						<ul class="actions">
+							<li><a href="../galerie" class="button icon solid fa-file">Galerie</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+
+	
+
+
+
+		<!-- Footer section-->
+		{{ partial "footer" . }}  
+</div>
+
+{{ end }}

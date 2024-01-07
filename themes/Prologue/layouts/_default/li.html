@@ -1,0 +1,15 @@
+
+{{ $data := getJSON "/data/photo-list.json" }}
+{{ range $data }}
+
+<article class="item">
+    <a href="{{ .Imghref }}" class="image fit"><img src="{{ .Imgsrc }}" alt="{{ .Name }}" /></a>
+    <header>
+        <h3>{{ .Name }}</h3>
+    </header>
+</article>
+
+{{ end }}
+
+
+

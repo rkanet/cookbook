@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>třešně on My New Hugo Site</title>
+    <link>http://example.org/ingredience/t%C5%99e%C5%A1n%C4%9B/</link>
+    <description>Recent content in třešně on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jul 2022 11:59:10 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/t%C5%99e%C5%A1n%C4%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Třešně v agaru</title>
+      <link>http://example.org/recepty/22-07-tresne-v-agaru/</link>
+      <pubDate>Fri, 08 Jul 2022 11:59:10 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/22-07-tresne-v-agaru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Třešňový džem</title>
+      <link>http://example.org/recepty/22-07-tresnovy-dzem/</link>
+      <pubDate>Fri, 08 Jul 2022 10:30:28 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/22-07-tresnovy-dzem/</guid>
+      <description>Suroviny 1 kg vypeckovaných třešní (odpovídá cca 1100g nevypeckovaných) 500 g cukru 10g pektinu 1 rovná ČL kys. citronové (konzervant, mírně okyselí, lze i bez ní)
+postup  omyjeme, odšťopkujeme a vypeckujeme třešně zasypeme většinou cukru cca 50g ponecháme stranou na rozmíchání pektinu pocukrované třešně dáme do chladu a necháme do druhého dne druhý den přidáme a pektin s cukrem vaříme v širokém hrnci cca 10 minut dle zkoušky tuhnutí na talířku vroucí plníme do čistých sterilovaných skleniček vč.</description>
+    </item>
+    
+  </channel>
+</rss>

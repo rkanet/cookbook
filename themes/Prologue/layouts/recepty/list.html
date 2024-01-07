@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+{{ partial "nav.html" . }}
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Portfolio -->
+					
+					<section id="portfolio" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Portfolio list page recepty</h2>
+							</header>
+
+							<div class="row">
+								<div class="col-4 col-12-mobile">
+									<ul>
+										<!-- ranges through content in ascending order according to the "title" field set in front matter -->
+										{{ range .Pages.ByTitle }}
+											<li>
+												<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+												<time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+											</li>
+										{{ end }}
+
+
+										
+									</ul>
+																							
+								</div>
+							</div>	
+
+					</section>
+					
+				</div>
+
+{{ end }}	

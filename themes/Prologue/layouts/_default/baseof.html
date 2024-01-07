@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<!--
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Prologue by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		
+		<!-- Processing scss files -->
+		<!--Setting outputStyle to compressed will handle SCSS files minification better than the more generic resources.Minify.-->
+		{{ $options := (dict "targetPath" "css/main.css" "outputStyle" "compressed" ) }}
+		{{ $styles := resources.Get "scss/main.scss" | toCSS $options | minify | fingerprint }}
+		<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+	
+		<!-- Processing css files -->
+		{{ $styles := resources.Get "css/fontawesome-all.min.css" | minify | fingerprint }}
+		<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+		<!--<link rel="stylesheet" href="/css/main.css" />-->
+		
+	</head>
+	<body class="is-preload">
+
+		{{ block "main" . }}
+
+		{{ end }}
+
+
+<!-- Footer -->
+<div id="footer">
+
+	<!-- Copyright -->
+		<ul class="copyright">
+			<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+		</ul>
+
+</div>
+<body class="homepage is-preload">
+
+<!-- Scripts (old from html up)
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+-->
+
+
+{{ "<!-- Main Script--> " | safeHTML }}
+{{ $jquery := resources.Get "js/jquery.min.js" }}
+<!-- Scripts for scroling in menu, for use add $scrolly and $scrollex to slice below)-->
+<!--{{ $scrolly := resources.Get "js/jquery.scrolly.min.js" }}-->
+<!--{{ $scrollex := resources.Get "js/jquery.scrollex.min.js" }}-->
+{{ $browser := resources.Get "js/browser.min.js" }}
+{{ $breakpoints := resources.Get "js/breakpoints.min.js" }}
+{{ $util := resources.Get "js/util.js" }}
+{{ $main := resources.Get "js/main.js" }}
+
+{{ $alljs := slice $jquery $browser $breakpoints $util $main | resources.Concat "assets/js/alljs.js" | resources.ExecuteAsTemplate "assets/js/alljs.js" .  }}
+{{ $style := $alljs | minify | fingerprint }}
+
+<script defer language="javascript" type="text/javascript"  src="{{ $style.RelPermalink }}"></script>
+		
+		
+</body>
+</html>

@@ -1,0 +1,45 @@
+<section id="header">
+    <div class="container">
+
+        <!-- Logo -->
+            <h1 id="logo"><a href="/">Recepty</a></h1>
+            <p></p>
+                 
+        <!-- Nav -->
+            <nav id="nav">
+                
+
+                <ul>
+                        <li><a class="" href="/"><span>Home</span></a></li>
+                        {{ $currentPage := . }}
+                        {{ range .Site.Menus.main }}
+                                                
+                            <li>
+                                <a href="{{ .URL }}" class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+                                    <span>{{ .Name }}</span>
+                                    {{ .Pre }}
+                                                            
+                                </a>
+                            </li>
+                                            
+                        {{ end }}
+
+
+                </ul>
+
+                <!--<ul><li><a class="icon solid fa-home" href=".."><span>Introduction</span></a></li>
+                <li><a class="icon solid fa-cog" href="left-sidebar.html"><span>Left Sidebar</span></a></li>
+                <li><a class="icon solid fa-retweet" href="right-sidebar.html"><span>Right Sidebar</span></a></li>
+                <li><a class="icon solid fa-sitemap" href="no-sidebar.html"><span>No Sidebar</span></a></li></ul >-->
+               
+            </nav>
+            <ul id="subnav">
+                
+                {{ range $name, $taxonomy := .Site.Taxonomies.tags.ByCount }}
+                <li><a href="/tags/{{ $taxonomy.Name | urlize }}/"><span>{{ $taxonomy.Name}}</span></a></li>
+                {{ end }}
+             </ul>    
+
+
+    </div>
+</section>

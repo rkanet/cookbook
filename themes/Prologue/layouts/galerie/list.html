@@ -1,0 +1,71 @@
+{{ define "main" }}
+
+{{ partial "nav.html" . }}
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Portfolio -->
+					
+					<section id="portfolio" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Portfolio list page galerie</h2>
+							</header>
+
+							<div class="row">
+								<div class="col-4 col-12-mobile">
+									<!-- ranges through content in ascending order according to the "title" field set in front matter -->
+										
+									{{ range .Site.RegularPages }}
+										<article class="item">
+											<a href="{{ .Permalink }}" class="image fit"><img src="{{ .Params.Imgsrc }}" alt="{{ .Params.Imgname }}" /></a>
+											<header>
+												<h3>{{ .Name }}</h3>
+											</header>
+										</article>
+										{{ end }}
+								</div>
+							</div>
+						</div>
+					</section>
+
+					<section id="portfolio" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Portfolio list page galerie</h2>
+							</header>
+
+							<div class="row">
+								<div class="col-4 col-12-mobile">
+									<!-- ranges through content in ascending order according to the "title" field set in front matter -->
+									
+									
+
+									{{ $paginator := .Paginate (where .Site.Pages "Type" "recepty") 2 }}
+									{{ range $paginator.Pages }}
+									
+									<article class="item">
+										<a href="{{ .Permalink }}" class="image fit"><img src="{{ .Params.Imgsrc }}" alt="{{ .Params.Imgname }}" /></a>
+										<header>
+											<h3>{{ .Title }}</h3>
+										</header>
+									</article>
+									{{ end }}
+								</div>
+							</div>
+						</div>
+					</section>
+
+
+
+					
+					
+								 <!-- tempelate pro strankovani -->
+								 {{ partial "pagination.html" . }}
+					
+			</div>
+
+{{ end }}	

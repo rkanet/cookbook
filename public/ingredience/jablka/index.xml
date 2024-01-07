@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jablka on My New Hugo Site</title>
+    <link>http://example.org/ingredience/jablka/</link>
+    <description>Recent content in jablka on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 May 2023 09:59:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/jablka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pečená jablka</title>
+      <link>http://example.org/recepty/23-06-pecena-jablka/</link>
+      <pubDate>Tue, 16 May 2023 09:59:39 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/23-06-pecena-jablka/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;jablka&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;jablka omylejeme, přepůlíme, vykrojime jadřinec&lt;/li&gt;
+&lt;li&gt;posypeme skořící (připádně oříšky, mandlemi&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;vyskládáme na pečící papír na plech a pečeme&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
+    </item>
+    
+    <item>
+      <title>Trhanec bez lepku</title>
+      <link>http://example.org/recepty/22-07-trhanec/</link>
+      <pubDate>Fri, 08 Jul 2022 21:06:21 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/22-07-trhanec/</guid>
+      <description>Suroviny  200g hl.mouky (100 Jizerka + 100 Doves farm) 250ml mléka (dala jsem méne, tak 200ml) špetka soli 4 vejce (ušlehat sníh) 40g cukru krupice nebo krystal 1 vanilkový cukr 1 panák rumu citr. kur, nebo štáva  Postup  Ušleháme pevný sníh, pak zašleháme sníh s cukrem v misce smíchat mouku, vanilk cukr, citr. kuru, mléko žloutky. opatrně přidáme sníh rozehřejeme pánev s tukem (máslo prepuštené je nejlepší) zberackou nalejeme, nepriklápíme&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Strašidelná buchta</title>
+      <link>http://example.org/recepty/22-05-strasidelna-buchta/</link>
+      <pubDate>Mon, 16 May 2022 09:59:39 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/22-05-strasidelna-buchta/</guid>
+      <description>&lt;h1 id=&#34;suroviny-ikea-pekáč-32x22&#34;&gt;Suroviny (Ikea pekáč 32x22)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;400 g zakysané smetany,&lt;/li&gt;
+&lt;li&gt;300 g polohrubé mouky,&lt;/li&gt;
+&lt;li&gt;100 g třtinového cukru,&lt;/li&gt;
+&lt;li&gt;2 vejce,&lt;/li&gt;
+&lt;li&gt;kypřící prášek,&lt;/li&gt;
+&lt;li&gt;8 jablek&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Smícháme suché suroviny a mokré zvlášť. Pak spojíme a vlijeme na vymazaná pekáč.&lt;/li&gt;
+&lt;li&gt;Pečeme 180st cca 35 minut&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;
+&lt;p&gt;Na pekáč 32x22 výška cca 5cm.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

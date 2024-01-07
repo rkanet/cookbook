@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>čokoláda on My New Hugo Site</title>
+    <link>http://example.org/ingredience/%C4%8Dokol%C3%A1da/</link>
+    <description>Recent content in čokoláda on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 17:43:05 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/%C4%8Dokol%C3%A1da/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mandlový dort bez mouky</title>
+      <link>http://example.org/recepty/22-10-orechovy-dort-bez-mouky/</link>
+      <pubDate>Sat, 22 Oct 2022 17:43:05 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/22-10-orechovy-dort-bez-mouky/</guid>
+      <description>Suroviny Korpus
+ 5 vajec (oddělit žloutky a bílky) 150 g moučkového cukru 300 g mletých ořechů nebo mandlí  Krém
+ 500ml mléka 2 vanilkové pudinky 1 tučný tvaroh ve vaničce cukr  Na ozdobu čokoláda, ořechy
+Postup Bílky ušleháme do tuha, zapracujeme cukr. Pak opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské). Těsto nalijeme do dortové formy nebo na menší plech. Vložíme do předem vyhřáté trouby a pečeme na 180 st.</description>
+    </item>
+    
+    <item>
+      <title>Ořechové muffiny bez mouky</title>
+      <link>http://example.org/recepty/22-10-orechove-muffiny-bez-mouky/</link>
+      <pubDate>Sat, 22 Oct 2022 17:31:11 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/22-10-orechove-muffiny-bez-mouky/</guid>
+      <description>Suroviny  5 vajec (oddělit žloutky a bílky) 150 g moučkového cukru 300 g mletých ořechů recept je stejný jako na ořechový dort  Na ozdobu:
+ jablíčka, čokoláda, ořechy  Postup Bílky ušleháme do tuha, zapracujeme cukr. Pak opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské). Těsto nalijeme do muffinových mističek a ozdobíme jablíčky a kouky čokolády. Vložíme do předem vyhřáté trouby a pečeme na 180 st., asi 35-40 minut.</description>
+    </item>
+    
+  </channel>
+</rss>

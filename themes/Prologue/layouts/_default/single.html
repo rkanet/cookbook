@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+	{{ partial "nav.html" . }}
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Portfolio -->
+					<section id="portfolio" class="two">
+						<div class="container">
+
+							<header>
+								<h2> {{ .Name }}  - Portfolio single page default </h2>
+							</header>
+
+							{{ .Content }}
+					</section>
+				
+			</div>
+
+{{ end }}	

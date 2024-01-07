@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jahody on My New Hugo Site</title>
+    <link>http://example.org/ingredience/jahody/</link>
+    <description>Recent content in jahody on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 09:59:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/jahody/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tvarohový dort s jahodami</title>
+      <link>http://example.org/recepty/22-06-tvarohovy-dort-jahody/</link>
+      <pubDate>Mon, 27 Jun 2022 09:59:39 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/22-06-tvarohovy-dort-jahody/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Forma 24cm plus 4 misky sklenice, hezké jsou průhledné&lt;/li&gt;
+&lt;li&gt;1 želatina Dr. Oetker (jemně mletá na 500-600ml hmoty)&lt;/li&gt;
+&lt;li&gt;400 ml vody na želatinu&lt;/li&gt;
+&lt;li&gt;4 tvaroh tučný vanička&lt;/li&gt;
+&lt;li&gt;třtinový cukr dle chuti&lt;/li&gt;
+&lt;li&gt;1 vanilkový cukr&lt;/li&gt;
+&lt;li&gt;1 balení piškotů lze pokapat rumem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;omýt a osušit jahody&lt;/li&gt;
+&lt;li&gt;želatinu rozpustit v 400ml vody a nechat 10 minut bobtnat&lt;/li&gt;
+&lt;li&gt;do fromy na dno scvaknout pečící papír navrstvit piškoty, pokapat rumem a navrstvit jahody&lt;/li&gt;
+&lt;li&gt;ohřát želatinu ve vodní lázní (max 60st) do úplného rozpuštění- čirý roztok&lt;/li&gt;
+&lt;li&gt;po schlazení smíchat oslazený tvaroh a želatinu a zvolna nalít na dort&lt;/li&gt;
+&lt;li&gt;schladit v lednici&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;bezlepkové piškoty jsou drobivé, lepší bez nich jako dezert bez piškotů&lt;/li&gt;
+&lt;li&gt;tvaroh lze ztužit i agarem (nemám vyzkoušeno)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

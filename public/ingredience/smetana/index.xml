@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smetana on My New Hugo Site</title>
+    <link>http://example.org/ingredience/smetana/</link>
+    <description>Recent content in smetana on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jun 2022 09:59:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/smetana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Míša řezy bez mouky</title>
+      <link>http://example.org/recepty/22-06-misa-rezy/</link>
+      <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/22-06-misa-rezy/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;5 vajec&lt;/li&gt;
+&lt;li&gt;100 g cukr crystal&lt;/li&gt;
+&lt;li&gt;50 g 	kakaa holandského typu&lt;/li&gt;
+&lt;li&gt;1 tučný tvaroh ve vaničce (250 g)&lt;/li&gt;
+&lt;li&gt;200 ml smetany ke šlehání (lze i 250ml) nejlepší je 34% lépe drží&lt;/li&gt;
+&lt;li&gt;1 sáček vanilkového cukru (10g)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;plech vyložit pečícím papírem, osvědčilo s emi ho lehce pomastit a sypnout trochu mouky&lt;/li&gt;
+&lt;li&gt;bílky ušlehat  se špetkou soli až po otočení neteče z misky&lt;/li&gt;
+&lt;li&gt;přidat cukr a šlehat cukr s bílkem do doby než se špičky jen mírně ohýbají&lt;/li&gt;
+&lt;li&gt;potrně šlehací metlou vmíchat žloutky&lt;/li&gt;
+&lt;li&gt;prosýt a  postupně (opět šlehcí metlou) vmíchat kakao&lt;/li&gt;
+&lt;li&gt;jemně rozetřít na plech, péčeme při 185 st cca 10 minut&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

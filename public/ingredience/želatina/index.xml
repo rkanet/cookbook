@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>želatina on My New Hugo Site</title>
+    <link>http://example.org/ingredience/%C5%BEelatina/</link>
+    <description>Recent content in želatina on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jul 2022 12:06:09 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/%C5%BEelatina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aspik s masem a zeleninou</title>
+      <link>http://example.org/recepty/22-07-aspik-s-krutim-masem-zeleninou/</link>
+      <pubDate>Fri, 08 Jul 2022 12:06:09 +0200</pubDate>
+      
+      <guid>http://example.org/recepty/22-07-aspik-s-krutim-masem-zeleninou/</guid>
+      <description>Suroviny na chlebovou smaltovou formu  2 ks želatina dr.Oetker jemně mletá (stejnou používám na jahodový dort) cca 300g uvřeného masa (krůtí stehenní nebo vepřové) 1 l vývaru (z masa a doplnit vodou, dochutit lákem z okurek) pepř a sůl malá sklenice krájené sterilované papriky malá sklenice nakládaných cibulek cca půl sklenice okurek volitelně 3ks na čtvrtky nakrajená vařená vejce (dobré)  Postup  připravíme vařené maso (krůtí nebo vepřové), vývar s novým kořením a bobkovým listem (lze i den předem) vývar přecedíme, maso nakrájíme želatinu dle návodu: necháme nabobtnat ve studeném vývaru a pak zahřejeme do rozpuštění (max 60st.</description>
+    </item>
+    
+  </channel>
+</rss>

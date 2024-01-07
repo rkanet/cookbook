@@ -1,0 +1,73 @@
+<!-- Header -->
+<div id="header">
+
+    <div class="top">
+
+        <!-- Logo -->
+            <div id="logo">
+                <span class="image avatar48"><img src="/img/avatar.jpg" alt="" /></span>
+                <h1 id="title">Test Page</h1>
+                <p>Hyperspace Engineer</p>
+            </div>
+
+        <!-- Nav -->
+            <nav id="nav">
+                <ul>
+                    <!--<li><a href=".." id="top-link"><span class="icon solid fa-home">Intro</span></a></li>-->
+                    <!--<li><a href="galerie" id="galery"><span class="icon solid fa-th">Galery</span></a></li>-->
+                    <!--<li><a href="recepty" id="portfolio-link"><span class="icon solid fa-th">Recepty</span></a></li>-->
+                    <!--<li><a href="#about" id="about-link"><span class="icon solid fa-user">About</span></a></li>-->
+                    <!--<li><a href="kontakt" id="contact-link"><span class="icon solid fa-envelope">Contact</span></a></li>-->
+
+
+
+                    
+                        <ul>
+                            {{ $currentPage := . }}
+                            {{ range .Site.Menus.main }}
+                                
+                                    <li>
+                                        <a href="{{ .URL }}" class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+                                            <span class="icon solid {{ .Params.Menuicon }}">{{ .Name }}</span></a>
+                                            {{ .Pre }}
+                                            
+                                        </a>
+                                    </li>
+                                
+                            {{ end }}
+                            
+                            <li>
+                                <a href="#" target="_blank">Hardcoded Link 1</a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">Hardcoded Link 2</a>
+                            </li>
+                        </ul>
+                    
+                        
+                        <ul class="taxonomy">
+                            {{ range $name, $taxonomy := .Site.Taxonomies.dieta.Alphabetical.Reverse }}
+                            <li><a href="/dieta/{{ $taxonomy.Name | urlize }}">{{ $taxonomy.Name }}</a></li>
+                            {{ end }}
+                        </ul>
+
+
+                </ul>
+            </nav>
+
+    </div>
+
+    <div class="bottom">
+
+        <!-- Social Icons -->
+            <ul class="icons">
+                <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+                <li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+                <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+                <li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+            </ul>
+
+    </div>
+
+</div>

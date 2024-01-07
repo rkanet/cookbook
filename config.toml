@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "StronglyTyped"
+
+sectionPagesMenu = "main"
+
+preserveTaxonomyNames = true
+[taxonomies]
+	priprava = "priprava"
+	igredience = "ingredience"
+	tag = "tags"
+	taxomony = "taxomonies"
+
+	
