@@ -20,7 +20,7 @@
 									{{ range  first 6 .Site.RegularPages }}	
 									
 											<div class="col-4 col-6-medium col-12-small">
-											<a href="{{ .Permalink }}" class="image fit"><img src="{{ .Params.Imgsrc }}" alt="{{ .Params.Imgname }}" /></a>
+											<a href="{{ .RelPermalink }}" class="image fit"><img src="{{ .Params.Imgsrc }}" alt="{{ .Params.Imgname }}" /></a>
 											<header>
 												<h3>{{ .Name }}</h3>
 											</header>
@@ -41,7 +41,7 @@
 			
 					<div class="col-12">
 						<ul class="actions">
-							<li><a href="../galerie" class="button icon solid fa-file">Galerie</a></li>
+							<li><a href="{{ relURL "galerie" }}" class="button icon solid fa-file">Galerie</a></li>
 						</ul>
 					</div>
 				</div>

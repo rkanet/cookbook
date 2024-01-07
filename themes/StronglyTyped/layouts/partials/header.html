@@ -2,7 +2,7 @@
     <div class="container">
 
         <!-- Logo -->
-            <h1 id="logo"><a href="/">Recepty</a></h1>
+            <h1 id="logo"><a href="{{ absURL "" }}">Recepty</a></h1>
             <p></p>
                  
         <!-- Nav -->
@@ -10,7 +10,7 @@
                 
 
                 <ul>
-                        <li><a class="" href="/"><span>Home</span></a></li>
+                        <li><a class="" href=".."><span>Home</span></a></li>
                         {{ $currentPage := . }}
                         {{ range .Site.Menus.main }}
                                                 

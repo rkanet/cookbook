@@ -1,10 +1,12 @@
-baseURL = "https://rkanet.github.io/kitchen/"
+baseURL = "https://rkanet.github.io/kitchen"
 publishdir = "docs"
 languageCode = "en-us"
 title = "Kitchen"
 theme = "StronglyTyped"
 
 sectionPagesMenu = "main"
+
+canonifyurls = true
 
 preserveTaxonomyNames = true
 [taxonomies]
