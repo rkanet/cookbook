@@ -6,35 +6,36 @@ autor = "R.R."
 imgsrc = "/img/pao-de-queijo.jpg"
 imghref = "/recepty/"
 imgname = "toust"
-ingredience = ["mouka", "kysaná smetana"]
+ingredience = ["mouka","sýr"]
 tags = ["slané","pečivo"]
 +++
 
-# Suroviny
-250g tapioka
-170g mlko
-40g olej (6-7 Pl)
-1 rovná ČL soli
-120g blaťácké zlato
-2 vejce
+# Suroviny I
+- 250g tapioka
+- 170g mléko
+- 40g olej (6-7 Pl)
+- 1 rovná ČL soli
+- 120g blaťácké zlato
+- 2 vejce
 
-nefungovalo, po zamíchání vajed v mixéru příšerně ztekutělo!
-další poměry k vyzkoušení:
+Nefungovalo, po zamíchání vajec v mixéru příšerně ztekutělo!
+Další poměry k vyzkoušení níže,  prozatím krásně funguje muffinová forma vyložená papírovýma košíčkama.
 
-180 g plnotučného mléka
-85 g Borges Extra Mild olivového oleje (pro výraznější chuť oleje lze použít i)
-1 lžička soli
-300 g tapiokový škrob/mouka
-1 střední vejce od slepic z volného chovu
-65 g parmazánu, grana padano nebo pecorina
-65 g čedaru, gruyére nebo comté
+# Suroviny II
+- 180 g plnotučného mléka
+- 85 g Borges Extra Mild olivového oleje (pro výraznější chuť oleje lze použít i)
+- 1 lžička soli
+- 300 g tapiokový škrob/mouka
+- 1 střední vejce od slepic z volného chovu
+- 65 g parmazánu, grana padano nebo pecorina
+- 65 g čedaru, gruyére nebo comté
 
------------------------
-300 mléko /150ml
-150 olej/75ml
-1,5 čl sůl /  menší
-500g tapioka/250
-250g parmesan/125g 
+# Suroviny III
+- 300 mléko /150ml
+- 150 olej/75ml
+- 1,5 čl sůl /  menší
+- 500g tapioka/250
+- 250g parmesan/125g 
 
 
 # Postup
@@ -43,7 +44,5 @@ další poměry k vyzkoušení:
 # Poznámky
 
 
-<!-- originál s
--->
 
 <!--more-->

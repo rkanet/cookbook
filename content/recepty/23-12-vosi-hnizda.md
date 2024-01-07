@@ -6,7 +6,7 @@ autor = "R.R."
 imgsrc = "/img/vosi-hnizda.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["piškoty, máslo, mouka, kakao"]
+ingredience = ["piškoty","máslo","mouka","kakao"]
 tags = ["sladké","bez-lepku"]
 +++
 
@@ -21,10 +21,10 @@ Těsto:
 
 
 Náplň:
-150g másla
-100g moučkového cukru
-vanilkový cukr trochu
-3 polévkové lžíce rumu (dávám 4)
+- 150g másla
+- 100g moučkového cukru
+- vanilkový cukr trochu
+- 3 polévkové lžíce rumu (dávám 4)
 
 
 # Postup
