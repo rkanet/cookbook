@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rýže on My New Hugo Site</title>
-    <link>http://example.org/ingredience/r%C3%BD%C5%BEe/</link>
-    <description>Recent content in rýže on My New Hugo Site</description>
+    <title>rýže on Kitchen</title>
+    <link>https://rkanet.github.io/kitchen/ingredience/r%C3%BD%C5%BEe/</link>
+    <description>Recent content in rýže on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jul 2023 20:25:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/r%C3%BD%C5%BEe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jul 2023 20:25:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/r%C3%BD%C5%BEe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gemista</title>
-      <link>http://example.org/recepty/23-07-gemista/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/23-07-gemista/</link>
       <pubDate>Sun, 30 Jul 2023 20:25:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/23-07-gemista/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/23-07-gemista/</guid>
       <description>Suroviny na originál Zelenina k plnění
  3 onions 6 tomatoes 3 green bell peppers  Doplněk na plech:
  500 g baby potatoes 2 tablespoon(s) olive oil salt pepper  Náplň
@@ -21,10 +21,10 @@
     
     <item>
       <title>Onigiri</title>
-      <link>http://example.org/recepty/22-10-onigiri/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-10-onigiri/</link>
       <pubDate>Sat, 22 Oct 2022 15:17:33 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-10-onigiri/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-10-onigiri/</guid>
       <description>O receptu Inspirace přišla při sledování japonského filmu&amp;hellip; recept kombinací více recpetů, a určitě nemá být ten pravý japonský, ale jen náš:). Onigiri se podobá sushi, ale liší se už při přípravě rýže. Zatímco sushi rýže se dochucuje rýžovým octem, solí a cukrem, rýže na onigiri se často vaří pouze ve vodě bez soli.
 ingredience  sushi rýže  Náplně:
  tuňák s majonézou losos umeboshi trhané vepřové maso, výrazně ochucené I v Japonsku mají mnoho durhů náplní a pokudnetrváte na japonských tradičních surovinách, tak se možnosti ještě rozšíří.</description>

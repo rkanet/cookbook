@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jahody on My New Hugo Site</title>
-    <link>http://example.org/ingredience/jahody/</link>
-    <description>Recent content in jahody on My New Hugo Site</description>
+    <title>jahody on Kitchen</title>
+    <link>https://rkanet.github.io/kitchen/ingredience/jahody/</link>
+    <description>Recent content in jahody on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 09:59:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/jahody/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 09:59:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/jahody/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tvarohový dort s jahodami</title>
-      <link>http://example.org/recepty/22-06-tvarohovy-dort-jahody/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-06-tvarohovy-dort-jahody/</link>
       <pubDate>Mon, 27 Jun 2022 09:59:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-06-tvarohovy-dort-jahody/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-06-tvarohovy-dort-jahody/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Forma 24cm plus 4 misky sklenice, hezké jsou průhledné&lt;/li&gt;

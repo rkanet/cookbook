@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kysaná smetana on My New Hugo Site</title>
-    <link>http://example.org/ingredience/kysan%C3%A1-smetana/</link>
-    <description>Recent content in kysaná smetana on My New Hugo Site</description>
+    <title>kysaná smetana on Kitchen</title>
+    <link>https://rkanet.github.io/kitchen/ingredience/kysan%C3%A1-smetana/</link>
+    <description>Recent content in kysaná smetana on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2023 09:59:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/kysan%C3%A1-smetana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 May 2023 09:59:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/kysan%C3%A1-smetana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brazilské sýrové bochánky – Pão de queijo</title>
-      <link>http://example.org/recepty/23-06-syrove-pao-de-queijo/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/23-06-syrove-pao-de-queijo/</link>
       <pubDate>Tue, 16 May 2023 09:59:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/23-06-syrove-pao-de-queijo/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/23-06-syrove-pao-de-queijo/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
 &lt;p&gt;250g tapioka
 170g mlko
@@ -43,10 +43,10 @@ další poměry k vyzkoušení:&lt;/p&gt;
     
     <item>
       <title>Toustový chléb</title>
-      <link>http://example.org/recepty/23-06-toustovy-chleb-kys-smetana/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/23-06-toustovy-chleb-kys-smetana/</link>
       <pubDate>Tue, 16 May 2023 09:59:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/23-06-toustovy-chleb-kys-smetana/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/23-06-toustovy-chleb-kys-smetana/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
 &lt;p&gt;Forma délka 30cm 1 kus&lt;/p&gt;
 &lt;ul&gt;

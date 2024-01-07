@@ -3,7 +3,7 @@ date = "2024-01-04T10:25:39+01:00"
 title = "Kari červená čočka"
 
 autor = "R.R."
-imgsrc = "/img/kari-cervena-cocka.jpg"
+imgsrc = "../img/kari-cervena-cocka.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["čočka-červená"]

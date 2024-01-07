@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kvásek on My New Hugo Site</title>
-    <link>http://example.org/ingredience/kv%C3%A1sek/</link>
-    <description>Recent content in kvásek on My New Hugo Site</description>
+    <title>kvásek on Kitchen</title>
+    <link>https://rkanet.github.io/kitchen/ingredience/kv%C3%A1sek/</link>
+    <description>Recent content in kvásek on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Oct 2022 19:32:48 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/kv%C3%A1sek/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Oct 2022 19:32:48 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/kv%C3%A1sek/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kváskové bagetky se lněným semínkem</title>
-      <link>http://example.org/recepty/22-10-kvaskove-bagety-se-lnenym-seminkem/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-10-kvaskove-bagety-se-lnenym-seminkem/</link>
       <pubDate>Sat, 15 Oct 2022 19:32:48 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-10-kvaskove-bagety-se-lnenym-seminkem/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-10-kvaskove-bagety-se-lnenym-seminkem/</guid>
       <description>O receptu Bagetky připomínají jen tvarem&amp;hellip; Chutnaly spíše jako světlý dalamánek. Ale dobré byly:) Recept byl inspirován bezlepkovým kváskovým chlebem se záparou. Bohužel záznam receptu z kuchyně se ztratil, tak třeba časem na druhý pokus.</description>
     </item>
     
     <item>
       <title>Bezlepkový Kváskový chléb do formy</title>
-      <link>http://example.org/recepty/22-10-bezlepkovy-kvaskovy-chleb-do-formy/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-10-bezlepkovy-kvaskovy-chleb-do-formy/</link>
       <pubDate>Sat, 15 Oct 2022 15:50:48 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-10-bezlepkovy-kvaskovy-chleb-do-formy/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-10-bezlepkovy-kvaskovy-chleb-do-formy/</guid>
       <description>Suroviny 600g kvasu Doves Farm plain white a pohanková mouka hladká v poměru 1:1 300g pohanková mouka hladká Šmajstrla 300g bezlepkové směsi Jizerka zlatá cca 330 ml vody 24g soli 10g drceného kmínu 2 Pl spařeného hnědého lněného semínka 2 ČL Psyllia nabotnané v trošce vody
 Postup  Den předem připravíme kvas (400g)   cca 120g kvásku 150g pohanková mouka hladká Šmajstrla 150g Doves Farm Plain White 300g (ml) vody   Připravíme záparu, tj.</description>
     </item>
     
     <item>
       <title>Bezlepkový kváskový chléb se záparou</title>
-      <link>http://example.org/recepty/22-10-bezlepkovy-kvaskovy-chleb-se-zaparou/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-10-bezlepkovy-kvaskovy-chleb-se-zaparou/</link>
       <pubDate>Sat, 15 Oct 2022 15:50:48 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-10-bezlepkovy-kvaskovy-chleb-se-zaparou/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-10-bezlepkovy-kvaskovy-chleb-se-zaparou/</guid>
       <description>Suroviny  400g kvasu Doves Farm plain white a pohanková mouka hladká v poměru 1:1 200g mouky Nutrifree Mix per Pane Integrale 150ml vody 10g soli 30g rostlinného oleje 5g drceného kmínu 3 lžíce mletého zlatého lněného semínka 1 lžíce hnědého lněného semínka 2 lžíce slunečnicových semínek 100 - 150ml vařící vody  Postup  Den předem připravíme kvas (400g)   cca 40g kvásku 100g pohanková mouka hladká Šmajstrla 100g Doves Farm Plain White 200g (ml) vody  Připravíme záparu, tj.</description>
     </item>
     
     <item>
       <title>Pšenično-žitný chléb </title>
-      <link>http://example.org/recepty/22-06-psenicno-zitny-chleb-podle-cuketky.md/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-06-psenicno-zitny-chleb-podle-cuketky.md/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-06-psenicno-zitny-chleb-podle-cuketky.md/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-06-psenicno-zitny-chleb-podle-cuketky.md/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
 &lt;p&gt;Rozkvas (min 12h předem)
 cca 20g kvásku 
@@ -72,10 +72,10 @@ Druhý den odebereme cca 20g do sklenice a opět rozkvasíme 100g mouky a 10g vo
     
     <item>
       <title>Kvásková pizza bez lepku podle LaTety</title>
-      <link>http://example.org/recepty/22-06-kvaskova-pizza-bez-lepku/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-06-kvaskova-pizza-bez-lepku/</link>
       <pubDate>Wed, 22 Jun 2022 10:59:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-06-kvaskova-pizza-bez-lepku/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-06-kvaskova-pizza-bez-lepku/</guid>
       <description>&lt;h1 id=&#34;suroviny-a-postup-na-3-pizzy&#34;&gt;Suroviny a postup na 3 pizzy&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;první rozkvas
@@ -121,10 +121,10 @@ Při 250st pečeme cca 10 minut.&lt;/p&gt;
     
     <item>
       <title>Kváskové placky pšenično žitné</title>
-      <link>http://example.org/recepty/22-05-kvaskove-placky-psenicno-zitne/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-05-kvaskove-placky-psenicno-zitne/</link>
       <pubDate>Mon, 16 May 2022 09:59:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-05-kvaskove-placky-psenicno-zitne/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-05-kvaskove-placky-psenicno-zitne/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;žitný kvásek&lt;/li&gt;

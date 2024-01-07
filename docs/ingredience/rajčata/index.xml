@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rajčata on My New Hugo Site</title>
-    <link>http://example.org/ingredience/raj%C4%8Data/</link>
-    <description>Recent content in rajčata on My New Hugo Site</description>
+    <title>rajčata on Kitchen</title>
+    <link>https://rkanet.github.io/kitchen/ingredience/raj%C4%8Data/</link>
+    <description>Recent content in rajčata on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jul 2023 20:25:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/raj%C4%8Data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jul 2023 20:25:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/raj%C4%8Data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gemista</title>
-      <link>http://example.org/recepty/23-07-gemista/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/23-07-gemista/</link>
       <pubDate>Sun, 30 Jul 2023 20:25:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/23-07-gemista/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/23-07-gemista/</guid>
       <description>Suroviny na originál Zelenina k plnění
  3 onions 6 tomatoes 3 green bell peppers  Doplněk na plech:
  500 g baby potatoes 2 tablespoon(s) olive oil salt pepper  Náplň
@@ -21,10 +21,10 @@
     
     <item>
       <title>Kvásková pizza bez lepku podle LaTety</title>
-      <link>http://example.org/recepty/22-06-kvaskova-pizza-bez-lepku/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-06-kvaskova-pizza-bez-lepku/</link>
       <pubDate>Wed, 22 Jun 2022 10:59:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-06-kvaskova-pizza-bez-lepku/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-06-kvaskova-pizza-bez-lepku/</guid>
       <description>&lt;h1 id=&#34;suroviny-a-postup-na-3-pizzy&#34;&gt;Suroviny a postup na 3 pizzy&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;první rozkvas

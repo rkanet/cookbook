@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jogurt on My New Hugo Site</title>
-    <link>http://example.org/ingredience/jogurt/</link>
-    <description>Recent content in jogurt on My New Hugo Site</description>
+    <title>jogurt on Kitchen</title>
+    <link>https://rkanet.github.io/kitchen/ingredience/jogurt/</link>
+    <description>Recent content in jogurt on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2023 23:25:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/jogurt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 23:25:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/jogurt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cizrnová frittata</title>
-      <link>http://example.org/recepty/23-07-cizrnova-frittata/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/23-07-cizrnova-frittata/</link>
       <pubDate>Fri, 14 Jul 2023 23:25:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/23-07-cizrnova-frittata/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/23-07-cizrnova-frittata/</guid>
       <description>Suroviny  200 g cirnová mouka cca 400 g voda 2 PL olej 100 g bílý jogurt zelenina (paprika, rajče, cibule, cuketa&amp;hellip;) sůl a koření  Postup  cizrnu zalijeme vodou a necháme cca hodinu stát (případně nechávám i přes noc v lednici) nakrájíme zeleninu smícháme všechny ingeredience a přidáme zeleninu pečeme na pekáčku vyloženém pečícím papírem  Poznámky Lépe se krájí vychladle. Dobré je koření kari korma z Lidlu. Dávají se i rozmixované kešu&amp;hellip;</description>
     </item>
     

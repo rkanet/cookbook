@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mrkev on My New Hugo Site</title>
-    <link>http://example.org/ingredience/mrkev/</link>
-    <description>Recent content in mrkev on My New Hugo Site</description>
+    <title>mrkev on Kitchen</title>
+    <link>https://rkanet.github.io/kitchen/ingredience/mrkev/</link>
+    <description>Recent content in mrkev on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Dec 2023 21:50:39 +0100</lastBuildDate><atom:link href="http://example.org/ingredience/mrkev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Dec 2023 21:50:39 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/mrkev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pečená zelenina</title>
-      <link>http://example.org/recepty/23-12-pecena-zelenina/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/23-12-pecena-zelenina/</link>
       <pubDate>Thu, 21 Dec 2023 21:50:39 +0100</pubDate>
       
-      <guid>http://example.org/recepty/23-12-pecena-zelenina/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/23-12-pecena-zelenina/</guid>
       <description>Suroviny  cibule česnek kořenová zelenina (mrkev, celer, petržel) lze přidat i brambory, batáty, dýni&amp;hellip; dle preferencí bylinky na ochucení (tymian je fajn) olej  Postup  pekáč vyložíme pečícím by esteticky nakrajíme zeleninu navrstvíme na papír, přídáme bylinky zakapeme olejem a pečeme do zezlátnutí  </description>
     </item>
     
     <item>
       <title>Mrkvánky</title>
-      <link>http://example.org/recepty/22-05-mrkvanky/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-05-mrkvanky/</link>
       <pubDate>Mon, 16 May 2022 09:59:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-05-mrkvanky/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-05-mrkvanky/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
 &lt;p&gt;originál poměr od babičky ta dělala mouka-mrkev-tuk 1:1:1, já dávám trochu víc mouky
 250 g na jemno strouhaná mrkev

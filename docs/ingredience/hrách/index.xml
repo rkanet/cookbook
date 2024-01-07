@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hrách on My New Hugo Site</title>
-    <link>http://example.org/ingredience/hr%C3%A1ch/</link>
-    <description>Recent content in hrách on My New Hugo Site</description>
+    <title>hrách on Kitchen</title>
+    <link>https://rkanet.github.io/kitchen/ingredience/hr%C3%A1ch/</link>
+    <description>Recent content in hrách on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2023 22:25:39 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/hr%C3%A1ch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jul 2023 22:25:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/hr%C3%A1ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hráškové noky</title>
-      <link>http://example.org/recepty/23-07-hraskove-noky/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/23-07-hraskove-noky/</link>
       <pubDate>Wed, 26 Jul 2023 22:25:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/23-07-hraskove-noky/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/23-07-hraskove-noky/</guid>
       <description>Suroviny na cca 20 ks větších noků
  400g mražený hrášek 1 vejce 160g mouka, z toho: 30g tapioka škrob 30g pohanková mouka 100g Doves plain white flour sůl 1 rovná ČL, pepř (lze i česnek)  Postup  povařit hrášek asi 2 minuty, nechat vychladnout a rozmixovat přidat mouku a vajíčko, promíchat, nechat chvilku uležet Pomocí dvou PL vytvarovat noky, rovnou házet do vroucí vody Vařila jsem v osolené vodě asi 5 minut (byly vetší)  Poznámky Lza přidat česnek.</description>
     </item>

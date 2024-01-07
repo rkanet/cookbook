@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kakao on My New Hugo Site</title>
-    <link>http://example.org/ingredience/kakao/</link>
-    <description>Recent content in kakao on My New Hugo Site</description>
+    <title>kakao on Kitchen</title>
+    <link>https://rkanet.github.io/kitchen/ingredience/kakao/</link>
+    <description>Recent content in kakao on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Nov 2022 21:46:34 +0100</lastBuildDate><atom:link href="http://example.org/ingredience/kakao/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Nov 2022 21:46:34 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/kakao/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kefírová buchta II</title>
-      <link>http://example.org/recepty/22-11-kefirova-kakaova-buchta-2/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-11-kefirova-kakaova-buchta-2/</link>
       <pubDate>Fri, 25 Nov 2022 21:46:34 +0100</pubDate>
       
-      <guid>http://example.org/recepty/22-11-kefirova-kakaova-buchta-2/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-11-kefirova-kakaova-buchta-2/</guid>
       <description>Suroviny (forma Ikea 38x30cm)  350 g mouky Nutrifree Dolci 150 g	cukru krupice 1 rovná Pl	lžíce sody (cca 10g) 2	lžíce holandského kakaa (cca 30g ) 200 ml	oleje (dala jsem slunečnicový) 500 ml	kefírového mléka (dala jsem podmáslí 500g) 1	vejce  Postup V míse dobře promíchat mouku, cukr, sodu a kakao. Pak přidáme olej, kefír a vejce. Těsto nalijeme do vymazané a moukou vysypané formy. pečeme v troubě vyhřáté na 180 °C asi 20-25 minut.</description>
     </item>
     
     <item>
       <title>kefírová buchta s kakaem</title>
-      <link>http://example.org/recepty/22-10-kefirova-kakaova-buchta/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-10-kefirova-kakaova-buchta/</link>
       <pubDate>Sat, 15 Oct 2022 14:53:36 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-10-kefirova-kakaova-buchta/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-10-kefirova-kakaova-buchta/</guid>
       <description>Suroviny (Forma Ikea 32 x 22 cm) 200g kefírové mléko (Valašské) 100g olej 100g třtinový cukr (zkusit dát ještě míň) 2PL-3 PL vody 1 vejce 220g mouky Nutrifree Dolci 1ČL kopečkem skořice 1 ČL jedlé sody skoro rovná ovoce, protože bylo hodně kompotů zvvolila jsem třešně cca 1,5 sklenice
 Postup Třešně necháme okapat a vypeckujeme. Smícháme zvlášť tekuté (krom horké vody) a zvlášť suché suroviny. Nakonec promícháme obě části a nalijeme do vymazaného a moukou vysypaného pekáče.</description>
     </item>
     
     <item>
       <title>Míša řezy bez mouky</title>
-      <link>http://example.org/recepty/22-06-misa-rezy/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-06-misa-rezy/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-06-misa-rezy/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-06-misa-rezy/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;5 vajec&lt;/li&gt;

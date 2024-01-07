@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ovoce on My New Hugo Site</title>
-    <link>http://example.org/ingredience/ovoce/</link>
-    <description>Recent content in ovoce on My New Hugo Site</description>
+    <title>ovoce on Kitchen</title>
+    <link>https://rkanet.github.io/kitchen/ingredience/ovoce/</link>
+    <description>Recent content in ovoce on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Oct 2022 14:58:36 +0200</lastBuildDate><atom:link href="http://example.org/ingredience/ovoce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Oct 2022 14:58:36 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/ovoce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kefírová buchta s ovocem</title>
-      <link>http://example.org/recepty/22-10-kefirova-svetla-buchta-s-ovocem/</link>
+      <link>https://rkanet.github.io/kitchen/recepty/22-10-kefirova-svetla-buchta-s-ovocem/</link>
       <pubDate>Sat, 15 Oct 2022 14:58:36 +0200</pubDate>
       
-      <guid>http://example.org/recepty/22-10-kefirova-svetla-buchta-s-ovocem/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-10-kefirova-svetla-buchta-s-ovocem/</guid>
       <description>Suroviny (Forma Ikea 32 x 22 cm) 170g kefírového mléka (Valašské) pak jsem přidala ještě dvě až 3 PL 100g slunečnicového oleje pak jsem přidala ještě 1 PL 1 vejce 30 ml horké (až vody na konec) 180g mouky Nutrifree Dolci 150g třtinového cukru 40g kakaa 1 ČL jedlé sody skoro rovná
 Postup Smícháme zvlášť tekuté (krom horké vody) a zvlášť suché suroviny. Nakonec spojíme promícháme a nalijeme do vymazaného pekáče.</description>
     </item>
