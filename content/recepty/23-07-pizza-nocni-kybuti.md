@@ -6,7 +6,7 @@ autor = "R.R."
 imgsrc = "/img/pizza-nocni-kynuti.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["mouka", "droždí", "zelenina"]
+ingredience = ["mouka","droždí","zelenina"]
 tags = ["slané","pečivo"]
 +++
 

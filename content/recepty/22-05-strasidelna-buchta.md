@@ -4,14 +4,14 @@ title = "Strašidelná buchta"
 
 autor = "R.R."
 imgsrc = "/img/strasidelna.jpg"
-imghref = "/recepty/recept7"
-imgname = ""
-ingredience = ["jablka","mouka"]
+imghref = "/recepty/"
+imgname = "strasidelna"
+ingredience = ["jablka","mouka","kysana-smetana"]
 tags = ["sladké","pečivo"]
 +++
 
 # Suroviny (Ikea pekáč 32x22)
-- 400 g zakysané smetany,
+- 400 g kysané smetany,
 - 300 g polohrubé mouky,
 - 100 g třtinového cukru,
 - 2 vejce,

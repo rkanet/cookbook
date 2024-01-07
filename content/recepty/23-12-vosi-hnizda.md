@@ -12,7 +12,7 @@ tags = ["sladké","bez-lepku"]
 
 # Suroviny 30ks
 Těsto:
-- 150g piškotů mletých
+- 150g piškotů mletých bez lepku
 - 50g másla
 - 50g moučkového cukru
 - 20g kakaa (dávám 3 PL )

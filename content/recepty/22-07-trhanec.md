@@ -7,7 +7,7 @@ autor = "R.R."
 imgsrc = "/img/trhanec.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["jablka","vejce","mandle"]
+ingredience = ["jablka","vejce","mandle","mouka"]
 tags = ["sladké","ovoce","bez-lepku"]
 
 +++

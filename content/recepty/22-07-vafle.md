@@ -7,7 +7,7 @@ autor = "R.R."
 imgsrc = "/img/vafle-s-ovocem.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["mouka",]
+ingredience = ["mouka","kypřící-prášek",]
 tags = ["sladké","ovoce","bez-lepku"]
 +++
 
@@ -15,7 +15,7 @@ tags = ["sladké","ovoce","bez-lepku"]
 Těsto (asi 9 kusů)
 - 150g mouka (1 lžíce kukuř. škrobu, 30g pohankova a zbytek Jizerka, )
 - 5g prášek do pečiva (dávám 2 rovné ČL)
-- špetka sli
+- špetka soli
 - 30 g třtinového cukru
 - 50 g másla
 - 1 vejce

@@ -6,8 +6,8 @@ title = "Ovocný salát"
 autor = "R.R."
 imgsrc = "/img/ovocny-salat.jpg"
 imghref = "/recepty/"
-imgname = ""
-ingredience = [""]
+imgname = "salat"
+ingredience = ["banán","pomeranč","hroznove-vino"]
 tags = ["sladké","ovoce","bez-lepku"]
 +++
 

@@ -7,7 +7,7 @@ autor = "R.R."
 imgsrc = "/img/rychla-jogurtova-buchta-bezlepku.jpg"
 imghref = "/recepty/rychla-jogurtova-buchta-bezlepku"
 imgname = "jogurtova-buchta"
-ingredience = ["jogurt, borůvky"]
+ingredience = ["jogurt","borůvky"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
 +++
 

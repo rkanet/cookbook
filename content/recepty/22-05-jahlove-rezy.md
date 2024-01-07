@@ -1,15 +1,14 @@
 +++
-date = "2020-05-16T09:59:39+02:00"
+date = "2020-05-16T09:59:39-02:00"
 title = "Jáhlové řezy"
 
 autor = "R.R."
 
 imgsrc = "/img/rez.jpeg"
 imghref = "/recepty/"
-imgname = ""
-ingredience = ["jáhly"]
+imgname = "jahlovyrez"
+ingredience = ["jáhly","ovoce"]
 tags = ["sladké","ovoce","bez-lepku"]
-zdroj = "http://ilci-taktovidmj.blogspot.com/2019/07/jahlovy-rez-podle-biokucharky.html"
 +++
 
 
@@ -17,22 +16,22 @@ zdroj = "http://ilci-taktovidmj.blogspot.com/2019/07/jahlovy-rez-podle-biokuchar
 ### Suroviny na malý pekáč ikea formu (cca 32 x 22 cm)/na velký (38 x30)
 
 #### jáhlový korpus 
-+ 120g/160g suchých jáhel
-+ 700 ml/960ml vody
-+ špetka soli
-+ 1/2 polévkové lžíce bílého mandlového másla Rapunzel (dávám z pražených mandlí)
-+ cca 1,5/ 2PL kopcem třtinového cukru
+- 120g/160g suchých jáhel
+- 700 ml/960ml vody
+- špetka soli
+- 1/2 polévkové lžíce bílého mandlového másla Rapunzel (dávám z pražených mandlí)
+- cca 1,5/ 2PL kopcem třtinového cukru
 
 #### pudinková vrstva
-+ 500/800ml mléka
-+ 50g/80g škrobu 1/2 vanilkový pudink a doplnit škrobem (kkuřičný, nebo tapioka...)
-+ 1 PL kopcem cukru
+- 500/800ml mléka
+- 50g/80g škrobu 1/2 vanilkový pudink a doplnit škrobem (kkuřičný, nebo tapioka...)
+- 1 PL kopcem cukru
 
 ####  agar s ovocem
-+ 500 ml vody /1000 ml vody (nejlepší je šťáva z ovoce, nebo neutrální jablečný džus)
-+ agar (vyzkoušeno mám s práškovým, sáček na 1l tekutiny)
-+ dosladit dle chuti
-+ 500/800g g letního ovoce, ideálně jahod, malin, borůvek, ale můžete použít i ostružiny, kiwi, banán (vyzkoušeno, jahody + borůvky, broskve kompotované, jablka lehce předvařená)
+- 500 ml vody /1000 ml vody (nejlepší je šťáva z ovoce, nebo neutrální jablečný džus)
+- agar (vyzkoušeno mám s práškovým, sáček na 1l tekutiny)
+- dosladit dle chuti
+- 500/800g g letního ovoce, ideálně jahod, malin, borůvek, ale můžete použít i ostružiny, kiwi, banán (vyzkoušeno, jahody - borůvky, broskve kompotované, jablka lehce předvařená)
 
 1. Jáhly propláchněte a dejte do menšího kastrůlku se silným dnem s 600 ml vody a špetkou soli. Přiveďte k varu a vařte bez míchání s poodkrytou! poklicí cca 15 minut. Po dovaření můžete nechat jáhly ještě 5 minut dojít pod pokličkou.
  
@@ -46,3 +45,4 @@ zdroj = "http://ilci-taktovidmj.blogspot.com/2019/07/jahlovy-rez-podle-biokuchar
  
 6. Na korpus z jáhel a pudinku naskládejte ovoce a velmi jemně na něj lijte agar. Nechte ztuhnout v ledničce.
 
+<!--zdroj http://ilci-taktovidmj.blogspot.com/2019/07/jahlovy-rez-podle-biokucharky.html-->

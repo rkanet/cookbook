@@ -6,7 +6,7 @@ autor = "R.R."
 imgsrc = "/img/pizza-blp.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["mouka", "droždí"]
+ingredience = ["mouka","droždí"]
 tags = ["slané","pečivo"]
 +++
 

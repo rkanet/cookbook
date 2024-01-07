@@ -2,12 +2,11 @@
 +++
 date = "2022-07-08T22:13:20+02:00"
 title = "Broskvové řezy"
-
 autor = "R.R."
 imgsrc = "/img/broskvove-rezy.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = [""]
+ingredience = ["broskve","smetana","kysaná-smetana"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
 +++
 
@@ -35,28 +34,28 @@ kompotová šťáva (dolít vodou do 1/2 litru)
 Těsto:
 - 4 vejce
 - 80 g cukru (80g)
-- 80 g mouky (z toho jednu lzici kukuř škrobu)
+- 80 g mouky (z toho 1 PL kukuř. škrobu)
 - špetka soli
 
 
-ušlehat sníh, 
-zašlehat cukr se snìhem
-a pøes sítko postupnì pøímíchat mouku do snìhu a žloudky
+1. ušlehat sníh, 
+2. vyšlehat cukr se sněhem
+3. přes sítko přidáváme postupně mouku do sněhu, pak žloutky
 (sítko hlavnì u bezlepkového !!!!, jinak hrudky)
 
 Krém:
 - 1 šlehačka - minimálně 33 % nutné jinak teče a je třeba ztužit
-- 100g cukr
+- 100 g cukr
 - 2 velká zakysaná smetana červená z lídlu tučná
 
-Pudinková vrstva
+Pudinková ovocná vrstva
 - 1 vanilkový pudink
 - kompotová šťáva, nebo džus dle ovoce jablečný, pomerančový (dolít vodou do 1/2 litru)
 - pokud je třeba cukr na doslazení
 
-# Postup
-K otestování.
-Po vychladnutí piškotu rovnoměrně namažeme krémem, poklademe broskvemi nakrájenými na měsíčky a zalijeme pudinkovou polevou, která by měla být lehce vychladlá. Hotové řezy dáme chladit do ledničky.
+Dokončení
+- po vychladnutí piškotu rovnoměrně namažeme krémem, poklademe broskvemi nakrájenými na měsíčky a zalijeme pudinkovou polevou, která by měla být lehce vychladlá 
+- hotové řezy dáme chladit do ledničky.
 
 
 # Poznámky

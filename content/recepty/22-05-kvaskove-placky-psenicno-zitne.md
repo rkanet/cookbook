@@ -4,8 +4,8 @@ title = "Kváskové placky pšenično žitné"
 
 autor = "R.R."
 imgsrc = "/img/placky.jpg"
-imghref = "/recepty/recept8"
-imgname = ""
+imghref = "/recepty/"
+imgname = "placky"
 ingredience = ["mouka","kvásek"]
 tags = ["sladké","slané","pečivo"]
 +++
@@ -18,8 +18,8 @@ tags = ["sladké","slané","pečivo"]
 - sůl
 
 # Postup
-- vše promíchíme a necháme cca hodinu stát, lze dýt i do lednice  na později
-- tvarujeme placky a pečeme na rozehřáte olejem vymazané litinové pánvi
+1. vše promíchíme a necháme cca hodinu stát, lze dýt i do lednice  na později
+2. tvarujeme placky a pečeme na rozehřáte olejem vymazané litinové pánvi
 
 # Poznámky
 - doplnit množství surovin

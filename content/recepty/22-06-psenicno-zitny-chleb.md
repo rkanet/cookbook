@@ -4,7 +4,7 @@ title = "Pšenično-žitný chléb "
 
 autor = "R.R."
 imgsrc = "/img/chleba-lepek.jpg"
-imghref = "/recepty/recept1"
+imghref = "/recepty/"
 imgname = "chleba"
 ingredience = ["mouka","kvásek"]
 tags = ["slané","pečivo"]

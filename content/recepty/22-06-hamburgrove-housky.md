@@ -1,12 +1,12 @@
 +++
 date = "2022-06-28T14:00:41+02:00"
-title = " Hamburgrové housky"
+title = "Hamburgrové housky I"
 autor = "R.R."
 
 imgsrc = "/img/hamburgrove-housky-lateta.jpg"
 imghref = "/recepty/hamburgrove-housk-lateta"
 imgname = "housky"
-ingredience = ["mouka","droždí"]
+ingredience = ["mouka","droždí","tanzhong"]
 tags = ["slané","pečivo","bez-lepku"]
 
 +++

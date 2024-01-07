@@ -5,7 +5,7 @@ title = "Miso polévka"
 autor = "R.R."
 imgsrc = "/img/miso-rychla-s-vejcem.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "miso"
 ingredience = ["miso","vejce", "rýžové nudle"]
 tags = ["slané","zelenina","polévky","bez-lepku"]
 +++
@@ -13,7 +13,7 @@ tags = ["slané","zelenina","polévky","bez-lepku"]
 # Suroviny
 - vývar
 - rýžové nudle
-- miso
+- miso (tmavé, Miso genmai - hnědá rýže a soja, výrobce Muso,)
 - vejce
 - zelenina dle chuti nakrájená na nudličky (u nás trocha mrkve, celer, petržel, porek)
 - uzené tofu na nudličky, zbytky masa z vývaru

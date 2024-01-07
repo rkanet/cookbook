@@ -4,7 +4,7 @@ title = "Bábovka třená"
 
 autor = "R.R."
 imgsrc = "/img/babovka.jpg"
-imghref = "/recepty/recept5"
+imghref = "/recepty/"
 imgname = "babovka"
 ingredience = ["mouka","vejce"]
 tags = ["sladké","pečivo"]

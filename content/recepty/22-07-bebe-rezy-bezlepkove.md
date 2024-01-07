@@ -6,8 +6,8 @@ title = "Bebe řezy bezlepkové"
 autor = "R.R."
 imgsrc = "/img/bebe-rezy-bezlepkove.jpg"
 imghref = "/recepty/"
-imgname = ""
-ingredience = ["sušenky"]
+imgname = "rezy-bebe"
+ingredience = ["sušenky","kakao","pudink"]
 tags = ["sladké","pečivo","bez-lepku"]
 +++
 

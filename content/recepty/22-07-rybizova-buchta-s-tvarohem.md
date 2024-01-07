@@ -21,7 +21,7 @@ Těsto tvarohové s olejem
 - 75 g cukru
 - 1 bal. vanilk cukru
 - špetka soli
-Původní těsto zatím nevyzkoušeno tj. ani není přepočteno na malou formu a nemá blp verzi. Zatím jsem použila
+Toto původní těsto zatím nevyzkoušeno tj. ani není přepočteno na malou formu a nemá blp verzi. Zatím jsem použila
  těsto z rychlého  [jogurtového koláče](recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/).
 
 Nádivka
@@ -37,11 +37,7 @@ Nádivka
   - 20g mandlových plátku
 
 
-
-
-
 # Postup
-
 1.  těsto vyšlehat a vytvarovat váleček, roztřít na plech vrstva asi 1/2 cm
 2.  smícháme náplň a navrstvíme na korpus
 3.  pečeme 175-200st 25 minut

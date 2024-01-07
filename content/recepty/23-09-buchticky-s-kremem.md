@@ -6,7 +6,7 @@ autor = "R.R."
 imgsrc = "/img/buchticky.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["mouka"]
+ingredience = ["mouka","pudink"]
 tags = ["sladké","bez-lepku"]
 +++
 

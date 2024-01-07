@@ -5,7 +5,7 @@ title = "Tvarohový dort s jahodami"
 autor = "R.R."
 imgsrc = "/img/tvarohovy-dort-jahody.jpg"
 imghref = "/recepty/tvarohovy-dort-jahody"
-imgname = ""
+imgname = "jahodovy-dort"
 ingredience = ["tvaroh","jahody"]
 tags = ["sladké","ovoce","bez-lepku"]
 

@@ -1,11 +1,10 @@
 +++
 date = "2022-06-23T09:59:39+02:00"
 title = "Míša řezy bez mouky"
-
 autor = "R.R."
 imgsrc = "/img/misa-rezy.jpg"
 imghref = "/recepty/misa-rezy"
-imgname = ""
+imgname = "misa"
 ingredience = ["tvaroh","kakao","smetana"]
 tags = ["sladké","bez-lepku"]
 +++
@@ -24,7 +23,7 @@ tags = ["sladké","bez-lepku"]
 3. přidat cukr a šlehat cukr s bílkem do doby než se špičky jen mírně ohýbají
 4. potrně šlehací metlou vmíchat žloutky
 5. prosýt a  postupně (opět šlehcí metlou) vmíchat kakao
-6. jemně rozetřít na plech, péčeme při 185 st cca 10 minut
+6. jemně rozetřít na plech, péčeme při 180 st cca 10 minut
 
 # Poznámky
  

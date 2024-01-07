@@ -2,7 +2,6 @@
 +++
 date = "2022-08-10T14:28:01+02:00"
 title = "Tvarohová buchta extra rychlá"
-
 autor = "R.R."
 imgsrc = "/img/tvarohova-buchta-rychla-bez-mouky.jpg"
 imghref = "/recepty/"

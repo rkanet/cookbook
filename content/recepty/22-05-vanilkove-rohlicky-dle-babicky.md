@@ -5,15 +5,14 @@ autor = "R.R."
 
 
 imgsrc = "/img/rohlicky.jpg"
-imghref = "/recepty/recept4"
+imghref = "/recepty/"
 imgname = "rohlicky"
 ingredience = ["ořechy","mouka","máslo"]
 tags = ["sladké","pečivo"]
 
 
-
-
 +++
+
 # Suroviny
 - 1 x vanilinový cukr
 - 240g hladké mouky

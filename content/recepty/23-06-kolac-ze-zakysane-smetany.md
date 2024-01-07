@@ -6,7 +6,7 @@ autor = "R.R."
 imgsrc = "/img/kolac-kys-smet.jpg"
 imghref = "/recepty/"
 imgname = "kolac"
-ingredience = ["mouka"]
+ingredience = ["mouka","kysaná-smetana"]
 tags = ["sladké","pečivo","bez-lepku"]
 +++
 

@@ -1,5 +1,5 @@
 +++
-date = "2023-11-9T16:25:39+01:00"
+date = "2023-11-09T16:25:39+01:00"
 title = "Cizrnové placky s cuketou"
 
 autor = "R.R."

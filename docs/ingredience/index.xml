@@ -260,7 +260,7 @@
     </item>
     
     <item>
-      <title>kysaná smetana</title>
+      <title>kysaná-smetana</title>
       <link>https://rkanet.github.io/kitchen/ingredience/kysan%C3%A1-smetana/</link>
       <pubDate>Tue, 16 May 2023 09:59:39 +0200</pubDate>
       
@@ -359,11 +359,38 @@
     </item>
     
     <item>
+      <title>pudink</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/pudink/</link>
+      <pubDate>Fri, 08 Jul 2022 22:38:52 +0200</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/pudink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>sušenky</title>
       <link>https://rkanet.github.io/kitchen/ingredience/su%C5%A1enky/</link>
       <pubDate>Fri, 08 Jul 2022 22:38:52 +0200</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/ingredience/su%C5%A1enky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>broskve</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/broskve/</link>
+      <pubDate>Fri, 08 Jul 2022 22:13:20 +0200</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/broskve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smetana</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/smetana/</link>
+      <pubDate>Fri, 08 Jul 2022 22:13:20 +0200</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/smetana/</guid>
       <description></description>
     </item>
     
@@ -413,6 +440,15 @@
     </item>
     
     <item>
+      <title>tanzhong</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/tanzhong/</link>
+      <pubDate>Tue, 28 Jun 2022 14:00:41 +0200</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/tanzhong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>jahody</title>
       <link>https://rkanet.github.io/kitchen/ingredience/jahody/</link>
       <pubDate>Mon, 27 Jun 2022 09:59:39 +0200</pubDate>
@@ -449,20 +485,11 @@
     </item>
     
     <item>
-      <title>rýžové nudle</title>
+      <title>rýžové-nudle</title>
       <link>https://rkanet.github.io/kitchen/ingredience/r%C3%BD%C5%BEov%C3%A9-nudle/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/ingredience/r%C3%BD%C5%BEov%C3%A9-nudle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>smetana</title>
-      <link>https://rkanet.github.io/kitchen/ingredience/smetana/</link>
-      <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/kitchen/ingredience/smetana/</guid>
       <description></description>
     </item>
     
@@ -472,6 +499,15 @@
       <pubDate>Thu, 16 Jun 2022 09:59:39 +0100</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/ingredience/j%C3%A1hly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kysana-smetana</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/kysana-smetana/</link>
+      <pubDate>Mon, 16 May 2022 09:59:39 +0200</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/kysana-smetana/</guid>
       <description></description>
     </item>
     

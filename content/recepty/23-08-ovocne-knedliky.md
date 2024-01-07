@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/knedliky-s-ovocem.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["mouka", "jablko", "borůvky"]
-tags = ["sladké","bez-lepku"]
+ingredience = ["mouka","jablko","borůvky"]
+tags = ["sladké","bez-lepku","ovoce"]
 +++
 
 # Suroviny 

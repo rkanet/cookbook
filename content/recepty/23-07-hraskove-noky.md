@@ -6,7 +6,7 @@ autor = "R.R."
 imgsrc = "/img/hraskove-noky.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["mouka", "hrách"]
+ingredience = ["mouka","hrách"]
 tags = ["slané","bez-lepku"]
 +++
 
