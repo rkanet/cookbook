@@ -5,7 +5,14 @@ title = "Třešně v agaru"
 autor = "R.R."
 imgsrc = "/img/tresne-v-agaru.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Třešně v agaru"
 ingredience = ["třešně"]
 tags = ["sladké","ovoce","bez-lepku"]
 +++
+
+# Suroviny
+- třešně
+- agar
+- voda/džus
+
+# Postup

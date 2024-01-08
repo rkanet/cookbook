@@ -1,11 +1,10 @@
 +++
 date = "2023-12-20T16:25:39+01:00"
 title = "Pohankové palačinky"
-
 autor = "R.R."
 imgsrc = "/img/pohankove-palacinky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Pohankové palačinky"
 ingredience = ["mouka"]
 tags = ["slané","bez-lepku"]
 +++

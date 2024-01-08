@@ -2,11 +2,9 @@
 date = "2022-05-16T09:59:39+02:00"
 title = "Vanilkové rohlíčky dle babičky Mařenky"
 autor = "R.R."
-
-
 imgsrc = "/img/rohlicky.jpg"
 imghref = "/recepty/"
-imgname = "rohlicky"
+imgname = "Rohlíčky"
 ingredience = ["ořechy","mouka","máslo"]
 tags = ["sladké","pečivo"]
 

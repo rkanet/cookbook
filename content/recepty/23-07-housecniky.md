@@ -1,11 +1,10 @@
 +++
 date = "2023-07-20T22:25:39+02:00"
 title = "Housečníky"
-
 autor = "R.R."
 imgsrc = "/img/housecniky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Housečníky"
 ingredience = ["mouka","kypřící-prášek","lněné-semínko"]
 tags = ["slané","pečivo","bez-lepku"]
 +++

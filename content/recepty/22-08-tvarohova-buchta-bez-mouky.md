@@ -5,14 +5,14 @@ title = "Tvarohová buchta extra rychlá"
 autor = "R.R."
 imgsrc = "/img/tvarohova-buchta-rychla-bez-mouky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Tvarohová buchta rychlá"
 ingredience = ["tvaroh","vejce"]
 tags = ["sladké","ovoce""bez-lepku"]
 +++
 
 # Suroviny (dortová forma 28cm)
-2 x tvaroh tučný vanička (500g celkem)
-1x vanilkový cukr   + trochu cukru dle chuti
+- 2 ks tvaroh tučný vanička (500g celkem)
+- 1 ks vanilkový cukr   + trochu cukru dle chuti
 40g kukuř. škrobu nebo jeden pudink
 2 vajíčka
 smíchat
@@ -23,4 +23,4 @@ Pečeme zvolna 40-50 minut při cca 180 st (v případě potřeby lze přikrýt 
 V toubě hodně nabyde, ale ve finále je nízký (Pro uvedenou formu cca 1cm).
 
 # Poznámky
-Výborný s ovocným rozvarem všeho druhu, s jablečným pyré, broskvovým kompotem a jůavně posypaný mandlovými lupínky.
+Výborný s ovocným rozvarem všeho druhu, s jablečným pyré, švestkovým kompotem atp. a jemně posypaný mandlovými lupínky.

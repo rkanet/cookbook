@@ -2,11 +2,10 @@
 +++
 date = "2022-08-10T16:56:59+02:00"
 title = "Štafetky"
-
 autor = "R.R."
 imgsrc = "/img/stafetky.jpg"
 imghref = "/recepty/"
-imgname = "stafetky"
+imgname = "Štafetky"
 ingredience = ["mouka","ořechy","instantní-káva"]
 tags = ["sladké","pečivo","bez-lepku"]
 +++

@@ -2,11 +2,10 @@
 +++
 date = "2022-07-08T22:38:52+02:00"
 title = "Bebe řezy bezlepkové"
-
 autor = "R.R."
 imgsrc = "/img/bebe-rezy-bezlepkove.jpg"
 imghref = "/recepty/"
-imgname = "rezy-bebe"
+imgname = "Bebe řezy"
 ingredience = ["sušenky","kakao","pudink"]
 tags = ["sladké","pečivo","bez-lepku"]
 +++

@@ -2,12 +2,11 @@
 +++
 date = "2022-07-08T20:24:17+02:00"
 title = "Rybízová buchta s tvarohem"
-
 autor = "R.R."
 imgsrc = "/img/rybizova-buchta-s-tvarohem.jpg"
 imghref = "/recepty/"
-imgname = ""
-ingredience = ["rybíz","tvaroh"]
+imgname = "Rybízová buchta s tvarohem"
+ingredience = ["rybíz","tvaroh","mouka"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
 +++
 

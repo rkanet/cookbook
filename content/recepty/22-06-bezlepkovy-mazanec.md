@@ -1,7 +1,6 @@
 +++
 date = "2022-06-22T10:59:39+02:00"
 title = "Bezlepkový mazanec podle Cuketky"
-
 autor = "R.R."
 imgsrc = "/img/bezlepkovy-mazanec-cuketka.jpg"
 imghref = "/recepty/"

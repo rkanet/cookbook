@@ -6,7 +6,7 @@ title = "Linecké cukroví od babičky"
 autor = "R.R."
 imgsrc = "/img/linecke-cukrovi-od-babicky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Linecké cukroví"
 ingredience = ["mouka"]
 tags = ["sladké","bez-lepku"]
 +++

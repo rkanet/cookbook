@@ -4,7 +4,7 @@ title = "Míša řezy bez mouky"
 autor = "R.R."
 imgsrc = "/img/misa-rezy.jpg"
 imghref = "/recepty/misa-rezy"
-imgname = "misa"
+imgname = "Míša řezy"
 ingredience = ["tvaroh","kakao","smetana"]
 tags = ["sladké","bez-lepku"]
 +++

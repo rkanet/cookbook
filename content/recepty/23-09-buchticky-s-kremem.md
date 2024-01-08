@@ -5,7 +5,7 @@ title = "Buchtičky s krémem"
 autor = "R.R."
 imgsrc = "/img/buchticky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Buchtičky"
 ingredience = ["mouka","pudink"]
 tags = ["sladké","bez-lepku"]
 +++

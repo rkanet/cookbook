@@ -1,11 +1,10 @@
 +++
 date = "2023-07-14T23:25:39+02:00"
 title = "Cizrnová frittata"
-
 autor = "R.R."
 imgsrc = "/img/cizrnova-frittata.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Cizrnová frittata"
 ingredience = ["jogurt","cizrnová mouka", "zelenina"]
 tags = ["slané","pečivo","bez-lepku"]
 +++

@@ -1,11 +1,10 @@
 +++
 date = "2023-07-15T22:20:39+02:00"
 title = "Pizza"
-
 autor = "R.R."
 imgsrc = "/img/pizza-blp.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Pizza"
 ingredience = ["mouka","droždí"]
 tags = ["slané","pečivo"]
 +++
@@ -13,12 +12,12 @@ tags = ["slané","pečivo"]
 # Suroviny
 na 2 ks průměr cca 28cm
 
-13g čerstvého droždí
-250 g mouky Nutrifree Mix Per Pizza
-190 ml vody
-30 ml olivového oleje (cca 3PL)
-1/4 lžičky soli
-špetka cukru do kvásku
+- 13g čerstvého droždí
+- 250 g mouky Nutrifree Mix Per Pizza
+- 190 ml vody
+- 30 ml olivového oleje (cca 3PL)
+- 1/4 lžičky soli
+- špetka cukru do kvásku
 
 # Postup
 1. droždí trocha vody, cukr a lžicí mouky kvásek..

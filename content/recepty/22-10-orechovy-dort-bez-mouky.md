@@ -2,13 +2,12 @@
 +++
 date = "2022-10-22T17:43:05+02:00"
 title = "Mandlový dort bez mouky"
-
 autor = "R.R."
 imgsrc = "/img/mandlovy-dort-bez-mouky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Ořechový dort"
 ingredience = ["ořechy","mandle","čokoláda"]
-tags = ["sladké","pečivo","bez-lepku" ]
+tags = ["sladké","pečivo","bez-lepku"]
 +++
 
 
@@ -33,4 +32,3 @@ Bílky ušleháme do tuha, zapracujeme cukr. Pak opatrně vmícháme žloutky a 
 Těsto nalijeme do dortové formy nebo na menší plech. Vložíme do předem vyhřáté trouby a pečeme na 180 st., asi 35-40 minut.
 
 # Poznámky
-M

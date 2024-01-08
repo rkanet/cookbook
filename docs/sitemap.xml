@@ -266,6 +266,12 @@
     <loc>https://rkanet.github.io/kitchen/recepty/22-10-bagety-svetle-s-kynutim-pres-noc/</loc>
     <lastmod>2022-10-15T15:44:48+02:00</lastmod>
   </url><url>
+    <loc>https://rkanet.github.io/kitchen/priprava/</loc>
+    <lastmod>2022-10-15T15:44:48+02:00</lastmod>
+  </url><url>
+    <loc>https://rkanet.github.io/kitchen/priprava/rychl%C3%A9-ale-kv%C3%A1sek/</loc>
+    <lastmod>2022-10-15T15:44:48+02:00</lastmod>
+  </url><url>
     <loc>https://rkanet.github.io/kitchen/recepty/22-10-kefirova-svetla-buchta-s-ovocem/</loc>
     <lastmod>2022-10-15T14:58:36+02:00</lastmod>
   </url><url>
@@ -350,7 +356,10 @@
     <loc>https://rkanet.github.io/kitchen/recepty/22-07-tresne-v-agaru/</loc>
     <lastmod>2022-07-08T11:59:10+02:00</lastmod>
   </url><url>
-    <loc>https://rkanet.github.io/kitchen/recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/</loc>
+    <loc>https://rkanet.github.io/kitchen/recepty/22-07-jogurtovy-kolac-bez-lepku/</loc>
+    <lastmod>2022-07-08T10:32:10+02:00</lastmod>
+  </url><url>
+    <loc>https://rkanet.github.io/kitchen/priprava/rychl%C3%A9/</loc>
     <lastmod>2022-07-08T10:32:10+02:00</lastmod>
   </url><url>
     <loc>https://rkanet.github.io/kitchen/recepty/22-07-tresnovy-dzem/</loc>
@@ -425,6 +434,9 @@
     <loc>https://rkanet.github.io/kitchen/recepty/22-05-mrkvanky/</loc>
     <lastmod>2022-05-16T09:59:39+02:00</lastmod>
   </url><url>
+    <loc>https://rkanet.github.io/kitchen/priprava/normal/</loc>
+    <lastmod>2022-05-16T09:59:39+02:00</lastmod>
+  </url><url>
     <loc>https://rkanet.github.io/kitchen/recepty/22-05-strasidelna-buchta/</loc>
     <lastmod>2022-05-16T09:59:39+02:00</lastmod>
   </url><url>
@@ -439,8 +451,6 @@
   </url><url>
     <loc>https://rkanet.github.io/kitchen/recepty/</loc>
     <lastmod>2017-02-16T09:59:39+01:00</lastmod>
-  </url><url>
-    <loc>https://rkanet.github.io/kitchen/priprava/</loc>
   </url><url>
     <loc>https://rkanet.github.io/kitchen/taxomonies/</loc>
   </url>

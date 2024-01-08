@@ -1,11 +1,10 @@
 +++
 date = "2023-08-10T10:25:39+02:00"
 title = "Tvarohové muffiny"
-
 autor = "R.R."
 imgsrc = "/img/tvarohove-muffiny.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Tvarohové muffiny"
 ingredience = ["mouka", "jablko"]
 tags = ["sladké","bez-lepku"]
 +++

@@ -5,7 +5,7 @@ title = "Mrkvánky"
 autor = "R.R."
 imgsrc = "/img/mrkvanky.jpg"
 imghref = "/recepty/"
-imgname = "mrkvanky"
+imgname = "Mrkvánky"
 ingredience = ["mrkev","mouka"]
 tags = ["sladké","pečivo"]
 

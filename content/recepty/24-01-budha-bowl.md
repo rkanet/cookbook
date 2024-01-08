@@ -1,11 +1,10 @@
 +++
 date = "2024-01-05T18:25:39+01:00"
 title = "Budha bowl"
-
 autor = "R.R."
 imgsrc = "/img/budha-bowl.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Budha bowl"
 ingredience = ["luštěniny", "bylinky"]
 tags = ["slané","bez-lepku","zelenina"]
 +++

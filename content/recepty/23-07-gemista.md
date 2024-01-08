@@ -1,7 +1,6 @@
 +++
 date = "2023-07-30T20:25:39+02:00"
 title = "Gemista"
-
 autor = "R.R."
 imgsrc = "/img/gemista.jpg"
 imghref = "/recepty/"

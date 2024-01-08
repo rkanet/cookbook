@@ -1,11 +1,10 @@
 +++
 date = "2023-05-16T09:59:39+02:00"
 title = "Pečená jablka"
-
 autor = "R.R."
 imgsrc = "/img/pecena-jablka.jpg"
 imghref = "/recepty/"
-imgname = "kolac"
+imgname = "Pečená jablka"
 ingredience = ["jablka"]
 tags = ["sladké","bez-lepku"]
 +++

@@ -2,7 +2,6 @@
 +++
 date = "2022-07-08T10:30:28+02:00"
 title = "Třešňový džem"
-
 autor = "R.R."
 imgsrc = "/img/tresnovy-dzem.jpg"
 imghref = "/recepty/"

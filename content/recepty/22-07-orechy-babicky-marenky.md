@@ -2,11 +2,10 @@
 +++
 date = "2022-07-08T17:30:27+02:00"
 title = "Ořechy podle babičky Mařenky"
-
 autor = "R.R."
 imgsrc = "/img/babiciny-orechy.jpg"
 imghref = "/recepty/"
-imgname = "ořechy"
+imgname = "Ořechy"
 ingredience = ["ořechy","mouka"]
 tags = ["sladké","pečivo"]
 +++

@@ -2,11 +2,10 @@
 +++
 date = "2022-07-08T21:06:21+02:00"
 title = "Trhanec bez lepku"
-
 autor = "R.R."
 imgsrc = "/img/trhanec.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Trhanec"
 ingredience = ["jablka","vejce","mandle","mouka"]
 tags = ["sladké","ovoce","bez-lepku"]
 

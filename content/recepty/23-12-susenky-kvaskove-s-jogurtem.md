@@ -1,11 +1,10 @@
 +++
 date = "2023-12-30T16:25:39+01:00"
 title = "Kváskové sušenky"
-
 autor = "R.R."
 imgsrc = "/img/kvaskove-susenky-s-jogurtem.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Kváskové sušenky"
 ingredience = ["mouka","kvásek"]
 tags = ["slané","bez-lepku","pečivo"]
 +++

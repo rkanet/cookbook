@@ -1,11 +1,10 @@
 +++
 date = "2023-07-30T10:25:39+02:00"
 title = "Kefírové housky"
-
 autor = "R.R."
 imgsrc = "/img/kefirove-housky.jpg"
 imghref = "/recepty/"
-imgname = "kefirove housky"
+imgname = "kefírové housky"
 ingredience = ["mouka", "kefír", "droždí"]
 tags = ["slané","pečivo","bez-lepku"]
 +++

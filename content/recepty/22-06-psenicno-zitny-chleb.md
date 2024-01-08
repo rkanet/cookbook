@@ -1,11 +1,11 @@
 +++
 date = "2022-06-23T09:59:39+02:00"
-title = "Pšenično-žitný chléb "
+title = "Pšenično žitný chléb "
 
 autor = "R.R."
 imgsrc = "/img/chleba-lepek.jpg"
 imghref = "/recepty/"
-imgname = "chleba"
+imgname = "Pšnično žitný chléb"
 ingredience = ["mouka","kvásek"]
 tags = ["slané","pečivo"]
 
@@ -14,9 +14,9 @@ tags = ["slané","pečivo"]
 
 # Suroviny
 Rozkvas (min 12h předem)
-cca 20g kvásku 
-150g žitné mouky
-150g vody
+- cca 20g kvásku 
+- 150g žitné mouky
+- 150g vody
 
 Těsto
 - 300 g žitného kvásku 

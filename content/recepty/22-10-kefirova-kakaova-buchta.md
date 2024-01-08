@@ -2,11 +2,10 @@
 +++
 date = "2022-10-15T14:53:36+02:00"
 title = "kefírová buchta s kakaem"
-
 autor = "R.R."
 imgsrc = "/img/kefirova-kakaova-buchta-bezlepku.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Kefírová buchta I"
 ingredience = ["kakao","kefír","bez-lepku"]
 tags = ["sladké","pečivo"]
 +++

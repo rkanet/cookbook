@@ -1,12 +1,10 @@
 +++
 date = "2020-05-16T09:59:39-02:00"
 title = "Jáhlové řezy"
-
 autor = "R.R."
-
 imgsrc = "/img/rez.jpeg"
 imghref = "/recepty/"
-imgname = "jahlovyrez"
+imgname = "Jáhlové řezy"
 ingredience = ["jáhly","ovoce"]
 tags = ["sladké","ovoce","bez-lepku"]
 +++

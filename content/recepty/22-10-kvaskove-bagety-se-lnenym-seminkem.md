@@ -2,11 +2,10 @@
 +++
 date = "2022-10-15T19:32:48+02:00"
 title ="Kváskové bagetky se lněným semínkem"
-
 autor = "R.R."
 imgsrc = "/img/kvaskove_bagety_se_lnenym_seminkem.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Kváskové bagety"
 ingredience = ["kvásek"]
 tags = ["slané","pečivo","bez-lepku"]
 +++

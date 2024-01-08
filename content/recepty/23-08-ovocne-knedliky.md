@@ -1,11 +1,10 @@
 +++
 date = "2023-08-12T11:25:39+02:00"
 title = "Ovocné knedlíky"
-
 autor = "R.R."
 imgsrc = "/img/knedliky-s-ovocem.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Ovocné kneldíky"
 ingredience = ["mouka","jablko","borůvky"]
 tags = ["sladké","bez-lepku","ovoce"]
 +++

@@ -2,11 +2,10 @@
 +++
 date = "2022-10-15T15:50:48+02:00"
 title = "Bezlepkový kváskový chléb se záparou"
-
 autor = "R.R."
 imgsrc = "/img/bezlepkovy-cheba-bochnik-nutrifree.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Kbáskový chléb blp"
 ingredience = ["kvásek"]
 tags = ["slané","pečivo","bez-lepku"]
 +++

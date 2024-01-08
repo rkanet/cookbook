@@ -1,11 +1,10 @@
 +++
 date = "2023-07-30T18:25:39+02:00"
 title = "Pizza s nočním kynutím"
-
 autor = "R.R."
 imgsrc = "/img/pizza-nocni-kynuti.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Pizza přes noc"
 ingredience = ["mouka","droždí","zelenina"]
 tags = ["slané","pečivo"]
 +++

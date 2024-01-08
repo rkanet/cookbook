@@ -6,7 +6,7 @@ title = "kefírová buchta II"
 autor = "R.R."
 imgsrc = "/img/kefirova-buchta-kakaova-2.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "kefírová buchta II"
 ingredience = ["kakao","kefír","podmáslí"]  
 tags = ["sladké","bez-lepku"]
 +++

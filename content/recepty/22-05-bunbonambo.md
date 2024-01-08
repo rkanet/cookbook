@@ -5,7 +5,7 @@ title = "BunBoNamBo"
 autor = "R.R."
 imgsrc = "/img/bunbonambo.jpg"
 imghref = "/recepty/"
-imgname = "bunbonambo"
+imgname = "Bunbonambo"
 ingredience = ["rýžové-nudle","zelenina"]
 tags = ["slané","zelenina","bez-lepku"]
 +++

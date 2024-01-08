@@ -2,11 +2,10 @@
 +++
 date = "2022-08-10T14:46:12+02:00"
 title = "Ovocný salát"
-
 autor = "R.R."
 imgsrc = "/img/ovocny-salat.jpg"
 imghref = "/recepty/"
-imgname = "salat"
+imgname = "Ovocný slalát"
 ingredience = ["banán","pomeranč","hroznove-vino"]
 tags = ["sladké","ovoce","bez-lepku"]
 +++

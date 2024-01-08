@@ -1,13 +1,13 @@
 
 +++
 date = "2022-07-08T10:32:10+02:00"
-title = "Rychlý jogurtový koláč s ovocem"
-
+title = "Jogurtový koláč s ovocem"
 autor = "R.R."
 imgsrc = "/img/rychla-jogurtova-buchta-bezlepku.jpg"
 imghref = "/recepty/rychla-jogurtova-buchta-bezlepku"
-imgname = "jogurtova-buchta"
+imgname = "Jogurtový koláč"
 ingredience = ["jogurt","borůvky"]
+priprava = ["rychlé"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
 +++
 

@@ -1,11 +1,10 @@
 +++
 date = "2023-05-16T09:59:39+02:00"
 title = "Toustový chléb"
-
 autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
-imgname = "toust"
+imgname = "Toustový chléb"
 ingredience = ["mouka", "kysaná smetana"]
 tags = ["slané","pečivo"]
 +++

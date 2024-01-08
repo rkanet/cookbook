@@ -1,12 +1,12 @@
 +++
 date = "2022-06-22T10:59:39+02:00"
-title = "Kvásková pizza bez lepku"
+title = "Pizza kvásková bez lepku"
 autor = "R.R."
 imgsrc = "/img/kvaskova-pizza-bez-lepku.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Kvasková pizza"
 ingredience = ["mouka","rajčata","kvásek"]
-tags = ["slané","zelenina","bez-lepku"]
+tags = ["slané","zelenina","bez-lepku","pečivo"]
 +++
 
 # Suroviny a postup na 3 pizzy
@@ -14,7 +14,7 @@ tags = ["slané","zelenina","bez-lepku"]
    - vrchovatá čajová lžička kvásku cca 20g
     (Odebírám z kvásku, který odpočívá v lednici. Je z mouky Doves Farm/pohanková hladká Šmajstrla 1:1)
    - 80g vody
-   - 40g mouky pohankov0 hladké
+   - 40g mouky pohankové hladké
    - 40g Doves farm plain white
    - necháme cca 14h kvasit při pokojové teplotě, překryté folií
 2. pro druhý rozkvas přidáme

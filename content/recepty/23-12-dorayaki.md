@@ -1,11 +1,10 @@
 +++
 date = "2023-12-21T22:40:39+01:00"
 title = "Dorayaki"
-
 autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Dorayaki"
 ingredience = ["fazole","mouka","vejce"]
 tags = ["sladké","bez-lepku"]
 +++
@@ -25,6 +24,8 @@ Náplň Anko
 - 150g cukru (dát méně cca 120 je až dost)
 - 50 ml vody
 - špetka soli
+
+https://www.youtube.com/watch?v=KYjggwmRqgQ
 
 
 

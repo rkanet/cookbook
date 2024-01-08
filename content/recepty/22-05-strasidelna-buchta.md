@@ -5,7 +5,7 @@ title = "Strašidelná buchta"
 autor = "R.R."
 imgsrc = "/img/strasidelna.jpg"
 imghref = "/recepty/"
-imgname = "strasidelna"
+imgname = "Buchta"
 ingredience = ["jablka","mouka","kysana-smetana"]
 tags = ["sladké","pečivo"]
 +++

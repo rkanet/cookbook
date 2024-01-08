@@ -2,12 +2,11 @@
 +++
 date = "2022-07-03T22:12:31+02:00"
 title = "Třešňový kompot"
-
 autor = "R.R."
 imgsrc = "/img/tresnovy-kompot.jpg"
 imghref = "/recepty/"
-imgname = ""
-ingredience = [""]
+imgname = "Třešňový kompot"
+ingredience = ["třešně"]
 tags = ["sladké","ovoce","bez-lepku"]
 +++
 

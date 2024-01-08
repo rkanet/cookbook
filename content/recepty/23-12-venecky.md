@@ -1,11 +1,10 @@
 +++
 date = "2023-12-15T22:25:39+01:00"
 title = "Věnečky"
-
 autor = "R.R."
 imgsrc = "/img/venecky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Věnečky"
 ingredience = ["mouka","vejce"]
 tags = ["sladké","bez-lepku","pečivo"]
 +++

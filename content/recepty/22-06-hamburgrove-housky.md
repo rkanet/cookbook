@@ -4,8 +4,8 @@ title = "Hamburgrové housky I"
 autor = "R.R."
 
 imgsrc = "/img/hamburgrove-housky-lateta.jpg"
-imghref = "/recepty/hamburgrove-housk-lateta"
-imgname = "housky"
+imghref = "/recepty/"
+imgname = "Hamburgrové housky"
 ingredience = ["mouka","droždí","tanzhong"]
 tags = ["slané","pečivo","bez-lepku"]
 

@@ -4,7 +4,7 @@ title = "Letní jáhlový dort s agarem"
 autor = "R.R."
 imgsrc = "/img/letni-jahlovy-dort.jpg"
 imghref = "/recepty/"
-imgname = "dort"
+imgname = "Letní dort"
 ingredience = ["jáhly"]
 tags = ["sladké","ovoce","bez-lepku"]
 

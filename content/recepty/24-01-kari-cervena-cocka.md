@@ -1,11 +1,10 @@
 +++
 date = "2024-01-04T10:25:39+01:00"
 title = "Kari červená čočka"
-
 autor = "R.R."
 imgsrc = "/img/kari-cervena-cocka.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Kari z červené čočky"
 ingredience = ["čočka-červená"]
 tags = ["slané","bez-lepku","zelenina"]
 +++

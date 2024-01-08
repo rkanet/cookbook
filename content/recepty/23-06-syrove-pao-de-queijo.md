@@ -1,11 +1,10 @@
 +++
 date = "2023-05-16T09:59:39+02:00"
 title = "Brazilské sýrové bochánky – Pão de queijo"
-
 autor = "R.R."
 imgsrc = "/img/pao-de-queijo.jpg"
 imghref = "/recepty/"
-imgname = "toust"
+imgname = "Pão de queijo"
 ingredience = ["mouka","sýr"]
 tags = ["slané","pečivo"]
 +++

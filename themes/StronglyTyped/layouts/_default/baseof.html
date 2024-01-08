@@ -7,7 +7,7 @@
 	
 <html>
 	<head>
-		<title>Strongly Typed by HTML5 UP</title>
+		<title>Recepty</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="robots" content="noindex, nofollow">
@@ -29,30 +29,6 @@
 
 		{{ end }}
 
-		<!-- Scripts original HtmlUp
-			<script src="/js/jquery.min.js"></script>
-			<script src="/js/jquery.dropotron.min.js"></script>
-			<script src="/js/browser.min.js"></script>
-			<script src="/js/breakpoints.min.js"></script>
-			<script src="/js/util.js"></script>
-			<script src="/js/main.js"></script>
-	    -->
 		
-		<!-- Scripts for Hugo line-->
-				
-        {{ "<!-- Main Script--> " | safeHTML }}
-	    {{ $jquery := resources.Get "js/jquery.min.js" }}
-        {{ $dropotron := resources.Get "js/jquery.dropotron.min.js" }}
-		{{ $browser := resources.Get "js/browser.min.js" }}
-		{{ $breakpoints := resources.Get "js/breakpoints.min.js" }}
-		{{ $util := resources.Get "js/util.js" }}
-        {{ $main := resources.Get "js/main.js" }}
-		
-		{{ $alljs := slice $jquery  $dropotron $browser $breakpoints $util $main | resources.Concat "js/alljs.js" | resources.ExecuteAsTemplate "js/alljs.js" .  }}
-		{{ $style := $alljs | minify | fingerprint }}
-        <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-
-
-
 	</body>
 </html>

@@ -1,11 +1,10 @@
 +++
 date = "2022-06-27T09:59:39+02:00"
 title = "Tvarohový dort s jahodami"
-
 autor = "R.R."
 imgsrc = "/img/tvarohovy-dort-jahody.jpg"
 imghref = "/recepty/tvarohovy-dort-jahody"
-imgname = "jahodovy-dort"
+imgname = "Jahodový dort"
 ingredience = ["tvaroh","jahody"]
 tags = ["sladké","ovoce","bez-lepku"]
 

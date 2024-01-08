@@ -6,7 +6,7 @@ title = "Bezlepkový Kváskový chléb do formy"
 autor = "R.R."
 imgsrc = "/img/bezlepkovy-kvaskovy-chleb-do formy.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Kváskový chléb blp do formy"
 ingredience = ["kvásek"]
 tags = ["slané","pečivo","bez-lepku"]
 +++

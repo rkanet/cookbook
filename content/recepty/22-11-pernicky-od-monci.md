@@ -2,11 +2,10 @@
 +++
 date = "2022-11-22T19:40:12+01:00"
 title = "Perníčky od Monči"
-
 autor = "R.R."
 imgsrc = "/img/pernicky-od-monci.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Perníčky"
 ingredience = [", "]
 tags = ["sladké" ]
 +++

@@ -5,7 +5,7 @@ title = "Miso polévka"
 autor = "R.R."
 imgsrc = "/img/miso-rychla-s-vejcem.jpg"
 imghref = "/recepty/"
-imgname = "miso"
+imgname = "Miso"
 ingredience = ["miso","vejce", "rýžové nudle"]
 tags = ["slané","zelenina","polévky","bez-lepku"]
 +++

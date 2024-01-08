@@ -1,11 +1,10 @@
 +++
 date = "2023-11-09T16:25:39+01:00"
 title = "Cizrnové placky s cuketou"
-
 autor = "R.R."
 imgsrc = "/img/cizrno-cuketove-placky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Cizrnové placky s cuketou"
 ingredience = ["mouka"]
 tags = ["slané","bez-lepku"]
 +++
@@ -25,7 +24,7 @@ tags = ["slané","bez-lepku"]
 1. Cuketky nastrouháme na hrubo, osolíme asi 10 min potit.
 2. Vidličkou rozmačkáme cizrnu 
 3. cuketky co nejvíce "vyždímeme" vodu, přidáme rozmačkanou cizrnu, vejce a nastrouhaný sýr (na jemno)
-4.  Dochutíme kořením, česnekem, solí
+4. Dochutíme kořením, česnekem, solí
 5. Z těsta vytvoříme placičky, pečeme na pečícím papíře při cca 200st. (asi 30 min).
 
 

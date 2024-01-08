@@ -63,12 +63,14 @@ Postup  vodu, olej a sůl přivést k varu, pak přidat mouku a odpalovat nechat
       <guid>https://rkanet.github.io/kitchen/recepty/23-07-pizza-bez-lepku/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
 &lt;p&gt;na 2 ks průměr cca 28cm&lt;/p&gt;
-&lt;p&gt;13g čerstvého droždí
-250 g mouky Nutrifree Mix Per Pizza
-190 ml vody
-30 ml olivového oleje (cca 3PL)
-1/4 lžičky soli
-špetka cukru do kvásku&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;13g čerstvého droždí&lt;/li&gt;
+&lt;li&gt;250 g mouky Nutrifree Mix Per Pizza&lt;/li&gt;
+&lt;li&gt;190 ml vody&lt;/li&gt;
+&lt;li&gt;30 ml olivového oleje (cca 3PL)&lt;/li&gt;
+&lt;li&gt;1/4 lžičky soli&lt;/li&gt;
+&lt;li&gt;špetka cukru do kvásku&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;droždí trocha vody, cukr a lžicí mouky kvásek..&lt;/li&gt;
@@ -267,8 +269,7 @@ Postup  Den předem připravíme kvas (400g)   cca 120g kvásku 150g pohanková 
       <pubDate>Sat, 15 Oct 2022 15:44:48 +0200</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/recepty/22-10-bagety-svetle-s-kynutim-pres-noc/</guid>
-      <description>Suroviny 320g mouky Nutrifree Per Pane 250ml vody lžíčka sladidla zarovnaná lžíčka soli 14g čerstvého droždí 30ml oleje
-Postup Poznámky </description>
+      <description>Suroviny  320g mouky Nutrifree Per Pane 250ml vody šptka cukrul 1ČL zarovnaná soli 14g čerstvého droždí 30ml oleje  Postup  nechta zejít kvásek v trošce vody, mouky a špetky cukru zpracujeme těsto uložíme do lednice ráno nechat asi 1h při pokojové teplotě Těsto rozdělíme na dva díly, už nepropracováváme a vytvarujeme bagety rozehřejeme troubu na 250st s litinovým tálem na pizzu bagetky necháme cca 30minut kynout (obklopené utěrkami) Přendáme do trouby Chrstneme na spodní plech vodu, pečeme asi 40 minut  Poznámky </description>
     </item>
     
     <item>
@@ -277,8 +278,7 @@ Postup Poznámky </description>
       <pubDate>Sat, 15 Oct 2022 14:58:36 +0200</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/recepty/22-10-kefirova-svetla-buchta-s-ovocem/</guid>
-      <description>Suroviny (Forma Ikea 32 x 22 cm) 170g kefírového mléka (Valašské) pak jsem přidala ještě dvě až 3 PL 100g slunečnicového oleje pak jsem přidala ještě 1 PL 1 vejce 30 ml horké (až vody na konec) 180g mouky Nutrifree Dolci 150g třtinového cukru 40g kakaa 1 ČL jedlé sody skoro rovná
-Postup Smícháme zvlášť tekuté (krom horké vody) a zvlášť suché suroviny. Nakonec spojíme promícháme a nalijeme do vymazaného pekáče.</description>
+      <description>Suroviny (Forma Ikea 32 x 22 cm)  170g kefírového mléka (Valašské) pak jsem přidala ještě dvě až 3 PL 100g slunečnicového oleje pak jsem přidala ještě 1 PL 1 vejce 30 ml horké (až vody na konec) 180g mouky Nutrifree Dolci 150g třtinového cukru 1 ČL jedlé sody skoro rovná ovoce (dala jsem kompotované třešně, ale šlo by lepší)  Postup Smícháme zvlášť tekuté (krom horké vody) a zvlášť suché suroviny.</description>
     </item>
     
     <item>
@@ -355,11 +355,11 @@ Postup Bílky začneme šlehat a během šlehání přisypáváme cukr a špetku
     </item>
     
     <item>
-      <title>Rychlý jogurtový koláč s ovocem</title>
-      <link>https://rkanet.github.io/kitchen/recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/</link>
+      <title>Jogurtový koláč s ovocem</title>
+      <link>https://rkanet.github.io/kitchen/recepty/22-07-jogurtovy-kolac-bez-lepku/</link>
       <pubDate>Fri, 08 Jul 2022 10:32:10 +0200</pubDate>
       
-      <guid>https://rkanet.github.io/kitchen/recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/</guid>
+      <guid>https://rkanet.github.io/kitchen/recepty/22-07-jogurtovy-kolac-bez-lepku/</guid>
       <description>Suroviny (Forma Ikea 32 x 22 cm) těsto
  250g jogurt hollandia 1 ks vejce 100g třtinového cukru 1 ks vanilkový cukr (10-20g) 140g mouka (1PL kopcem pohanková hladká, 2PL Doves Farm směs bílá, zbytek Jizerka) 2 rovné ČL kypřícího prášku 600-700g borůvek (či jiného ovoce)  drobenka
  60 g máslo 60 g vločky 70 g mouka Doves Farm směs bílá třtinový cukr 70 g šp. soli dle chuti a druhu ovoce lze přidat trochu skořice  Postup  předehřejeme troubu, vymažeme pekáč v míse smícháme jogurt, cukr a vejce a počkáme až se rozpustí cukr v druhé menší misce promícháme kypř.</description>
@@ -375,16 +375,18 @@ Postup Bílky začneme šlehat a během šlehání přisypáváme cukr a špetku
     </item>
     
     <item>
-      <title>Pšenično-žitný chléb </title>
+      <title>Pšenično žitný chléb </title>
       <link>https://rkanet.github.io/kitchen/recepty/22-06-psenicno-zitny-chleb/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/recepty/22-06-psenicno-zitny-chleb/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;p&gt;Rozkvas (min 12h předem)
-cca 20g kvásku 
-150g žitné mouky
-150g vody&lt;/p&gt;
+&lt;p&gt;Rozkvas (min 12h předem)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;cca 20g kvásku&lt;/li&gt;
+&lt;li&gt;150g žitné mouky&lt;/li&gt;
+&lt;li&gt;150g vody&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Těsto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;300 g žitného kvásku&lt;/li&gt;
@@ -445,6 +447,56 @@ Bezlepkové nechávám chvilku odpočinout a pak už vytvaruju na plech dám kol
 (2x po sobě kynul tak moc, že popraskal, zvažuji předkynutí pak teprve tvarování i u blp)&lt;/p&gt;
 &lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;
 &lt;p&gt;inspirováno: Cuketka, &lt;a href=&#34;https://recepty.cuketka.cz/mazanec/&#34;&gt;https://recepty.cuketka.cz/mazanec/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pizza kvásková bez lepku</title>
+      <link>https://rkanet.github.io/kitchen/recepty/22-06-kvaskova-pizza-bez-lepku/</link>
+      <pubDate>Wed, 22 Jun 2022 10:59:39 +0200</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/recepty/22-06-kvaskova-pizza-bez-lepku/</guid>
+      <description>&lt;h1 id=&#34;suroviny-a-postup-na-3-pizzy&#34;&gt;Suroviny a postup na 3 pizzy&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;první rozkvas
+&lt;ul&gt;
+&lt;li&gt;vrchovatá čajová lžička kvásku cca 20g
+(Odebírám z kvásku, který odpočívá v lednici. Je z mouky Doves Farm/pohanková hladká Šmajstrla 1:1)&lt;/li&gt;
+&lt;li&gt;80g vody&lt;/li&gt;
+&lt;li&gt;40g mouky pohankové hladké&lt;/li&gt;
+&lt;li&gt;40g Doves farm plain white&lt;/li&gt;
+&lt;li&gt;necháme cca 14h kvasit při pokojové teplotě, překryté folií&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;pro druhý rozkvas přidáme
+&lt;ul&gt;
+&lt;li&gt;350g mouky Schaer mix B&lt;/li&gt;
+&lt;li&gt;půl lžičky soli&lt;/li&gt;
+&lt;li&gt;tři PL lžíce olivového oleje&lt;/li&gt;
+&lt;li&gt;320 g vody&lt;/li&gt;
+&lt;li&gt;vše smícháme a těsto, překryté folií uložíme minimálně na 12 hodin do lednice, dávám přes noc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pizzu potřeme předem  připravenným rychlým sugem a ozdobíme
+&lt;ul&gt;
+&lt;li&gt;1 x protlak&lt;/li&gt;
+&lt;li&gt;1 x menší česnek&lt;/li&gt;
+&lt;li&gt;bazalka, dobromysl&lt;/li&gt;
+&lt;li&gt;2 x mozzarella&lt;/li&gt;
+&lt;li&gt;1 x šunka cca 200g&lt;/li&gt;
+&lt;li&gt;černé olivy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Těsto z lednice vyndáme cca. 3 hodiny před pečením. Vypracujeme 3 bochánky, potřeme olejem a necháme cca 2h kynout.
+Vytvarujeme placky, případně jeli těsto řídké ještě přidáme trochu mouky.Dáme na plech s pečícím papírem a ještě cca 1h necháme dokynout.
+Mezitím zahřejeme troubu na 250 st. s plechem 1 plechem na pizzu nebo kamenem&amp;hellip; Nakonec pizze dotvarujeme okraj, potřeme a dozdobíme dle chuti.
+Při 250st pečeme cca 10 minut.&lt;/p&gt;
+&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;vody pro druhé kvašení dávám trochu míň&lt;/li&gt;
+&lt;li&gt;pokud dělám z celé dávky, připravím pouze 2 pizzy a ze zbytku umotám pizza šneky&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;inspirováno: LaTeta &lt;a href=&#34;https://lateta.cz/2019/07/15/kvaskova-pizza/&#34;&gt;https://lateta.cz/2019/07/15/kvaskova-pizza/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

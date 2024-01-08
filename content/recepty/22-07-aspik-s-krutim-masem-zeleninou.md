@@ -2,11 +2,10 @@
 +++
 date = "2022-07-08T12:06:09+02:00"
 title = "Aspik s masem a zeleninou"
-
 autor = "R.R."
 imgsrc = "/img/aspik-s-krutim-masem-zeleninou.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Aspik s masem a zeleninou"
 ingredience = ["želatina", "maso"]
 tags = ["slané","zelenina","bez-lepku","maso"]
 +++

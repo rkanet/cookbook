@@ -2,7 +2,6 @@
 +++
 date = "2022-07-08T12:16:38+02:00"
 title = "Kváskové placky bezlepkové"
-
 autor = "R.R."
 imgsrc = "/img/kvaskove-placky-bezlepkove.jpg"
 imghref = "/recepty/"

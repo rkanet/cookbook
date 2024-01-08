@@ -1,11 +1,10 @@
 +++
 date = "2023-07-26T22:25:39+02:00"
 title = "Hráškové noky"
-
 autor = "R.R."
 imgsrc = "/img/hraskove-noky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Hráškové noky"
 ingredience = ["mouka","hrách"]
 tags = ["slané","bez-lepku"]
 +++

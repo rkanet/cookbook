@@ -1,11 +1,10 @@
 +++
 date = "2023-12-23T21:25:39+01:00"
 title = "Vosí hnízda"
-
 autor = "R.R."
 imgsrc = "/img/vosi-hnizda.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Vosí hnízda"
 ingredience = ["piškoty","máslo","mouka","kakao"]
 tags = ["sladké","bez-lepku"]
 +++

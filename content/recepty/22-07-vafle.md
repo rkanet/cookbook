@@ -2,11 +2,10 @@
 +++
 date = "2022-07-08T21:43:46+02:00"
 title = "Vafle bez lepku"
-
 autor = "R.R."
 imgsrc = "/img/vafle-s-ovocem.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Vafle"
 ingredience = ["mouka","kypřící-prášek",]
 tags = ["sladké","ovoce","bez-lepku"]
 +++

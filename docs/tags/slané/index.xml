@@ -131,12 +131,14 @@
       <guid>https://rkanet.github.io/kitchen/recepty/23-07-pizza-bez-lepku/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
 &lt;p&gt;na 2 ks průměr cca 28cm&lt;/p&gt;
-&lt;p&gt;13g čerstvého droždí
-250 g mouky Nutrifree Mix Per Pizza
-190 ml vody
-30 ml olivového oleje (cca 3PL)
-1/4 lžičky soli
-špetka cukru do kvásku&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;13g čerstvého droždí&lt;/li&gt;
+&lt;li&gt;250 g mouky Nutrifree Mix Per Pizza&lt;/li&gt;
+&lt;li&gt;190 ml vody&lt;/li&gt;
+&lt;li&gt;30 ml olivového oleje (cca 3PL)&lt;/li&gt;
+&lt;li&gt;1/4 lžičky soli&lt;/li&gt;
+&lt;li&gt;špetka cukru do kvásku&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;droždí trocha vody, cukr a lžicí mouky kvásek..&lt;/li&gt;
@@ -242,7 +244,7 @@ Další poměry k vyzkoušení níže,  prozatím krásně funguje muffinová fo
       <pubDate>Sat, 22 Oct 2022 15:17:33 +0200</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/recepty/22-10-onigiri/</guid>
-      <description>O receptu Inspirace přišla při sledování japonského filmu&amp;hellip; recept kombinací více recpetů, a určitě nemá být ten pravý japonský, ale jen náš:). Onigiri se podobá sushi, ale liší se už při přípravě rýže. Zatímco sushi rýže se dochucuje rýžovým octem, solí a cukrem, rýže na onigiri se často vaří pouze ve vodě bez soli.
+      <description>O receptu Recept kombinací více receptů, a určitě nemá být ten pravý japonský, ale jen náš:). Onigiri se podobá sushi, ale liší se už při přípravě rýže. Zatímco sushi rýže se dochucuje rýžovým octem, solí a cukrem, rýže na onigiri se často vaří pouze ve vodě bez soli.
 ingredience  sushi rýže  Náplně:
  tuňák s majonézou losos umeboshi trhané vepřové maso, výrazně ochucené I v Japonsku mají mnoho durhů náplní a pokudnetrváte na japonských tradičních surovinách, tak se možnosti ještě rozšíří.</description>
     </item>
@@ -281,8 +283,7 @@ Postup  Den předem připravíme kvas (400g)   cca 120g kvásku 150g pohanková 
       <pubDate>Sat, 15 Oct 2022 15:44:48 +0200</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/recepty/22-10-bagety-svetle-s-kynutim-pres-noc/</guid>
-      <description>Suroviny 320g mouky Nutrifree Per Pane 250ml vody lžíčka sladidla zarovnaná lžíčka soli 14g čerstvého droždí 30ml oleje
-Postup Poznámky </description>
+      <description>Suroviny  320g mouky Nutrifree Per Pane 250ml vody šptka cukrul 1ČL zarovnaná soli 14g čerstvého droždí 30ml oleje  Postup  nechta zejít kvásek v trošce vody, mouky a špetky cukru zpracujeme těsto uložíme do lednice ráno nechat asi 1h při pokojové teplotě Těsto rozdělíme na dva díly, už nepropracováváme a vytvarujeme bagety rozehřejeme troubu na 250st s litinovým tálem na pizzu bagetky necháme cca 30minut kynout (obklopené utěrkami) Přendáme do trouby Chrstneme na spodní plech vodu, pečeme asi 40 minut  Poznámky </description>
     </item>
     
     <item>
@@ -360,16 +361,18 @@ Občas vaříme i rychlou verzi s méně zeleniny a vaječnou omeletou. Počít�
     </item>
     
     <item>
-      <title>Pšenično-žitný chléb </title>
+      <title>Pšenično žitný chléb </title>
       <link>https://rkanet.github.io/kitchen/recepty/22-06-psenicno-zitny-chleb/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/recepty/22-06-psenicno-zitny-chleb/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;p&gt;Rozkvas (min 12h předem)
-cca 20g kvásku 
-150g žitné mouky
-150g vody&lt;/p&gt;
+&lt;p&gt;Rozkvas (min 12h předem)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;cca 20g kvásku&lt;/li&gt;
+&lt;li&gt;150g žitné mouky&lt;/li&gt;
+&lt;li&gt;150g vody&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Těsto&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;300 g žitného kvásku&lt;/li&gt;
@@ -467,7 +470,7 @@ Druhý den odebereme cca 20g do sklenice a opět rozkvasíme 100g mouky a 10g vo
     </item>
     
     <item>
-      <title>Kvásková pizza bez lepku</title>
+      <title>Pizza kvásková bez lepku</title>
       <link>https://rkanet.github.io/kitchen/recepty/22-06-kvaskova-pizza-bez-lepku/</link>
       <pubDate>Wed, 22 Jun 2022 10:59:39 +0200</pubDate>
       
@@ -479,7 +482,7 @@ Druhý den odebereme cca 20g do sklenice a opět rozkvasíme 100g mouky a 10g vo
 &lt;li&gt;vrchovatá čajová lžička kvásku cca 20g
 (Odebírám z kvásku, který odpočívá v lednici. Je z mouky Doves Farm/pohanková hladká Šmajstrla 1:1)&lt;/li&gt;
 &lt;li&gt;80g vody&lt;/li&gt;
-&lt;li&gt;40g mouky pohankov0 hladké&lt;/li&gt;
+&lt;li&gt;40g mouky pohankové hladké&lt;/li&gt;
 &lt;li&gt;40g Doves farm plain white&lt;/li&gt;
 &lt;li&gt;necháme cca 14h kvasit při pokojové teplotě, překryté folií&lt;/li&gt;
 &lt;/ul&gt;

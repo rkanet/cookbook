@@ -1,11 +1,10 @@
 +++
 date = "2023-05-16T09:59:39+02:00"
 title = "Koláč ze zakysané smetany"
-
 autor = "R.R."
 imgsrc = "/img/kolac-kys-smet.jpg"
 imghref = "/recepty/"
-imgname = "kolac"
+imgname = "Koláč ze zakysané smetany"
 ingredience = ["mouka","kysaná-smetana"]
 tags = ["sladké","pečivo","bez-lepku"]
 +++

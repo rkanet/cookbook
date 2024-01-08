@@ -1,11 +1,10 @@
 +++
 date = "2023-10-15T16:25:39+02:00"
 title = "Rohlíky se záparou"
-
 autor = "R.R."
 imgsrc = "/img/rohliky-se-zaparou.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Rohlíky"
 ingredience = ["mouka","droždí"]
 tags = ["slané","bez-lepku"]
 +++

@@ -1,11 +1,10 @@
 +++
 date = "2023-11-09T19:25:39+01:00"
 title = "Dýňová buchta"
-
 autor = "R.R."
 imgsrc = "/img/buchta_dynova.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Buchta dýňová"
 ingredience = ["mouka","dýně","ořechy"]
 tags = ["sladké","bez-lepku"]
 +++
@@ -16,8 +15,8 @@ tags = ["sladké","bez-lepku"]
 - 60 g třtinového cukru
 - 1 ČL kopečkem skořice (lze i perníkové dle chuti)
 - 200 g dýňového pyré
-- 110g mouky Hutri free Per dolce
-- 3g prasku do peciva
+- 110g mouky Nutri free Per dolce
+- 3g prášku do pečiva
 - 60g mletých vlašských ořechů (pár kousků na ozdobení)
 
 Krém
@@ -41,7 +40,7 @@ Krém
 
 
 # Poznámky
-V pekáčku je asi 1,5 cm vrstva, tj tak akorát. Těsto by bylo možné i na roládu.
+V pekáčku je asi 1,5 cm vrstva, tj tak akorát. Těsto by bylo možné i na roládu. 
 
 <!--
 -->

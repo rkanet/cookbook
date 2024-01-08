@@ -2,11 +2,10 @@
 +++
 date = "2022-10-22T17:31:11+02:00"
 title = "Ořechové muffiny bez mouky"
-
 autor = "R.R."
 imgsrc = "/img/orechove-muffiny-bez-mouky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Ořechové muffiny"
 ingredience = ["ořechy", "mandle", "čokoláda"]
 tags = ["sladké", "pečivo", "bez-lepku" ]
 +++

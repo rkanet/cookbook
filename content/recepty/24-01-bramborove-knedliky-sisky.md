@@ -1,17 +1,16 @@
 +++
 date = "2024-01-05T10:25:39+01:00"
 title = "Bramborové knedlíky, šišky"
-
 autor = "R.R."
 imgsrc = "/img/bramborove-sisky.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Br knedlíky, šišky"
 ingredience = ["mouka","vejce","brambory",]
 tags = ["sladké","bez-lepku",]
 +++
 
-# Suroviny asi 10ks
-Těsto:
+# Suroviny
+Těsto (na dva malé knedlíky a nebo talíř šišek)
 - 400g vařených brambor
 - 200 g mouky (100g mouka polohruba rýžová, 30g pohanková hladká, zbytek Jizerka)
 - 1 vejce

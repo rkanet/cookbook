@@ -1,11 +1,10 @@
 +++
 date = "2023-12-21T21:50:39+01:00"
 title = "Pečená zelenina"
-
 autor = "R.R."
 imgsrc = "/img/pecena-zelenina.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Pečená zelenina"
 ingredience = ["cibule","mrkev","česnek"]
 tags = ["slané","bez-lepku","zelenina"]
 +++

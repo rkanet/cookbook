@@ -6,8 +6,9 @@ title = "Bagety světlé s kynutím přes noc"
 autor = "R.R."
 imgsrc = "/img/bagety-svetle-s-kynutim-pres-noc.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Bagety blp noční"
 ingredience = ["droždí","mouka"]
+priprava = ["rychlé ale kvásek"]
 tags = ["slané","pečivo","bez-lepku"]
 +++
 
@@ -31,14 +32,24 @@ Bagetky nechte cca pul hodiny kynout, ideálně ze stran obklopené stočenými 
 Takto pečeme asi 40 minut, na posledních pár minut odkrývám víko a ještě doladím barvu-->
 
 # Suroviny
-320g mouky Nutrifree Per Pane
-250ml vody
-lžíčka sladidla
-zarovnaná lžíčka soli
-14g čerstvého droždí
-30ml oleje 
+- 320g mouky Nutrifree Per Pane
+- 250ml vody
+- šptka cukrul
+- 1ČL zarovnaná soli
+- 14g čerstvého droždí
+- 30ml oleje 
 
 # Postup
+1. nechta zejít kvásek v trošce vody, mouky a špetky cukru
+2. zpracujeme těsto
+3. uložíme do lednice 
+4. ráno nechat asi 1h při pokojové teplotě
+5. Těsto rozdělíme na dva díly, už nepropracováváme a  vytvarujeme bagety
+6. rozehřejeme troubu na 250st s litinovým tálem na pizzu
+6. bagetky necháme cca 30minut kynout (obklopené utěrkami)
+7. Přendáme do trouby
+8. Chrstneme na spodní plech vodu, pečeme asi 40 minut
+
 
 
 

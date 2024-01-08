@@ -5,7 +5,7 @@ title = "Kváskové placky pšenično žitné"
 autor = "R.R."
 imgsrc = "/img/placky.jpg"
 imghref = "/recepty/"
-imgname = "placky"
+imgname = "kváskové placky"
 ingredience = ["mouka","kvásek"]
 tags = ["sladké","slané","pečivo"]
 +++

@@ -5,7 +5,7 @@ title = "Broskvové řezy"
 autor = "R.R."
 imgsrc = "/img/broskvove-rezy.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "Broskvové řezy"
 ingredience = ["broskve","smetana","kysaná-smetana"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
 +++

@@ -6,7 +6,7 @@ title = "Thajské červené kari"
 autor = "R.R."
 imgsrc = "/img/thajske-cervene-kari.jpg"
 imghref = "/recepty/thajske-cervene-kari"
-imgname = "kari"
+imgname = "Thajské kari"
 ingredience = ["kari-pasta","koriandr"]
 tags = ["slané","zelenina","maso","bez-lepku"]
 +++

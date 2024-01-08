@@ -1108,7 +1108,7 @@
 	}
 
 /* Medium */
-
+	
 	#navPanel, #titleBar {
 		display: none;
 	}
@@ -1127,13 +1127,19 @@
 				> .container {
 					padding: 10em 0 7em 0;
 				}
+				/* edit rka start*/
+				h1 {
+					padding-top: 50px; //rka
+				}
 			}
 
 		/* Nav */
-
-			#nav {
+			/* edit rka start*/
+			/* #nav displayed by after js disconnection */
+			/* #nav {
 				display: none;
-			}
+			}*/			 
+		/* edit rka end*/
 
 		/* Nav */
 
