@@ -23,22 +23,31 @@ tags = ["slané","zelenina","bez-lepku","pečivo"]
     - tři PL lžíce olivového oleje
     - 320 g vody
     - vše smícháme a těsto, překryté folií uložíme minimálně na 12 hodin do lednice, dávám přes noc
-3. Pizzu potřeme předem  připravenným rychlým sugem a ozdobíme
+3.  předem si připravíme rychlé sugo
     - 1 x protlak
     - 1 x menší česnek
     - bazalka, dobromysl
+    - lžíce oleje
+ 4. suroviny navrch (2 pizzy)   
     - 2 x mozzarella
-    - 1 x šunka cca 200g
+    - šunka cca 200g
     - černé olivy
+    - rajčata
+    - dobromysl, bazalka
 
-Těsto z lednice vyndáme cca. 3 hodiny před pečením. Vypracujeme 3 bochánky, potřeme olejem a necháme cca 2h kynout.
-Vytvarujeme placky, případně jeli těsto řídké ještě přidáme trochu mouky.Dáme na plech s pečícím papírem a ještě cca 1h necháme dokynout.
-Mezitím zahřejeme troubu na 250 st. s plechem 1 plechem na pizzu nebo kamenem... Nakonec pizze dotvarujeme okraj, potřeme a dozdobíme dle chuti.
-Při 250st pečeme cca 10 minut.
+5. pečeme pizzu
+- Těsto z lednice vyndáme cca. 3 hodiny před pečením. Vypracujeme  bochánky, je-li těsto řídké ještě přidáme trochu mouky, a necháme cca 2h kynout.
+- Včas zahřejeme troubu na 250 st. Dávám plech a na něj pizza litinovou podložku.
+- Vytvarujeme pizzu na dost pomoučněné desce (na té už to pak rovnou sázím do trouby)
+- Potřeme sugem a dozdobíme dle chuti.
+- Před sesunutím pizzy do trouby je potřeba jí uvolnit z podložky, roznýbat. Případně víc podsypat, pak teprvé sázíme do trouby.
+- Při 250st pečeme cca 10 minut.
 
 # Poznámky
  - vody pro druhé kvašení dávám trochu míň
- - pokud dělám z celé dávky, připravím pouze 2 pizzy a ze zbytku umotám pizza šneky
+ - pokud se přihřeje světlem v troubě lze zkrátit kynutí po vyndání z lednice
+ - pokud dělám z celé dávky, připravím pouze 2 pizzy (280g každá) a ze zbytku umotám pizza šneky
+ - i u této pizzy je fajn naplnit okraj sýrem, tj. přehrnout okraj s trochou strouhaného sýra uvnitř
 
 
 inspirováno: LaTeta https://lateta.cz/2019/07/15/kvaskova-pizza/

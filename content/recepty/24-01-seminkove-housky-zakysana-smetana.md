@@ -3,7 +3,7 @@
 date = "2024-01-08T20:23:26+01:00"
 title = ""
 autor = "R.R."
-imgsrc = "/img/*.jpg"
+imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["mouka","lněné-semínko","droždí"]
