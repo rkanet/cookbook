@@ -16,7 +16,7 @@ tags = ["slané","zelenina","bez-lepku"]
 - 100g suchých bílých malých fazolí (předem namočit)
 - 5 stroužků česneku
 - mrkev 2ks krájená na kolečka
-- trocha kořenové zleniny na jemno strouhané (petržel, celer)
+- trocha kořenové zeleniny na jemno strouhané (petržel, celer)
 - 1 rajčata v konzervě 
 - 1 rajčatový protlak
 - zrovna jsem měla rajče, tak tam přišlo též na kostičky

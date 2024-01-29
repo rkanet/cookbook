@@ -6,22 +6,103 @@
     <description>Recent content in Ingredience on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2024 20:33:44 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jan 2024 17:26:12 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>kvásek</title>
-      <link>https://rkanet.github.io/kitchen/ingredience/kv%C3%A1sek/</link>
-      <pubDate>Wed, 17 Jan 2024 20:33:44 +0100</pubDate>
+      <title>jablka</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/jablka/</link>
+      <pubDate>Mon, 29 Jan 2024 17:26:12 +0100</pubDate>
       
-      <guid>https://rkanet.github.io/kitchen/ingredience/kv%C3%A1sek/</guid>
+      <guid>https://rkanet.github.io/kitchen/ingredience/jablka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jáhy</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/j%C3%A1hy/</link>
+      <pubDate>Mon, 29 Jan 2024 17:26:12 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/j%C3%A1hy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mák</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/m%C3%A1k/</link>
+      <pubDate>Mon, 29 Jan 2024 17:26:12 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/m%C3%A1k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>švestky</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/%C5%A1vestky/</link>
+      <pubDate>Mon, 29 Jan 2024 17:26:12 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/%C5%A1vestky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dýně</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/d%C3%BDn%C4%9B/</link>
+      <pubDate>Wed, 24 Jan 2024 22:10:25 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/d%C3%BDn%C4%9B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rýže</title>
       <link>https://rkanet.github.io/kitchen/ingredience/r%C3%BD%C5%BEe/</link>
-      <pubDate>Wed, 17 Jan 2024 20:33:44 +0100</pubDate>
+      <pubDate>Wed, 24 Jan 2024 22:10:25 +0100</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/ingredience/r%C3%BD%C5%BEe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>droždí</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/dro%C5%BEd%C3%AD/</link>
+      <pubDate>Wed, 24 Jan 2024 21:36:09 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/dro%C5%BEd%C3%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mouka</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/mouka/</link>
+      <pubDate>Wed, 24 Jan 2024 21:36:09 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/mouka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kvásek</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/kv%C3%A1sek/</link>
+      <pubDate>Sun, 21 Jan 2024 22:36:37 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/kv%C3%A1sek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>povidla</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/povidla/</link>
+      <pubDate>Sun, 21 Jan 2024 22:36:37 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/povidla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tvaroh</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/tvaroh/</link>
+      <pubDate>Sun, 21 Jan 2024 22:36:37 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/tvaroh/</guid>
       <description></description>
     </item>
     
@@ -62,15 +143,6 @@
     </item>
     
     <item>
-      <title>jablka</title>
-      <link>https://rkanet.github.io/kitchen/ingredience/jablka/</link>
-      <pubDate>Mon, 08 Jan 2024 19:59:48 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/kitchen/ingredience/jablka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>třešně</title>
       <link>https://rkanet.github.io/kitchen/ingredience/t%C5%99e%C5%A1n%C4%9B/</link>
       <pubDate>Mon, 08 Jan 2024 19:59:48 +0100</pubDate>
@@ -103,15 +175,6 @@
       <pubDate>Fri, 05 Jan 2024 10:25:39 +0100</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/ingredience/brambory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mouka</title>
-      <link>https://rkanet.github.io/kitchen/ingredience/mouka/</link>
-      <pubDate>Fri, 05 Jan 2024 10:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/kitchen/ingredience/mouka/</guid>
       <description></description>
     </item>
     
@@ -188,29 +251,11 @@
     </item>
     
     <item>
-      <title>dýně</title>
-      <link>https://rkanet.github.io/kitchen/ingredience/d%C3%BDn%C4%9B/</link>
-      <pubDate>Thu, 09 Nov 2023 19:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/kitchen/ingredience/d%C3%BDn%C4%9B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ořechy</title>
       <link>https://rkanet.github.io/kitchen/ingredience/o%C5%99echy/</link>
       <pubDate>Thu, 09 Nov 2023 19:25:39 +0100</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/ingredience/o%C5%99echy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>droždí</title>
-      <link>https://rkanet.github.io/kitchen/ingredience/dro%C5%BEd%C3%AD/</link>
-      <pubDate>Sun, 15 Oct 2023 16:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/kitchen/ingredience/dro%C5%BEd%C3%AD/</guid>
       <description></description>
     </item>
     
@@ -350,15 +395,6 @@
     </item>
     
     <item>
-      <title>povidla</title>
-      <link>https://rkanet.github.io/kitchen/ingredience/povidla/</link>
-      <pubDate>Tue, 22 Nov 2022 19:39:29 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/kitchen/ingredience/povidla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mandle</title>
       <link>https://rkanet.github.io/kitchen/ingredience/mandle/</link>
       <pubDate>Sat, 22 Oct 2022 17:43:05 +0200</pubDate>
@@ -436,15 +472,6 @@
       <pubDate>Wed, 10 Aug 2022 14:46:12 +0200</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/ingredience/pomeran%C4%8D/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tvaroh</title>
-      <link>https://rkanet.github.io/kitchen/ingredience/tvaroh/</link>
-      <pubDate>Wed, 10 Aug 2022 14:28:01 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/kitchen/ingredience/tvaroh/</guid>
       <description></description>
     </item>
     

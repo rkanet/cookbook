@@ -11,7 +11,7 @@ tags = ["sladké","ovoce","bez-lepku"]
 
 
 
-### Suroviny na malý pekáč ikea formu (cca 32 x 22 cm)/na velký (38 x30)
+### Suroviny na malý pekáč ikea(cca 32 x 22 cm)/na velký (38 x30)
 
 #### jáhlový korpus 
 - 120g/160g suchých jáhel
