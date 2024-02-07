@@ -12,18 +12,18 @@ draft = true
 +++
 
 # Suroviny
-- 200g mouky schaer Mix B
-- 50g rýžové mouky polohrubé Adveni
-- 50g pohankové mouky Adveni
-- 50g Jizerka (bylo Adveni modré universální směsi)
+- 200 g mouky schaer Mix B
+- 50 g rýžové mouky polohrubé Adveni
+- 50 g pohankové mouky Adveni
+- 50 g Jizerka (bylo Adveni modré universální směsi)
 - 50 g mletého slunečnicového semínka
 - 4 lžíce mletého zlatého semínka spařeného
 - 3 lžíce zakysané smetany
-- 30ml lněného oleje
+- 30 ml lněného oleje
 - 1ČL soli
 - sáček sušeného droždí
 - 2 lžičky kypřícího prášku
-- 350ml vody
+- 350 ml vody
 - semínka na posypání
 # Postup
 <!--nejprve v míse důkladně promíchejte všechny sypké suroviny, přidejte mleté spařené lněné semínko, zakysanou smetanu a část vody.

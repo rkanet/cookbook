@@ -1,7 +1,7 @@
 
 +++
 date = "2024-01-17T20:21:19+01:00"
-title = "Luštěninová omáčka k rýži"
+title = "Čočková omáčka k rýži"
 autor = "R.R."
 imgsrc = "/img/lusteninova-omacka-k-ryzi.jpg"
 imghref = "/recepty/"

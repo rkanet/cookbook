@@ -12,20 +12,20 @@ tags = ["slané","pečivo","bez-lepku"]
 # Suroviny
 
 
-- 200 g cirnová mouka
-- cca 400 g voda
+- 200 g cizrnová mouka
+- 400 g voda (cca)
 - 2 PL olej
 - 100 g bílý jogurt
-- zelenina (paprika, rajče, cibule, cuketa...)
-- sůl a koření
+- zelenina (paprika, rajče, cibule, cuketa, špenát...)
+- sůl a koření, česnek
 
 # Postup
-1. cizrnu zalijeme vodou a necháme cca hodinu stát (případně nechávám i přes noc v lednici)
-2. nakrájíme zeleninu
-3. smícháme všechny ingeredience a přidáme zeleninu
-4. pečeme na pekáčku vyloženém pečícím papírem 
+1. cizrnovou mouku zalijeme vodou a necháme stát (případně nechávám i přes noc v lednici)
+2. nakrájíme zeleninu, je-li čas krátce orestuju kvůli chuti
+3. k mouce s vodu přidáme koření sůl a jogurt, dobře promícháme
+4. vyložíme pekáček peč. Papírem, poklademe zeleninou a zalijeme cizrnovou „kašičkou“
 
 # Poznámky
-Lépe se krájí vychladle. Dobré je koření kari korma z Lidlu. Dávají se i rozmixované kešu...
+Lépe se krájí vychladlé. Dobré je koření kari korma z Lidlu. Dávají se i rozmixované kešu...
 <!--
 -->

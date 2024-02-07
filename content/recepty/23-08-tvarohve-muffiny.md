@@ -9,26 +9,26 @@ ingredience = ["mouka", "jablko"]
 tags = ["sladké","bez-lepku"]
 +++
 
-# Suroviny na 12ks muffinu
+# Suroviny na 12 ks muffinů
 
 - 2 vejce
 - 90g třtinového cukru
 - 1 vanilkovy cukr
 - 75 ml oleje
-- 250g vanickoveho tvarohu (tučný)
+- 250g tvaroh ve vaničce (tučný)
 - 200g mouky
-- 1/2 prasku do peciva
-- 1 rovná ČL skořice do testa 
+- 1/2 prášku do pečiva
+- 1 rovná ČL skořice do těsta
 
 # Postup
-dala jsem do muf. pekace a jeste do papirovych kosicku...
 
-1. smichat zloutky s tvarohem, vanilkovým cukrem a skořicí a olejem 
+1. smíchat žloutky s tvarohem, vanilkovým cukrem a skořicí a olejem 
 2. smíchat mouku s kypřícím práškem
-3. ušlehat snih z bilku a a pak do něj zašlehat cukr
-4. Smíchat mouku s tvarohovou částí a nakonec opatrně vmíchat sníh
-4. Pomocí dvou polevkových lžic dávkujeme do formiček, přidat ždibek marmelády/povidel a kousek jablíčka navrch
-5. pečeme v předehřáte troubě 200 stupňů, asi 25minut 
+3. ušlehat sníh z bílků a a pak do něj zašlehat cukr
+4. smíchat mouku s tvarohovou částí a nakonec opatrně vmíchat sníh
+4. pomocí dvou polevkových lžic dávkujeme do formiček, 
+5. navrch přidat ždibek marmelády/povidel a kousek jablíčka 
+6. pečeme v předehřáte troubě 200 stupňů, asi 25minut 
 
 
 
@@ -36,7 +36,9 @@ dala jsem do muf. pekace a jeste do papirovych kosicku...
 
 # Poznámky
 Do muffinové formy používám ještě papírové vložky, ale lze i rovnou do vymazané a moukou vysypané formy.
-Bezlepkové vyzkoušeno zatím z Jizerky (zlaté) a 2PL pohankové mouky. Do bezlepkového dávám 4-5PL mléka než vmíchám sníh. Zkouseli jsme i kakaove plus 15g kakaa, je treba pridat vice mleka.
+Bezlepkové vyzkoušeno zatím z Jizerky (zlaté) a 2PL pohankové mouky. Do bezlepkového dávám 4-5PL mléka než vmíchám sníh. 
+Zkoušeli jsme i kakaové tj. plus 15g kakaa, je třeba dát o trohcu víc mléka.
+Z lenosti poslední dobou vynechávám sníh a rozhodně to není o tolik horší o kolik je to jednodušší, prostě to funguje i bez sněhu:)
 
 <!--
 -->

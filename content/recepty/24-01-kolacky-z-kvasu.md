@@ -27,7 +27,7 @@ ráno...
 - 120 g rýžové mouky polohrubé
 - 20 g pohankové hladké
 - 1 vejce a 1 žloutek
-- kůra z chemicky neošetřeného citronu
+- kůra z citronu (chemicky neošetřený)
 - 130 ml mléka
 - 60 g cukru
 - vanilkový (případně vanilínový) cukr
@@ -57,7 +57,8 @@ Cca po 15 minutách potřít rozpuštěným máslem a posypat drobenou. Dopéct 
 # Poznámky
 Těsto vyjde asi na 30ks (dle velikosti). Z části jsem zkusila jablečné šneky, jsou fajn, ale šátečky asi lepší. 
 Nejvíce potěšily jablené, pak povidlav kombinaci s tvarohem a nakonec malinova "marmoška":)
-Tvaroh (byl z vaničky) a marmeládu nastavuji strochou škrobu, aby neteklo. Povidla byla domácí, tak netřeba nastavovat
+Tvaroh (byl z vaničky) a marmeládu nastavuji strochou škrobu, aby neteklo. Povidla byla domácí, tak netřeba nastavovat.
+Při nastavené treplotě se celem rychle přepečou, jedna várka pak po vychladnutí byla tvrdší.
 
 
 <!-- original:

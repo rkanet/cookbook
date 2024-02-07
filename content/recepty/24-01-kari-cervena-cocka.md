@@ -36,7 +36,7 @@ tags = ["slané","bez-lepku","zelenina"]
 4. nakrájíme zeleninu a přidáme k čočce. 
 5. přidáme protlak, kokosovou smetanu , dochutíme rybí omačkou
 6. když je zelenina téměř hotová, dochutíme případně naředíme vodou, je-li příliš husté.
-7. Navrch bylinky čerstvý koriandr, africkou bazalku v nejhorším českou petrželku:),  lze přidat smažený česnek, oříšky....
+7. Navrch bylinky... čerstvý koriandr, africkou bazalku v nejhorším českou petrželku:),  lze přidat smažený česnek, oříšky....
 
 
 <!--

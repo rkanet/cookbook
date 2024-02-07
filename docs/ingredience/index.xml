@@ -6,7 +6,16 @@
     <description>Recent content in Ingredience on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jan 2024 17:26:12 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Feb 2024 15:42:51 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>maso</title>
+      <link>https://rkanet.github.io/kitchen/ingredience/maso/</link>
+      <pubDate>Wed, 07 Feb 2024 15:42:51 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/kitchen/ingredience/maso/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>jablka</title>
       <link>https://rkanet.github.io/kitchen/ingredience/jablka/</link>
@@ -508,15 +517,6 @@
       <pubDate>Fri, 08 Jul 2022 20:24:17 +0200</pubDate>
       
       <guid>https://rkanet.github.io/kitchen/ingredience/ryb%C3%ADz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maso</title>
-      <link>https://rkanet.github.io/kitchen/ingredience/maso/</link>
-      <pubDate>Fri, 08 Jul 2022 12:06:09 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/kitchen/ingredience/maso/</guid>
       <description></description>
     </item>
     

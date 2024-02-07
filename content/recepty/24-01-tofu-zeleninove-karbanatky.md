@@ -16,7 +16,7 @@ Originál od Monči:
 - 1 bílé tofu (uzené) 
 - 2 mrkve střední nastrouhané nahrubo, 
 - 1 cibule najemno (předem orestovaná s trochou soli), 
-- 2PL maizeny-kuk.škrobu, 
+- 2 PL maizeny-kuk.škrobu, 
 - 5-6 PL mouky celozrnné, 
 - sůl, koření (česnek, zázvor, majoránka, koriandr, chilli paprička, bylinky), 
 - olej na smažení 
