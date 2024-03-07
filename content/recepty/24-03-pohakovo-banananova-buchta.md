@@ -6,13 +6,13 @@ autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["",""]
-tags = ["sladké","slané","ovoce","zelenina","polévky","bez-lepku"]
+ingredience = ["banány","kakao"]
+tags = ["sladké","ovoce","bez-lepku"]
 draft = false
 +++
 
 
-# Suroviny (Ikea pekáč Ikea 32 x 22cm)
+# Suroviny (Ikea pekáč 32 x 22cm)
 
 - pohanková mouka	200 g
 - mouka	doves fam plain white 100g 
