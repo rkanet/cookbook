@@ -3,12 +3,12 @@
 date = "2024-01-13T16:47:22+01:00"
 title = "Tofu & zeleninové karbanátky"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/tofu-zleninove-karbanatky.jpg"
 imghref = "/recepty/"
 imgname = "Tofu & zeleninové karbanátky"
 ingredience = ["tofu","mrkev"]
 tags = ["slané","zelenina","bez-lepku"]
-draft = true
+draft = false
 +++
 
 # Suroviny
@@ -22,16 +22,17 @@ Originál od Monči:
 - olej na smažení 
 
 Verze I
-- uzené Tofu Např zn. Lunter 180g nastrohané nahrubo
-- 2 mrkve strouhané na jemno a jen malá část nahrubo
-- mini kousek celeru
-- malá kořenová petržel
+- uzené Tofu Např zn. Lunter 180g nastrouhané na hrubo
+- 2 mrkve strouhané na jemno a jen malá část na hrubo
+- mini kousek celeru na jemno strouhaný
+- malá kořenová petržel na jemno strouhaná
 - 1 větší cibule najemno (předem orestovaná s trochou soli)
 - cca 5 stroužků česneku (prolisovat)
-- 1PL kopcem kukuř. škrobu
+- 1PL kopcem kukuřičného škrobu
 - 2PL kopcem pohankové mouky
+- 1PL Doves farm plain white
 - olej na smažení cibulky
-- trochu strouhaného eidamu
+- trochu strouhaného eidamu (lze vynechat)
 - sůl
 - kmín, majoránka
 

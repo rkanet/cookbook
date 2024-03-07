@@ -3,7 +3,7 @@
 date = "{{ .Date }}"
 title = ""
 autor = "R.R."
-imgsrc = "/img/*.jpg"
+imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["",""]

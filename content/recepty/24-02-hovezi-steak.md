@@ -2,7 +2,7 @@
 +++
 date = "2024-02-07T15:42:51+01:00"
 title = "Hovězí steak"
-autor = "R.R."
+autor = "J.R."
 imgsrc = "/img/rib-eye-steak.jpg"
 imghref = "/recepty/"
 imgname = "Hovězí steak"
