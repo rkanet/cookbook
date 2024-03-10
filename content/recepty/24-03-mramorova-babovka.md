@@ -1,25 +1,25 @@
 
 +++
 date = "2024-03-07T18:50:58+01:00"
-title = "Marmorová bábovka"
+title = "Šlehačková bábovka"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/babovka-slehackova-blp.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["",""]
-tags = ["sladké","slané","ovoce","zelenina","polévky","bez-lepku"]
+ingredience = ["mouka","šlehačka"]
+tags = ["sladké","bez-lepku"]
 draft = false
 +++
 
 
 # Suroviny
 - 3 vejce
-- 200 ml smetany ke šlehání
+- 200 ml smetany ke šlehání cca (190g)
 - 180 g sladidla
-- balíček kypřícího prášku (12g)
-- 240 g  mouky Nutrifree Dolci
+- balíček kypřícího prášku (10g)
+- 240 g  mouky Nutrifree Dolci (dala jsem 260)
 - vanilkový cukr 
-- 1PL kakaa
+- 1PL kakaa (20g)
 - trocha mléka (na rozmíchání kakaa)
 
 # Postup
@@ -31,6 +31,7 @@ draft = false
 6. Pečeme na 180 stupňů asi 45 minut. (kontrola špejlí)
 
 # Poznámky
-Zkusit přidat trochu rumu, asi do kakaové vrstvy.
+Zkusit přidat trochu rumu, asi do kakaové vrstvy. Hmota byla velmi tekutá, přidala jsem oproti receptu 20g mouky a i tak byla řídká. Bábovka nakonec přes všechny obavy mod dobrá!
+
 
 <!-- --> 
