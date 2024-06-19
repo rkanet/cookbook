@@ -10,30 +10,28 @@ ingredience = ["rybíz","tvaroh","mouka"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
 +++
 
-# Suroviny (pekáč Ikea 32 x 22 cm)
-Těsto tvarohové s olejem 
-- 300g hl. mouky
-- 1 kypř. prášek
-- 150g tavrohu
-- 6PL mléka
-- 6 Pl oleje
-- 75 g cukru
-- 1 bal. vanilk cukru
-- špetka soli
-Toto původní těsto zatím nevyzkoušeno tj. ani není přepočteno na malou formu a nemá blp verzi. Zatím jsem použila
- těsto z rychlého  [jogurtového koláče](recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/).
+# Suroviny na malý ikea pekaáč (cca 32 x 22 cm)/na velký (38 x30)
+Těsto z rychlého  [jogurtového koláče](recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/):
+
+- 250g jogurt hollandia /400g
+- 1 ks vejce/ 1,6 ks
+- 100g třtinového cukru /160g
+- 1 ks vanilkový cukr (10-20g)/1,5 balíčku
+- 140g mouka (1PL kopcem pohanková hladká, 2PL Doves Farm směs bílá, zbytek Jizerka)/ 225g
+- 2 rovné ČL kypřícího prášku/ 3ČL
+
 
 Nádivka
- - 500g tvarohu
- - 300g červ. rybízu
- - 1 vanilkový cukr
- - 2 žloutky
- - 40 g solamylu
+ - 500g tvarohu/ 800 (zkusit 750g, aby vyšlo na balení)
+ - 300g červ. rybízu/480g
+ - 1 vanilkový cukr /1,5 baličku
+ - 2 žloutky/ 3 žloutky
+ - 40 g solamylu/ 65g 
  
  Sněhová pěna
-  - 2 bílky
-  - 100g cukru
-  - 20g mandlových plátku
+  - 2 bílky/3 ks 
+  - 100g cukru/250g 
+  - 20g mandlových plátku/ 35g
 
 
 # Postup
@@ -49,3 +47,7 @@ Nádivka
   Bez lepku nutno předpéct korpus 15 minut 200 st.
   dělala jsem korpus z 1/2 dávky nádivku z třetiny a sníh opět polovinu.
  ( Bylo to fajn, možná mohlo být víc nádivky, ale stačilo to.)
+ Původní těsto v lepkové verzi bylo "Těsto tvarohové s olejem"
+(300g hl. mouky, 1 kypř. prášek, 150g tvarohu, 6PL mléka, 6 Pl oleje, 75 g cukru, 1 vanilkový cukr, špetka soli)
+Zatím nevyzkoušeno tj. ani není přepočteno na malou formu. Zatím jsem použila
+ těsto z rychlého  [jogurtového koláče](recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/).
