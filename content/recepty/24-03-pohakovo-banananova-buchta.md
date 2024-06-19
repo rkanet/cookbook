@@ -7,22 +7,22 @@ imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["banány","kakao"]
-tags = ["sladké","ovoce","bez-lepku"]
+tags = ["sladké","ovoce","pečivo","bez-lepku"]
 draft = false
 +++
 
 
 # Suroviny (Ikea pekáč 32 x 22cm)
 
-- pohanková mouka	200 g
-- mouka	doves fam plain white 100g 
-- zralé banány	2 ks	
-- zakysaná smetana	200 g
-- olej	100 ml	(dala jsem 10 PL cca 70g)
+- 200g pohanková mouka	
+- 100g  mouka doves fam plain white
+- 2 ks zralé banány		
+- 200g zakysaná smetana (měla jsem 16%)	
+- 100ml olej (dala jsem 10 PL cca 70g)
 - 2 vejce	
 - 60g třtinový cukr	
 - 1 kypřící prášek do pečiva	(dala jsem asi 3/4 ballíčku a stačilo)
-- 1PL kakaa 	
+- 1 PL kakaa 	
 
 
 # Postup
@@ -33,7 +33,7 @@ draft = false
 
 # Poznámky
 Buchta nijak převratná. Bylo to hodně suché, mazali jsme marmeládou, obkládali banány. Chtělo by to nějaký krém, nebo možná zkusit dát více kysané smetany.
-Jednou velkou výhodu má je rychlá:)
+Jednou výhodu má, je rychlá:)
 
 
 <!-- --> 

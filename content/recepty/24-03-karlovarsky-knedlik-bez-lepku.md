@@ -3,7 +3,7 @@
 date = "2024-03-06T19:53:47+01:00"
 title = "Karlovarksý knedlík"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/karlovarsky-knedlik.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["mouka","houska"]

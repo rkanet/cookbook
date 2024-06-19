@@ -41,7 +41,7 @@ tags = ["slané","pečivo","bez-lepku"]
     - 10 g drceného kmínu 
     - záparu  (lněné semínko) a psyllium
 
-4. Těsto propracujeme a necháme cca 30minut odpočinout 
+4. Těsto propracujeme a necháme cca 30 minut odpočinout 
 5. Vyklopíme těsto na pomoučněnou plochu a několikrát přeložíme a vytvarujeme. Přeneseme do vymazané a mouku vysypané formy. 
 7. Těsto nekyne tak dobře, takže nečekáme až zdvojnásobí svůj objem, ale zvedne se ve formě jen cca 3 centimetry (mírně nad okraj formy)
 8. Pečeme celkem asi 45 minut. Z toho 30 minut na 250 st. Pak snižíme teplotu na 220 st a dopékáme.

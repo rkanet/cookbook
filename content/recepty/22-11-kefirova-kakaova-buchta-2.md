@@ -15,10 +15,10 @@ tags = ["sladké","bez-lepku"]
 
 - 350 g mouky Nutrifree Dolci
 - 150 g	cukru krupice
-- 1 rovná Pl	lžíce sody (cca 10g)
+- 1 rovná PL	lžíce sody (cca 10g)
 - 2	lžíce holandského kakaa (cca 30g )
-- 200 ml	oleje (dala jsem slunečnicový)
-- 500 ml	kefírového mléka (dala jsem podmáslí 500g)
+- 200 ml oleje  (cca 167g)
+- 500 ml kefírového mléka (dala jsem podmáslí 500g)
 - 1	vejce 
 
 # Postup
@@ -28,9 +28,9 @@ pečeme v troubě vyhřáté na 180 °C asi 20-25 minut.
 # Poznámky
 Vyzkoušeno z podmáslí a kefírového mléka. 
 Mouka funguje  Nutrifree Dolci nebo Jizerka zlatá ve stejném množství. Jen Jizerka moc ráda dělá hrudky, tak asi raději příště prosýt, nebo šlehačem:)
-Konzistence těsta fajnová. Patří mezi vlhké těsta, což bezlepkovému těstu prospívá. U nás nejvíce chutná prokrojená a namazaná marmeládou. 
+Konzistence těsta fajnová. Patří mezi vlhké těsta, což bezlepkovému těstu prospívá. U nás nejvíce chutná prokrojená a namazaná marmeládou. Dobré též s tvarohem na vrch.
 Zkoušela jsem s polevou z hořké čokolády a bylo to spíše moc hořké. Možná časem vyzkouším s jinou polevou.
-Přidala jsem 1ČL lžičku kopcem perníkového koření Sonnetor, přijde mi to příjemné zpestření. Ne všichni strávnící však souhlasí. 
+Přidala jsem 1ČL lžičku kopcem perníkového koření Sonnetor, přijde mi to příjemné zpestření. Ne všichni strávnící však souhlasí. Lepší asi špetka skořice:)
 
 - **Acidofilní mléko** - obsahuje bakterie Lactobacillus acidophilus, které snižují pH výrobku, takže chuť acidofilního mléka je výrazně kyselá.
 - **Kefír** - obsahuje nejen mléčné bakterie (Leuconostoc, Lactococcus a Aerobacter), ale i kvasinky (rod Kluyveromyces a Saccharomyces), díky kterým je chuť lehce nahořklá a může být dokonce štiplavá a jemně perlivá. Kvašením laktózy v mléku pomocí kvasinek totiž vzniká oxid uhličitý a malé množství alkoholu.

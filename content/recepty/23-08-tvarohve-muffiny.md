@@ -16,9 +16,9 @@ tags = ["sladké","bez-lepku"]
 - 1 vanilkovy cukr
 - 75 ml oleje
 - 250g tvaroh ve vaničce (tučný)
-- 200g mouky
+- 200g mouky (2PL pohankové mouky a Jizerka zlatá)
 - 1/2 prášku do pečiva
-- 1 rovná ČL skořice do těsta
+- skořice do těsta (asi 1 rovná ČL )
 
 # Postup
 
@@ -39,6 +39,7 @@ Do muffinové formy používám ještě papírové vložky, ale lze i rovnou do 
 Bezlepkové vyzkoušeno zatím z Jizerky (zlaté) a 2PL pohankové mouky. Do bezlepkového dávám 4-5PL mléka než vmíchám sníh. 
 Zkoušeli jsme i kakaové tj. plus 15g kakaa, je třeba dát o trohcu víc mléka.
 Z lenosti poslední dobou vynechávám sníh a rozhodně to není o tolik horší o kolik je to jednodušší, prostě to funguje i bez sněhu:)
+Vyzkoušet ušlahat vajíčka z cukrem.
 
 <!--
 -->
