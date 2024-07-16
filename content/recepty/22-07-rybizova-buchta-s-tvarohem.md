@@ -24,7 +24,7 @@ Těsto z rychlého  [jogurtového koláče](recepty/22-07-rychly-jogurtovy-kolac
 Nádivka
  - 500g tvarohu/ 800 (zkusit 750g, aby vyšlo na balení)
  - 300g červ. rybízu/480g
- - 1 vanilkový cukr /1,5 baličku
+ - 1 vanilkový cukr /1,5 balíčku
  - 2 žloutky/ 3 žloutky
  - 40 g solamylu/ 65g 
  
@@ -45,9 +45,5 @@ Nádivka
 
   # Poznámky
   Bez lepku nutno předpéct korpus 15 minut 200 st.
-  dělala jsem korpus z 1/2 dávky nádivku z třetiny a sníh opět polovinu.
- ( Bylo to fajn, možná mohlo být víc nádivky, ale stačilo to.)
- Původní těsto v lepkové verzi bylo "Těsto tvarohové s olejem"
-(300g hl. mouky, 1 kypř. prášek, 150g tvarohu, 6PL mléka, 6 Pl oleje, 75 g cukru, 1 vanilkový cukr, špetka soli)
-Zatím nevyzkoušeno tj. ani není přepočteno na malou formu. Zatím jsem použila
- těsto z rychlého  [jogurtového koláče](recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/).
+  Původní těsto v lepkové verzi bylo "Těsto tvarohové s olejem" (300g hl. mouky, 1 kypř. prášek, 150g tvarohu, 6PL mléka, 6 Pl oleje, 75 g cukru, 1 vanilkový cukr, špetka soli).
+  Nevyzkoušeno tj. ani není přepočteno na moje formy. Zatím jsem použila těsto z rychlého  [jogurtového koláče](recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/).

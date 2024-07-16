@@ -34,16 +34,16 @@ Agar s ovocem
 
 # Postup
 
-1. Uvaříme pudink a dáme vychladnout, přikrytý.
+1. Uvařím pudink a dám vychladnout, přikrytý.
 2. Upečeme korpus:
-    - šleháme sníh z bílků a pak zašleháme cukr
-    - vmícháme žloutky
+    - vyšlehat sníh z bílků a pak zašlehat cukr
+    - jemně vmíchat žloutky
     - nakonec přes sítko opatrně vmícháme mouku
-    - pečeme asi 25 minut (test špejlí)
-3. Připravíme ovoce a namočíme agar
+    - ppéct asi 25 minut (test špejlí)
+3. Připravit ovoce a namočit agar
 4. Až má pudnk i tvaroh pokojovou teplotu, vyšleháme z něj krém.
-5. Vyskládáme ovoce a zalijeme trochu vychladlým agrem.
-6. Dáme do lednice ztuhnout
+5. Vyskládat ovoce a zalit schladlým agarem.
+6. Nechat ztuhnout v lednici.
 
 # Poznámky
 Ještě jsem minimálně 3 lžičky cukru do krému přidala. Agar jsem dala odhadem, bylo to tuhé jak z cukrárny:)

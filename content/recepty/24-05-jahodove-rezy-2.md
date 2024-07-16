@@ -12,7 +12,7 @@ draft = true
 +++
 
 
-# Suroviny na malý ikea pekaáč (cca 32 x 22 cm)
+# Suroviny na malý ikea pekáč (cca 32 x 22 cm)
 Na krém
 - 2 pudinky
 - 600ml mléka

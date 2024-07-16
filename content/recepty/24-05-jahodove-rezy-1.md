@@ -15,7 +15,7 @@ draft = false
 
 
 
-# Suroviny na malý ikea pekaáč (cca 32 x 22 cm)
+# Suroviny na malý ikea pekáč (cca 32 x 22 cm)
 Na krém
 - 2 pudinky
 - 600ml mléka
@@ -23,9 +23,12 @@ Na krém
 - 100g tvarohu ve vaničce
 - 100g povoleného másla
 
-1. V cca 100ml mléka rozmíchejte pudink a cukr
-2. Zbytek přiveďte k var, za stálého míchání vlívejte směs a uvařte hustý pudink
-3. Přetáhneme sáčkem, folií a necháme vychaldnout
+1. Rozmíchat pudink v cca 100ml mléka. 
+2. Zbytek mléka s cukrem přívést k varu. Krátce odstavím z plotny a za stálého míchání vliji rozmíchaný pudink v mléce. 
+3. Uvaříme hustý pudink. 
+4. Přetáhneme sáčkem/folií a necháme vychladnout.
+5. Až je připravený korpus s jahodovou vrstvou pokračujeme s krémem... Vychladlý pudink vyšlehat do hladkého krému s máslem a tvarohem. Tvaroh i maslo musím mít stejnou teplotu jako pudink tj. pokojovou.
+6. Krém nnamazatna vychladlou jahodovou vrstvu a dátr chladit do lednice.
 
 
 Korpus 
@@ -34,12 +37,11 @@ Korpus
 - 80 g mouky 
 - špetka soli
 
-1. šlehat sníh 
-2. zašlehat cukr se sněhem
-3. jemně vmíchat žloutky
-4. nakonec přes sítko postupně lehce mouku do sněhu
-(sítko hlavně u bezlepkového !!!!, jinak hrudky)
-5. upečený piškot necháme vychladnout
+1. Vyšlehat sníh. 
+2. Přidat cukr a vyšlehat cukr se sněhem.
+3. Jemně vmíchat žloutky.
+4. Nakonec přes sítko postupně lehce vmíchat mouku do sněhu (ideal přes sítko, u bezlepkové mouky nezbytné jinak hrudky).
+5. Upečený piškot nechám vychladnout.
 
 
 
@@ -49,12 +51,10 @@ Jahodová vrstva
 - trocha vody na podlití (100ml)
 - 1 ČL lžícka kukuřičného škrobu (dát víc)
 
-1. umyté jahody nakrájíme na menší kousky, oslaďosladíme, podlijeme vodou a dáme vařit (v části vody na podlití rozmícháme škrob)
-2. ještě krátce povařte, šťáva zhoustne a ještě teplé nalijte na upečený korpus
+1. Umyté jahody podliji vodou a dám vařit.
+2. V části vody na podlití rozmíchám škrob, přidám k jahodám.
+2. Krátce povařím až šťáva zhoustne a ještě teplé nalít na upečený korpus.
 
-
-Vychladlý pudink vyšlehejte do hladkého krému s máslem a tvarohem a naneste na vychladlou jahodovou vrstvu. 
-Dáme chladit do ledncice
 
 
 # Poznámky

@@ -7,7 +7,7 @@ imgsrc = "/img/bunbonambo.jpg"
 imghref = "/recepty/"
 imgname = "Bunbonambo"
 ingredience = ["rýžové-nudle","zelenina"]
-tags = ["slané","zelenina","bez-lepku"]
+tags = ["slané","zelenina","bez-lepku","maso"]
 +++
 
 # Suroviny
@@ -33,19 +33,19 @@ zelenina & ostatní:
 - rýžové nudle
 
 # Postup
-1. připravíme maso, předem dělám trhané
+1. připravím maso, předem dělám trhané
 2. připravíme zálivku
- - cesnek krátce osmahneme na trošce tuku (nadrcený), 
- - zalijeme vodou a krátce povaříme s ostatníma surovinama.
- - přecedíme pres sitko, aby tam, nenyly kousky cesneku.
-3. uvaříme rýžové nudle dle návodu
-4. servírujeme
+ - česnek krátce osmahnu na trošce tuku (nadrcený), 
+ - zaliju vodou a krátce povařím s ostatníma surovinama.
+ - přecedíme pres sítko, aby tam, nebyly kousky česneku.
+3. uvařím rýžové nudle dle návodu
+4. servírování
 
 
 
 
 # Poznámky
-Perilu mám vzácně v létě kdy ji pěstuji, jinak vynechávám. restovanou cibulku také někdy z lenosti vynechávám. Jako náhrada minutkového masa používám dlouho pomalu vařené veprove nebo krůtí stehenní, co se nakonec rozpadne na vlákna.  Výrazně ochucené, pridávám do nej pepř a rybí omácku.
+Perilu mám vzácně v létě kdy ji pěstuji, jinak vynechávám. Restovanou cibulku také někdy z lenosti vynechávám. Jako náhrada minutkového masa používám dlouho pomalu vařené vepřové nebo krůtí stehenní, co se nakonec rozpadne na vlákna.  Výrazně ochucené, pridávám do něj pepř a rybí omáčku.
 
 
 

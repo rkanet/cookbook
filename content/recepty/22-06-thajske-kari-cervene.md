@@ -1,8 +1,6 @@
 +++
 date = "2022-06-23T09:59:39+02:00"
 title = "Thajské červené kari"
-
-
 autor = "R.R."
 imgsrc = "/img/thajske-cervene-kari.jpg"
 imghref = "/recepty/thajske-cervene-kari"

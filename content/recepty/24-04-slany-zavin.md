@@ -15,7 +15,7 @@ draft = false
 # Suroviny
 - 250 kvasu (1:1 pohankova mouka a Doves Fam plain white)
 - 350g mouka Nutrifree (175g Mix per pane, 175g Mix per panne integrale)
-* 250ml smetana ke šlehání 33% 
+- 250ml smetana ke šlehání 33% 
 - 2 vejce (byly zrovna L)
 - menší lžička soli cca 5g
 
@@ -32,6 +32,8 @@ Náplň 2
 - eidam 30% 
 
 # Postup
+1. Zadělám těsto a nechám odležet, ideálně přes noc.
+2. Naplním, zavinu, peču.
 
 
 

@@ -25,6 +25,6 @@ tags = ["sladké","pečivo"]
 # Poznámky
 Je možné vykrajovat i jako cukrovi, navrch kousky jablíček.  Obyčejná marmeláda ráda vytéká. 
 Stejně tak i některá kupovaná povidla tečou.  Ideální jsou prává hustá domácí povidla. 
-Bezlepkovou verzi dělám s vajíčkem. Zatím nejlepší z mouky Mix per Pasta Frolla.
+Bezlepkovou verzi dělám s vajíčkem. Zatím nejlepší z mouky Mix per Pasta Frolla, s tou to jde i bez vajička.
 
 <!--more-->

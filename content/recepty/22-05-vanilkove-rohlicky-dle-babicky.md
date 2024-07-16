@@ -35,7 +35,7 @@ na obalení
 
 Poznámky:
 Vanilínový cukr není překlep. Lze samozřejmě použít i vanilkový cukr, ale tu pravou chuť a vůni babičiných rohlíčků mít nebudou. 
-Do bezlepkového těsta dávám namísto žloutku celé vejce. Bezlepkové mám vyzkoušené s Jizerkou lze přidat 1PL lžíci pohankové.
+Do bezlepkového těsta dávám místo žloutku celé vejce. Bezlepkové mám vyzkoušené s Jizerkou lze přidat 1PL lžíci pohankové.
 A pozor bezlepkové jsou po upečení velmi! křehké. Takže vydržet a nešahat dokud neztuhnou, pak tprve obalit v cukru.
 Do blp dávám trochu vanilínového cukru i do těsta.
 

@@ -14,7 +14,7 @@ tags = ["sladké","pečivo","bez-lepku"]
 Těsto 
 - 4 vejce / 7 vajec
 - 80 g cukru / 140 g
-- 80 g mouky (z toho 1 PL kukuř. škrobu)/140g + 1 PL
+- 80 g mouky (z toho 1 PL kukuř. škrobu)/140g z toho 1 PL škrob
 - špetka soli
 
 Krém:
@@ -41,11 +41,12 @@ Poleva čokoládová:
 - nakonec přes sítko postupně lehce mouku do sněhu
 (sítko hlavně u bezlepkového !!!!, jinak hrudky)
 - upecený piškot necháme vychladnout..
-- uvaříme puding a do horkého vmícháme máslo, krém  rozetreme na piškot
 - suroviny na polevu dáme do kastrulku, zahříváme ve vodní lázni a umícháme hladkou polevu
+- uvaříme puding a hned do horkého vmícháme máslo, krém  krém rozetřeme e na piškot
 - navrch pokryjeme sušenkami a zalijeme čoko polevou
 - necháme odležet v  lednici ideálně do druhého dne
 
 # Poznámky
-- sundám krém z plotny a hned ješte do horkého vmíchám máslo, pak hned naleju na korpus, na to sušenky a polevu. 
-- Když jsme nemohli použít kakao kvůli antibakteriální dietě, dělala jsem polevu i z Granka. Dala jsem Granka dvojnásobné množství než kakaa. Cukr jen malinko dle chuti. Granko lepší verze s více kakaem.
+Sundám krém z plotny a hned ješte do horkého vmíchám máslo, pak hned naleju na korpus, na to sušenky a polevu. 
+Když jsme nemohli použít kakao kvůli antibakteriální dietě, dělala jsem polevu i z Granka. Dala jsem Granka dvojnásobné množství než kakaa. Cukr jen malinko dle chuti. Lepší verze s více kakaem.
+Korpus v originále (lepek) byl: 4 vejce, 160 g cukru, 160 g polohrubé mouky, 1/2 balícku prášku do pečiva.
