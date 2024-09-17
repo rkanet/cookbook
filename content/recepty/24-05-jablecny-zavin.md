@@ -1,22 +1,45 @@
 
 +++
 date = "2024-06-07T22:52:39+02:00"
-title = "Jablečný závin"
+title = "Jablečný závin z kysané smetany"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/jablecny-zavin-kysana-smetana.jpg"
 imghref = "/recepty/"
-imgname = ""
+imgname = "zavin"
 ingredience = ["jablka","mouka"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
-draft = true
+draft = false
 +++
 
 
-# Suroviny
+# Suroviny na 2 záviny
+Základ
+- 330g mouky Nutrifree Per Pane
+- 190g zakysané smetany De Luxe Kunín 20% (jedno balení)
+- 2 vajíčka (Lidl velikost L)
+- na náplň jablka strouhaná na hrubo
+- skořice na posypání těsta pod jablka
+
+Volitelné
+- mám-li podsypu jablka trochou mletých blp piškotů
+- ořechy posypat těsto pod jablka 
+- pokud jsou jablka kyselá posypu před zabalením trochou cukru
+- rozpuštěné máslo nebo vajíčko na potření závinu
+- na vrch závin poyspat plátky mandlí (předem potřený vajíčkem)
+
 
 # Postup
+1. Všechny suroviny smíchat a  vypracovat hladké těsto.
+2. Těsto rozdělíme 2 poloviny, každou rozváláme, naplníme jablky a smotáme. 
+3. Pečeme na cca 200 stupňů až povrch ze zlátne (přibližně 30 minut)
 
 # Poznámky
+Těsto se na počátku zdá dost suché, ale nakonec jde smíchat a má dobrou konzistenci. 
+Nejraději dávám odležet do lednice přes noc. Lze péct rovnou, nezkoušela jsem.
+Potřené máslem bylo moc dobré, potírala jsem před vložením do trouby a pak ještě jednou před koncem pečení.
+Mouky vyzkoušeno verze 1: 50g pohanková hladká, 100g Nutrifree Per Pane, 180g Nutrifree Per Dolci.
+
+
 
 <!-- Zdroj: Když jsem před čtyřmi lety začínala s bezlepkovým pečením, nakoupila jsem si domů x druhou různých směsí a tenkrát zakotvila hned po prvním víkendu u mouky Schar mix B. Podle mě je to mouka, ze které vykouzlíte naprosto všechno. Já se naprosto dobrovolně přiznávám, že nesnáším mít doma rozděláno několik balíčků různých jednodruhovek a směsí. Pro mě je prostě ideální jedna universální směs a tou pravou je právě Schar. Do nedávna jsem z ní pekla i vánoční cukroví, ale letos jsem přesedlala na Nutrifree Frollu, která je nepochybně na cukroví lepší.
 
