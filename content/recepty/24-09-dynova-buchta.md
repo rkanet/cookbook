@@ -17,7 +17,7 @@ draft = false
 - 300 g mouka 
     - 50g pohanková
     - 50g rýžová polohrubá
-    - 200g Nutrifree per dolci
+    - 200g Nutrifree Per Dolci
 - 1 balení kypřícího prášku    
 - 3 vejce / 2 vejce 
 - 20g kakao /40g kakaa
