@@ -1,4 +1,4 @@
-baseURL = "https://rkanet.github.io/kitchen"
+baseURL = "https://rkanet.github.io/cookbook"
 publishdir = "docs"
 languageCode = "en-us"
 title = "Kitchen"

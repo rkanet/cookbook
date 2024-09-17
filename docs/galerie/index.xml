@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galerie on Kitchen</title>
-    <link>https://rkanet.github.io/kitchen/galerie/</link>
+    <link>https://rkanet.github.io/cookbook/galerie/</link>
     <description>Recent content in Galerie on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2017 09:59:39 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/galerie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2017 09:59:39 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/galerie/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tapioka on Kitchen</title>
-    <link>https://rkanet.github.io/kitchen/ingredience/tapioka/</link>
+    <link>https://rkanet.github.io/cookbook/ingredience/tapioka/</link>
     <description>Recent content in tapioka on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2023 22:25:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/kitchen/ingredience/tapioka/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2023 22:25:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/tapioka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tapioka dezert</title>
-      <link>https://rkanet.github.io/kitchen/recepty/23-08-tapioka-dezert/</link>
+      <link>https://rkanet.github.io/cookbook/recepty/23-08-tapioka-dezert/</link>
       <pubDate>Thu, 20 Jul 2023 22:25:39 +0200</pubDate>
       
-      <guid>https://rkanet.github.io/kitchen/recepty/23-08-tapioka-dezert/</guid>
+      <guid>https://rkanet.github.io/cookbook/recepty/23-08-tapioka-dezert/</guid>
       <description>Suroviny Doplnit
 Postup Oproti pudinku se po uvaření propláchnou, zbaví se tak škrobové slizo vrstvy.
 Poznámky </description>
@@ -20,10 +20,10 @@ Poznámky </description>
     
     <item>
       <title>Tapioka pudink</title>
-      <link>https://rkanet.github.io/kitchen/recepty/23-08-tapioka-pudink/</link>
+      <link>https://rkanet.github.io/cookbook/recepty/23-08-tapioka-pudink/</link>
       <pubDate>Thu, 20 Jul 2023 22:25:39 +0200</pubDate>
       
-      <guid>https://rkanet.github.io/kitchen/recepty/23-08-tapioka-pudink/</guid>
+      <guid>https://rkanet.github.io/cookbook/recepty/23-08-tapioka-pudink/</guid>
       <description>Suroviny na cca 8 ks 200g tapioka perel 1 litr mléko/voda 1:1
 Postup Poznámky </description>
     </item>
