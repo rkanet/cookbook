@@ -7,6 +7,7 @@ imgsrc = "/img/babovka-slehackova-blp.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["mouka","šlehačka","kypřící-prášek"]
+kategorie = ["moučníky"]
 tags = ["sladké","bez-lepku"]
 draft = false
 +++

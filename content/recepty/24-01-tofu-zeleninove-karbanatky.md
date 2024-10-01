@@ -7,6 +7,7 @@ imgsrc = "/img/tofu-zleninove-karbanatky.jpg"
 imghref = "/recepty/"
 imgname = "Tofu & zeleninové karbanátky"
 ingredience = ["tofu","mrkev"]
+kategorie = ["hlavní-jídla"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false
 +++

@@ -74,6 +74,23 @@
 
                                         </li>
                                         
+                                        <li></li>
+
+                                            <!-- Excerpt -->
+                                                <article class="box excerpt">
+                                                    <header>
+                                                        <span class="date">Kategorie</span>
+                                                         <!--<h3><a href="#">Příprava</a></h3>-->
+                                                    </header>
+                                                    <ul id="taxonomy">-
+                                                        {{ range $name, $taxonomy := .Site.Taxonomies.kategorie.ByCount }}
+                                                          <a href="/kategorie/{{ $taxonomy.Name | urlize }}/"> {{ $taxonomy.Name}}</a> -
+                                                        {{ end }}
+                                                      </ul>
+                                                    
+                                                </article>
+
+                                        </li>
                                     </ul>
                                 </section>
                             

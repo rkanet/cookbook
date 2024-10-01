@@ -7,6 +7,7 @@ imgsrc = "/img/kure-na-paprice-v-troube.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["kuře"]
+kategorie = ["hlavní-jídla"]
 tags = ["slané","zelenina","maso","bez-lepku"]
 draft = false
 +++

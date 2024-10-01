@@ -7,6 +7,7 @@ imgsrc = "/img/tvarohova-panna-cotta.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["tvaroh","želatina"]
+kategorie = ["moučníky"]
 tags = ["sladké","ovoce","bez-lepku"]
 draft = false
 +++

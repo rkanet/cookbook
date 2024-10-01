@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["",""]
-tags = ["sladké","slané","ovoce","zelenina","polévky","bez-lepku"]
+ingredience = ["švestky"]
+tags = ["sladké","bez-lepku"]
 draft = true
 +++
 

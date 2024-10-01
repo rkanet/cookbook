@@ -7,6 +7,7 @@ imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["cuketa","brambory"]
+kategorie = ["přílohy"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = true
 +++

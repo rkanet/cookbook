@@ -7,6 +7,7 @@ imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["tofu",""]
+kategorie = ["hlavní-jídla"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = true
 +++

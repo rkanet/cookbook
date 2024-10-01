@@ -7,6 +7,7 @@ imgsrc = "/img/falafel.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["cizrna","petržel","koriandr"]
+kategorie = ["přílohy"]
 tags = ["slané","bez-lepku"]
 draft = false
 +++

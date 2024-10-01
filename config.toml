@@ -12,6 +12,7 @@ preserveTaxonomyNames = true
 [taxonomies]
 	priprava = "priprava"
 	igredience = "ingredience"
+	kategorie = "kategorie"
 	tag = "tags"
 	taxomony = "taxomonies"
 

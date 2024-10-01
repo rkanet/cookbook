@@ -7,6 +7,7 @@ imgsrc = "/img/karlovarsky-knedlik.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["mouka","houska"]
+kategorie = ["přílohy"]
 tags = ["slané","bez-lepku"]
 draft = false
 +++

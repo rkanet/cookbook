@@ -7,6 +7,7 @@ imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["mouka","lněné-semínko","droždí"]
+kategorie = ["přílohy"]
 tags = ["slané","bez-lepku"]
 draft = true
 +++

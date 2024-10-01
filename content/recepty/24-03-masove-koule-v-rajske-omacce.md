@@ -7,6 +7,7 @@ imgsrc = "/img/masove-koule-v-rajcatove-omacce.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["maso","rajčata"]
+kategorie = ["hlavní-jídla"]
 tags = ["slané","zelenina","bez-lepku","maso"]
 draft = false
 +++

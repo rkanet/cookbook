@@ -7,6 +7,7 @@ imgsrc = "/img/miso-rychla-s-vejcem.jpg"
 imghref = "/recepty/"
 imgname = "Miso"
 ingredience = ["miso","vejce", "rýžové nudle"]
+kategorie = ["polévky"]
 tags = ["slané","zelenina","polévky","bez-lepku"]
 +++
 

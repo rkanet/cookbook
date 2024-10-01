@@ -7,6 +7,7 @@ imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["banány","kakao"]
+kategorie = ["moučníky"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
 draft = false
 +++

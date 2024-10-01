@@ -7,6 +7,7 @@ imgsrc = "/img/ryzove-placky-s-kvaskem.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["rýže","kvásek"]
+kategorie = ["přílohy"]
 tags = ["slané","zelenina","bez-lepku"]
 +++
 

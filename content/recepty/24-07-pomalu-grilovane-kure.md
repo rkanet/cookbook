@@ -7,6 +7,7 @@ imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["kuře",""]
+kategorie = ["hlavní-jídla"]
 tags = ["sladké","slané","ovoce","zelenina","polévky","bez-lepku"]
 draft = true
 +++

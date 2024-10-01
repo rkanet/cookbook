@@ -7,6 +7,7 @@ imgsrc = "/img/zapeceny-kvetak.jpg"
 imghref = "/recepty/"
 imgname = "kvetak"
 ingredience = ["květák","sýr"]
+kategorie = ["přílohy","hlavní-jídla"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false
 +++

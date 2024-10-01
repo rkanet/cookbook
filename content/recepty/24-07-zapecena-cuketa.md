@@ -7,6 +7,7 @@ imgsrc = "/img/zapecena-cuketa.jpg"
 imghref = "/recepty/"
 imgname = "cuketa"
 ingredience = ["cuketa","rajče","sýr"]
+kategorie = ["přílohy"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false
 +++

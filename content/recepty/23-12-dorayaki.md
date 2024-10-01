@@ -2,10 +2,11 @@
 date = "2023-12-21T22:40:39+01:00"
 title = "Dorayaki"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/dorayaki.jpg"
 imghref = "/recepty/"
 imgname = "Dorayaki"
 ingredience = ["fazole","mouka","vejce"]
+kategorie = ["moučníky"]
 tags = ["sladké","bez-lepku"]
 +++
 

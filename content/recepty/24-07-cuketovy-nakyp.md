@@ -3,10 +3,11 @@
 date = "2024-07-26T19:12:41+02:00"
 title = "Cuketový nákyp"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/cuketovy-nakyp.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["cuketa","brambory"]
+kategorie = ["přílohy"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false
 +++
