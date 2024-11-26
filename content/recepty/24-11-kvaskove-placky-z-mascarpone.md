@@ -9,13 +9,13 @@ imgname = ""
 ingredience = ["mascarpone","rozmarýn"]
 kategorie = ["přílohy"]
 tags = ["slané","pečivo","bez-lepku"]
-draft = true
+draft = false
 +++
 
 
 # Suroviny
 - 250g mascarpone (50g kysané zmetany, zbytek)
-- 250g mouka (125g Doves farm +125g pohanková hladká)
+- 250g mouka (125 g Doves farm +125 g pohanková hladká)
 - 2PL spařených lněných semínek (přidá i trochu vody)
 - 15g sůl
 - 1ČL kmín
@@ -31,7 +31,7 @@ draft = true
 
 # Poznámky
 Těsto se celkem trhá, proto ho nerozvaluji, ale ručně tvaruju na plech. Zase tam není moc xantanových a jiných gumo přísad:)
-Protože mascarpone má hosně tuku (asi 80%) jsou placky mnohem křehčí než náš klasický recept pouze z mouky, kvásku a vody. 
+Protože mascarpone má hodně tuku (asi 80%) jsou placky mnohem křehčí než náš klasický recept pouze z mouky, kvásku a vody. 
 Olivy a rozmarýn skvělá osvědčená kombinace:)
 
 <!-- --> 

@@ -1,7 +1,7 @@
 
 +++
 date = "2024-11-22T22:20:00+01:00"
-title = ""
+title = "Kuřecí křídla v troubě"
 autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
@@ -14,19 +14,22 @@ draft = true
 
 
 # Suroviny
-1,2 kg kuřecích křídel
-2 lžíce oleje
-1 zarovnaná lžička soli
-2 lžičky sladké papriky
-1/2 lžičky římského kmínu (celého)
-špetka drceného chilli
-špetka čerstvě mletého pepře
+- 1,2 kg kuřecích křídel
+- 2 lžíce oleje
+- 1 zarovnaná lžička soli
+- 2 lžičky sladké papriky
+- 1/2 lžičky římského kmínu (celého)
+- špetka drceného chilli
+- špetka čerstvě mletého pepře
 Na marinádu:
-6 odměrných lžic (90 ml) sojové omáčky
-6 lžic medu
-6 stroužků česneku
-3cm kousek čerstvého zázvoru
-# Postup Florentýna
+- 6 lžic (90 ml) sojové omáčky
+- 6 lžic medu
+- 6 stroužků česneku
+- 3cm kousek čerstvého zázvoru
+
+# Postup
+
+<!-- Florentýna
 
 Kuřecí křídla opláchněte ve studené vodě, nechte okapat a oschnout, případně je jemně osušte papírovými utěrkami.
 V kloubech každý kus křídla rozdělte na jednotlivé části. Tenké špičky, tedy koncovou část křídel, dávejte po oddělení stranou, pro tento recept se nehodí. Nemáte-li pro ně hned využití do vývaru, uložte je do mrazáku, kde můžou počkat, až tato příležitost nastane.
@@ -40,6 +43,7 @@ Po dopečení vyjměte plech z trouby a každý kousek masa uvolněte ode dna. P
 # Poznámky
 Finále se hned připaluje 200 st. je nutno pravdu hlidat, rozuměj sedět u trouby:).
 Příště přecedit marinádu, aby v ní nebyly kousky česneku, nic moc to nepřidává a možná se to o to víc připaluje.
-Dělala jsem cca dvojitou dávku , měla jsem křídla už zbavená koncový špičatých částá (letek) cca 4x500g balení.
+Dělala jsem cca dvojitou dávku , měla jsem křídla už zbavená koncový špičatých částá (letek) cca 4x500g balení.--> 
 
+# Poznámky
 <!-- --> 
