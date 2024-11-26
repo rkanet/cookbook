@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/bezlepkovy-mazanec-cuketka.jpg"
 imghref = "/recepty/"
 imgname = "mazanec"
+kategorie = ["moučníky"]
 ingredience = ["mouka","mandle"]
 tags = ["sladké","pečivo","bez-lepku"]
+
 +++
 
 # Suroviny

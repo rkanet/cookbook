@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/krtkuv-dort-blp.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["",""]
 kategorie = ["moučníky"]
+ingredience = ["banán","kakao"]
 tags = ["sladké","ovoce","bez-lepku"]
 draft = false
 +++

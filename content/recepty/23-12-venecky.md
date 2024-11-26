@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/venecky.jpg"
 imghref = "/recepty/"
 imgname = "Věnečky"
+kategorie = ["moučníky"]
 ingredience = ["mouka","vejce"]
 tags = ["sladké","bez-lepku","pečivo"]
+
 +++
 
 # Suroviny asi 10ks

@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/kolac-kys-smet.jpg"
 imghref = "/recepty/"
 imgname = "Koláč ze zakysané smetany"
+kategorie = ["moučníky"]
 ingredience = ["mouka","kysaná-smetana"]
 tags = ["sladké","pečivo","bez-lepku"]
+
 +++
 
 # Suroviny pekáč Ikea 32x22 cm

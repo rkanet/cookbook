@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/bebe-rezy-bezlepkove.jpg"
 imghref = "/recepty/"
 imgname = "Bebe řezy"
+kategorie = ["moučníky"]
 ingredience = ["sušenky","kakao","pudink"]
 tags = ["sladké","pečivo","bez-lepku"]
+
 +++
 
 # Suroviny na malý ikea pekaáč (cca 32 x 22 cm)/na velký (38 x30)

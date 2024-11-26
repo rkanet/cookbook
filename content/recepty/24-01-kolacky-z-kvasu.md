@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/kvaskove-kolacky.jpg"
 imghref = "/recepty/"
 imgname = "Kváskové koláčky"
+kategorie = ["moučníky"]
 ingredience = ["kvásek","jablka","povidla","tvaroh"]
 tags = ["sladké","ovoce","bez-lepku","pečivo"]
+
 draft = false
 +++
 

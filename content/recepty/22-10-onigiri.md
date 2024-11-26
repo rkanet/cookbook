@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/onigiri.jpg"
 imghref = "/recepty/"
 imgname = "Onigiri"
+kategorie = ["hlavní-jídla"]
 ingredience = ["rýže","ryby"]
 tags = ["slané","bez-lepku","maso"]
 +++

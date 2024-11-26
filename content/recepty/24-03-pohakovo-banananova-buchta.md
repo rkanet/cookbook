@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["banány","kakao"]
 kategorie = ["moučníky"]
+ingredience = ["banány","kakao"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
 draft = false
 +++
@@ -33,7 +33,7 @@ draft = false
 4. Pečeme na 180st asi 30minut
 
 # Poznámky
-Buchta nijak převratná. Bylo to hodně suché, mazali jsme marmeládou, obkládali banány. Chtělo by to nějaký krém, nebo možná zkusit dát více kysané smetany.
+Buchta nijak převratná. Bylo to hodně suché, mazali jsme marmeládou, obkládali banány. Chtělo by to nějaký krém, nebo možná zkusit dát více kysané smetany, máslo.
 Jednou výhodu má, je rychlá:)
 
 

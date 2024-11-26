@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/jahlovo-jablecny-dezert.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["jablka","jáhly"]
 kategorie = ["moučník"]
+ingredience = ["jablka","jáhly"]
 tags = ["sladké","ovoce","bez-lepku"]
 draft = false
 +++

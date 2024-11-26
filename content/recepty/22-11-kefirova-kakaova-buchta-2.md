@@ -7,8 +7,10 @@ autor = "R.R."
 imgsrc = "/img/kefirova-buchta-kakaova-2.jpg"
 imghref = "/recepty/"
 imgname = "kefírová buchta II"
+kategorie = ["moučníky"]
 ingredience = ["kakao","kefír","podmáslí"]  
 tags = ["sladké","bez-lepku"]
+
 +++
 
 # Suroviny (forma Ikea 38x30cm)

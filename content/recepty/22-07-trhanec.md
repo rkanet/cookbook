@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/trhanec.jpg"
 imghref = "/recepty/"
 imgname = "Trhanec"
+kategorie = ["moučníky","hlavní-jídla"]
 ingredience = ["jablka","vejce","mandle","mouka"]
 tags = ["sladké","ovoce","bez-lepku"]
+
 
 +++
 

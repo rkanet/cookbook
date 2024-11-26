@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/hamburgrove-housky-brambor.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["droždí",""]
 kategorie = ["přílohy"]
+ingredience = ["droždí",""]
 tags = ["slané","pečivo","bez-lepku"]
 draft = false
 +++

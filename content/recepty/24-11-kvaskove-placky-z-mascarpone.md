@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/kvaskove-placky-z-mascarpone.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["mascarpone","rozmarýn"]
 kategorie = ["přílohy"]
+ingredience = ["mascarpone","rozmarýn"]
 tags = ["slané","pečivo","bez-lepku"]
 draft = false
 +++

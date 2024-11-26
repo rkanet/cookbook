@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/vosi-hnizda.jpg"
 imghref = "/recepty/"
 imgname = "Vosí hnízda"
+kategorie = ["moučníky"]
 ingredience = ["piškoty","máslo","mouka","kakao"]
 tags = ["sladké","bez-lepku"]
+
 +++
 
 # Suroviny 30ks

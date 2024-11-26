@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/*.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["",""]
+kategorie = ["moučníky"]
+ingredience = ["kefír","ovoce"]
 tags = ["sladké","ovoce","bez-lepku"]
+
 draft = true
 +++
 

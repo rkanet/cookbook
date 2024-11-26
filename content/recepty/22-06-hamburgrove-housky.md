@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/hamburgrove-housky-lateta.jpg"
 imghref = "/recepty/"
 imgname = "Hamburgrové housky"
+kategorie = ["přílohy"]
 ingredience = ["mouka","droždí","tanzhong"]
 tags = ["slané","pečivo","bez-lepku"]
 

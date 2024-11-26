@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/tvarohovy-dort-jahody.jpg"
 imghref = "/recepty/tvarohovy-dort-jahody"
 imgname = "Jahodový dort"
+kategorie = ["moučníky"]
 ingredience = ["tvaroh","jahody"]
 tags = ["sladké","ovoce","bez-lepku"]
+
 
 +++
 

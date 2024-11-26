@@ -6,8 +6,9 @@ autor = "R.R."
 imgsrc = "/img/bunbonambo.jpg"
 imghref = "/recepty/"
 imgname = "Bunbonambo"
+kategorie = ["hlavní-jídla"]
 ingredience = ["rýžové-nudle","zelenina"]
-tags = ["slané","zelenina","bez-lepku","maso"]
+tags = ["slané","zelenina","bez-lepku","maso","bez-lepku"]
 +++
 
 # Suroviny

@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/pecena-jablka.jpg"
 imghref = "/recepty/"
 imgname = "Pečená jablka"
+kategorie = ["moučníky"]
 ingredience = ["jablka"]
 tags = ["sladké","bez-lepku"]
 +++

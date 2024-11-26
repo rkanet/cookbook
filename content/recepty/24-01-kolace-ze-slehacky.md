@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/*.jpg"
 imghref = "/recepty/"
 imgname = ""
+kategorie = ["moučníky"]
 ingredience = ["",""]
 tags = ["sladké","ovoce","bez-lepku"]
+
 draft = true
 +++
 

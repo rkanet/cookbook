@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/buchta_dynova.jpg"
 imghref = "/recepty/"
 imgname = "Buchta dýňová"
+kategorie = ["moučníky"]
 ingredience = ["mouka","dýně","ořechy"]
 tags = ["sladké","bez-lepku"]
 +++

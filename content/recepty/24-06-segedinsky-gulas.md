@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/segedin.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["zelí"]
 kategorie = ["hlavní-jídla"]
+ingredience = ["zelí"]
 tags = ["slané","maso","bez-lepku"]
 draft = false
 +++

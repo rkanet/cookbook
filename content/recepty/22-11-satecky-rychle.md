@@ -6,10 +6,12 @@ autor = "R.R."
 imgsrc = "/img/satecky-rychle.jpg"
 imghref = "/recepty/"
 imgname = "Šátečky"
+kategorie = ["moučníky"]
 ingredience = ["mouka", "povidla"]
 tags = ["sladké","pečivo","bez-lepku"]
+
 +++
 
-# Suroviny
-# Postup
+
 # Poznámky
+Někde se zatoulal recept.

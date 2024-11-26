@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = "Toustový chléb"
+kategorie = ["přílohy"]
 ingredience = ["mouka", "kysaná smetana"]
 tags = ["slané","pečivo"]
 +++

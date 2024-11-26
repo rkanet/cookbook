@@ -6,6 +6,7 @@ imgsrc = "/img/tapioka-pudink.jpg"
 imghref = "/recepty/"
 imgname = "Tapioka pudink"
 ingredience = ["tapioka"]
+kategorie = ["moučníky"]
 tags = ["sladké","bez-lepku"]
 +++
 

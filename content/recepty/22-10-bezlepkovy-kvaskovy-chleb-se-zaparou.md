@@ -5,7 +5,8 @@ title = "Bezlepkový kváskový chléb se záparou"
 autor = "R.R."
 imgsrc = "/img/bezlepkovy-cheba-bochnik-nutrifree.jpg"
 imghref = "/recepty/"
-imgname = "Kbáskový chléb blp"
+imgname = "Kváskový chléb blp"
+kategorie = ["přílohy]
 ingredience = ["kvásek"]
 tags = ["slané","pečivo","bez-lepku"]
 +++

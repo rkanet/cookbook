@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/budha-bowl.jpg"
 imghref = "/recepty/"
 imgname = "Budha bowl"
-ingredience = ["luštěniny", "bylinky"]
+kategorie = ["hlavní-jídla"]
+ingredience = ["luštěniny","bylinky"]
 tags = ["slané","bez-lepku","zelenina"]
+
 +++
 
 # Suroviny 

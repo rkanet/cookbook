@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/cizrna.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["cizrna"]
 kategorie = ["hlavní-jídla"]
+ingredience = ["cizrna"]
 tags = ["slané","bez-lepku"]
 draft = false
 +++
@@ -35,7 +35,8 @@ draft = false
 7. Nakrájený pórek se vaří v páře (já krátce orestuji na pánvi a podliji vodou nechám odpařit)
 
 # Poznámky
-Porek se má s omáčkou promíchat  těsně před podáváním, aby neztratil zelenou barvu. U nás porek nechávám v misce stranou, protože ne všichni ho jedí. Přidává se dle chuti až na stole.
+Porek se má s omáčkou promíchat  těsně před podáváním, aby neztratil zelenou barvu. U nás porek nechávám v misce stranou, protože ne všichni ho jedí. Přidává se dle chuti až na stole. Podáváme s kváskovými plackami bez lepku. 
+Šlo by i s rýží, zatím nevyzkoušeno...
 
 
 

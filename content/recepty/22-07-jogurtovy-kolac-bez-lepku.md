@@ -6,9 +6,11 @@ autor = "R.R."
 imgsrc = "/img/rychla-jogurtova-buchta-bezlepku.jpg"
 imghref = "/recepty/rychla-jogurtova-buchta-bezlepku"
 imgname = "Jogurtový koláč"
+kategorie = ["moučníky"]
 ingredience = ["jogurt","borůvky"]
 priprava = ["rychlé"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
+
 +++
 
 

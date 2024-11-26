@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/veka-maslova.jpg"
 imghref = "/recepty/"
 imgname = "Máslová veka"
+kategorie = ["přílohy"]
 ingredience = ["mouka","droždí"]
 tags = ["slané","pečivo"]
 draft = false

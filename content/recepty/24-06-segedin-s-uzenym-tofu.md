@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/segedyn-s-tofu.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["tofu",""]
 kategorie = ["hlavní-jídla"]
+ingredience = ["tofu",""]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false
 +++

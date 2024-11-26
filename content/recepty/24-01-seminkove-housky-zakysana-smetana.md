@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["mouka","lněné-semínko","droždí"]
 kategorie = ["přílohy"]
+ingredience = ["mouka","lněné-semínko","droždí"]
 tags = ["slané","bez-lepku"]
 draft = true
 +++

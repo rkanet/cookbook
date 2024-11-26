@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["maso","račata"]
 kategorie = ["hlavní-jídla"]
+ingredience = ["maso","račata"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false
 

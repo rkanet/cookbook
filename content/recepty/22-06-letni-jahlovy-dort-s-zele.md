@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/letni-jahlovy-dort.jpg"
 imghref = "/recepty/"
 imgname = "Letní dort"
+kategorie = ["moučníky"]
 ingredience = ["jáhly"]
 tags = ["sladké","ovoce","bez-lepku"]
+
 
 +++
 

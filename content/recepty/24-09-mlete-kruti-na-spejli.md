@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/kruti-na-spejli.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["",""]
 kategorie = ["hlavní-jídla"]
+ingredience = ["",""]
 tags = ["slané","maso","bez-lepku"]
 draft = false
 +++

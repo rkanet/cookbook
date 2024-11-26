@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/orechove-muffiny-bez-mouky.jpg"
 imghref = "/recepty/"
 imgname = "Ořechové muffiny"
-ingredience = ["ořechy", "mandle", "čokoláda"]
-tags = ["sladké", "pečivo", "bez-lepku" ]
+kategorie = ["moučníky"]
+ingredience = ["ořechy","mandle","čokoláda"]
+tags = ["sladké","pečivo","bez-lepku"]
+
 +++
 
 # Suroviny 

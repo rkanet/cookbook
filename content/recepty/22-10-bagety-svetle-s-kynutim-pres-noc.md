@@ -7,6 +7,7 @@ autor = "R.R."
 imgsrc = "/img/bagety-svetle-s-kynutim-pres-noc.jpg"
 imghref = "/recepty/"
 imgname = "Bagety blp noční"
+kategorie = ["přílohy"]
 ingredience = ["droždí","mouka"]
 priprava = ["rychlé ale kvásek"]
 tags = ["slané","pečivo","bez-lepku"]

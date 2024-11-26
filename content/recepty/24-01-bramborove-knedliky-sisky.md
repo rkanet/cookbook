@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/bramborove-sisky.jpg"
 imghref = "/recepty/"
 imgname = "Br knedlíky, šišky"
+kategorie = ["přílohy"]
 ingredience = ["mouka","vejce","brambory",]
-tags = ["sladké","bez-lepku",]
+tags = ["sladké","bez-lepku"]
+
 +++
 
 # Suroviny

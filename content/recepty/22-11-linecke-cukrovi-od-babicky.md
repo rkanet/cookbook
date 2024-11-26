@@ -7,8 +7,10 @@ autor = "R.R."
 imgsrc = "/img/linecke-cukrovi-od-babicky.jpg"
 imghref = "/recepty/"
 imgname = "Linecké cukroví"
+kategorie = ["moučníky"]
 ingredience = ["mouka"]
 tags = ["sladké","bez-lepku"]
+
 +++
 
 # Suroviny

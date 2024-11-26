@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/pizza-nocni-kynuti.jpg"
 imghref = "/recepty/"
 imgname = "Pizza přes noc"
+kategorie = ["hlavní-jídla"]
 ingredience = ["mouka","droždí","zelenina"]
 tags = ["slané","pečivo"]
 +++

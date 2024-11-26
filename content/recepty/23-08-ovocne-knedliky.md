@@ -1,10 +1,11 @@
 +++
 date = "2023-08-12T11:25:39+02:00"
-title = "Ovocné knedlíky"
+title = "Ovocné knedlíky tvarohové"
 autor = "R.R."
 imgsrc = "/img/knedliky-s-ovocem.jpg"
 imghref = "/recepty/"
 imgname = "Ovocné kneldíky"
+kategorie = ["moučníky","hlavní-jídla]
 ingredience = ["mouka","jablko","borůvky"]
 tags = ["sladké","bez-lepku","ovoce"]
 +++

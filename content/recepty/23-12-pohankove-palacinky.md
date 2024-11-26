@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/pohankove-palacinky.jpg"
 imghref = "/recepty/"
 imgname = "Pohankové palačinky"
+kategorie = ["přílohy"]
 ingredience = ["mouka"]
 tags = ["slané","bez-lepku","sladké"]
 +++

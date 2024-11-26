@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/kefirova-kakaova-buchta-bezlepku.jpg"
 imghref = "/recepty/"
 imgname = "Kefírová buchta I"
+kategorie = ["moučníky"]
 ingredience = ["kakao","kefír","bez-lepku"]
 tags = ["sladké","pečivo"]
+kategorie = ["moučníky"]
 +++
 
 <!--

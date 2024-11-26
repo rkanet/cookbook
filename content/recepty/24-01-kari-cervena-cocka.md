@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/kari-cervena-cocka.jpg"
 imghref = "/recepty/"
 imgname = "Kari z červené čočky"
+kategorie = ["hlavní-jídla"]
 ingredience = ["čočka-červená"]
 tags = ["slané","bez-lepku","zelenina"]
+
 +++
 
 # Suroviny 

@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/kefirove-housky.jpg"
 imghref = "/recepty/"
 imgname = "kefírové housky"
+kategorie = ["přílohy"]
 ingredience = ["mouka", "kefír", "droždí"]
 tags = ["slané","pečivo","bez-lepku"]
 +++

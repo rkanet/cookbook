@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/pernicky-od-monci.jpg"
 imghref = "/recepty/"
 imgname = "Perníčky"
-ingredience = [", "]
-tags = ["sladké" ]
+kategorie = ["moučníky"]
+ingredience = ["mouka","perníkové-koření"]
+tags = ["sladké","pečivo"]
+
 +++
 
 # Suroviny

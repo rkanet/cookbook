@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/kefirova-buchta-s-ovocem-bezlepku.jpg"
 imghref = "/recepty/"
 imgname = "Kefírová buchta s ovocem"
+kategorie = ["moučníky"]
 ingredience = ["ovoce","kefír"]
 tags = ["sladké","pečivo","ovoce","bez-lepku"]
+
 +++
 
 

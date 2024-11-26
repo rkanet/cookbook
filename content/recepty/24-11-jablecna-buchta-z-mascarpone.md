@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/jablecnna-buchta-z-mascarpone.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["jablka","mandle"]
 kategorie = ["moučníky"]
+ingredience = ["jablka","mandle"]
 tags = ["sladké","pečivo","ovoce","bez-lepku"]
 draft = false
 +++

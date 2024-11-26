@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/strasidelna.jpg"
 imghref = "/recepty/"
 imgname = "Buchta"
+kategorie = ["moučníky"]
 ingredience = ["jablka","mouka","kysana-smetana"]
 tags = ["sladké","pečivo"]
+
 +++
 
 # Suroviny (Ikea pekáč 32x22)

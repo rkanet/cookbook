@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/lusteninova-omacka-k-ryzi.jpg"
 imghref = "/recepty/"
 imgname = ""
+kategorie = ["hlavní-jídla"]
 ingredience = ["rajčata","červená-čočka","fazole"]
 tags = ["slané","zelenina","bez-lepku"]
 +++

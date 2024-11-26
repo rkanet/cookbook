@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["kuřecí-křídla",""]
 kategorie = ["hlavní-jídla"]
+ingredience = ["kuřecí-křídla",""]
 tags = ["slané","bez-lepku"]
 draft = true
 +++

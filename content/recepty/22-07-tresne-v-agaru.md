@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/tresne-v-agaru.jpg"
 imghref = "/recepty/"
 imgname = "Třešně v agaru"
+kategorie = ["moučníky"]
 ingredience = ["třešně"]
 tags = ["sladké","ovoce","bez-lepku"]
+
 +++
 
 # Suroviny

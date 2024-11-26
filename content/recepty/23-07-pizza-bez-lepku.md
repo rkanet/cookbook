@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/pizza-blp.jpg"
 imghref = "/recepty/"
 imgname = "Pizza"
+kategorie = ["hlavní-jídla]
 ingredience = ["mouka","droždí"]
 tags = ["slané","pečivo"]
 +++

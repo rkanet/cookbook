@@ -1,14 +1,14 @@
 +++
 date = "2022-05-16T09:59:39+02:00"
 title = "Bábovka třená"
-
 autor = "R.R."
 imgsrc = "/img/babovka.jpg"
 imghref = "/recepty/"
 imgname = "Bábovka třená"
+kategorie = ["moučníky"]
 ingredience = ["mouka","vejce"]
 priprava = ["normal"]
-tags = ["sladké","pečivo"]
+tags = ["sladké","pečivo","bez-lepku"]
 +++
 
 # Suroviny
@@ -19,6 +19,7 @@ tags = ["sladké","pečivo"]
 - 125 ml mléka
 - tuk a hrubá mouka na přípravu formy
 - 1 lžíce kakaového prášku
+
 # Postup
 
 1. Pečlivě vymazat bábovkovovou formu a vysypeme hroubou moukou. 
@@ -38,9 +39,11 @@ tags = ["sladké","pečivo"]
   není nutné promíchávat mramorování se vytvoří v průběhu pečení pohybem těsta
 9. Bábovku vložte do vyhřáté trouby a pečte asi 50 minut. Pokud si nejste jisti a máte pochyby o propečení těsta, klidně 10 minut přidejte (teplota účení je nízká)
 10. Po vyndání z trouby nechat stát cca 2 minutyve formě. Pak vyklopit  tj. přikryjeme formu obráceným a dostatečně velkým talířem a převrátíme. 
-(Lze si pomoci čistou utěrku a namočte ji do studené vodypoloženou na formu)
-# Poznámky
-Kypřící prášek není potřeba ani trochu. Kypření zajistí tření másla a šlehání sněhu. Třené těsto nemá rádo moc vysokou teplotu. Pečeme cca na 160stupňu.
+(Lze si pomoci čistou utěrkou a namočte ji do studené vody položenou na formu)
 
+# Poznámky
+Kypřící prášek není potřeba ani trochu. Kypření zajistí tření másla a šlehání sněhu. Třené těsto nemá rádo moc vysokou teplotu. Pečeme cca na 160 stupňů.
+
+<!--Kuchařka pro dceru Flrentýna-->
 
 <!--more-->

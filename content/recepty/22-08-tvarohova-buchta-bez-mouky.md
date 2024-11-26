@@ -7,7 +7,9 @@ imgsrc = "/img/tvarohova-buchta-rychla-bez-mouky.jpg"
 imghref = "/recepty/"
 imgname = "Tvarohová buchta rychlá"
 ingredience = ["tvaroh","vejce"]
+kategorie = ["moučníky"]
 tags = ["sladké","ovoce""bez-lepku"]
+
 +++
 
 # Suroviny (dortová forma 28cm)

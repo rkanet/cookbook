@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/kvaskova-pizza-bez-lepku.jpg"
 imghref = "/recepty/"
 imgname = "Kvasková pizza"
+kategorie = ["hlavní-jídla"]
 ingredience = ["mouka","rajčata","kvásek"]
 tags = ["slané","zelenina","bez-lepku","pečivo"]
 +++

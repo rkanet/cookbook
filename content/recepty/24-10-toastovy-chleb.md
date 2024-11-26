@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/toastovy-chleb-blp.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["kysaná-smetana","mouka"]
 kategorie = ["přílohy"]
+ingredience = ["kysaná-smetana","mouka"]
 tags = ["slané","pečivo","bez-lepku"]
 draft = false
 +++

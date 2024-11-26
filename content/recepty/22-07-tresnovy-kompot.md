@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/tresnovy-kompot.jpg"
 imghref = "/recepty/"
 imgname = "Třešňový kompot"
+kategorie = ["moučníky"]
 ingredience = ["třešně"]
 tags = ["sladké","ovoce","bez-lepku"]
 +++

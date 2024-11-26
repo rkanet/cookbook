@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/gemista.jpg"
 imghref = "/recepty/"
 imgname = "Gemista"
+kategorie = ["přílohy"]
 ingredience = ["rýže", "papriky", "rajčata"]
 tags = ["slané","zelenina","bez-lepku"]
 +++

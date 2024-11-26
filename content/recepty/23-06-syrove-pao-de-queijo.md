@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/pao-de-queijo.jpg"
 imghref = "/recepty/"
 imgname = "Pão de queijo"
+kategorie = ["přílohy"]
 ingredience = ["mouka","sýr"]
 tags = ["slané","pečivo"]
 +++

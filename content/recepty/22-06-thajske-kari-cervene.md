@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/thajske-cervene-kari.jpg"
 imghref = "/recepty/thajske-cervene-kari"
 imgname = "Thajské kari"
+kategorie = ["hlavní-jídla"]
 ingredience = ["kari-pasta","koriandr"]
 tags = ["slané","zelenina","maso","bez-lepku"]
 +++
@@ -41,5 +42,5 @@ cca 3 osoby:
 
 
 # Poznámky
-
+Podáváme s rýží, u nás basmati.
 <!--more-->

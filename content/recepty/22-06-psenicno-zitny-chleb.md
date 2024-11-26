@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/chleba-lepek.jpg"
 imghref = "/recepty/"
 imgname = "Pšnično žitný chléb"
+kategorie = ["přílohy"]
 ingredience = ["mouka","kvásek"]
 tags = ["slané","pečivo"]
 

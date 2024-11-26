@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/jahlovy-makovec-s-ovocem.jpg"
 imghref = "/recepty/"
 imgname = "Jáhlový makovec s ovocem"
+kategorie = ["moučníky"]
 ingredience = ["mák","jáhy","švestky","jablka"]
 tags = ["sladké","ovoce","bez-lepku","pečivo"]
 draft = false

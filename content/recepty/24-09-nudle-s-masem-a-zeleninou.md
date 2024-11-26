@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/nudle-s-masem-a-zleninou.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["nudle",""]
 kategorie = ["hlavní-jídla"]
+ingredience = ["nudle",""]
 tags = ["maso","slané","zelenina","bez-lepku"]
 draft = false
 +++

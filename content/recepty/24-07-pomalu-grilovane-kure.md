@@ -6,8 +6,8 @@ autor = "J.R."
 imgsrc = "/img/kure-na-grilu.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["kuře"]
 kategorie = ["hlavní-jídla"]
+ingredience = ["kuře"]
 tags = ["slané","maso","bez-lepku"]
 draft = false
 +++

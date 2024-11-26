@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/kvaskove-placky-bezlepkove.jpg"
 imghref = "/recepty/"
 imgname = "blp-placky"
+kategorie = ["přílohy"]
 ingredience = ["mouka","kvásek"]
 tags = ["sladké","slané","pečivo","bez-lepku"]
 +++

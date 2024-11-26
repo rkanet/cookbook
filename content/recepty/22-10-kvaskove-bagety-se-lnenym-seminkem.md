@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/kvaskove_bagety_se_lnenym_seminkem.jpg"
 imghref = "/recepty/"
 imgname = "Kváskové bagety"
-ingredience = ["kvásek"]
 kategorie = ["přílohy"]
+ingredience = ["kvásek"]
 tags = ["slané","pečivo","bez-lepku"]
 +++
 

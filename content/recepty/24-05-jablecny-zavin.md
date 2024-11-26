@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/jablecny-zavin-kysana-smetana.jpg"
 imghref = "/recepty/"
 imgname = "zavin"
-ingredience = ["jablka","mouka"]
 kategorie = ["moučníky"]
+ingredience = ["jablka","mouka"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
 draft = false
 +++

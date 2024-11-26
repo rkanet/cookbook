@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/jahlovo-fazolovy-dort.jpg"
 imghref = "/recepty/"
 imgname = "Jahlovo fazolový dort"
+kategorie = ["moučníky"]
 ingredience = ["adzuki","jablka", "třešně"]
 tags = ["sladké","ovoce","bez-lepku"]
+
 draft = false
 +++
 

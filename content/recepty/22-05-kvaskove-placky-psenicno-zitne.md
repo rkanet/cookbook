@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/placky.jpg"
 imghref = "/recepty/"
 imgname = "kváskové placky"
+kategorie = ["přílohy"]
 ingredience = ["mouka","kvásek"]
 tags = ["sladké","slané","pečivo"]
+
 +++
 
 # Suroviny

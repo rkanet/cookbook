@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/bananovy-chlebicek.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["banán",""]
 kategorie = ["moučníky"]
+ingredience = ["banán",""]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
 draft = false
 +++

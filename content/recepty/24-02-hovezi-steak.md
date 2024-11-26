@@ -6,8 +6,8 @@ autor = "J.R."
 imgsrc = "/img/rib-eye-steak.jpg"
 imghref = "/recepty/"
 imgname = "Hovězí steak"
-ingredience = ["maso"]
 kategorie = ["hlavní-jídla"]
+ingredience = ["maso"]
 tags = ["slané","maso","bez-lepku"]
 draft = false
 +++

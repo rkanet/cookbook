@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/kvaskove-susenky-s-jogurtem.jpg"
 imghref = "/recepty/"
 imgname = "Kváskové sušenky"
+kategorie = ["přílohy"]
 ingredience = ["mouka","kvásek"]
 tags = ["slané","bez-lepku","pečivo"]
 +++

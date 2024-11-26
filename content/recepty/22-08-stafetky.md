@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/stafetky.jpg"
 imghref = "/recepty/"
 imgname = "Štafetky"
+kategorie = ["moučníky"]
 ingredience = ["mouka","ořechy","instantní-káva"]
 tags = ["sladké","pečivo","bez-lepku"]
+
 +++
 
 # Suroviny

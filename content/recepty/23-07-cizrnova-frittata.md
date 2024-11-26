@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/cizrnova-frittata.jpg"
 imghref = "/recepty/"
 imgname = "Cizrnová frittata"
+kategorie = ["přílohy","hlavní-jídlo"]
 ingredience = ["jogurt","cizrnová mouka", "zelenina"]
 tags = ["slané","pečivo","bez-lepku"]
 +++

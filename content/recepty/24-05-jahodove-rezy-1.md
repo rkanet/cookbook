@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/jahodove-rezy-1.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["jahody","pudink","mouka"]
 kategorie = ["moučníky"]
+ingredience = ["jahody","pudink","mouka"]
 tags = ["sladké","ovoce","bez-lepku"]
 draft = false
 +++

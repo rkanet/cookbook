@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/mandlovy-dort-bez-mouky.jpg"
 imghref = "/recepty/"
 imgname = "Ořechový dort"
+kategorie = ["moučníky"]
 ingredience = ["ořechy","mandle","čokoláda"]
 tags = ["sladké","pečivo","bez-lepku"]
+
 +++
 
 

@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/rez.jpeg"
 imghref = "/recepty/"
 imgname = "Jáhlové řezy"
+kategorie = ["moučníky"]
 ingredience = ["jáhly","ovoce"]
 tags = ["sladké","ovoce","bez-lepku"]
+
 +++
 
 

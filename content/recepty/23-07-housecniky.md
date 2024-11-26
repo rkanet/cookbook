@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/housecniky.jpg"
 imghref = "/recepty/"
 imgname = "Housečníky"
+kategorie = ["přílohy"]
 ingredience = ["mouka","kypřící-prášek","lněné-semínko"]
 tags = ["slané","pečivo","bez-lepku"]
 +++

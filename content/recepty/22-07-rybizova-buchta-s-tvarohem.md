@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/rybizova-buchta-s-tvarohem.jpg"
 imghref = "/recepty/"
 imgname = "Rybízová buchta s tvarohem"
+kategorie = ["moučníky"]
 ingredience = ["rybíz","tvaroh","mouka"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
+
 +++
 
 # Suroviny na malý ikea pekaáč (cca 32 x 22 cm)/na velký (38 x30)

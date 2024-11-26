@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/babiciny-orechy.jpg"
 imghref = "/recepty/"
 imgname = "Ořechy"
+kategorie = ["moučníky"]
 ingredience = ["ořechy","mouka"]
 tags = ["sladké","pečivo"]
+kategorie = ["moučníky"]
 +++
 
 # Suroviny na těsto

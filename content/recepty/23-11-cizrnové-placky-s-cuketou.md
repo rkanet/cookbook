@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/cizrno-cuketove-placky.jpg"
 imghref = "/recepty/"
 imgname = "Cizrnové placky s cuketou"
+kategorie = ["přílohy"]
 ingredience = ["mouka"]
 tags = ["slané","bez-lepku"]
 +++

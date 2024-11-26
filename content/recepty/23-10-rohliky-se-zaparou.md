@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/rohliky-se-zaparou.jpg"
 imghref = "/recepty/"
 imgname = "Rohlíky"
+kategorie = ["přílohy"]
 ingredience = ["mouka","droždí"]
 tags = ["slané","bez-lepku"]
 +++

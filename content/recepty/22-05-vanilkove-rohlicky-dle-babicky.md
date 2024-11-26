@@ -7,6 +7,7 @@ imghref = "/recepty/"
 imgname = "Rohlíčky"
 ingredience = ["ořechy","mouka","máslo"]
 tags = ["sladké","pečivo"]
+kategorie = ["moučníky"]
 
 
 +++

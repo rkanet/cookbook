@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/mrkvanky.jpg"
 imghref = "/recepty/"
 imgname = "Mrkvánky"
+kategorie = ["moučníky"]
 ingredience = ["mrkev","mouka"]
 tags = ["sladké","pečivo"]
+
 
 +++
 

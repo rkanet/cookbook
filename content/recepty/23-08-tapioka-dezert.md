@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/tapioka-dezert.jpg"
 imghref = "/recepty/"
 imgname = "Tapioka dezert"
+kategorie = ["moučníky"]
 ingredience = ["tapioka"]
 tags = ["sladké","bez-lepku"]
 +++

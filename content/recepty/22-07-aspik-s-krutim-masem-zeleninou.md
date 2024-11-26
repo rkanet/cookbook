@@ -7,6 +7,7 @@ imgsrc = "/img/aspik-s-krutim-masem-zeleninou.jpg"
 imghref = "/recepty/"
 imgname = "Aspik s masem a zeleninou"
 ingredience = ["želatina", "maso"]
+kategorie = ["hlavní-jídla"]
 tags = ["slané","zelenina","bez-lepku","maso"]
 +++
 

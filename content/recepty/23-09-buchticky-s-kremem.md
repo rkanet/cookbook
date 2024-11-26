@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/buchticky.jpg"
 imghref = "/recepty/"
 imgname = "Buchtičky"
+kategorie = ["moučníky","hlavní-jídlo]
 ingredience = ["mouka","pudink"]
 tags = ["sladké","bez-lepku"]
 +++

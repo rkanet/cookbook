@@ -7,6 +7,7 @@ imghref = "/recepty/"
 imgname = "Tvarohové muffiny"
 ingredience = ["mouka", "jablko", ]
 tags = ["sladké","bez-lepku"]
+kategorie = ["moučníky"]
 +++
 
 # Suroviny na 12 ks muffinů

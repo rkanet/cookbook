@@ -6,8 +6,8 @@ autor = "J.R."
 imgsrc = "/img/saksuka.jpg"
 imghref = "/recepty/"
 imgname = "saksuka"
-ingredience = ["papriky","rajčata"]
 kategorie = ["přílohy","hlavní-jídla"]
+ingredience = ["papriky","rajčata"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false
 +++

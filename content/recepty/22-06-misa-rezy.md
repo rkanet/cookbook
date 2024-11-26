@@ -5,8 +5,10 @@ autor = "R.R."
 imgsrc = "/img/misa-rezy.jpg"
 imghref = "/recepty/misa-rezy"
 imgname = "Míša řezy"
+kategorie = ["moučníky"]
 ingredience = ["tvaroh","kakao","smetana"]
 tags = ["sladké","bez-lepku"]
+
 +++
 
 # Suroviny

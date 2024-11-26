@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
+kategorie = ["moučníky"]
 ingredience = ["jahody","pudink","mouka"]
 tags = ["sladké","ovoce","bez-lepku"]
 draft = true

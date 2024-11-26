@@ -5,9 +5,9 @@ title = "Plněné zapečené papriky s masem"
 autor = "R.R."
 imgsrc = "/img/zapecene-plnene-papriky.jpg"
 imghref = "/recepty/"
-imgname = ""
-ingredience = ["papriky","rajče","maso","rýže"]
+imgname = "papriky"
 kategorie = ["přílohy","hlavní-jídla"]
+ingredience = ["papriky","rajče","maso","rýže"]
 tags = ["slané","zelenina","polévky","bez-lepku","maso"]
 draft = false
 +++

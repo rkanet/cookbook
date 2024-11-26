@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/kari-korma.jpg"
 imghref = "/recepty/"
 imgname = ""
+kategorie = ["hlavní-jídla"]
 ingredience = ["dýně","rýže"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false

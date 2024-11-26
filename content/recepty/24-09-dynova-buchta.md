@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/dynova-buchta-s-kakaem.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["dýně","kakao"]
 kategorie = ["moučníky"]
+ingredience = ["dýně","kakao"]
 tags = ["sladké","pečivo","bez-lepku"]
 draft = false
 +++

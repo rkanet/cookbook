@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/kvaskovy-zavin-smetana.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["kvásek","smetana"]
 kategorie = ["hlavní-jídla"]
+ingredience = ["kvásek","smetana"]
 tags = ["slané","zelenina","bez-lepku","pečivo"]
 draft = false
 +++

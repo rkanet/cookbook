@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/cuketovy-nakyp.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["cuketa","brambory"]
 kategorie = ["přílohy"]
+ingredience = ["cuketa","brambory"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false
 +++

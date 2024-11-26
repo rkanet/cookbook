@@ -6,8 +6,10 @@ autor = "R.R."
 imgsrc = "/img/broskvove-rezy.jpg"
 imghref = "/recepty/"
 imgname = "Broskvové řezy"
+kategorie = ["moučníky"]
 ingredience = ["broskve","smetana","kysaná-smetana"]
 tags = ["sladké","ovoce","pečivo","bez-lepku"]
+
 +++
 
 <!--původní recept z internetu 

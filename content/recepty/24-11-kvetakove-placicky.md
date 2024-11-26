@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/kvetakove-placky.jpg"
 imghref = "/recepty/"
 imgname = ""
+kategorie = ["hlavní-jídla", "přílohy"]
 ingredience = ["květák","sýr"]
-kategorie = ["hlavní jídla"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false
 +++

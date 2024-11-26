@@ -6,6 +6,7 @@ autor = "R.R."
 imgsrc = "/img/tresnovy-dzem.jpg"
 imghref = "/recepty/"
 imgname = ""
+kategorie = ["moučníky"]
 ingredience = ["třešně"]
 tags = ["sladké","ovoce","bez-lepku"]
 +++

@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/ovocny-dort.jpg"
 imghref = "/recepty/"
 imgname = "Dort"
-ingredience = ["agar","želatina"]
 kategorie = ["moučníky"]
+ingredience = ["agar","želatina"]
 tags = ["sladké","ovoce","bez-lepku"]
 draft = false
 +++

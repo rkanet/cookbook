@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/kureci-kridla-na-grilu.jpg"
 imghref = "/recepty/"
 imgname = ""
-ingredience = ["maso",""]
 kategorie = ["hlavní-jídla"]
+ingredience = ["kuřecí-křídla",""]
 tags = ["slané","maso"]
 draft = false
 +++

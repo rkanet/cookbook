@@ -5,6 +5,7 @@ autor = "R.R."
 imgsrc = "/img/pecena-zelenina.jpg"
 imghref = "/recepty/"
 imgname = "Pečená zelenina"
+kategorie = ["přílohy"]
 ingredience = ["cibule","mrkev","česnek"]
 tags = ["slané","bez-lepku","zelenina"]
 +++

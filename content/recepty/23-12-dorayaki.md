@@ -5,8 +5,8 @@ autor = "R.R."
 imgsrc = "/img/dorayaki.jpg"
 imghref = "/recepty/"
 imgname = "Dorayaki"
-ingredience = ["fazole","mouka","vejce"]
 kategorie = ["moučníky"]
+ingredience = ["fazole","mouka","vejce"]
 tags = ["sladké","bez-lepku"]
 +++
 
