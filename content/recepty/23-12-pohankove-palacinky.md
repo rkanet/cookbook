@@ -6,7 +6,7 @@ imgsrc = "/img/pohankove-palacinky.jpg"
 imghref = "/recepty/"
 imgname = "Pohankové palačinky"
 ingredience = ["mouka"]
-tags = ["slané","bez-lepku"]
+tags = ["slané","bez-lepku","sladké"]
 +++
 
 # Suroviny cca 10ks na male panvi 

@@ -33,7 +33,7 @@ na cca 6 ks
 
 
 # Poznámky
-Recept je v procesu... inspirace více recepty...zatím stále řidší - místo bochánků spíš placky, ale odbré. Mouka závisí na množství vody v zápaře...
+Recept je v procesu... inspirace více recepty...zatím stále řidší - místo bochánků spíš , ale odbré. Mouka závisí na množství vody v zápaře...
 Zkusit udělat verzi bez zápary.
 <!--1 vanička tučného tvarohu
 2 vejce

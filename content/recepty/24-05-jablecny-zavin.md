@@ -22,10 +22,10 @@ Základ
 - skořice na posypání těsta pod jablka
 
 Volitelné
-- mám-li podsypu jablka trochou mletých blp piškotů
-- ořechy posypat těsto pod jablka 
+- podsypu jablka trochou mletých blp piškotů nebo blp strouhanka
+- obměna ořechy smíchat s piškoty/strouhankou a posypat těsto pod jablka 
 - pokud jsou jablka kyselá posypu před zabalením trochou cukru
-- rozpuštěné máslo nebo vajíčko na potření závinu
+- rozpuštěné máslo na potření závinu
 - na vrch závin poyspat plátky mandlí (předem potřený vajíčkem)
 
 
@@ -37,9 +37,11 @@ Volitelné
 # Poznámky
 Těsto se na počátku zdá dost suché, ale nakonec jde smíchat a má dobrou konzistenci. 
 Nejraději dávám odležet do lednice přes noc. Lze péct rovnou, nezkoušela jsem.
-Potřené máslem bylo moc dobré, potírala jsem před vložením do trouby a pak ještě jednou před koncem pečení.
-Mouky vyzkoušeno verze 1: 50g pohanková hladká, 100g Nutrifree Per Pane, 180g Nutrifree Per Dolci.
-
+Potřené máslem bylo moc dobré, potírala jsem před vložením do trouby a pak ještě jednou před koncem pečení. Vypadá, 
+Mouky vyzkoušeno verze:
+1. 50g pohanková hladká, 100g Nutrifree Per Pane, 180g Nutrifree Per Dolci, vejce velikost M
+2. Nutrifree universální 330g, vejce velikost M
+Obě verze oproti originálu bylo těsto křehčí, nejvíce s universal. Prori poprasknáí vypadá, že pomáhá  potření rozlehaným vejcem ppřed vložením do trouby.
 
 
 <!-- Zdroj: Když jsem před čtyřmi lety začínala s bezlepkovým pečením, nakoupila jsem si domů x druhou různých směsí a tenkrát zakotvila hned po prvním víkendu u mouky Schar mix B. Podle mě je to mouka, ze které vykouzlíte naprosto všechno. Já se naprosto dobrovolně přiznávám, že nesnáším mít doma rozděláno několik balíčků různých jednodruhovek a směsí. Pro mě je prostě ideální jedna universální směs a tou pravou je právě Schar. Do nedávna jsem z ní pekla i vánoční cukroví, ale letos jsem přesedlala na Nutrifree Frollu, která je nepochybně na cukroví lepší.

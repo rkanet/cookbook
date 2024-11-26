@@ -26,9 +26,17 @@ na potření
 - 2 strouzky česneku
 
 # Postup
-1. Kuře včas vyndáme z lednice, posolíme a dáme na olejem vymazanou pánev.
+1. Kuře včas vyndáme z lednice 
+2. Posolíme, okořeníme a dáme na olejem vymazanou pánev.
 
 # Poznámky
-Kuře grilujeme na pánvi z odnímatelnou rukojetí (modrý smalt)
+Kuře grilujeme na pánvi z odnímatelnou rukojetí (modrý smalt) s vysokým okrsjem, 
+pánev položíme do prostřed grillu
+grill přiklopený
+180 st po celou dobu pečení udrzet
+kure bylo 1,4 kg
+peklo se 1h 30 minut a bylo hotové, ale šlo ješte špatně od kosti, tj mohlo byt dele
+vnitrni teplota pri sundani 76 stupnu, mereno v  tlustem svalu
+natřeno marinadou pred koncem pečení (grilovací koření sonnentor nebo koření na kuře sonnentor, olej)
 
 <!-- --> 

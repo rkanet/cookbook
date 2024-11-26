@@ -6,8 +6,8 @@ autor = "R.R."
 imgsrc = "/img/kvaskove_bagety_se_lnenym_seminkem.jpg"
 imghref = "/recepty/"
 imgname = "Kváskové bagety"
-kategorie = ["přílohy"]
 ingredience = ["kvásek"]
+kategorie = ["přílohy"]
 tags = ["slané","pečivo","bez-lepku"]
 +++
 
@@ -21,13 +21,13 @@ Bohužel záznam receptu z kuchyně se ztratil, tak třeba časem na druhý poku
 # Suroviny verze 1
 - 250 kvas
 - 125g mouky Nutri Free Mix per Pane Integrale
-- 6g soli
+- 6 g soli
 - 3 g drcený kmín
-- 90g vody
+- 95 g vody
 - zápara (2PL lněné semínko zlaté, 1 pl slunečnicové semínko)
 
 # Postup
-1. připravíme předem rozkvas (lze urychlit v troubě se světlem)
+1. Připravíme předem rozkvas (lze urychlit v troubě se světlem) a předem dem spaříme semínka tj. zalijeme vroucí vodou z rychlovarky, hlasina cca 0,5cm  nad semínka
 2. přidáme ostatní suroviny a smícháme těsto
 3. necháme vykynout (cca 2h v troubě se světlem)
 4. Předem vyhřejeme troubu na 250 stupňu s litinovou deskou (dávám pizza), na dno starý plech.

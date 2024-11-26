@@ -31,6 +31,7 @@ draft = false
 # Poznámky
 V robotu mi moc nešlo šlehat máslo z cukrem, prozkoumat správný postup. Přesto výsledek chutný, těsto vláčné.
 Použila jsem formu na velký chleba cca 30x11x6cm, po upečení byla zpalněna asi do poloviny. 
+(Dělala jsem asi s mandlouvou cca 50g už si nejsem jistá...)
 
 
 <!-- --> 

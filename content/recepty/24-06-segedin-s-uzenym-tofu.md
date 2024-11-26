@@ -1,37 +1,41 @@
 
 +++
 date = "2024-06-23T13:32:27+02:00"
-title = ""
+title = "Segedýn s uzeným tofu"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/segedyn-s-tofu.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["tofu",""]
 kategorie = ["hlavní-jídla"]
 tags = ["slané","zelenina","bez-lepku"]
-draft = true
+draft = false
 +++
 
 
 # Suroviny (2 menší porce)
-- 1 tofu uzené
-- 2 cibule
+- 1 tofu uzené (180g balení)
+- 2 menší cibule
 - kyselé zelí vymačkané (asi 200g)
 - 2 rovné ČL pohankové mouky
 * 1 lžíce sladké papriky
 * Sůl 
 * Pepř
 * Drcený kmín
-* Česnek (granulovaný)
-* Sojová smetana, 100 ml
+- 1 bobkový list a 2 kuličky nového koření
+* Česnek 
+* kysaná smetana dle chuti (asi 1PL)
+- trocha mléka na podlití místo vody
 
 # Postup
-1. Orestovat cibuli. Pak přidat česnek a papriku, jen krátce osmahnout a podlejeme kapkou vody a přidáme zelí.Rovnou zahustíme moukou rozmíchanou v trošce vody.
-2. Podusit do měkka a nakonec přidat osmažené uzené tofu.
-3. Na pánvi na oleji osmahnout tofu a přidat ke zbytku.
-4. Dle chuti přidat mléko/smetanu.
+1. Orestovat cibuli. Pak přidat česnek a papriku, jen krátce osmahnout a podlejeme trochou vody a přidáme zelí.
+2. Zahustíme moukou rozmíchanou v trošce mléka a krátce podusíme. Osolíme, opepříme.
+3. Na pánvi na oleji osmahnout tofu. 
+4. Přidat osmažené uzené tofu a necháme ještě chvíli dusit až je zelí měkké.
+5. Dle chuti přidat kys. smetanu.
 
 
 # Poznámky
+Tofu může být víc, většinou mám, ale doma tohle balení, tak jsem použila.
 
 <!-- --> 

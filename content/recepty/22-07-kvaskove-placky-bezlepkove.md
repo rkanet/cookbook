@@ -11,16 +11,21 @@ tags = ["sladké","slané","pečivo","bez-lepku"]
 +++
 
 # suroviny
-- kvásek
-- mouka pohanková mouka Doves Farm Plain White Flour
-- lněné semínko
+- 100g kvásek
+- 100g mouka pohanková a Doves Farm Plain White Flour 1:1
+- 1PL lněné semínko spařené
 - drcený kmín
-- sůl
-- olej
-- voda
+- 4-5 sůl
+- 1PL olej
+- asi 50 ml vody (přidávat postupně)
 
 # postup
-- zpracujeme těsto a uložíme do lednice
-- druhý den třeba k snídani vyndáme těsto, nebo jen část
-- rozdělíme na kousky a postupně na pomoučněném talíři vytvarujeme placky 
-- pečeme na sucho na rozehřáté kovové pánvi
+1. spaříme lněné semínko (ideálně předem, vychladne)
+2. všechny suroviny zpracovat do těsta. Vodu přidávám dle toho jak moc jsem zalila lněné semínko.
+3. nechám odležet cca 1h, nebo dolednice a druhý den dělám placky
+4. Placky dělám na sucho na železné pánvi. Na menším pomoučněném talíří vytvaruju placku, popatrně překlopím na ruku a obratem na pánev. Trhá se, takže to chce nedělat velké placky a trochu víc mouky.
+5. Nebo na pečícím papíře v treoubě. Rukou vytvaruju/rozplácnu na pečící papír. Dělám hranaté, aby s ejich dost vešlo. Lze udělat velké a rokrájet tupým nožem na menší čáasti. 
+
+
+# poznámky
+Lze dochucovat těsto bylinkami a kořením. Placky v troubě je fajn posypat na vrch strouhaným sýrem dle chuti. Strouahný sýr lze dát i do těsta. Zkusit dát víc olej, aby byly křehčí.
