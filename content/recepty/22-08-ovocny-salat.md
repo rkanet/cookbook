@@ -7,7 +7,7 @@ imgsrc = "/img/ovocny-salat.jpg"
 imghref = "/recepty/"
 imgname = "Ovocný slalát"
 kategorie = ["moučníky"]
-ingredience = ["banán","pomeranč","hroznove-vino"]
+ingredience = ["banán","pomeranč","hroznove-vino","jablko"]
 tags = ["sladké","ovoce","bez-lepku"]
 +++
 

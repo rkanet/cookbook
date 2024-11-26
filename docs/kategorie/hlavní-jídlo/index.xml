@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hlavní jídlo on Kitchen</title>
+    <title>hlavní-jídlo on Kitchen</title>
     <link>https://rkanet.github.io/cookbook/kategorie/hlavn%C3%AD-j%C3%ADdlo/</link>
-    <description>Recent content in hlavní jídlo on Kitchen</description>
+    <description>Recent content in hlavní-jídlo on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2024 10:45:42 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/kategorie/hlavn%C3%AD-j%C3%ADdlo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 20:25:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/kategorie/hlavn%C3%AD-j%C3%ADdlo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Krůtí na špejli</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-09-mlete-kruti-na-spejli/</link>
-      <pubDate>Mon, 30 Sep 2024 10:45:42 +0200</pubDate>
+      <title>Buchtičky s krémem</title>
+      <link>https://rkanet.github.io/cookbook/recepty/23-09-buchticky-s-kremem/</link>
+      <pubDate>Sun, 17 Sep 2023 20:25:39 +0200</pubDate>
       
-      <guid>https://rkanet.github.io/cookbook/recepty/24-09-mlete-kruti-na-spejli/</guid>
-      <description>Suroviny  3 kg krůtího masa 45g soli 50g mouky doves farm (asi není nutné) 5 strouzku česneku  koření varianta po Bulharsku (1kg)
- 2 ČL římský kmín 0,5 ČL pískavice 2 ČL kopcem sušená saturejka 1 ČL červené papriky  koření varianta po Italsku (2kg)
- 5 sdrhnutých větviček tymiánu 2 ČL Italského koření Sonnentor (Dobromysl bio, Bazalka bio, Rozmarýn bio, Tymián bio, Česnek bio) 2 špetky pepře  Postup  Umeleme maso, promícháme s česnekem a moukou rozdělíme a odděleně dochutíme.</description>
+      <guid>https://rkanet.github.io/cookbook/recepty/23-09-buchticky-s-kremem/</guid>
+      <description>Suroviny (Forma Ikea 32 x 22 cm)  400 g mouky Schar mix B 120 g thanzongu (30g rýžové hladké mouky + 85ml vody) 70g cukru 40g rozpuštěného másla 40g oleje půl kostky čerstvého droždí 220 ml mléka citronová kůra 1 vanilinový cukr 1 PL rumu 1 vejce 1 žloutek  Krém
+ 750ml mléka 1 balíček vanilkového pudinku 1 PL cukru 1-2 PL rumu trocha vanilínového cukru  Postup  Připravíme tanzhong (lze i den předem pro urychlení) a zložíme kvásek (mléko, droždí, trochu cukru a mouky).</description>
+    </item>
+    
+    <item>
+      <title>Cizrnová frittata</title>
+      <link>https://rkanet.github.io/cookbook/recepty/23-07-cizrnova-frittata/</link>
+      <pubDate>Fri, 14 Jul 2023 23:25:39 +0200</pubDate>
+      
+      <guid>https://rkanet.github.io/cookbook/recepty/23-07-cizrnova-frittata/</guid>
+      <description>Suroviny  200 g cizrnová mouka 400 g voda (cca) 2 PL olej 100 g bílý jogurt zelenina (paprika, rajče, cibule, cuketa, špenát&amp;hellip;) sůl a koření, česnek  Postup  cizrnovou mouku zalijeme vodou a necháme stát (případně nechávám i přes noc v lednici) nakrájíme zeleninu, je-li čas krátce orestuju kvůli chuti k mouce s vodu přidáme koření sůl a jogurt, dobře promícháme vyložíme pekáček peč. Papírem, poklademe zeleninou a zalijeme cizrnovou „kašičkou“  Poznámky Lépe se krájí vychladlé.</description>
     </item>
     
   </channel>

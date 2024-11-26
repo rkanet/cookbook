@@ -6,7 +6,7 @@ imgsrc = "/img/knedliky-s-ovocem.jpg"
 imghref = "/recepty/"
 imgname = "Ovocné kneldíky"
 kategorie = ["moučníky","hlavní-jídla"]
-ingredience = ["mouka","jablko","borůvky"]
+ingredience = ["mouka","jablka","borůvky"]
 tags = ["sladké","bez-lepku","ovoce"]
 +++
 

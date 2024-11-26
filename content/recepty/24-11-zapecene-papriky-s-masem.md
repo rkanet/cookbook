@@ -7,7 +7,7 @@ imgsrc = "/img/zapecene-plnene-papriky.jpg"
 imghref = "/recepty/"
 imgname = "papriky"
 kategorie = ["přílohy","hlavní-jídla"]
-ingredience = ["papriky","rajče","maso","rýže"]
+ingredience = ["papriky","rajče","maso","rýže","cizrna"]
 tags = ["slané","zelenina","polévky","bez-lepku","maso"]
 draft = false
 +++

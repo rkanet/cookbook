@@ -5,7 +5,7 @@ autor = "R.R."
 imgsrc = "/img/tvarohove-muffiny.jpg"
 imghref = "/recepty/"
 imgname = "Tvarohové muffiny"
-ingredience = ["mouka", "jablko", ]
+ingredience = ["mouka","jablka"]
 tags = ["sladké","bez-lepku"]
 kategorie = ["moučníky"]
 +++

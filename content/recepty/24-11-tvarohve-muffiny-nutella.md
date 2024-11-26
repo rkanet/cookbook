@@ -6,7 +6,7 @@ imgsrc = "/img/tvarohove-muffiny-nutella.jpg"
 imghref = "/recepty/"
 imgname = "Tvarohové muffiny"
 kategorie = ["moučníky"]
-ingredience = ["mouka","nutella","mandle"]
+ingredience = ["mouka","nutella","mandle","tvaroh"]
 tags = ["sladké","bez-lepku"]
 +++
 
