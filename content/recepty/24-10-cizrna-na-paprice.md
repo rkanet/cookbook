@@ -3,13 +3,13 @@
 date = "2024-10-10T14:35:19+02:00"
 title = "Cizrna na paprice"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/cizrna.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["cizrna"]
 kategorie = ["hlavní-jídla"]
 tags = ["slané","bez-lepku"]
-draft = true
+draft = false
 +++
 
 
@@ -30,12 +30,12 @@ draft = true
 2. Druhý den vodu slijeme a vaříme v nové vodě do měkka (2-3h). Cizrnu osolíme a necháme stát pod pokličkou, ráda osychá.
 3. Orestujeme nakrájenou cibulku (nemusí být na jemno rozmixuje se s cizrnou), přidáme papriku a krátce! orestujeme, přilijeme vodu/vývara a přidáme asi 1/2 cizrny
 4. Chvíli povaříme a rozmixujeme ponorným mixérem omáčku do hladka. Lze ještě propasírovat přes síto a získat hladší omáčku... (nedělám:)
-5. Do omáčky přidáme zbytek nerozmixované cizrny, hořčici, mléko/smetanu dle chuti a pár minut ještě povaříme.
+5. Do omáčky přidáme nerozmixovanou cizrnu, hořčici, mléko/smetanu dle chuti a pár minut ještě povaříme.
 6. Dochuťíme solí a citronem (pár kapkami citronové šťávy) 
-7. Nakrájený pórek povaříme v páře (já krátce orestuji na pánvi a podliji vodou nechám odpařit)
+7. Nakrájený pórek se vaří v páře (já krátce orestuji na pánvi a podliji vodou nechám odpařit)
 
 # Poznámky
-Porek se má s omáčkou promíchat  těsně před podáváním, aby neztratil zelenou barvu. U nás porek nechávám v misce stranou, protože ne všichni ho jedí. A přidává se dle chuti až na stole.
+Porek se má s omáčkou promíchat  těsně před podáváním, aby neztratil zelenou barvu. U nás porek nechávám v misce stranou, protože ne všichni ho jedí. Přidává se dle chuti až na stole.
 
 
 

@@ -3,7 +3,7 @@
 date = "2024-11-26T08:14:12+01:00"
 title = "Kváskové placky z mascarpone"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/kvaskove-placky-z-mascarpone.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["mascarpone","rozmarýn"]
@@ -30,7 +30,7 @@ draft = false
 5. pečeme na cca 220 st
 
 # Poznámky
-Těsto se celkem trhá, proto ho nerozvaluji, ale ručně tvaruju na plech. Zase tam není moc xantanových a jiných gumo přísad:)
+Těsto se celkem trhá, proto ho nerozvaluji, ale ručně  tvaruju (rozuměj prsty rozplácnu) na plech. Výhodou je, že použité mouky nenají moc xantanových a jiných gumo přísad.
 Protože mascarpone má hodně tuku (asi 80%) jsou placky mnohem křehčí než náš klasický recept pouze z mouky, kvásku a vody. 
 Olivy a rozmarýn skvělá osvědčená kombinace:)
 

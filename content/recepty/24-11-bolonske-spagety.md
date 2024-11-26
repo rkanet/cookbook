@@ -7,9 +7,9 @@ imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
 ingredience = ["maso","račata"]
-kategorie = ["hlavní jídla"]
+kategorie = ["hlavní-jídla"]
 tags = ["slané","zelenina","bez-lepku"]
-draft = true
+draft = false
 
 +++
 
@@ -40,7 +40,7 @@ draft = true
 5. Přivedeme k varu, ztlumíme na minimum a s pokličkou dusíme 2–3 hodiny, občas promíchejte. Omáčka zhoustne a ztmavne, pokud by se připalovala, trošku ji podlijeme.
 
 # Poznámky
-Většinou nemám doma víno, takže ideál kombinace Mirin a rýžový ocet 1:1 (mirin chutná jako íno ale je hodně sladký, rýžový ocet přidá kyselost). V původním recpetu je uvedena směs vepřového a hovězího s převahou hovězího. Když si nemelu doma maso (což je často) dělám pouze z hovězího, protože mám osvědčené jen BIo hovězí z Lidlu. Koupené mleté vepřové je zbytečně tučné.
+Většinou nemám doma víno, takže ideál kombinace Mirin a rýžový ocet 1:1 (mirin chutná jako víno ale je hodně sladký, rýžový ocet přidá kyselost). V původním recpetu je uvedena směs vepřového a hovězího s převahou hovězího. Když si nemelu doma maso (což je často) dělám pouze z hovězího, protože mám osvědčené jen BIo hovězí z Lidlu. Koupené mleté vepřové je zbytečně tučné.
 
 
 <!-- --> 
