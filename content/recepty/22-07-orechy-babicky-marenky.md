@@ -9,7 +9,6 @@ imgname = "Ořechy"
 kategorie = ["moučníky"]
 ingredience = ["ořechy","mouka"]
 tags = ["sladké","pečivo"]
-kategorie = ["moučníky"]
 +++
 
 # Suroviny na těsto

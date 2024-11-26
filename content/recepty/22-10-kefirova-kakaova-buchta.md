@@ -9,7 +9,7 @@ imgname = "Kefírová buchta I"
 kategorie = ["moučníky"]
 ingredience = ["kakao","kefír","bez-lepku"]
 tags = ["sladké","pečivo"]
-kategorie = ["moučníky"]
+
 +++
 
 <!--

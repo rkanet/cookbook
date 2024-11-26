@@ -9,7 +9,7 @@ imgname = "Vafle"
 kategorie = ["moučníky"]
 ingredience = ["mouka","kypřící-prášek",]
 tags = ["sladké","ovoce","bez-lepku"]
-]
+
 +++
 
 # Suroviny 
