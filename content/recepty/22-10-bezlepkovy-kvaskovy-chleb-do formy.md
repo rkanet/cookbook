@@ -23,27 +23,38 @@ tags = ["slané","pečivo","bez-lepku"]
 - 2 Pl spařeného hnědého lněného semínka
 - 2 ČL Psyllia nabotnané v trošce vody (lze i bez něj)
 
+II.verze aby nepřekynul z formy menší dávka
+- 450 g kvasu Doves Farm plain white a pohanková mouka hladká v poměru 1:1
+- 200 g pohanková mouka hladká Šmajstrla
+- 200 g bezlepkové směsi Jizerka zlatá
+- cca 240 ml vody
+- 18g soli
+- 5 g drceného kmínu
+- 2 Pl spařeného hnědého lněného semínka
+
+
+
 
 # Postup
-1. Připravíme kvas (600g)
-    - cca 120g kvásku
-    - 150 g pohanková mouka hladká Šmajstrla
-    - 150 g Doves Farm Plain White
-    - 280-300 g vody 
+1. Připravíme kvas (600g/450g)
+    - cca 120g kvásku / 90g
+    - 150 g pohanková mouka hladká Šmajstrla /112g
+    - 150 g Doves Farm Plain White /112g
+    - 280-300 g vody /210 - 225g
 
 2. Připravíme záparu, tj. semínka zalijeme vroucí vodou (hladina mírně nad semínka) a necháme nabobtnat a vychladnout. Záparu připravuju tak 1h předem, případně přes noc, když se to hodí.
 
-3. Z hotového kvasu odeberem 40g do čisté sklenice, přikrmíme 140g mouky  (70g Doves farm plain white a 70g pohanková hladká) a 120-140g vody. Přikryjeme sáčkrm a necháme rozkvasit. Dle teploty trvá 5-12h.
+3. Z hotového kvasu odeberem 40g do čisté sklenice, přikrmíme 140g mouky  (70g Doves farm plain white a 70g pohanková hladká) a 120-140g vody. Přikryjeme sáčkem a necháme rozkvasit. Dle teploty trvá 5-12h.
     Po rozkvašení uložíme kvásek dolednice. Vydrží určitě týden, občas i déle, ale bez záruky:)
 
 
 4. Pak do nádoby s kvasem přidáme 
-    - 275 g pohanková mouka hladká Šmajstrla
-    - 275 g bezlepkové směsi Jizerka zlatá
-    - 20 - 24g soli
-    - 250-300 g vody (postupně přidávat dle konzistence upravit množství dolu nebo nahoru)
-    - 7-10 g drceného kmínu 
-    - záparu  (lněné semínko) a psyllium
+    - 275 g pohanková mouka hladká Šmajstrla / 200g
+    - 275 g bezlepkové směsi Jizerka zlatá /200g
+    - 20 - 24g soli /18g
+    - 250-300 g vody (postupně přidávat dle konzistence upravit množství dolu nebo nahoru) /190-225g
+    - 7-10 g drceného kmínu / 5g
+    - záparu  (2 PL lněné semínko) a psyllium (pokud je lněné semínko není psyllium nutné)
 
 4. Těsto v míse krátce propracujeme.
 5. Vyklopíme na pomoučněnou plochu a několikrát přeložíme. Nakonec vytvarujeme a přeneseme do vymazané a mouku vysypané formy. 
