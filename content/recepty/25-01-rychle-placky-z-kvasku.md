@@ -14,12 +14,11 @@ draft = false
 
 
 # Suroviny
-- přebytěčný kvásek hydratace 1:1
+- přebytečný kvásek hydratace 1:1
 - voda/mléko
 - sůl
 - koření dle chuti (kmín, bylinky...)
-- dle chuti něco na vrch, nekonečně možností česnek, rukula, rajče, sýr, olivy, naklíčená ředkvička a lučina...
-
+- dle chuti něco na vrch, nekonečně možností česnek, rukola, rajče, sýr, olivy, naklíčená ředkvička a lučina...
 
 # Postup
 1. Kvásek osolíme ochutíme a naředíme, aby byl tekutý asi jako hustší palačinkové těsto.

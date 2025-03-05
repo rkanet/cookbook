@@ -6,7 +6,25 @@
     <description>Recent content in Ingredience on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2025 12:03:31 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Feb 2025 18:04:24 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jablka</title>
+      <link>https://rkanet.github.io/cookbook/ingredience/jablka/</link>
+      <pubDate>Wed, 12 Feb 2025 18:04:24 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/cookbook/ingredience/jablka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rýže</title>
+      <link>https://rkanet.github.io/cookbook/ingredience/r%C3%BD%C5%BEe/</link>
+      <pubDate>Wed, 12 Feb 2025 18:04:24 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/cookbook/ingredience/r%C3%BD%C5%BEe/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>kvásek</title>
       <link>https://rkanet.github.io/cookbook/ingredience/kv%C3%A1sek/</link>
@@ -31,15 +49,6 @@
       <pubDate>Tue, 26 Nov 2024 08:14:12 +0100</pubDate>
       
       <guid>https://rkanet.github.io/cookbook/ingredience/rozmar%C3%BDn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jablka</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/jablka/</link>
-      <pubDate>Thu, 21 Nov 2024 16:20:32 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/jablka/</guid>
       <description></description>
     </item>
     
@@ -85,15 +94,6 @@
       <pubDate>Thu, 21 Nov 2024 15:00:31 +0100</pubDate>
       
       <guid>https://rkanet.github.io/cookbook/ingredience/raj%C4%8De/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rýže</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/r%C3%BD%C5%BEe/</link>
-      <pubDate>Thu, 21 Nov 2024 15:00:31 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/r%C3%BD%C5%BEe/</guid>
       <description></description>
     </item>
     
