@@ -13,7 +13,7 @@ draft = false
 +++
 
 
-# Suroviny
+# Suroviny (asi 3 porce)
 - 20g chia semínek
 - 100g mléko polotčné
 - 250g tvaroh ve vaničce 250g 
