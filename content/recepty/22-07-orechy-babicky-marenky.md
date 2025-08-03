@@ -20,12 +20,11 @@ tags = ["sladké","pečivo"]
 
 # Postup
 - všechny suroviny zpracujeme do těsta (máslo nechat povolit předem), je-li čas nechat odležet přes noc v lednici
-- dáváme do formiček příměřeně, docela nabydou (jen oblepit tvar formičky jako mističku)
+- dáváme do formiček přiměřeně, docela nabydou (jen oblepit tvar formičky jako mističku)
 - pečeme při 180 do 15 minut (dle množství, tloušťky a trouby)
 
-
 # Krém
-Originál babičin je vařený s jíškou, déle vydrží. Z 50g másla a 50g mouky udělat světlou jíšku. 
+Originál babiččin je vařený s jíškou, déle vydrží. Z 50g másla a 50g mouky udělat světlou jíšku. 
 Chvíli odstavit pak přidat 500ml mléka, dobře rozmíchat a povařit 20 minut za stáleho míchání.
 Před koncem přidat 1 vanilkový cukr.
 
@@ -40,9 +39,5 @@ Zatím jsem dělala jen rychlý krém cca takto:
 
 # Poznámky
 Dobré i v bezlepkové verzi! Do té dávám navíc jedno vajíčko. Vyzkoušeno s Jizerkou a Nutri free Pasta Frolla.
-
-
-
-
 
 

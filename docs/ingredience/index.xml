@@ -6,7 +6,25 @@
     <description>Recent content in Ingredience on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 18:04:24 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Jul 2025 19:58:24 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chia</title>
+      <link>https://rkanet.github.io/cookbook/ingredience/chia/</link>
+      <pubDate>Thu, 31 Jul 2025 19:58:24 +0200</pubDate>
+      
+      <guid>https://rkanet.github.io/cookbook/ingredience/chia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tvaroh</title>
+      <link>https://rkanet.github.io/cookbook/ingredience/tvaroh/</link>
+      <pubDate>Thu, 31 Jul 2025 19:58:24 +0200</pubDate>
+      
+      <guid>https://rkanet.github.io/cookbook/ingredience/tvaroh/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>jablka</title>
       <link>https://rkanet.github.io/cookbook/ingredience/jablka/</link>
@@ -49,6 +67,15 @@
       <pubDate>Tue, 26 Nov 2024 08:14:12 +0100</pubDate>
       
       <guid>https://rkanet.github.io/cookbook/ingredience/rozmar%C3%BDn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kuřecí-křídla</title>
+      <link>https://rkanet.github.io/cookbook/ingredience/ku%C5%99ec%C3%AD-k%C5%99%C3%ADdla/</link>
+      <pubDate>Fri, 22 Nov 2024 22:20:00 +0100</pubDate>
+      
+      <guid>https://rkanet.github.io/cookbook/ingredience/ku%C5%99ec%C3%AD-k%C5%99%C3%ADdla/</guid>
       <description></description>
     </item>
     
@@ -116,15 +143,6 @@
     </item>
     
     <item>
-      <title>tvaroh</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/tvaroh/</link>
-      <pubDate>Sun, 10 Nov 2024 08:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/tvaroh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>květák</title>
       <link>https://rkanet.github.io/cookbook/ingredience/kv%C4%9Bt%C3%A1k/</link>
       <pubDate>Thu, 07 Nov 2024 15:06:37 +0100</pubDate>
@@ -148,15 +166,6 @@
       <pubDate>Thu, 07 Nov 2024 15:03:47 +0100</pubDate>
       
       <guid>https://rkanet.github.io/cookbook/ingredience/ra%C4%8Data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kuřecí-křídla</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/ku%C5%99ec%C3%AD-k%C5%99%C3%ADdla/</link>
-      <pubDate>Mon, 21 Oct 2024 10:10:14 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/ku%C5%99ec%C3%AD-k%C5%99%C3%ADdla/</guid>
       <description></description>
     </item>
     

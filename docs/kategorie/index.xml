@@ -6,11 +6,20 @@
     <description>Recent content in Kategorie on Kitchen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Mar 2025 18:13:16 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/kategorie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Jul 2025 19:59:52 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/kategorie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>moučníky</title>
+      <link>https://rkanet.github.io/cookbook/kategorie/mou%C4%8Dn%C3%ADky/</link>
+      <pubDate>Thu, 31 Jul 2025 19:59:52 +0200</pubDate>
+      
+      <guid>https://rkanet.github.io/cookbook/kategorie/mou%C4%8Dn%C3%ADky/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hlavní-jídla</title>
       <link>https://rkanet.github.io/cookbook/kategorie/hlavn%C3%AD-j%C3%ADdla/</link>
-      <pubDate>Wed, 05 Mar 2025 18:13:16 +0100</pubDate>
+      <pubDate>Thu, 15 May 2025 10:53:24 +0200</pubDate>
       
       <guid>https://rkanet.github.io/cookbook/kategorie/hlavn%C3%AD-j%C3%ADdla/</guid>
       <description></description>
@@ -22,15 +31,6 @@
       <pubDate>Wed, 05 Mar 2025 18:13:16 +0100</pubDate>
       
       <guid>https://rkanet.github.io/cookbook/kategorie/p%C5%99%C3%ADlohy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>moučníky</title>
-      <link>https://rkanet.github.io/cookbook/kategorie/mou%C4%8Dn%C3%ADky/</link>
-      <pubDate>Wed, 05 Mar 2025 15:18:55 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/kategorie/mou%C4%8Dn%C3%ADky/</guid>
       <description></description>
     </item>
     

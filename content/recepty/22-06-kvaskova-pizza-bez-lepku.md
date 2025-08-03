@@ -19,7 +19,7 @@ tags = ["slané","zelenina","bez-lepku","pečivo"]
    - 40g Doves farm plain white
    - necháme cca 14h kvasit při pokojové teplotě, překryté folií
 2. pro druhý rozkvas přidáme
-    - 350g mouky Schaer mix B
+    - 350g mouky Schar mix B
     - půl lžičky soli
     - tři PL lžíce olivového oleje
     - 320 g vody
@@ -41,7 +41,7 @@ tags = ["slané","zelenina","bez-lepku","pečivo"]
 - Včas zahřejeme troubu na 250 st. Dávám plech a na něj pizza litinovou podložku.
 - Vytvarujeme pizzu na dost pomoučněné desce (na té už to pak rovnou sázím do trouby)
 - Potřeme sugem a dozdobíme dle chuti.
-- Před sesunutím pizzy do trouby je potřeba jí uvolnit z podložky, roznýbat. Případně víc podsypat, pak teprvé sázíme do trouby.
+- Před sesunutím pizzy do trouby je potřeba jí uvolnit z podložky, rozhýbat. Případně víc podsypat, pak teprvé sázíme do trouby.
 - Při 250st pečeme cca 10 minut.
 
 # Poznámky
@@ -50,8 +50,6 @@ tags = ["slané","zelenina","bez-lepku","pečivo"]
  - pokud dělám z celé dávky, připravím pouze 2 pizzy (280g každá) a ze zbytku umotám pizza šneky
  - i u této pizzy je fajn naplnit okraj sýrem, tj. přehrnout okraj s trochou strouhaného sýra uvnitř
 
-
 inspirováno: LaTeta https://lateta.cz/2019/07/15/kvaskova-pizza/
-
 
 <!--more-->

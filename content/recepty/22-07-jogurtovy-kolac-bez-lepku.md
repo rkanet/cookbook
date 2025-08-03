@@ -13,10 +13,9 @@ tags = ["sladké","ovoce","pečivo","bez-lepku"]
 
 +++
 
-
 # Suroviny (Forma Ikea 32 x 22 cm)
 těsto
-- 250g jogurt hollandia
+- 250g jogurt Hollandia
 - 1 ks vejce
 - 100g třtinového cukru
 - 1 ks vanilkový cukr (10-20g)
@@ -29,20 +28,12 @@ drobenka
 - 60 g vločky
 - 70 g mouka Doves Farm směs bílá
 - třtinový cukr 70 g
-- šp. soli
+- špetka soli
 - dle chuti a druhu ovoce lze přidat trochu skořice
 
 # Postup
 - předehřejeme troubu, vymažeme pekáč
 - v míse smícháme jogurt, cukr a vejce a počkáme až se rozpustí cukr
-- v druhé menší misce promícháme kypř. prášek s moukou pak přidáme k jogurtu
+- v druhé menší misce promícháme kypřící prášek s moukou pak přidáme k jogurtu
 - nalejeme do pekáče a rozetřeme tenkou vrstvu, předpečeme samotné těsto 10-15 minut při cca 180 st.
 - po vyndání z trouby hned posypeme ovocem a drobenkou a zase rychle vrátíme trouby na dopečení (asi 30 minut) až drobenka zezlátne
-
-
-
-
-
-
-
-

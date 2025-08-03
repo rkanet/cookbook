@@ -14,23 +14,21 @@ tags = ["slané","zelenina","bez-lepku","maso"]
 # Suroviny na chlebovou smaltovou formu
 
 - 2 ks želatina dr.Oetker jemně mletá (stejnou používám na jahodový dort)
-- cca 300g  uvřeného masa (krůtí stehenní nebo vepřové)
+- cca 300g  uvařeného masa (krůtí stehenní nebo vepřové)
 - 1 l vývaru  (z masa a doplnit vodou, dochutit lákem z okurek)
 - pepř  a sůl
 - malá sklenice krájené sterilované papriky 
 - malá sklenice nakládaných cibulek
 - cca půl sklenice okurek
-- volitelně 3ks na čtvrtky nakrajená vařená vejce (dobré)
-
+- volitelně 3ks na čtvrtky nakrájená vařená vejce (dobré)
 
 # Postup
 
 1. připravíme vařené maso (krůtí nebo vepřové), vývar s novým kořením a bobkovým listem (lze i den předem)
 2. vývar přecedíme, maso nakrájíme
 3. želatinu dle návodu: necháme nabobtnat ve studeném vývaru a pak zahřejeme do rozpuštění (max 60st.)
-3. maso a zeleninu navrstvíme do formy (např. na dno formy nasekané okurky, na to krájené maso, vrstva papriky a ankonec cibulky s trochou okurek)
+3. maso a zeleninu navrstvíme do formy (např. na dno formy nasekané okurky, na to krájené maso, vrstva papriky a nakonec cibulky s trochou okurek)
 4. zalijeme teplou želatinou a dáme do ledničky ztuhnout
-
 
 
 # Poznámky

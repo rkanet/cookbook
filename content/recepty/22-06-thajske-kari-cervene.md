@@ -17,14 +17,14 @@ cca 3 osoby:
 - 1 cibule na půlky a na tenké měsíčky a rozdrobit na proužky
 - 3 střední žampiony na kousky - tenké plátky
 - 3/4 cukety malé na kolečka a ty na výseče jako dort
-- 1 menší mrkev na tenoučká! kolečka ( větší průmer na půlkolečka)
+- 1 menší mrkev na tenoučká! kolečka (větší průměr na půlkolečka)
 - zázvor kousek povařit
 (lze přidat fazol lusky, brokolici, hrášek luskový - nevyzkoušeno)
 
-- karipasta červenná 1 rovná PL
+- kari pasta červená 1 rovná PL
 - 1 PL limetka vymačkaná
 - 5 PL kokos mléko
-- asi 300 - 400 ml vývar kučecí (přip. zeleninový) s 1-2 ČL škrobu rozmíchat
+- asi 300 - 400 ml vývar kuřecí (příp. zeleninový) s 1-2 ČL škrobu rozmíchat
 - 1 menší ČL cukru
 - sůl
 - 2 ČL škrobu
@@ -32,14 +32,13 @@ cca 3 osoby:
 - thajská bazalka (ušla i africká ze zahrady)
 
 # Postup
-1. vše nakrajíme a připravíme
+1. vše nakrájíme a připravíme
 2. dáme vařit rýži 
-3. orestovat krátce cibulku, pak přidat papriku a mrkev, žampiony a dorestovat - vysypat z pánve stranou
+3. orestovat krátce cibulku, pak přidat papriku a mrkev, žampiony a orestovat - vysypat z pánve stranou
 4. v troše vývaru rozmíchat škrob
-5. na pánvi orestovat maso, jen zatáhnout, přidat karipastu rozmatlat, pak postupně cukr, vývar mléko... vše podusit 3 minuty
-6. přidat orestovanou zeleninu včetně neorestované cukety, škrob... dochutit limetkou, rybí pomáčkou, solí... vše podusit 3 minuty
+5. na pánvi orestovat maso, jen zatáhnout, přidat kari pastu rozmatlat, pak postupně cukr, vývar mléko... vše podusit 3 minuty
+6. přidat orestovanou zeleninu včetně neorestované cukety, škrob... dochutit limetkou, rybí omáčkou, solí... vše podusit 3 minuty
 7. na závěr přidat nasekanou thajskou bazalku spolu s koriandrem
-
 
 # Poznámky
 Podáváme s rýží, u nás basmati.

@@ -11,20 +11,20 @@ tags = ["sladké","pečivo","bez-lepku"]
 
 +++
 
-# Suroviny pekáč Ikea 32x22 cm
+# Suroviny pekáč Ikea 32x22 cm (30x38cm)
 
-- 234 g zakysané smetany de Luxe Kunín
-- 1 vejce
-- 1/2 balíčku kypřícího prášku
-- 80g třtinového cukru
-- 170 g mouky Nutrifree per Dolce
-- ovoce asi 250g borůvek a 4 broskve nakrájené ne kousky i se slupkou
+- 234 g zakysané smetany de Luxe Kunín (356g)
+- 1 vejce (2ks)
+- 1/2 balíčku kypřícího prášku (1ks=12g)
+- 80g třtinového cukru (130g)
+- 170 g mouky Nutrifree per Dolce (257g)
+- ovoce asi 250g borůvek a 4 broskve nakrájené ne kousky i se slupkou (přiměřeně)
 
 Drobenka
-- 50g rýžové mouky polohrubé
-- 40g bezlepkových vloček
-- 50g cukru
-- 40g másla
+- 45g rýžové mouky polohrubé (89g)
+- 45g mandlové mouky (89g)
+- 50g cukru (98g)
+- 40g másla (79g)
 
 # Postup
 1. propracujeme Ingredience na posypku
@@ -37,6 +37,6 @@ Posypeme drobenkou.
 
 
 # Poznámky
-Přepočet receptu od LaTety na mojí větší formu. Dala jsem 1 PL mléka navíc
+V závorce přepočet na mojí větší formu. Dala jsem 1 PL mléka navíc. Nemám často mandlovou mouku, pak drobenku dělám z kouky Doves Farm plain white a mandlovou mouku nahrdím blp ovesnýma vločkama.
 
 <!--more-->

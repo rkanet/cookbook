@@ -37,10 +37,10 @@ V míse promíchejte mouku, cukr, jedlou sodu a kakao. Do směsi zašlehejte kef
 220g mouky Nutrifree Dolci
 1ČL kopečkem skořice
 1 ČL jedlé sody skoro rovná
-ovoce, protože bylo hodně kompotů zvvolila jsem třešně cca 1,5 sklenice
+
 
 # Postup
-Třešně necháme okapat a vypeckujeme. Smícháme zvlášť tekuté (krom horké vody) a zvlášť suché suroviny. 
-Nakonec promícháme obě části a nalijeme do vymazaného a moukou vysypaného pekáče. 
-Navrch poklademe ovocem.    Používám Ikea velikost 
+Smícháme zvlášť tekuté (krom horké vody) a zvlášť suché suroviny. Nakonec spojíme promícháme a nalijeme do vymazaného pekáče. 
+Pečeme v předehřáté troubě na 180 st. cca 30 minut. Dle potřeby lze přikrýt na dopečení pečícím papírem.
+
 # Poznámky

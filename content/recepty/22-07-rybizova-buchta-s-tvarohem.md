@@ -12,16 +12,15 @@ tags = ["sladké","ovoce","pečivo","bez-lepku"]
 
 +++
 
-# Suroviny na malý ikea pekaáč (cca 32 x 22 cm)/na velký (38 x30)
+# Suroviny na malý Ikea pekáč (cca 32 x 22 cm)/na velký (38 x30)
 Těsto z rychlého  [jogurtového koláče](recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/):
 
-- 250g jogurt hollandia /400g
+- 250g jogurt Hollandia /400g
 - 1 ks vejce/ 1,6 ks
 - 100g třtinového cukru /160g
 - 1 ks vanilkový cukr (10-20g)/1,5 balíčku
 - 140g mouka (1PL kopcem pohanková hladká, 2PL Doves Farm směs bílá, zbytek Jizerka)/ 225g
 - 2 rovné ČL kypřícího prášku/ 3ČL
-
 
 Nádivka
  - 500g tvarohu/ 800 (zkusit 750g, aby vyšlo na balení)
@@ -35,17 +34,15 @@ Nádivka
   - 100g cukru/250g 
   - 20g mandlových plátku/ 35g
 
-
 # Postup
-1.  těsto vyšlehat a vytvarovat váleček, roztřít na plech vrstva asi 1/2 cm
+1.  těsto vyšlehat a vytvarovat váleček, rozetřít na plech vrstva asi 1/2 cm
 2.  smícháme náplň a navrstvíme na korpus
 3.  pečeme 175-200st 25 minut
 4.  ušlehat sníh, postupně přidat cukr a  vyšlehat s cukrem
 5.  potřeme buchtu a  dopečeme  z vrchu 200-225 st  jen na horní pečení
  
 
-
   # Poznámky
   Bez lepku nutno předpéct korpus 15 minut 200 st.
-  Původní těsto v lepkové verzi bylo "Těsto tvarohové s olejem" (300g hl. mouky, 1 kypř. prášek, 150g tvarohu, 6PL mléka, 6 Pl oleje, 75 g cukru, 1 vanilkový cukr, špetka soli).
+  Původní těsto v lepkové verzi bylo "Těsto tvarohové s olejem" (300g hl. mouky, 1 kypř. prášek, 150g tvarohu, 6PL mléka, 6 PL oleje, 75 g cukru, 1 vanilkový cukr, špetka soli).
   Nevyzkoušeno tj. ani není přepočteno na moje formy. Zatím jsem použila těsto z rychlého  [jogurtového koláče](recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/).

@@ -9,7 +9,6 @@ kategorie = ["moučníky"]
 ingredience = ["tvaroh","jahody"]
 tags = ["sladké","ovoce","bez-lepku"]
 
-
 +++
 
 # Suroviny
@@ -24,16 +23,15 @@ tags = ["sladké","ovoce","bez-lepku"]
 # Postup
 - omýt a osušit jahody
 - želatinu rozpustit v 400ml vody a nechat 10 minut bobtnat
-- do fromy na dno scvaknout pečící papír navrstvit piškoty, pokapat rumem a navrstvit jahody
+- do formy na dno scvaknout pečící papír navrstvit piškoty, pokapat rumem a navrstvit jahody
 - ohřát želatinu ve vodní lázní (max 60st) do úplného rozpuštění- čirý roztok
-- po schlazení smíchat oslazený tvaroh a želatinu a zvolna nalít na dort
-- schladit v lednici
+- po zchlazení smíchat oslazený tvaroh a želatinu a zvolna nalít na dort
+- zchladit v lednici
  
 
 # Poznámky
  - bezlepkové piškoty jsou drobivé, lepší bez nich jako dezert bez piškotů
  - tvaroh lze ztužit i agarem (nemám vyzkoušeno)
-
 
 
 <!--more-->

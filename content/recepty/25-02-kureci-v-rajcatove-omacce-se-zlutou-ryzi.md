@@ -28,7 +28,7 @@ draft = true
 - nasekaná hladkolistaá petžel
 
 # Postup
-1. Okořeníme a osolíme kousky kuřete přidáme a dáme do pekáčku. Přidáme cibuli, nakrájenou na větší kousky a dáme péct. Pečeme cca hodinu přiklopené.
+1. Okořeníme a osolíme kousky kuřete přidáme a dáme do pekáčku. Přidáme lučinu cibuli, nakrájenou na větší kousky a dáme péct. Pečeme cca hodinu přiklopené.
 2. Mezitím nakrájíme rajčata na kolečka. Papriku nakrájíme na větší kousky, přiměřeně, aby se dala zamíchat do rýže. 
 3. Po hodině pečení ke kuřeti přidáme rajčata a pečeme již odklopené, až se rajčata mírně zapečou (tj zhnědnou lehce). V ten okamžík dáme restovat nakrájenou papriku na pánev s olejem a dáme vařit rýži s kurkumou, bobkovým listem a solí. 
 4. Maso z pekáčku si dáme na chvilku stranou. Obsah pekáče vlijeme do vhodné nádoby a omáčku rozmixujeme s lučinou do hladka. Vrátíme omáčku a maso zpět do pekáře a necháme ještě chvilku dopékat, než se dovaří rýže. S masem manipuluji opatrně, aby se omáčkou nezalila propečená kůže kuřete. Pokud by bylo omáčky více a času dost:) lze kuře vyndat do menší zapékací misky a nechat úplně  odděleně od omáčky.

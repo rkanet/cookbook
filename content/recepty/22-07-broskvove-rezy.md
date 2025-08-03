@@ -39,16 +39,15 @@ Těsto:
 - 80 g mouky (z toho 1 PL kukuř. škrobu)
 - špetka soli
 
-
 1. ušlehat sníh, 
 2. vyšlehat cukr se sněhem
 3. přes sítko přidáváme postupně mouku do sněhu, pak žloutky
-(sítko hlavnì u bezlepkového !!!!, jinak hrudky)
+(sítko hlavně u bezlepkového !!!!, jinak hrudky)
 
 Krém:
 - 1 šlehačka - minimálně 33 % nutné jinak teče a je třeba ztužit
 - 100 g cukr
-- 2 velká zakysaná smetana červená z lídlu tučná
+- 2 velká zakysaná smetana červená z Lidlu tučná
 
 Pudinková ovocná vrstva
 - 1 vanilkový pudink
@@ -59,7 +58,8 @@ Dokončení
 - po vychladnutí piškotu rovnoměrně namažeme krémem, poklademe broskvemi nakrájenými na měsíčky a zalijeme pudinkovou polevou, která by měla být lehce vychladlá 
 - hotové řezy dáme chladit do ledničky.
 
-
 # Poznámky
  - dobré bylo také  s vypeckovaným třešňovým kompotem
- - asi jsem dělala jen z 1 kys smetany naopak ze vou pudinků želé
+ - asi jsem dělala jen z 1 kys smetany naopak ze 2 pudinků želé
+
+

@@ -34,6 +34,8 @@ na 2 ks průměr cca 28cm
 Do trouby dávám pizza kámen z litiny a přímo na něj sázím pizzu.
 U tohoto blp těsta to lze. Jen je potřeba se přesvědčit (těsně před vsazením) že je těsto uvolněné posunuje s po lopatě (podložce):
 Pokud ne, tak ho jemně podebrat a uvolnit, podsypat moukou.
+Pro verzi s nočním kynutím lednici dávám jen cca 7g droždí a nedělám kvásek, jen těsto dobře promíchám.
+
 
 <!-- originál LaTeta
 Těsto na 2 ks:

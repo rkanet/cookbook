@@ -23,10 +23,11 @@ tags = ["sladké","slané","pečivo","bez-lepku"]
 # postup
 1. spaříme lněné semínko (ideálně předem, vychladne)
 2. všechny suroviny zpracovat do těsta. Vodu přidávám dle toho jak moc jsem zalila lněné semínko.
-3. nechám odležet cca 1h, nebo dolednice a druhý den dělám placky
-4. Placky dělám na sucho na železné pánvi. Na menším pomoučněném talíří vytvaruju placku, popatrně překlopím na ruku a obratem na pánev. Trhá se, takže to chce nedělat velké placky a trochu víc mouky.
-5. Nebo na pečícím papíře v treoubě. Rukou vytvaruju/rozplácnu na pečící papír. Dělám hranaté, aby s ejich dost vešlo. Lze udělat velké a rokrájet tupým nožem na menší čáasti. 
-
+3. nechám odležet cca 1h, nebo do lednice a druhý den dělám placky
+4. Placky dělám na sucho na železné pánvi. Na menším pomoučněném talíři vytvaruju placku. Opatrně překlopím na ruku a obratem na pánev. Trhá se, takže to chce nedělat velké placky a trochu víc mouky.
+5. Nebo na pečícím papíře v troubě. Rukou vytvaruju/rozplácnu na pečící papír. Dělám hranaté, aby se jich dost vešlo. Lze udělat velké a rozkrájet tupým nožem na menší části. 
 
 # poznámky
-Lze dochucovat těsto bylinkami a kořením. Placky v troubě je fajn posypat na vrch strouhaným sýrem dle chuti. Strouahný sýr lze dát i do těsta. Zkusit dát víc olej, aby byly křehčí.
+Lze dochucovat těsto bylinkami a kořením. Placky v troubě je fajn posypat na vrch strouhaným sýrem dle chuti. Strouhaný sýr lze dát i do těsta. Zkusit dát víc olej, aby byly křehčí.
+
+

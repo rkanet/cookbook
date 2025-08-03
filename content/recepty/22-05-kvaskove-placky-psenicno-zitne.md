@@ -20,8 +20,8 @@ tags = ["sladké","slané","pečivo"]
 - sůl
 
 # Postup
-1. vše promíchíme a necháme cca hodinu stát, lze dýt i do lednice  na později
-2. tvarujeme placky a pečeme na rozehřáte olejem vymazané litinové pánvi
+1. vše promícháme a necháme cca hodinu stát, lze dát i do lednice  na později
+2. tvarujeme placky a pečeme na rozehřáté olejem vymazané litinové pánvi
 
 # Poznámky
 - doplnit množství surovin
