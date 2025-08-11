@@ -8,7 +8,7 @@ imghref = "/recepty/"
 imgname = ""
 kategorie = ["hlavní-jídla"]
 ingredience = ["maso","račata"]
-tags = ["slané","zelenina","bez-lepku"]
+tags = ["slané","zelenina","bez-lepku","maso"]
 draft = false
 
 +++

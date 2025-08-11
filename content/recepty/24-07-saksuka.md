@@ -1,7 +1,7 @@
 
 +++
 date = "2024-07-16T20:13:59+02:00"
-title = "Šakšuka (Shakshuka)"
+title = "Shakshuka (Šakšuka)"
 autor = "J.R."
 imgsrc = "/img/saksuka.jpg"
 imghref = "/recepty/"

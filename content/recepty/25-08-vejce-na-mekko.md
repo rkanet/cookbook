@@ -18,6 +18,7 @@ draft = false
 
 # Postup 
 1. vejce vyndané z lednice
+
 | Velikost vejce | čas| popis  žloutku|
 |---|---|---|
 |M 57g | 7:00 | tekutá hnilička|

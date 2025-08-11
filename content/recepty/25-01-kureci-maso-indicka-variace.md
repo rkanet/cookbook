@@ -8,7 +8,7 @@ imghref = "/recepty/"
 imgname = ""
 kategorie = ["hlavní-jídla"]
 ingredience = ["maso","římský-kmín"]
-tags = ["slané","bez-lepku"]
+tags = ["slané","bez-lepku","maso"]
 draft = true
 +++
 
