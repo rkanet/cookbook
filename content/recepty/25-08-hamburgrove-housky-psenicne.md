@@ -1,7 +1,7 @@
 
 +++
 date = "2025-08-11T22:48:53+02:00"
-title = ""
+title = "Hamburgrové housky pšeničné"
 autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
@@ -34,9 +34,9 @@ draft = false
 
 4. Rozděl těsto na 4–6 dílů, zformuj kuličky a lehce zplošti.
 
-5. Druhé kynutí zakryté housky na plechu s pečícím papírem 40–50 minut.
+5. Druhé kynutí zakryté housky na plechu s pečícím papírem asi 20 minut.
 
-6. Troubu předehřej na 200 °C (horní/dolní ohřev). Housky potři vejcem s mlékem posyp sezamem.  
+6. Troubu předehřej na 210 °C (horní/dolní ohřev). Housky potři vejcem s mlékem posyp sezamem.  
    Péct 15–18 minut do zlatova. Po upečení nech vychladnout na mřížce.
 
 # Postup s nočním kynutím

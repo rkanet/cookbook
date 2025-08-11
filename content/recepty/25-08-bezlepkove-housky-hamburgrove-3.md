@@ -1,7 +1,7 @@
 
 +++
 date = "2025-08-11T22:39:39+02:00"
-title = ""
+title = "Hamburgrové housky bez lepku III"
 autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
@@ -40,7 +40,7 @@ draft = false
 1. Vyndej těsto z lednice a nech 20–30 minut stát při pokojové teplotě.  
 2. Rozděl těsto na 6–8 dílů, zformuj kuličky a lehce zplošti (průměr cca 9 cm).  
 3. Polož na plech s pečícím papírem, zakryj utěrkou a nech kynout 35–45 minut.  
-4. Troubu předehřej na 200 °C (horní/dolní ohřev).  
+4. Troubu předehřej na 230 °C (horní/dolní ohřev).  
 5. Potři vejcem s vodou, posyp sezamem.  
 6. Peč 18–22 minut do zlatova.  
 7. Po upečení nech vychladnout na mřížce. Pro extra vláčnost můžeš ihned po vytažení potřít rozpuštěným máslem.
