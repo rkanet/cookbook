@@ -21,14 +21,15 @@ draft = false
 - 4 cibule
 - 8 stroužků česneku
 - 1 cuketa 
-- 1 lžíce papriky
+- 1 zarovnaná lžíce mleté sladké papriky
 - 3 lžíce balsamica 
-- hrst čerstvého tymiánu
+- čerstvý tymián (cca lístky z cca 8 větviček)
 - pár snítek čerstvého rozmarýnu
 - sůl
 - pepř
 - 2-3 lžíce olivového oleje
 - trocha protlaku nebo rajčatového pyré 
+- voda na podlití
 
 # Postup
 1. Maso, papriky, cibuli i dýní nakrájet na větší kousky. Česnek na kousky.
@@ -40,8 +41,8 @@ veškerým kořením.
 5. Pečte odkryté dalších  30 minut (občas směs zkontrolujte a promíchejte).
 
 # Poznámky
-Dýni z původního recptu jsem nahradila cuketou. Zeleninu lze přiměřeně obměňovat... Například žlutou papriku nemíváme často. 
+Dýni z původního receptu jsem nahradila cuketou. Zeleninu lze přiměřeně obměňovat... Například žlutou papriku nemíváme často. 
 Když nebyla cuketa vynechala jsme i tu. A nakonec je to bez ní možná pikantnější, neředí chuť, potvora:)
-Těch 800g masa je myslím pro 4-5 lidí.
+800g masa je myslím pro 4-5 lidí.
 
 <!-- --> 

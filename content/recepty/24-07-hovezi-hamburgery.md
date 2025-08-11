@@ -13,7 +13,7 @@ draft = false
 +++
 
 
-# Suroviny
+# Suroviny 3ks 
 - hovězí mleté 400g
 - 6g soli
 - trochu pepře
