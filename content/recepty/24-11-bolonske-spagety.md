@@ -33,14 +33,14 @@ draft = false
 
 
 # Postup
-1. Orestujtemena něm cibuli nakrájenou na malé kostičky. Přdidáme na hrubo na strouhanou mrkev a celer, sleninu a nakonec česnek. 
-2. Až bude zelenina lehce opečená přidáme mleté maso, oslolíme. Maso oddělujeme ho od sebe na malé kousky a trochu opečeme.
-3. Když je maso opečené, zalijeme mlékem a necháme odpařit , pak zalijeme vínem a též necháme odpařit.
-4. Přidáme cukr a rajský protlak a ještě krátce restujeme, pak vykplopíme do směsi rnasekaná rajčata i se šťávou. Dochutíme oregánem a bobkovým listem.
-5. Přivedeme k varu, ztlumíme na minimum a s pokličkou dusíme 2–3 hodiny, občas promíchejte. Omáčka zhoustne a ztmavne, pokud by se připalovala, trošku ji podlijeme.
+1. Na oleji orestujeme cibuli nakrájenou na malé kostičky. Přdidáme na hrubo na strouhanou mrkev a celer, sleninu a nakonec česnek. 
+2. Až bude zelenina lehce opečená přidáme mleté maso, osolíme. Maso oddělujeme ho od sebe na malé kousky a trochu opečeme.
+3. Když je maso opečené, zalijeme mlékem a necháme odpařit, pak zalijeme vínem a též necháme odpařit.
+4. Přidáme cukr a rajský protlak a ještě krátce restujeme, pak vykplopíme do směsi nasekaná rajčata i se šťávou. Dochutíme oregánem a bobkovým listem.
+5. Přivedeme k varu, ztlumíme na minimum a s pokličkou dusíme 2–3 hodiny, občas promíchat. Omáčka zhoustne a ztmavne, pokud by se připalovala, trošku ji podlijeme.
 
 # Poznámky
-Většinou nemám doma víno, takže ideál kombinace Mirin a rýžový ocet 1:1 (mirin chutná jako víno ale je hodně sladký, rýžový ocet přidá kyselost). V původním recpetu je uvedena směs vepřového a hovězího s převahou hovězího. Když si nemelu doma maso (což je často) dělám pouze z hovězího, protože mám osvědčené jen BIo hovězí z Lidlu. Koupené mleté vepřové je zbytečně tučné.
+Většinou nemám doma víno, takže ideál kombinace Mirin a rýžový ocet 1:1 (mirin chutná jako víno ale je hodně sladký, rýžový ocet přidá kyselost). V původním receptu je uvedena směs vepřového a hovězího s převahou hovězího. Když si nemelu doma maso dělám pouze z hovězího, mám osvědčené jen Bio hovězí z Lidlu. Koupené mleté vepřové je zbytečně tučné. Dlouhé pomalé dušení je důležité, lepší chuť.
 
 
 <!-- --> 
