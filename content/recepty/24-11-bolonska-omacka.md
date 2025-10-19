@@ -1,9 +1,9 @@
 
 +++
 date = "2024-11-07T15:03:47+01:00"
-title = "Boloňské špagety"
+title = "Boloňská omáčka (Ragù alla Bolognese)"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/5219-bolonska-omacka.jpg"
 imghref = "/recepty/"
 imgname = ""
 kategorie = ["hlavní-jídla"]
@@ -40,7 +40,14 @@ draft = false
 5. Přivedeme k varu, ztlumíme na minimum a s pokličkou dusíme 2–3 hodiny, občas promíchat. Omáčka zhoustne a ztmavne, pokud by se připalovala, trošku ji podlijeme.
 
 # Poznámky
-Většinou nemám doma víno, takže ideál kombinace Mirin a rýžový ocet 1:1 (mirin chutná jako víno ale je hodně sladký, rýžový ocet přidá kyselost). V původním receptu je uvedena směs vepřového a hovězího s převahou hovězího. Když si nemelu doma maso dělám pouze z hovězího, mám osvědčené jen Bio hovězí z Lidlu. Koupené mleté vepřové je zbytečně tučné. Dlouhé pomalé dušení je důležité, lepší chuť.
+Další z jídel, které dokáža vyvolat diskuzi, co tam zásadně patří či nepatří a s čím se určitě nepodává (špagety). Ragú alla Bolognese má prostě více variant.
+U nás doma se podává i se zavrhovanými "špagetami", které jsou doma vždy po ruce. Originál prý je vzhledem ke svému původu z vepřového masa. U nás máme dost rádi  verzi pouze s hovězím masem. Často dělám směs, pak dávám poměr hovězí 500g /vepřové 250g. Vepřová čistá zatím nevyzkoušena.
+
+Když si nemelu doma maso  mám osvědčené jen Bio hovězí z Lidlu. Koupené mleté vepřové je zbytečně tučné, tj. melu jen doma.
+
+Většinou nemám doma víno, takže ideál kombinace Mirin a rýžový ocet 1:1 (mirin chutná jako víno ale je hodně sladký, rýžový ocet přidá kyselost).  
+
+Dlouhé pomalé dušení je důležité, lepší chuť.
 
 
 <!-- --> 

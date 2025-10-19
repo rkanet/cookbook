@@ -38,6 +38,6 @@ kakaová část
 3. Postupně sběračkou do prostřed formy naléváme střídavě světlou a tmavou část, vrstvíme na  sebe. Neroztíráme pouze necháme svojí vahou roztéct k okrajům formy.
 
 # Poznámky
-nepovedlo se>]
+nepovedlo se
 
 <!-- --> 

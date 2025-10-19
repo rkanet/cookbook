@@ -1,9 +1,9 @@
 
 +++
 date = "2025-06-18T08:31:44+02:00"
-title = "Španěská bramborová tortilla (tortilla de patatas)"
+title = "Španělská bramborová tortilla (tortilla de patatas)"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/5510-spanelska-tortilla2.jpg"
 imghref = "/recepty/"
 imgname = ""
 kategorie = ["hlavní-jídla"]
