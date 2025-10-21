@@ -35,6 +35,6 @@ draft = false
 
 # Poznámky
 Původní recept byl jako bábovka. Pekla jsem do pekáče velikost cca 33x31 cm.
-1. verze bez lepku s pohankovou moukou. 70g mouky nahrazeno mletými lískovými ořechy. Kůru jsem dala špetku sušenou. Olej rýžový. Vanilková pasta vynecháno, nahrazeno skořicí. Malá špetka kardamomu k tomu.Výsledek chutný, vláčný i když trochu drobivý. Lze mazat marmeládou, ale není nutné.
+Verze 1 bez lepku. Místo špaldové mouky jsme použila pohankovou moukou. 70g mouky nahrazeno mletými lískovými ořechy. Kůru jsem dala špetku sušenou. Olej rýžový. Vanilková pasta vynecháno, nahrazeno skořicí. Malá špetka kardamomu k tomu. Výsledek chutný, vláčný i když trochu drobivý. Lze mazat marmeládou, ale není nutné.
 
 <!-- --> 

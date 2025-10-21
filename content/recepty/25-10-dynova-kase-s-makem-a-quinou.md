@@ -26,6 +26,6 @@ draft = false
 2. Ochutíme mákem, ořechy a sníme:)
 
 # Poznámky
-Rychlá příprava a zajímavá chuť. Jsou-li je dobré přidat švestky.
+Rychlá příprava a zajímavá chuť. Jsou-li, je fajn ke konci vaření přidat švestky.
 
 <!-- --> 
