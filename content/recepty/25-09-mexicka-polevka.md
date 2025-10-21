@@ -1,13 +1,13 @@
 
 +++
 date = "2025-09-02T13:51:56+02:00"
-title = ""
+title = "Mexická polévka"
 autor = "R.R."
 imgsrc = "/img/5296-mexicka-polevka.jpg"
 imghref = "/recepty/"
 imgname = ""
 kategorie = ["polévky"]
-ingredience = ["",""]
+ingredience = ["fazole","kukuřice"]
 tags = ["slané","zelenina","bez-lepku"]
 draft = false
 +++
