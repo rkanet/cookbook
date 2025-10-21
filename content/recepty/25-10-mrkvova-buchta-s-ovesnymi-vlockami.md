@@ -14,17 +14,17 @@ draft = false
 
 
 # Suroviny
-3 vejce
-150 g třtinový cukr
-250 g polotučného tvarohu ve vaničce
-Nastrouhaná kůra z 1 citronu (nebo pomeranče)
-2 lžičky vanilkové pasty (nebo 1 vanilkový lusk) 
-60 g oleje 
-200 g najemno nastrouhané mrkve
-100 g g jemných ovesných vloček
-200 g špaldové mouky 
-1 kypřicí prášek do pečiva
-Máslo a hrubá mouka na vymazání a vysypání formy
+- 3 vejce
+- 150 g třtinový cukr
+- 250 g polotučného tvarohu ve vaničce
+- nastrouhaná kůra z 1 citronu (nebo pomeranče)
+- 2 lžičky vanilkové pasty (nebo 1 vanilkový lusk) 
+- 60 g oleje 
+- 200 g najemno nastrouhané mrkve
+- 100 g g jemných ovesných vloček
+- 200 g špaldové mouky 
+- 1 kypřicí prášek do pečiva
+- máslo a hrubá mouka na vymazání a vysypání formy
 # Postup
 1. Vyšlehat vejce z cukrem v robotu. 
 2. Přidat tvaroh, citronovou kůru, vanilkovou pastu a mrkev, promíchat.
