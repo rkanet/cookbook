@@ -15,10 +15,10 @@
 					<h2>Naposledy přidané <strong>recepty</strong>...</h2>
 				</header>
 				<div class="row aln-center">
-									<!-- ranges through content in ascending order according to the "title" field set in front matter -->
-									
-									{{ range  first 6 .Site.RegularPages }}	
-									
+									<!-- ranges through content only in sectin how-to ascending order according to the "title" field set in front matter -->
+																		
+									{{ $recepty := .Site.GetPage "section" "recepty" }}
+									{{ range first 6 $recepty.RegularPages }}	
 											<div class="col-4 col-6-medium col-12-small">
 											<a href="{{ .RelPermalink }}" class="image fit"><img src="{{ .Params.Imgsrc }}" alt="{{ .Params.Imgname }}" /></a>
 											<header>

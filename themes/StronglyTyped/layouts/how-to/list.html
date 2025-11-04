@@ -1,0 +1,43 @@
+{{ define "main" }}
+<div id="page-wrapper">
+
+    <!-- Header-->
+	{{ partial "header" . }}  
+
+    <!-- Main -->
+        <section id="main">
+            <div class="container">
+                <div class="row">
+
+                    <!-- Content -->
+                        <div id="content" class="col-8 col-12-medium">
+
+                            <!-- Post -->
+                                <article class="box post">
+                                    <header>
+                                        <h2>Návody & Rady</h2>
+                                    </header>
+                                    
+                                    <h3>...řazeno abecedně</h3>
+                                        
+                                        {{ range .Pages.ByTitle }}
+											<li>
+												<span class="strong"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+												<time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+											</li>
+										{{ end }}
+                                    
+                                </article>
+
+                        </div>
+
+                    <!-- Sidebar -->
+                      
+
+                </div>
+            </div>
+        </section>
+</div>        
+{{ partial "footer" . }} 
+
+{{ end }}
