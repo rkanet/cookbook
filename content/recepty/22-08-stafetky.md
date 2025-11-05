@@ -35,8 +35,8 @@ Krém:
 # Postup
 Bílky začneme šlehat a během šlehání přisypáváme cukr a špetku soli. Chvíli to bude trvat, ale vyšlehejte sníh dotuha.
 Přimícháme ostatní suroviny (oříšky rozemleté). Směs rozetřeme na pečící papír, který máme vymazaný máslem na plechu 30 x40 cm. Neroztírejte těsto až do krajů, ale asi 1,5 – 2 cm od nich.
-Pečeme hned v předehřáté troubě na 160 st. asi 15. Minut. Troubu neotvírejte. Pamatujte, že každá trouba peče jinak a těsto nemá být upečené do červena !
-krom másla uvaříme všechny suroviny v kastrůlku na hustou kaši a do vychladlé zašleháme změklé máslo.
+Pečeme hned v předehřáté troubě na 160 °C asi 15 minut. Troubu neotvírejte. Pamatujte, že každá trouba peče jinak a těsto nemá být upečené do červena!
+Krom másla uvaříme všechny suroviny v kastrůlku na hustou kaši a do vychladlé zašleháme změklé máslo.
 Z těsta můžeme dělat řezy nebo rolády, to záleží na Vás. Nařežete si pruhy, potřete krémem a buďto je stočíte nebo dáte pruhy na sebe.
 Na kousky krájíme až krém ve štafetách dobře zatuhne. Konce máčíme v čokoládě a podáváme z lednice.
 
@@ -45,4 +45,4 @@ Na kousky krájíme až krém ve štafetách dobře zatuhne. Konce máčíme v �
 Postup i recept jsem našla kdysi na internetu. Funguje dobře.  Chtělo by to víc zručnosti při vytváření tvarů a také dříve vyndat z trouby. 
 Před namáčením v čoko polevě je dobré nechat vychladnout v lednici jinak čokoláda stéká a vsává se do těsta. 
 Štafetky se povedly. Jen nesplnily chuťová očekávání některých členů rodiny, nebyly prý ty staré dobré štafetky.
-Což je patrně dáno tím, že existuje nekonečné množství receptů s různým poměrem ořechů, kávy atp...
+Což je patrně dáno tím, že existuje nekonečné množství receptů s různým poměrem ořechů, kávy atp.

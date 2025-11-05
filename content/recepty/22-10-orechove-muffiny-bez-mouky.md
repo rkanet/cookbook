@@ -24,8 +24,8 @@ Na ozdobu:
 
 # Postup
 Bílky ušleháme do tuha, zapracujeme cukr. Pak opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské).
-Těsto nalijeme do muffinových mističek a ozdobíme jablíčky a kouky čokolády. Vložíme do předem vyhřáté trouby a pečeme na 180 st., asi 35-40 minut.
+Těsto nalijeme do muffinových mističek a ozdobíme jablíčky a kousky čokolády. Vložíme do předem vyhřáté trouby a pečeme na 180 °C, asi 35-40 minut.
 
 # Poznámky
-Měla jsem recept připravený na dort s krémem, ale bylo přání z toho udělat muffinky, tak jsem vyzkoušeli. 
+Měla jsem recept připravený na dort s krémem, ale bylo přání z toho udělat muffinky, tak jsem vyzkoušela. 
 Všechno se snědlo, takže asi dobré, ale na muffinky si umím představit vhodnější těsto.

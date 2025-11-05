@@ -6,7 +6,7 @@ autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
-kategorie = ["moučníky",]
+kategorie = ["moučníky"]
 ingredience = ["",""]
 tags = ["sladké","pečivo","bez-lepku"]
 draft = true
@@ -15,7 +15,7 @@ draft = true
 
 # Suroviny
 - 200g na jemno strouhané mrkve
-- 150g mouky - 30g rýžové, 30g pohankové a byztek doplnit Jizerkou zlatou
+- 150g mouky - 30g rýžové, 30g pohankové a zbytek doplnit Jizerkou zlatou
 - 120g cukr krupice (dala jsem třtinový)
 - špetka soli
 - 2 lžíce másla, dala jsem máslo rozpustene asi 10g

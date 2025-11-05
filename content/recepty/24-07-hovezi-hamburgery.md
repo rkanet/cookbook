@@ -44,7 +44,7 @@ draft = false
 5. Sýr stačí dát při vyndávání hamburgeru z grilu, rozteče se během doby, kdy čekají přikryté alobalem.
 
 # Poznámky
-Maso vyzkoušeno 100% HOvězí Bio z Lidlu max. 10% tuku. Doma mleté mmáme vyzkoušen hovězí krk značka Maso!. Negrilovat na nepřímo, lepí se na mřížku.
+Maso vyzkoušeno 100% Hovězí Bio z Lidlu max. 10% tuku. Doma mleté mmáme vyzkoušen hovězí krk značka Maso!. Negrilovat na nepřímo, lepí se na mřížku.
 (Babička solila mleté 2dkg na kilo masa, já dávám cca 15g na kilo masa, protože nedávám vejce ani housku.) 
 Recept na domácí housky máme ve verzi s lepkem i bez lepku. Bezlepkové asi nejlepší verze III.
 <!-- --> 

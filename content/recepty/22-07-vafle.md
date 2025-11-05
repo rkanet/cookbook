@@ -14,7 +14,7 @@ tags = ["sladké","ovoce","bez-lepku"]
 
 # Suroviny 
 Těsto (asi 9 kusů)
-- 150g mouka (1 lžíce kukuř. škrobu, 30g pohankova a zbytek Jizerka, )
+- 150g mouka (1 lžíce kukuř. škrobu, 30g pohanková a zbytek Jizerka)
 - 5g prášek do pečiva (dávám 2 rovné ČL)
 - špetka soli
 - 30 g třtinového cukru
@@ -26,7 +26,7 @@ Krém
 - 1 ks tvaroh vanička tučný
 - 1 ks vanilkový cukr
 - trochu cukru na doslazení
-- varianta z Polska Nutela
+- varianta z Polska Nutella
 
 Ovoce na zdobení
 - ideální čerstvé borůvky, maliny, jahody, banán... 

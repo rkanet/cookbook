@@ -15,20 +15,20 @@ tags = ["sladké","bez-lepku","ovoce"]
 - 180g brambor
 - 250g tvaroh tučný vanička
 - 1 vejce
-- 200h hrubé mouky (lzice pohankove, 30g rýžové a zbyte dosypat Jizerkou)
+- 200 g hrubé mouky (lžíce pohankové, 30 g rýžové a zbytek dosypat Jizerkou)
 - špetka soli
 - 2-3 jablka dle velikosti
 
 Borůvkový rozvar
-- bvorůvky lesní  (lze i koupené)
+- borůvky lesní (lze i koupené)
 - cukr dle chuti
 - škrob na zahuštění
 
 # Postup
 - předem (ráno) uvařit brambory ve slupce a nechat dobře vychladnout
 - borůvky krátce povaříme s cukrem a trochou škrobu
-- oloupaná jablka nakrájet na meší kousky
-- veřené brambory nastrouháme na jemno, přidáme ostatní suroviny a na vále zpracujeme těsto
+- oloupaná jablka nakrájet na menší kousky
+- vařené brambory nastrouháme na jemno, přidáme ostatní suroviny a na vále zpracujeme těsto
 - těsto rozválíme, nakrájíme na kousky a plníme jablky
 - knedlíky vaříme ve vodě cca 6 minut
 

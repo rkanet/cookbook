@@ -43,7 +43,7 @@ Poleva čokoládová:
 (sítko hlavně u bezlepkového !!!!, jinak hrudky)
 - upečený piškot necháme vychladnout..
 - suroviny na polevu dáme do kastrůlku, zahříváme ve vodní lázni a umícháme hladkou polevu
-- uvaříme puding a hned do horkého vmícháme máslo, krém rozetřeme e na piškot
+- uvaříme pudink a hned do horkého vmícháme máslo, krém rozetřeme na piškot
 - navrch pokryjeme sušenkami a zalijeme čoko polevou
 - necháme odležet v  lednici ideálně do druhého dne
 

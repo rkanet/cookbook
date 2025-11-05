@@ -20,7 +20,7 @@ tags = ["sladké","bez-lepku"]
 - 1 sáček vanilkového cukru (10g) 
 
 # Postup
-1. plech vyložit pečícím papírem, osvědčilo se, ho lehce pomastit a sypnout trochu mouky
+1. plech vyložit pečícím papírem, osvědčilo se ho lehce pomastit a sypnout trochu mouky
 2. bílky ušlehat  se špetkou soli až po otočení neteče z misky
 3. přidat cukr a šlehat cukr s bílkem do doby než se špičky jen mírně ohýbají
 4. opatrně šlehací metlou vmíchat žloutky
@@ -28,5 +28,5 @@ tags = ["sladké","bez-lepku"]
 6. jemně rozetřít na plech, pečeme při 180 st cca 10 minut
 
 # Poznámky
- 
+ Na celý plech mi vychází množství z 8 vajec, 160g mouky a 80g kakaa. Zkusila jsem roládu a zatím se nepodařila. Pokud jsem hýbala s teplým těstem spláclo se. Druhý pokus, srolavat až když vychladlo. tak se zase trhalo. Nutno ještě vyzkoumat.
 <!--more-->

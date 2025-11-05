@@ -86,8 +86,8 @@ To serve, drizzle with some extra virgin olive oil, add a few mint leaves and en
 -->
 
 # Poznámky
-Na fotce je rychlá verze, poloviny paprik jsou naplněné směsí. Směs je ze zbylé kulatozrné rýže, orestované cibulky a rajčat z plechovky, dochucené výraznými bylinkami, solí a pepřem.
-posypané balkánským sýrem. Zapečeno v troubě na plechu s pečícím papírem.
+Na fotce je rychlá verze, poloviny paprik jsou naplněné směsí. Směs je ze zbylé kulatozrnné rýže, orestované cibulky a rajčat z plechovky, dochucené výraznými bylinkami, solí a pepřem.
+Posypané balkánským sýrem. Zapečeno v troubě na plechu s pečícím papírem.
 
 <!--
 https://akispetretzikis.com/en/recipe/608/gemista

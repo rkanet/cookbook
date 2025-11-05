@@ -16,7 +16,7 @@ tags = ["slané","zelenina","polévky","bez-lepku"]
 - rýžové nudle
 - miso (tmavé, Miso genmai - hnědá rýže a soja, výrobce Muso,)
 - vejce
-- zelenina dle chuti nakrájená na nudličky (u nás trocha mrkve, celer, petržel, pórek)
+- zelenina dle chuti nakrájená na nudličky (u nás trochu mrkve, celer, petržel, pórek)
 - uzené tofu na nudličky, zbytky masa z vývaru
 
 # Postup

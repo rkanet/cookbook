@@ -57,13 +57,13 @@ II.verze aby nepřekynul z formy menší dávka
 5. Vyklopíme na pomoučněnou plochu a několikrát přeložíme. Nakonec vytvarujeme a přeneseme do vymazané a mouku vysypané formy. 
 7. Těsto nekyne tak dobře, takže nečekáme až zdvojnásobí svůj objem, ale zvedne se ve formě jen asi o 3 centimetry (mírně nad okraj formy)
 8. Peču v zapařené troubě. Tj. na dně trouby je plech (starý) a něj po vložení chleba vliju cca 150 ml horké vody. 
-9. Pečeme celkem cca 45 minut. Z toho 20-30 minut na 250 st. Pak snížíme teplotu na 220 st a dopékáme.
+9. Pečeme celkem cca 45 minut. Z toho 20-30 minut na 250 °C. Pak snížíme teplotu na 220 °C  a dopékáme.
 10. Po upečení vyklopíme na mřížku  a necháme vychladnout.
 
 # Poznámky
 Chleba lze péct dle teploty různě rychle čehož lze využít k načasování přesně tak, jak potřebujeme. U nás zatím vyzkoušeno toto:
 1. V zimě dopoledne připravíme rozkvas a záparu, večer zaděláme těsto a dáme kynout chleba ve formě do sklepa, brzy ráno pečeme. Při teplotě sklepa asi 12 stupňů, kyne přibližně 10-12h.
-2. V létě lze vše stihnout krásně v jednom dni. Připravit rozkvas ráno např při horkém letním dni (30stupnu) trvalo 4-5 hodin. Pak hned zadělání těsta, chleba kynul asi 3h, pak večerní pečení.
+2. V létě lze vše stihnout krásně v jednom dni. Připravit rozkvas ráno např při horkém letním dni (30 stupňů) trvalo 4-5 hodin. Pak hned zadělání těsta, chleba kynul asi 3h, pak večerní pečení.
 3. S použitím světla v troubě, které kvásek a pak i kynoucí chleba krásně přihřeje lze letní variantu provozovat i v zimě. A naopak pokud v létě chceme péct ráno dávám zadělaný chléb i s formou do lednice kynout. V lednici mám 3 stupně, takže ráno většinou ještě nechám dokynout na teple.
 
 

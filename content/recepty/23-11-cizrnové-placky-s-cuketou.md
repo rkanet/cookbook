@@ -6,17 +6,17 @@ imgsrc = "/img/cizrno-cuketove-placky.jpg"
 imghref = "/recepty/"
 imgname = "Cizrnové placky s cuketou"
 kategorie = ["přílohy"]
-ingredience = ["mouka"]
+ingredience = ["mouka","cizrna"]
 tags = ["slané","bez-lepku"]
 +++
 
 # Suroviny (cca 11 placek)
-- 2 malé cuketky hrubě nastrouhané  (cca 150g po vymačkání šťávy)
-- vařená cizrna  (byla 1 plechovka cizrny Bonduelle v páře 310g čistá hmotnost)
+- 2 malé cuketky hrubě nastrouhané (cca 150 g po vymačkání šťávy)
+- vařená cizrna (byla 1 plechovka cizrny Bonduelle v páře 310 g čistá hmotnost)
 - 5 stroužků česneku
-- 150g sýr eidam 30% strouhaný
-- pohanková mouka hladká 30g
-- tapioka škrob 30g
+- 150 g sýru eidam 30% strouhaný
+- 30 g pohankové mouky hladké
+- 30 g tapiokového škrobu
 - koření dle chuti, dala jsem Italské Sonnentor
 - trochu koření Sonnentor na kuře
 - sůl, kmín
@@ -24,17 +24,17 @@ tags = ["slané","bez-lepku"]
 
 # Postup
 
-1. Cuketky nastrouháme na hrubo, osolíme asi 10 min potit.
-2. Vidličkou rozmačkáme cizrnu 
-3. cuketky co nejvíce "vyždímeme" vodu, přidáme rozmačkanou cizrnu, vejce a nastrouhaný sýr (na jemno)
-4. Dochutíme kořením, česnekem, solí
-5. Z těsta vytvoříme placičky, pečeme na pečícím papíře při cca 230st. (asi 30 min). Pokud se trhají ze spoda, lze dopéc déle na spodní ohřev...
+1. cuketky nastrouháme na hrubo, osolíme a necháme asi 10 min potit
+2. vidličkou rozmačkáme cizrnu
+3. z cukety "vyždímeme" (vodu), přidáme rozmačkanou cizrnu, vejce a nastrouhaný sýr (na jemno)
+4. dochutíme kořením, česnekem, solí
+5. z těsta vytvoříme placičky, pečeme na pečícím papíře při cca 230 °C (asi 30 min). Pokud se trhají ze spoda, lze dopéct déle na spodní ohřev...
 
 
 
 # Poznámky
-V originále bylo 1 vejce nedala jsem. Myslela jsem je místo masa z kaší, ale je to suchá kombinace, lepší místo přílohy.
-Třeba ideal jako doplněk k salátu. Dobré i samotné na cestu, jako svačina.
+V originále bylo 1 vejce, nedala jsem. Myslela jsem je místo masa s kaší, ale je to suchá kombinace, lepší místo přílohy.
+Třeba ideál jako doplněk k salátu. Dobré i samotné na cestu, jako svačina.
 
 
 

@@ -5,7 +5,7 @@ title = "Pšenično žitný chléb "
 autor = "R.R."
 imgsrc = "/img/chleba-lepek.jpg"
 imghref = "/recepty/"
-imgname = "Pšnično žitný chléb"
+imgname = "Pšenično žitný chléb"
 kategorie = ["přílohy"]
 ingredience = ["mouka","kvásek"]
 tags = ["slané","pečivo"]
@@ -33,11 +33,11 @@ Těsto
 2. Těsto přikrýt utěrkou nebo sáčkem a necháme odpočinout asi 30minut. Pak překládáme a vytvarujeme do tvaru válce a dáme do ošatky dobře vysypané moukou. Ošatku přikryjeme nebo vložíme do mikrotenové tašky a necháme kynout. Kyne různě 3 -5 hodin. 
 3. Před koncem kynutí minimálně 1/2 hodiny předem rozehřejeme troubu včetně plechu na 250 stupňů. Na dno trouby vložíme druhý starý plech.
 4. Až těsto zdvojnásobí objem vyklopíme na sázecí lopatu a přesuneme na vyhřátý plech do trouby. (zatím používám tuhé papírové desky:) Na dno trouby vlijeme trochu horké vody a obratem zavřeme. (rukavici!)
-5. pečeme cca 15 minut na 250 st pak ztlumíme na cca 210 a dopékáme celkem 3-45 minut. Hotový chléb zní na poklepání dutě.
+5. Pečeme cca 15 minut na 250 °C pak ztlumíme na cca 210 °C a dopékáme celkem 35-45 minut. Hotový chléb zní na poklepání dutě.
 
 # Poznámky
-Dobré je kynutí těsta v lednici přes noc. Ráno stačí ošatku vyndat a počkat, až se těsto prohřeje na pokojovou teplotu a až dokyne (zdvojnásobní objem).
+Dobré je kynutí těsta v lednici přes noc. Ráno stačí ošatku vyndat a počkat, až se těsto prohřeje na pokojovou teplotu a až dokyne (zdvojnásobí objem).
 Rozkvas připravuji přes noc (nebo ráno pro kynutí přes noc v lednici). Smícháme suroviny a zakryté necháme rozkvasit trvá cca 12h dle teploty.
-Druhý den odebereme cca 20g do sklenice a opět rozkvasíme 100g mouky a 10g vody pak uschovám. Osvědčilo se mi uchovávat větší množství kvásku.
+Druhý den odebereme cca 20g do sklenice a opět rozkvasíme 100g mouky a 100g vody pak uschovám. Osvědčilo se mi uchovávat větší množství kvásku.
 
 <!--more-->

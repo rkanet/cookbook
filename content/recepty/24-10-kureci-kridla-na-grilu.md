@@ -17,16 +17,16 @@ draft = false
 - kuřecí křídla bez letek (mají-li odstraníme a kostnaté konce použijeme na vývar)
 - koření vyzkoušeno Frankyho koření na barbecue (Paprika sladká*, rajčata kousky*, česnek*, mořská sůl 10 %, yzop*, tymián*, rozmarýn*, majoránka*, kmín římský*, pepř černý*, chilli*)
 - na marinádu 3PL olej
-- ŠŤáva z 1,5 limetky doplnit vodu do 300ml
-- 5 PL ssojová omáčka
-- 2PL med
+- Šťáva z 1,5 limetky doplnit vodu do 300ml
+- 5 PL sójová omáčka
+- 2 PL med
 - 4 ČL třtinového cukru
 - 4 strouzky lisovaného česneku
 
 # Postup
 1. Křídla vyndáme cca 11h předem z lednice osolíme, lehce okořeníme z obou stran a pokapeme olejem.
 2. Přípravíme marinádu -smícháme všechny suroviny a povaříme
-3. Grilujeme celkem cca 1h na cca 160-180st.
+3. Grilujeme celkem cca 1h na cca 160-180°C.
 4. Otočíme 2x po 20 minutách.
 5. Po 40 minutách grilování namočíme v horké marinádě každé křídlo a grilujeme posledních 20minut.
 

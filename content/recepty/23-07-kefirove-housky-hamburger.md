@@ -11,15 +11,15 @@ tags = ["slané","pečivo","bez-lepku"]
 +++
 
 # Suroviny
-- 1/3 kostky čerstvého droždí (celá kostka 42g)
-- 300g mouky Schar mix B (dala jsem 30 pohankové zbytek Schar a Nutrifree bílá chlebová 1:1)
-- 100g tanzhongu
-- lžíčka soli
+- 1/3 kostky čerstvého droždí (celá kostka 42 g)
+- 300 g mouky Schar mix B (dala jsem 30 g pohankové, zbytek Schar a Nutrifree bílá chlebová 1:1)
+- 100 g tanzhongu
+- 1 lžička soli
 - 1 vejce
 - 1 žloutek
-- 100ml kefíru
-- 150ml vody
-- 20ml oleje
+- 100 ml kefíru
+- 150 ml vody
+- 20 ml oleje
 - špetka cukru do kvásku
 
 

@@ -15,19 +15,19 @@ tags = ["sladké","bez-lepku"]
 
 # Suroviny
 
-- 250g bezlepkove mouky 
-- 70g mouckoveho cukru
-- 140g tuku máslo vychází nejchutněji
-- 1 žoutek, jedno celé vajíčko
+- 250 g bezlepkové mouky
+- 70 g moučkového cukru
+- 140 g tuku (máslo vychází nejchutněji)
+- 1 žloutek, jedno celé vajíčko
 - 1 vanilkový cukr
-- citronova kůra (dávám sušenou neb málokdy mám bio citron)
-- dle potřeby lze přidat 1 - 2PL mléka
+- citronová kůra (dávám sušenou neb málokdy mám bio citron)
+- dle potřeby lze přidat 1-2 PL mléka
 
 
 # Postup
-Všechny suroviny zpracujeme dohladkého těsta a uložíme do lednice, nejlépe přes noc.
+Všechny suroviny zpracujeme do hladkého těsta a uložíme do lednice, nejlépe přes noc.
 
 # Poznámky
-Vyzkoušeno s moukou Jizerka zlatá a přídáním 1PL pohankové hladké Šmajstrla. 
-Do bezlepkového se nebojím občas použít vanilínový cukr místo vanilkévo. 
-Dle mých zkušeností nemají blp s měsi, tak příjemnou chuť jako lepkové a s tím si vanilím alespoň trochu poradí.
+Vyzkoušeno s moukou Jizerka zlatá a přídáním 1 PL pohankové hladké Šmajstrla.
+Do bezlepkového se nebojím občas použít vanilínový cukr místo vanilkového.
+Dle mých zkušeností nemají blp směsi tak příjemnou chuť jako lepkové a s tím si vanilín alespoň trochu poradí.

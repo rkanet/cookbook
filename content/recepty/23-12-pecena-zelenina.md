@@ -15,14 +15,15 @@ tags = ["slané","bez-lepku","zelenina"]
 - česnek
 - kořenová zelenina (mrkev, celer, petržel)
 - lze přidat i brambory, batáty, dýni... dle preferencí 
+- sůl
 - bylinky na ochucení (tymian je fajn)
 - olej 
 
 
 # Postup
 
-1. pekáč vyložíme pečícím by
-2. esteticky nakrajíme zeleninu navrstvíme na papír, přídáme bylinky
+1. pekáč vyložíme pečícím papírem
+2. esteticky nakrájíme zeleninu, navrstvíme na papír, osolíme a přidáme bylinky
 3. zakapeme olejem a pečeme do zezlátnutí
 
 

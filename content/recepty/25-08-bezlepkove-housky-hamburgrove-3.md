@@ -42,16 +42,16 @@ draft = false
 2. Rozděl těsto na 6–8 dílů, zformuj kuličky a lehce zplošti (průměr cca 9 cm).  
 3. Polož na plech s pečícím papírem, zakryj utěrkou a nech kynout 35–45 minut.  
 4. Troubu předehřej na 230 °C (horní/dolní ohřev).  
-5. Potři vejcem a posyp sezamem. Později druhé porítání mlékem cca po 15 minutách.
-6. Vložit do trouby na spodí satrý plech chrstnout trošku horké vody z konvice a obratem zavřít. Péct 18–22 minut do zlatova.  
+5. Potři vejcem a posyp sezamem. Později druhé potírání mlékem cca po 15 minutách.
+6. Vložit do trouby, na spodní starý plech chrstnout trošku horké vody z konvice a obratem zavřít. Péct 18–22 minut do zlatova.  
 7. Po upečení nech vychladnout, ideálně na mřížce. Pro extra vláčnost lze po vytažení potřít rozpuštěným máslem.
 
 ---
 
 # Poznámky
-Z výše uvedeného množství jsem udělala 6 housek. Hamburgrové housky nemají být křupávé viz možné pomazání máslem. První se podařily akorát, ani jsem máslem nepotírala.
-Tuk asi 15 % hmotnosti mouky (máslo + olej) → měkká, vláčná střída. Lněný semínko vytvoří gel a těsto lépe drží tvar, zlepšuje vláčnost, zabraňuje drolení.  
-Méně droždí pro verzi přes noc, ve výsledku způsobí, že je chuť méně drožďová. Neměla jsem mlété lněné semínko, tak jsem dala celé a ve stridce nevadilo, i když to pak samozřejmě není klasická hamburgrová bulka, ale co bychom pro vylepšení bezlepkového těsta neudělali:)
+Z výše uvedeného množství jsem udělala 6 housek. Hamburgrové housky nemají být křupavé, viz možné pomazání máslem. První se podařily akorát, ani jsem máslem nepotírala.
+Tuk asi 15 % hmotnosti mouky (máslo + olej) → měkká, vláčná střída. Lněné semínko vytvoří gel a těsto lépe drží tvar, zlepšuje vláčnost, zabraňuje drolení.
+Méně droždí pro verzi přes noc, ve výsledku způsobí, že je chuť méně drožďová. Neměla jsem mleté lněné semínko, tak jsem dala celé a ve střídce nevadilo, i když to pak samozřejmě není klasická hamburgrová bulka, ale co bychom pro vylepšení bezlepkového těsta neudělali :)
 
 
 

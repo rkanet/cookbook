@@ -28,13 +28,13 @@ na cca 6 ks
 1. spařit semínka (vychladnout)
 2. smíchat tvaroh + žloutek + koření
 3. ušlehat sníh
-4. smíchám všehcny suroviny a nakonec opatrně přidáme sníh
+4. smícháme všechny suroviny a nakonec opatrně přidáme sníh
 5. bochánky dáme lžící na plech na pečící papír
-6. pečeme v troubě naa 200 °C start, pak 180 do zezlátnutí
+6. pečeme v troubě na 200 °C start, pak 180 °C do zezlátnutí
 
 
 # Poznámky
-Recept je v procesu... inspirace více recepty...zatím stále řidší - místo bochánků spíš , ale odbré. Mouka závisí na množství vody v zápaře...
+Recept je v procesu... inspirace více recepty...zatím stále řidší – místo bochánků spíš placky, ale dobré. Mouka závisí na množství vody v zápaře...
 Zkusit udělat verzi bez zápary.
 <!--1 vanička tučného tvarohu
 2 vejce

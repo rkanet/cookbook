@@ -24,7 +24,7 @@ draft = false
 - 1 lžička soli 
 - 4 kuličky nového koření, 1 větší bobkový list
 - 1 balíček kysaného zelí (vymačkat předem vodu)
-- trochu smetany, cca 100ml (měla jsem zrovna 15% do omáček)
+- trochu smetany, cca 100 ml (měla jsem zrovna 15% do omáček)
 - 1 vrchovatá PL mouky (Doves farm plain white) 
 - vývar asi 1,5 litru
 - kysaná smetana na servírovaní (není nutné)
@@ -38,11 +38,11 @@ draft = false
 6. Vařím zvolna pod pokličkou nejméně 1 hodinu, raději 1 a půl.
 7. Ze zelí vymačkám šťávu. Nechávám stranou na případné dokyselení.
 8. Přidám zelí k masu a společně dusím dalších 15-30 minut.
-9. Na zahuštění rozmíchat mhuouku s cca dvěma lžícemi studené vody na kašičku a v gulaáši provařit min 10 minut.
-10. Dochucení a servírování. Na stůl kysanou smetanu na dozdovení.
+9. Na zahuštění rozmíchat mouku s cca dvěma lžícemi studené vody na kašičku a v guláši provařit min. 10 minut.
+10. Dochucení a servírování. Na stůl kysanou smetanu na dochucení.
 
 
 # Poznámky
 Do bezlepkového dávám na zahuštění Doves Farm Plain White. Měla jsem rychlý vývar z vepřového masa. Je k tomu dobrá kysaná smetana na servírování. Zelí lze pokrájet na kousky.
-Smetanu dávájí v receptech rovnou s moukou na zahuštění.
+Smetanu dávají v receptech rovnou s moukou na zahuštění.
 <!-- --> 

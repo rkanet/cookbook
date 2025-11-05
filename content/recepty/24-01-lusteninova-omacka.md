@@ -13,8 +13,8 @@ tags = ["slané","zelenina","bez-lepku"]
 
 # Suroviny
 - 1 velká cibule
-- červená čočka půlená přiměřenš
-- 100g suchých bílých malých fazolí (předem namočit)
+- červená čočka půlená přiměřeně
+- 100 g suchých bílých malých fazolí (předem namočit)
 - 5 stroužků česneku
 - mrkev 2ks krájená na kolečka
 - trocha kořenové zeleniny na jemno strouhané (petržel, celer)
@@ -26,10 +26,10 @@ tags = ["slané","zelenina","bez-lepku"]
 
 
 # Postup
-- dáme vařit fazole (připrvit ideálně předem)
+- dáme vařit fazole (připravit ideálně předem)
 - orestujeme cibulku, přidáme česnek
-- pak propláchnutou červenou čočku, nastrouhanou zeleninu a bylinky,nakonec malinko podlejeme vodou
-- krátce podusíme a přidáme rajčata z konzervy, 
+- pak propláchnutou červenou čočku, nastrouhanou zeleninu a bylinky, nakonec malinko podlejeme vodou
+- krátce podusíme a přidáme rajčata z konzervy
 - nakonec mrkev a podusíme do měkka
 - podáváme s rýží
 

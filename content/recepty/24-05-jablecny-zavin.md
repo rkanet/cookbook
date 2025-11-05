@@ -15,9 +15,9 @@ draft = false
 
 # Suroviny na 2 záviny
 Základ
-- 330g mouky Nutrifree Per Pane
-- 190g zakysané smetany De Luxe Kunín 20% (jedno balení)
-- 2 vajíčka (Lidl velikost L)
+- 330 g mouky Nutrifree Per Pane
+- 190 g zakysané smetany De Luxe Kunín 20% (jedno balení)
+- 2 vajíčka (Lidl, velikost L)
 - na náplň jablka strouhaná na hrubo
 - skořice na posypání těsta pod jablka
 
@@ -26,22 +26,22 @@ Volitelné
 - obměna ořechy smíchat s piškoty/strouhankou a posypat těsto pod jablka 
 - pokud jsou jablka kyselá posypu před zabalením trochou cukru
 - rozpuštěné máslo na potření závinu
-- na vrch závin poyspat plátky mandlí (předem potřený vajíčkem)
+- na vrch závin posypat plátky mandlí (předem potřený vajíčkem)
 
 
 # Postup
-1. Všechny suroviny smíchat a  vypracovat hladké těsto.
-2. Těsto rozdělíme 2 poloviny, každou rozváláme, naplníme jablky a smotáme. 
-3. Pečeme na cca 200 stupňů až povrch ze zlátne (přibližně 30 minut)
+1. Všechny suroviny smíchat a vypracovat hladké těsto.
+2. Těsto rozdělíme na 2 poloviny, každou rozváláme, naplníme jablky a smotáme.
+3. Pečeme na cca 200 °C, až povrch zezlátne (přibližně 30 minut).
 
 # Poznámky
-Těsto se na počátku zdá dost suché, ale nakonec jde smíchat a má dobrou konzistenci. 
+Těsto se na počátku zdá dost suché, ale nakonec jde smíchat a má dobrou konzistenci.
 Nejraději dávám odležet do lednice přes noc. Lze péct rovnou, nezkoušela jsem.
-Potřené máslem bylo moc dobré, potírala jsem před vložením do trouby a pak ještě jednou před koncem pečení. Vypadá, 
-Mouky vyzkoušeno verze:
-1. 50g pohanková hladká, 100g Nutrifree Per Pane, 180g Nutrifree Per Dolci, vejce velikost M
-2. Nutrifree universální 330g, vejce velikost M
-Obě verze oproti originálu bylo těsto křehčí, nejvíce s universal. Prori poprasknáí vypadá, že pomáhá  potření rozlehaným vejcem ppřed vložením do trouby.
+Potřené máslem bylo moc dobré, potírala jsem před vložením do trouby a pak ještě jednou před koncem pečení.
+Mouky vyzkoušeno:
+1. 50 g pohanková hladká, 100 g Nutrifree Per Pane, 180 g Nutrifree Per Dolci, vejce velikost M
+2. Nutrifree universální 330 g, vejce velikost M
+Obě verze oproti originálu bylo těsto křehčí, nejvíce s universal. Proti popraskání vypadá, že pomáhá potření rozšlehaným vejcem před vložením do trouby.
 
 
 <!-- Zdroj: Když jsem před čtyřmi lety začínala s bezlepkovým pečením, nakoupila jsem si domů x druhou různých směsí a tenkrát zakotvila hned po prvním víkendu u mouky Schar mix B. Podle mě je to mouka, ze které vykouzlíte naprosto všechno. Já se naprosto dobrovolně přiznávám, že nesnáším mít doma rozděláno několik balíčků různých jednodruhovek a směsí. Pro mě je prostě ideální jedna universální směs a tou pravou je právě Schar. Do nedávna jsem z ní pekla i vánoční cukroví, ale letos jsem přesedlala na Nutrifree Frollu, která je nepochybně na cukroví lepší.

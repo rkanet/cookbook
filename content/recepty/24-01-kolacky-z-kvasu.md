@@ -21,8 +21,8 @@ večer před pečením...
 - 60g Doves farm plain white
 - 60g Pohankova hladká
 - 120 g vody
-- 20 g cukr
-Vše vymícháme ve sklenici "od okuerek" na kašičku, zkaryjeme mikrotenovým sáčkem necháme na lince minimálně 12 hodin pracovat.
+- 20 g cukru
+Vše symícháme například ve sklenici "od okurek" na kašičku, zakryjeme mikrotenovým sáčkem a necháme na lince minimálně 12 hodin kvasit.
 
 ráno...
 - 140 g Nutrifree per Dolci
@@ -35,8 +35,8 @@ ráno...
 - vanilkový (případně vanilínový) cukr
 - 50 g změklého másla (ne rozpuštěného)
 
-Všechny suroviny, krom másla propracovat v robotu. Až je těsto hladké, přidat máslo a zapracovat do těsta. Opět  folií, nebo dávám pokličku přímo na mísu robota.
-Nechat odpočívat cca 4 hodiny. těsto z kvasu oproti dožďovému nabyde jen trochu.
+Všechny suroviny, kromě másla, propracovat v robotu. Až je těsto hladké, přidat máslo a zapracovat do těsta. Opět zakrýt folií, nebo dávám pokličku přímo na mísu robota.
+Nechat odpočívat cca 4 hodiny. Těsto z kvásku oproti droždíovému nakyane jen trochu.
 
 náplně...
 - povidla & tvaroh (dohutit cukrem a rumem, vanilkou)
@@ -51,16 +51,16 @@ a drobenka na vrch...
 - 40 g Doves farm
 - 40 g cukru
 
-Po čtyřech hodinách těsto rozválejte, nařežte na čtverce, naplmníme a svážeme. pak už jsem nechala jen cca 15 minut dokynout
-Troubu předehřejeme na 220 stupňů a na dno starý plech. Koláčky potřít bílkem a šup do trouby.Na dno (starý plech) naliju trochu vroucí vody z konvice. 
-Cca po 15 minutách potřít rozpuštěným máslem a posypat drobenou. Dopéct do zlatova.
+Po čtyřech hodinách těsto rozvalíme a nařežeme na čtverce, naplníme a svážeme. Pak už jsem nechala jen cca 15 minut dokynout.
+Troubu předehřejeme na 220 °C a na dno dáme starý plech. Koláčky potřít bílkem a šup do trouby. Na dno (starý plech) naliju trochu vroucí vody z konvice.
+Cca po 15 minutách potřít rozpuštěným máslem a posypat drobenkou. Dopéct do zlatova.
 
 
 # Poznámky
-Těsto vyjde asi na 30ks (dle velikosti). Z části jsem zkusila jablečné šneky, jsou fajn, ale šátečky asi lepší. 
-Nejvíce potěšily jablené, pak povidlav kombinaci s tvarohem a nakonec malinova "marmoška":)
-Tvaroh (byl z vaničky) a marmeládu nastavuji strochou škrobu, aby neteklo. Povidla byla domácí, tak netřeba nastavovat.
-Při nastavené treplotě se celem rychle přepečou, jedna várka pak po vychladnutí byla tvrdší.
+Těsto vyjde asi na 30 ks (dle velikosti). Z části jsem zkusila jablečné šneky, jsou fajn, ale šátečky jsou asi lepší.
+Nejvíce potěšily jablečné, pak povidla v kombinaci s tvarohem a nakonec malinová "marmoška".
+Tvaroh (byl z vaničky) a marmeládu nastavuji s trochou škrobu, aby neteklo. Povidla byla domácí, tak netřeba nastavovat.
+Při nastavené teplotě se celkem rychle přepečou, jedna várka pak po vychladnutí byla tvrdší.
 
 
 <!-- original:

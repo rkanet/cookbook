@@ -50,13 +50,16 @@ Poté potřete vajíčkem, posypte seznamem a dejte péct. Po 10 minutách vytá
 - 20g rozpuštěného másla
 
 # Postup
-1. s předstihem (ideálne den předem připravíme tanzhong)
-2. vzejít kvásek v trošce vlažného mléka
-3. připravím ostatní duroviny do mísy a zpracujeme s kvásek do hladkého těsta
-4. necháme nakynout
-5. vytvarujemme bulky, ještě 15 minut dokynout
-6. potřeme vajíčkem a posypeme semínky
-7. Pečeme v předem vyhřáté troubě na cca 230 stupňu (na dno chrstnu horkou vodu)
+1. S předstihem (ideálně den předem) připravíme tanzhong.
+2. Necháme vzejít kvásek v troše vlažného mléka.
+3. Připravíme ostatní suroviny do mísy a zpracujeme s kváskem do hladkého těsta.
+4. Necháme nakynout.
+5. Vytvarujeme bulky, a necháme ještě 15 minut dokynout.
+6. Potřeme vajíčkem a posypeme semínky.
+7. Pečeme v předem vyhřáté troubě na cca 230 °C.
+
+Tanzhong
+100 g tanzhongu: 35 g hladké rýžové mouky a 90 ml vody, zahřát cca na 65 °C, míchejte, až se z toho stane hustší kaše, vlažné může do těsta.
 
 # Poznámky
-100g tanzhongu: 35g hladké rýžové mouky a 90ml vody, zahřejte cca na 65 stupňů míchejte až se z toho stane hustší kaše, vlahé může do těsta
+Peču s párou. Do trouby dávám starý plech. Těsně před vložením na dno trouby na plech chrstnu vroucí vodu z rychlovarné konvice.

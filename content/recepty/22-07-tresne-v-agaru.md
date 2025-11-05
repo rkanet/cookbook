@@ -18,6 +18,6 @@ tags = ["sladké","ovoce","bez-lepku"]
 - voda/džus
 
 # Postup
-1. třesně vypeckujeme
+1. třešně vypeckujeme
 2. rozpustíme agar a povaříme s třešněmi
 3. nalejeme do skleniček

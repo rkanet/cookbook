@@ -26,19 +26,18 @@ draft = false
 - špetka soli
 
 # Postup
-1. 3x spařit jáhly.
-2. Pokud jsou švstky sířené, tak jednou spařím v horké vodě též.
-2. Dát vařit (cca 20minut).
-3. Přidat skořici, olej, mák a nechat vychladnout.
-4. Vyšlehat bíly s cukrem.
-4. Přidat žloutky a nakonec opatrně bílky vyšlehané s cukrem.
-5. Rozetřít do pekáče vymazaného a vysypaného moukou. Navrstvit švesty a nasekané ořechy. Decentně vtlačit do těsta.
+1. 3× spařit jáhly.
+2. Pokud jsou švestky sířené, tak je jednou spařit v horké vodě též.
+3. Dát vařit jáhly do vody s mlékem (cca 20 minut).
+4. Přidat skořici, olej, mák a nechat vychladnout.
+5. Vyšlehat bílky s cukrem.
+6. Přidat žloutky a nakonec opatrně bílky vyšlehané s cukrem.
+7. Rozetřít do pekáče vymazaného a vysypaného moukou. Navrstvit švestky a nasekané ořechy. Decentně vtlačit do těsta.
 
 # Poznámky
-Bylo velmi rozpadavé, ale chutné! Pomohlo nechat vychladnout do druhého dne. Poznámky k vaření jáhel, aby výsledek držel. Zkusit vařit pod pokličkou s těmito poměry od AI:
-Jáhly	230 g /500ml tekutin, Mletý mák (jemný, 2× mletý) 120 g, cukr 100g,  olej	15 g, vejce	2 ks. Vařit pod pokličkou 12 min, poté nech 15 min dojít (bez míchání).
-Vmíchej olej, dochladit a pak mák a cukr. Peč 170 °C / 30–35 minut (až pruží na dotek a voní).
+Bylo velmi rozpadavé, ale chutné! Trochu pomohlo nechat vychladnout do druhého dne. Poznámky k vaření jáhel, aby výsledek držel. Zkusit vařit pod pokličkou s těmito poměry od AI:
+Jáhly 230 g / 500 ml tekutin, mletý mák (jemný, 2× mletý) 120 g, cukr 100 g, olej 15 g, vejce 2 ks. Vařit pod pokličkou 12 min, poté nechat 15 min dojít (bez míchání).Vmíchat olej, dochladit a pak mák a cukr. Péct 170 °C / 30–35 minut (až pruží na dotek a voní).
 
-Ořechy lískové moc dobré, i vlašské ňam, ale měla jsme jich málo, tak byly jen na části korpusu.
+Ořechy lískové moc dobré, i vlašské ňam, ale měla jsem jich málo, tak byly jen na části korpusu.
 
 <!-- --> 

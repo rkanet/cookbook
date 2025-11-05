@@ -15,7 +15,7 @@ draft = false
 
 # Suroviny
 - nejraději kombinace kuřecí stehna horní a spodní 
-- červená paprika sladká mletá  
+- mletá červená paprika sladká   
 - sůl
 - bobkový list
 - nové koření
@@ -23,12 +23,12 @@ draft = false
 - smetana ke šlehání (lze i kysanou, pozmění chuť)
 
 # Postup
- - kuřecí posolíme, posypeme paprikou a dáme péct s hakousky nakrájenou cibulí
- - až je upečené rozmixujeme šťávu s cibulí na omáčku a trochu zahustíme moukou a přiměřeně povaříme
- - nakonec přidáme smetanu dle chuti
- - podáváme s rýží
+- kuřecí posolíme, posypeme paprikou a dáme péct s cibulí na krájenou na kousky
+- až je upečené, rozmixujeme šťávu s cibulí na omáčku a trochu zahustíme moukou a přiměřeně povaříme
+- nakonec přidáme smetanu dle chuti
+- podáváme s rýží
 
 # Poznámky
-Zkusit přidat k pečení čerstvé papriky třeba 4 ks a 1 rajče.
+Zkusit přidat k pečení čerstvé papriky třeba 4 ks a 1 rajče.Menší rajče do základu vyzkoušeno, přídá příjemně nakyslou chuť. 
 
 <!-- --> 

@@ -35,17 +35,17 @@ zelenina & ostatní:
 
 # Postup
 1. připravím maso, předem dělám trhané
-2. připravíme zálivku
- - česnek krátce osmahnu na trošce tuku (nadrcený), 
- - zaliju vodou a krátce povařím s ostatníma surovinami.
- - přecedíme pres sítko, aby tam, nebyly kousky česneku.
+2. připravím zálivku
+ - česnek krátce osmažím na trošce tuku (nadrcený),
+ - zaliji vodou a krátce povařím s ostatními surovinami.
+ - přecedím přes sítko, aby tam nebyly kousky česneku.
 3. uvařím rýžové nudle dle návodu
 4. servírování
 
 
 
 # Poznámky
-Perilu mám vzácně v létě kdy ji pěstuji, jinak vynechávám. Restovanou cibulku také někdy z lenosti vynechávám. Jako náhrada minutkového masa používám dlouho pomalu vařené vepřové nebo krůtí stehenní, co se nakonec rozpadne na vlákna.  Výrazně ochucené, přidávám do něj pepř a rybí omáčku.
+Perilu mám vzácně v létě, když ji pěstuji, jinak vynechávám. Restovanou cibulku také někdy z lenosti vynechávám. Jako náhradu minutkového masa používám dlouho pomalu vařené vepřové nebo krůtí stehenní, co se nakonec rozpadne na vlákna. Výrazně ochucené, přidávám do něj pepř a rybí omáčku.
 
 
 <!--more-->

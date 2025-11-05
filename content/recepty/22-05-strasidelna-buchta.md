@@ -22,9 +22,9 @@ tags = ["sladké","pečivo"]
 
 # Postup
 1. Připravíme strašidelné půlky jablek.
-2. Smícháme suché suroviny a mokré zvlášť. Pak spojíme a vlijeme na vymazaná pekáč.
+2. Smícháme suché suroviny a mokré zvlášť. Pak spojíme a vlijeme na vymazaný pekáč.
 2. Poskládáme vykrojená jablka.
-2. Pečeme 180st cca 35 minut.
+2. Pečeme 180°C cca 35 minut.
 
 # Poznámky
  Na pekáč 32x22 výška cca 5cm.

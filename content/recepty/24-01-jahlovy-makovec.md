@@ -24,7 +24,7 @@ draft = false
 - volitelně navrch mandlové lupínky
 
 # Postup
-- 3x spařím jáhly  auvařím v mléce s vodou do změknutí (mírně odklopená polička)
+- 3x spařím jáhly a uvařím v mléce s vodou do změknutí (mírně odklopená polička)
 - přidám cukr a PL škrobu a ještě krátce promíchám (2 minuty)
 - navrstvím hmotu do olejem vymazaného a moukou vysypaného pekáče
 - navrch jablíčka pokrájená na měsíčky a půlky švestek. Pokud není tahle ideal kombinace stačí jen jablíčka, případně lze použít i odkapané a vypeckováné švestky z kompotu.

@@ -23,10 +23,10 @@ tags = ["slané","pečivo","bez-lepku"]
 # Postup
 1. cizrnovou mouku zalijeme vodou a necháme stát (případně nechávám i přes noc v lednici)
 2. nakrájíme zeleninu, je-li čas krátce orestuju kvůli chuti
-3. k mouce s vodu přidáme koření sůl a jogurt, dobře promícháme
-4. vyložíme pekáček peč. Papírem, poklademe zeleninou a zalijeme cizrnovou „kašičkou“
+3. k mouce s vodou přidáme koření sůl a jogurt, dobře promícháme
+4. vyložíme pekáček pečícím papírem, poklademe zeleninou a zalijeme cizrnovou „kašičkou“
 
 # Poznámky
-Lépe se krájí vychladlé. Dobré je koření kari korma z Lidlu. Dávají se i rozmixované kešu...
+Lépe se krájí vychladlé. Dobré je koření kari korma z Lidlu. Existuje hodně verzí. Dávají se například i rozmixované kešu.
 <!--
 -->

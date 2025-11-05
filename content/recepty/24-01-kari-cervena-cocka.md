@@ -33,12 +33,12 @@ tags = ["slané","bez-lepku","zelenina"]
 
 # Postup
 1. Dáme vařit rýži
-2. Na pánvi orestujeme cibuli doměkka,přidáme česnek, kurkumu a red curry pastu.
-3. do hrnce přidáme prpláchnutou čočku. podlijeme vodou tak, aby bylo nad ní ještě 1 cm vody a vařte za občasného míchání. (případně přidáme dle potřeby vodu v průběhu vaření).
-4. nakrájíme zeleninu a přidáme k čočce. 
-5. přidáme protlak, kokosovou smetanu , dochutíme rybí omačkou
-6. když je zelenina téměř hotová, dochutíme případně naředíme vodou, je-li příliš husté.
-7. Navrch bylinky... čerstvý koriandr, africkou bazalku v nejhorším českou petrželku:),  lze přidat smažený česnek, oříšky....
+2. Na pánvi orestujeme cibuli doměkka, přidáme česnek, kurkumu a red curry pastu.
+3. Do hrnce přidáme proplachnutou čočku. Podlijeme vodou tak, aby bylo nad ní ještě 1 cm vody a vaříme za občasného míchání. (Případně přidáme dle potřeby vodu v průběhu vaření.)
+4. Nakrájíme zeleninu a přidáme k čočce.
+5. Přidáme protlak, kokosovou smetanu, dochutíme rybí omáčkou.
+6. Když je zelenina téměř hotová, dochutíme, případně naředíme vodou, je-li příliš husté.
+7. Navrch bylinky - čerstvý koriandr, africkou bazalku, v nejhorším českou petrželku:). Lze přidat smažený česnek, oříšky.
 
 
 <!--

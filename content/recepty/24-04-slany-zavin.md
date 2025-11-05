@@ -14,11 +14,11 @@ draft = false
 
 
 # Suroviny
-- 250 kvasu (1:1 pohankova mouka a Doves Fam plain white)
-- 350g mouka Nutrifree (175g Mix per pane, 175g Mix per panne integrale)
-- 250ml smetana ke šlehání 33% 
+- 250 g kvásku (1:1 pohankova mouka a Doves Farm plain white)
+- 350 g mouky Nutrifree (175 g Mix per pane, 175 g Mix per panne integrale)
+- 250 ml smetany ke šlehání 33% 
 - 2 vejce (byly zrovna L)
-- menší lžička soli cca 5g
+- menší lžička soli cca 5 g
 
 Náplň 1
 - špenát listový nebo hrubě sekaný mražený
@@ -39,6 +39,6 @@ Náplň 2
 
 
 # Poznámky
-Těsto má trochu chlebovou chuť, tak asi spíš jen na slané. Nebo použít světlou mouku místo celozrnné. Pozor Nutrifree přidává do mouky na chleba, bílé i celozrnné sůl, takže na sladko nejsou dobré.
-NUTRIFREE Per Panne Integrale 1,5 g/100g a NUTRIFREE Per Panne 1,9 g/100g. Jizerka 0,11 g/100g, SCHÄR Mix B  0,76 g/100g, SCHÄR Mix B sůl 0,05 g, Doves Farm Směs bílá 0,03 g/100g.
+Těsto má trochu chlebovou chuť, tak asi spíš jen na slané. Nebo použít světlou mouku místo celozrnné. Pozor, Nutrifree přidává do mouky na chleba (bílé i celozrnné) sůl, takže na sladko nejsou dobré.
+NUTRIFREE Per Panne Integrale 1,5 g/100 g a NUTRIFREE Per Panne 1,9 g/100 g. Jizerka 0,11 g/100 g, SCHÄR Mix B 0,76 g/100 g, SCHÄR Mix B sůl 0,05 g, Doves Farm Směs bílá 0,03 g/100 g.
 <!-- --> 

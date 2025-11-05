@@ -32,19 +32,19 @@ Ovocná vrstva
 
 
 # Postup
-1.  Fazole ideálně namočíme den předem (není úplně nutné, jen se vaří déle).
+1.  Fazole adzuki ideálně namočíme den předem (jinak se vaří déle).
 2.  Dáme vařit fazole a první vodu po 3 minutách slejeme a dáme vařit do 0,5 litru jablečného moštu, vaří se asi 1h
-3.  Jáhly spařímš a vaříme v mléce s vodou. cca 10-15 minut (záleží, zda jste před tím namáčeli),
-4.  Po uvaření jáhly osladíme a rozetřeme do vodou omyté formy (proplachujuformu vodu)
-5.  jablka nastrouháme na jemno a přidáme do uvařených fazolí
-6.  dochutíme skořicí  skořici, případně cukrem
-7.  přidáme agar dle návodu (agar předem do trochy moštu)
-8.  rozmixujeme mixérem na jemno jak potřebujeme
+3.  Jáhly spařím a vaříme v mléce s vodou cca 10–15 minut (záleží, zda se před tím namáčely).
+4.  Po uvaření jáhly osladíme a rozetřeme do vodou omyté formy (propláchnu formu vodou).
+5.  Jablka nastrouháme najemno a přidáme do uvařených fazolí.
+6.  Dochutíme skořicí, případně cukrem.
+7.  Přidáme agar dle návodu (agar předem do trochy moštu).
+8.  Rozmixujeme mixérem najemno, jak potřebujeme.
 
 
 # Poznámky
-Měkké fazole poznáme podle rozemnutí mezi prsty, jsou krásně sametové. Mile překvapilo, moje oblíbená varianta, ale ne věichni souhlasí:)
-Třešně tam byly dobré, šlo by i sjiným ovocem, broskve, černý rybíz. Zkusit také změnit poměr fazolí ve prospěch ovoce.
+Měkké fazole poznáme podle rozemnutí mezi prsty, jsou krásně sametové. Mile překvapilo, moje oblíbená varianta, ale ne všichni souhlasí :)
+Třešně tam byly dobré, šlo by i s jiným ovocem, broskve, černý rybíz. Zkusit také změnit poměr fazolí ve prospěch ovoce.
 
 <!--
 orinál

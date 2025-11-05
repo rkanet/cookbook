@@ -15,11 +15,11 @@ cca 3 osoby:
 - kuřecí maso cca 300g na nudličky den předem naložit do rybí omáčky, rýžového octa, soli a oleje
 - 1 červená paprika nakrájená na krátké nudličky
 - 1 cibule na půlky a na tenké měsíčky a rozdrobit na proužky
-- 3 střední žampiony na kousky - tenké plátky
+- 3 střední žampiony na kousky na tenké plátky
 - 3/4 cukety malé na kolečka a ty na výseče jako dort
-- 1 menší mrkev na tenoučká! kolečka (větší průměr na půlkolečka)
+- 1 menší mrkev na tenoučká kolečka (větší průměr na půlkolečka)
 - zázvor kousek povařit
-(lze přidat fazol lusky, brokolici, hrášek luskový - nevyzkoušeno)
+(lze přidat fazolové lusky, brokolici, hrášek luskový - nevyzkoušeno)
 
 - kari pasta červená 1 rovná PL
 - 1 PL limetka vymačkaná

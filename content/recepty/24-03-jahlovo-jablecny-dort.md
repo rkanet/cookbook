@@ -16,11 +16,11 @@ draft = false
 # Suroviny
 Korpus forma 30 cm /na malou formu Ikea 32 x 22/velkou 38 x30
 
-- 130 g/160g suchých jáhel
-- 700 ml/960ml vody
+- 130 g / 160 g suchých jáhel
+- 700 ml / 960 ml vody
 - špetka soli
-- 1 polévkové lžíce bílého mandlového másla Rapunzel (dávám z pražených mandlí)/1,5-2PL
-- cca 1,5/ 2PL kopcem třtinového cukrueně
+- 1 polévková lžíce bílého mandlového másla Rapunzel (dávám z pražených mandlí) / 1,5-2 PL
+- cca 1,5 / 2 PL s kopcem třtinového cukru
 
 Jablečno-pudinková vrstva
 - 750 ml vody 
@@ -30,14 +30,14 @@ Jablečno-pudinková vrstva
 - cukr dle chuti a slakosti jablek
 
 # Postup
-1. Jáhly uvařit s vodou,cukrem a špetkou soli. Nechat potevřenou pokličku.Přidat mandlové máslo a rozmixovat.
-2. Nalít do formy (vypláchlá studenou vodou).
-3. Uvařit kousky jablíček ve vodě jako pudink, nalít na jahlový korpus.
+1. Jáhly uvařit s vodou, cukrem a špetkou soli. Nechat pootevřenou pokličku. Přidat mandlové máslo a rozmixovat.
+2. Nalít do formy (vypláchnuté studenou vodou).
+3. Uvařit kousky jablíček ve vodě jako pudink, nalít na jáhlový korpus.
 4. Nechat vychladnout v lednici.
 
 # Poznámky
-Většina kupovaných jblek, jsou pevná, dlouho trvá než se rozvaří. Dávám je tedy vaři předem a pak přileju roztok se kšrobem a ještě povařím.
-Ale pokud je to druh, který se hodně rozvaří je lepší dát až do zahřátého pudikokové hmoty a povařit jen krátce, aby zůstaly zachované kousky.
-Lze udělat do formy jako rychlý dort, nebo jen samotnou pudinkovo jablečnou vrstvu do sklenic.
+Většina kupovaných jablek jsou pevná, dlouho trvá než se rozvaří. Dávám je tedy vařit předem a pak přileju roztok se škrobem a ještě povařím.
+Ale pokud je to druh, který se hodně rozvaří, je lepší dát až do zahřáté pudinkové hmoty a povařit jen krátce, aby zůstaly zachované kousky.
+Lze udělat do formy jako rychlý dort, nebo jen samotnou pudinkovo-jablečnou vrstvu do sklenic.
 
 <!-- --> 

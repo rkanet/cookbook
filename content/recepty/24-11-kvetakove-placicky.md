@@ -26,14 +26,14 @@ draft = false
 
 
 # Postup
-1. květák krátce uvaříme v páře ( ne moc do měkka, aby se zachovaly kousky)
-2. rozmačkáme lisem na br. kaši
-3. po schladnutí přidáme ostatní suroviny
-4. mokrýma rukama dtvoříme placky
-5. pečeme v troubě na pečícím papíře, lehce potřeném olejem
+1. Květák krátce uvaříme v páře (ne moc do měkka, aby se zachovaly kousky).
+2. Rozmačkáme lisem na bramborovou kaši.
+3. Po schladnutí přidáme ostatní suroviny.
+4. Mokrýma rukama tvoříme placky.
+5. Pečeme v troubě na pečícím papíře, lehce potřeném olejem.
 
 # Poznámky
-Množství rurovin jsem dávala odhadem, tak, aby šlo dobře tvarovat placky.  Kukuřičný škrob asi 1 polévková lžíce kopcem a asi 4 PL lžíce kopcem strouhanky.Vejce byly velikost M.
+Množství surovin jsem dávala odhadem, tak, aby šlo dobře tvarovat placky. Kukuřičný škrob asi 1 polévková lžíce s kopcem a asi 4 PL s kopcem strouhanky. Vejce byly velikost M.
 Hladkolistá petržel hodně, asi 12 větviček.
 
 <!-- --> 

@@ -33,7 +33,7 @@ V míse promíchejte mouku, cukr, jedlou sodu a kakao. Do směsi zašlehejte kef
 - 170g kefírového mléka (Valašské) pak jsem přidala ještě dvě až 3 PL
 - 100g slunečnicového oleje pak jsem přidala ještě 1 PL
 - 1 vejce
-- 30 ml horké (až vody na konec)
+- 30 ml horké vody (až na konec)
 - 180g mouky Nutrifree Dolci
 - 150g třtinového cukru
 - 1 ČL jedlé sody skoro rovná

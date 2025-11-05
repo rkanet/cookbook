@@ -15,11 +15,11 @@ draft = false
 
 # Suroviny
 Tvarohová vrstva
-- 10g želatina  Dr. Oetker Želatina na ztužení krémů  (tj 1/2 balení)
-- 500g tučného tvarohu (2ks ve vaničce po 250g)
+- 10 g želatiny Dr. Oetker Želatina na ztužení krémů (tj. 1/2 balení)
+- 500 g tučného tvarohu (2 ks ve vaničce po 250 g)
 - cukr
 - 1 vanilkový cukr
-- 200ml vody
+- 200 ml vody
 
 Ovocná vrstva
 - ovoce
@@ -32,7 +32,7 @@ Ovocná vrstva
 # Postup
 1. Namočíme želatinu ve vodě, necháme 10 minut nabobtnat.
 2. Rozmícháme tvaroh s cukrem.
-3. Želetinu zahřejeme ve vodní lázni do rozpuštění. Nesmí se přehřát, max 60st.
+3. Želatinu zahřejeme ve vodní lázni do rozpuštění. Nesmí se přehřát, max. 60 °C.
 4. Želatinu necháme trochu vychladnout, pak ještě teplou vmícháme do tvarohu. 
 5. Nalejeme do sklenic a necháme ztuhnout v lednici.
 6. Krátce povaříme ovoce, přídávám trochu škrobu na zahuštění (cca 10 minut).
@@ -40,7 +40,7 @@ Ovocná vrstva
 
 
 # Poznámky
-Panna cotta je skvělá s čestvým ovocem. Protože máme dietní omezení a ovoce u nás musí projít varem vznikla tato varianta. 
+Panna cotta je skvělá s čerstvým ovocem. Protože máme dietní omezení a ovoce u nás musí projít varem, vznikla tato varianta.
 Může též posloužit jako zimní varianta, kdy není čerstvé ovoce.
 
 <!-- --> 

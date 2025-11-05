@@ -18,7 +18,7 @@ tags = ["sladké","pečivo","bez-lepku"]
 - 1/2 balíčku kypřícího prášku (1ks=12g)
 - 80g třtinového cukru (130g)
 - 170 g mouky Nutrifree per Dolce (257g)
-- ovoce asi 250g borůvek a 4 broskve nakrájené ne kousky i se slupkou (přiměřeně)
+- ovoce asi 250 g borůvek a 4 broskve nakrájené na kousky i se slupkou (přiměřeně)
 
 Drobenka
 - 45g rýžové mouky polohrubé (89g)
@@ -27,16 +27,16 @@ Drobenka
 - 40g másla (79g)
 
 # Postup
-1. propracujeme Ingredience na posypku
-2. připravíme ovoce
-3. promícháme zakysanou smetanu s vajíčkem a cukrem a přidáme mouku s kypřícím práškem a na navrch poklademe ovocem zatím nejlepší broskve a borůvky (koupené).
-Posypeme drobenkou. 
-4. Pekla jsem na 190 asi 40minut.
+1. Propracujeme ingredience na drobenku.
+2. Připravíme ovoce.
+3. Promícháme zakysanou smetanu s vajíčkem a cukrem a přidáme mouku s kypřícím práškem a navrch klademe ovoce, zatím nejlepší broskve a borůvky (koupené).
+4. Posypeme drobenkou.
+5. Vložíme do vyhřáté trouby. Pekla jsem na 190 °C asi 40 minut.
 
 
 
 
 # Poznámky
-V závorce přepočet na mojí větší formu. Dala jsem 1 PL mléka navíc. Nemám často mandlovou mouku, pak drobenku dělám z kouky Doves Farm plain white a mandlovou mouku nahrdím blp ovesnýma vločkama.
+V závorce přepočet na moji větší formu. Dala jsem 1 PL mléka navíc. Nemám často mandlovou mouku, pak drobenku dělám z mouky Doves Farm plain white a mandlovou mouku nahradím blp ovesnými vločkami.
 
 <!--more-->

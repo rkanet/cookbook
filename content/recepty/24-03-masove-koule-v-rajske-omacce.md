@@ -20,9 +20,9 @@ Na 12 malých
 - 3 stroužky česneku
 - 4 snítky nasekané hladkolisté petrželky
 - 1 vejce
-- 2 menší špetky sušeného romarýnu
-- trochu zaprášit moukou doves, trochu kukuř. škrobu (oboe málo!)
-- sůl 15g/kg masa tj cca 9g/600g
+- 2 menší špetky sušeného rozmarýnu
+- trochu zaprášit moukou Doves farm plain white, trochu kukuřičného škrobu (oboje málo!)
+- sůl 15 g/kg masa tj. cca 9 g/600 g
 
 Omáčka
 - 1 konzerva rajčatového pyré (passata zhruba 400 ml, případně rajčata v konzervě)
@@ -33,18 +33,18 @@ Omáčka
 - cca 1/2 PL na zahuštění (doves farm plain white)
 - bobkov list
 - 2 kuličky nového koření
-- 2 cm dlouhá větvička tozmarýnu
+- 2 cm dlouhá větvička rozmarýnu
 - 1 ČL sůl
 
 # Postup
-1. Maso ssmíchat s vajíčkem, česnekem, petrželkou, solí, pečlivě promíchejte. 
-2. Vytvarujeme kuličky cca 3cm průměr (lza namáčet ruce ve vodě) a upečemě v troubě na plechu s pečícím papírem (aSi 25minut 200st).
-3. Orestujeme na oleji cibulku, nakrájenou mrkev a celer, zaprášíme moukou a ještě krátce osmahneme, zalijeme rajčatovou šťávou a rozmícháme (případně přilijeme trochu vody). Podusíme.
+1. Maso smíchat s vajíčkem, česnekem, petrželkou, solí, pečlivě promíchejte.
+2. Vytvarujeme kuličky cca 3 cm průměr (lze namáčet ruce ve vodě) a upečeme v troubě na plechu s pečícím papírem (asi 25 minut, 200 °C).
+3. Orestujeme na oleji cibulku, nakrájenou mrkev a celer, zaprášíme moukou a ještě krátce osmažíme, zalijeme rajčatovou šťávou a rozmícháme (případně přilijeme trochu vody). Podusíme.
 4. Rozmixujeme omáčku a přidáme upečené kuličky z trouby, bobkový list, nové koření a rozmarýn.
-5. Společně dusíme na nejmenší stupeň minimálně 30 minut, ideál je 1h-1,5h
-6. Průběžně dochutíme -cukr-sůl-mléko-
+5. Společně dusíme na nejmenší stupeň minimálně 30 minut, ideál je 1-1,5 h. Dlouhé pomalé vaření tomu velmi prospívá.
+6. Průběžně dochutíme - cukr - sůl - mléko.
 
 # Poznámky
-Omáčka byla hodně kyselá, možná kvůli kyselejším konezervovaným rajčatům (kyselina cironová)? Příště zkusit přímo z rajčat a protlaku, ten byl bez kyseliny citronove.
-Také by šlo přidat o něco víc zeleniny v poměru k rajčatům...
+Omáčka byla hodně kyselá, možná kvůli kyselejším konzervovaným rajčatům (kyselina citronová)? Příště zkusit přímo z rajčat a protlaku, ten byl bez kyseliny citronové.
+Také by šlo přidat o něco víc zeleniny v poměru k rajčatům.
 <!-- --> 

@@ -14,16 +14,15 @@ draft = false
 
 
 # Suroviny
-- 350g irish rib eye steak  (30mm vysoký)
-- olej na vysoké teploty, nebo přepuštěné máslo
+- 350 g irish rib eye steak (30 mm vysoký)
+- olej na smažení za vysoké teploty, nebo přepuštěné máslo
 - sůl
 
 # Postup
 1. steak vyndat 2h předem, nechat ohřát na pokojovou teplotu
-2. rozehřát troubu na 180 
+2. rozehřát troubu na 180 °C
 3. posolit, potřít rýžovým olejem
-4. rozehřát suchou pánev na 9tku, když se z ní začne čadit, dát na ní steak a stáhnout teplotu na 6.5,
- po 3 až 4 minutách otočit
+4. rozehřát suchou pánev na 9tku, když se z ní začne "kouřit", dát na ní steak a stáhnout teplotu na 6.5, po 3 až 4 minutách otočit
 5. po dalších 3 - 4 minutách dát pánev do vyhřáté trouby
 6. po 10 minutách vyndat, nechat na pánvi, přikrýt alobalem a nechat 5 minut odpočívat
 

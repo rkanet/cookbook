@@ -11,11 +11,11 @@ tags = ["sladké","bez-lepku"]
 +++
 
 # Suroviny
-Doplnit
+
 
 
 # Postup
-Oproti pudinku se po uvaření propláchnou, zbaví se tak škrobové slizo vrstvy.
+Oproti pudinku se po uvaření propláchnou, zbaví se tak škrobové slizové vrstvy.
 
 
 # Poznámky

@@ -14,29 +14,29 @@ draft = false
 
 
 # Suroviny 
-- 300g  v suchém stavu (?750g vařené)
+- 300 g v suchém stavu (cca 750 g vařené)
 - olej na smažení
-- 2 cibule nakrájené 
+- 2 cibule nakrájené
 - 1 lžíce sladké papriky
 - asi 1 lžička soli
-- 500 ml vody nebo vývaru ze zelniny
+- 500 ml vody nebo vývaru ze zeleniny
 - pár kapek citronové šťávy
 - 1 ČL jemné hořčice
-- smetana/mléko případně máslo na dochucení 
+- smetana/mléko případně máslo na dochucení
 - 1 větší pórek, nakrájený našikmo (zelená část)
 
 # Postup
-1. Přes noc namočíme cizrnu 
-2. Druhý den vodu slijeme a vaříme v nové vodě do měkka (2-3h). Cizrnu osolíme a necháme stát pod pokličkou, ráda osychá.
-3. Orestujeme nakrájenou cibulku (nemusí být na jemno rozmixuje se s cizrnou), přidáme papriku a krátce! orestujeme, přilijeme vodu/vývara a přidáme asi 1/2 cizrny
-4. Chvíli povaříme a rozmixujeme ponorným mixérem omáčku do hladka. Lze ještě propasírovat přes síto a získat hladší omáčku... (nedělám:)
+1. Přes noc namočíme cizrnu.
+2. Druhý den vodu slijeme a vaříme v nové vodě do měkka (2-3 h). Cizrnu osolíme a necháme stát pod pokličkou, ráda osychá.
+3. Orestujeme nakrájenou cibulku (nemusí být najemno, rozmixuje se s cizrnou), přidáme papriku a krátce orestujeme, přilijeme vodu/vývar a přidáme asi 1/2 cizrny.
+4. Chvíli povaříme a rozmixujeme ponorným mixérem omáčku do hladka. Lze ještě propasírovat přes síto a získat hladší omáčku. Pro lenost nedělám :).
 5. Do omáčky přidáme nerozmixovanou cizrnu, hořčici, mléko/smetanu dle chuti a pár minut ještě povaříme.
-6. Dochuťíme solí a citronem (pár kapkami citronové šťávy) 
-7. Nakrájený pórek se vaří v páře (já krátce orestuji na pánvi a podliji vodou nechám odpařit)
+6. Dochuťíme solí a citronem (pár kapkami citronové šťávy).
+7. Nakrájený pórek se vaří v páře (já krátce orestuji na pánvi a podliji vodou, nechám odpařit).
 
 # Poznámky
-Porek se má s omáčkou promíchat  těsně před podáváním, aby neztratil zelenou barvu. U nás porek nechávám v misce stranou, protože ne všichni ho jedí. Přidává se dle chuti až na stole. Podáváme s kváskovými plackami bez lepku. 
-Šlo by i s rýží, zatím nevyzkoušeno...
+Pórek se má s omáčkou promíchat těsně před podáváním, aby neztratil zelenou barvu. U nás pórek nechávám v misce stranou, protože ne všichni ho jedí. Přidává se dle chuti až na stole. Podáváme s kváskovými plackami bez lepku.
+Šlo by i s rýží, zatím nevyzkoušeno.
 
 
 

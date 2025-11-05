@@ -25,9 +25,9 @@ draft = true
 
 # Postup
 - v robotu ušlehat vejce z cukrem
-- 
+- smíchat suché ingredience (mouka, ořechy, soda a kypřící prášek)
 
 # Poznámky
-Bezlepková mouka na prvn pokus byla 40g pohanková, zbytek cca 70 Nutri free universal, zbytej Jizerka zlatá.Mrkve jsme nastrouhala vtšinu na jemnu 2 mneší mrkve na hrubo. V blp verzi s ehodně drobilo přidat trochu (2PL tvarohu, jogurtu nebo kys. smetany)
+Bezlepková mouka na první pokus byla 40g pohanková, zbytek cca 70 Nutri free universal, zbytek Jizerka zlatá. Mrkev jsme nastrouhali většinu na jemno, 2 menší mrkve na hrubo. V blp verzi se hodně drobilo, přidat trochu (2PL tvarohu, jogurtu nebo kys. smetany)
 
 <!-- --> 

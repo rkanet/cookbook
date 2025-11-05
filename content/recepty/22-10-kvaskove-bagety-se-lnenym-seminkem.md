@@ -19,21 +19,21 @@ Bohužel záznam receptu z kuchyně se ztratil, tak třeba časem na druhý poku
 
 
 # Suroviny verze 1
-- 250 kvas
-- 125g mouky Nutri Free Mix per Pane Integrale
+- 250 g kvas
+- 125 g mouky Nutri Free Mix per Pane Integrale
 - 6 g soli
 - 3 g drcený kmín
 - 95 g vody
 - zápara (2PL lněné semínko zlaté, 1 pl slunečnicové semínko)
 
 # Postup
-1. Připravíme předem rozkvas (lze urychlit v troubě se světlem) a předem dem spaříme semínka tj. zalijeme vroucí vodou z rychlovarky, hlasina cca 0,5cm  nad semínka
+1. připravíme předem rozkvas (lze urychlit v troubě se světlem) a předem spaříme semínka tj. zalijeme vroucí vodou z rychlovarky, hladina cca 0,5 cm nad semínka
 2. přidáme ostatní suroviny a smícháme těsto
-3. necháme vykynout (cca 2h v troubě se světlem)
-4. Předem vyhřejeme troubu na 250 stupňu s litinovou deskou (dávám pizza), na dno starý plech.
-4. vyvarujeme 2 bagety a necháme cca 20-30 minut v pečícím papíře oddělené utěrkou dokynout
-5. nařízneme a vložíme do trouby, na dno nalijeme trochu vroucí vody
-6. pečeme na 250 stupňu 30 minut
+3. necháme vykynout (cca 2 h v troubě se světlem)
+4. předem vyhřejeme troubu na 250 °C s litinovou deskou (dávám pizza), na dno starý plech
+5. vytvarujeme 2 bagety a necháme cca 20-30 minut v pečícím papíře oddělené utěrkou dokynout
+6. nařízneme a vložíme do trouby, na dno nalijeme trochu vroucí vody
+7. pečeme na 250 °C 30 minut
 
 
 # Poznámky

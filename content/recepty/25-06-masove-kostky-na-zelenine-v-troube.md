@@ -32,17 +32,15 @@ draft = false
 - voda na podlití
 
 # Postup
-1. Maso, papriky, cibuli i dýní nakrájet na větší kousky. Česnek na kousky.
-2. Vše smíchejte dohromady společně s cherry rajčátky, balsamicem a
-veškerým kořením.
-3. Podlítca 2 dcl vody a dejte zakryté péct do trouby vyhřáté na
-180°C na cca  30 minut.  Péct ideálně rosprostřené v tenké vrstvě.
-4. Po 30 minutách směs promíchejte.
-5. Pečte odkryté dalších  30 minut (občas směs zkontrolujte a promíchejte).
+1. Maso, papriky, cibuli i dýni nakrájet na větší kousky. Česnek na kousky.
+2. Vše smíchat dohromady společně s cherry rajčátky, balsamicem a veškerým kořením.
+3. Podlít cca 2 dcl vody a dejte zakryté péct do trouby vyhřáté na 180 °C na cca 30 minut. Péct ideálně rozprostřené v tenké vrstvě.
+4. Po 30 minutách směs promíchat.
+5. Péct odkryté dalších 30 minut, občas zkontrolovat a promíchat.
 
 # Poznámky
-Dýni z původního receptu jsem nahradila cuketou. Zeleninu lze přiměřeně obměňovat... Například žlutou papriku nemíváme často. 
-Když nebyla cuketa vynechala jsme i tu. A nakonec je to bez ní možná pikantnější, neředí chuť, potvora:)
-800g masa je myslím pro 4-5 lidí.
+Dýni z původního receptu jsem nahradila cuketou. Zeleninu lze přiměřeně obměňovat. Například žlutou papriku nemíváme často.
+Když nebyla cuketa, vynechala jsem i tu. A nakonec je to bez ní možná pikantnější, neředí chuť, potvora:)
+800 g masa je myslím pro 4-5 lidí.
 
 <!-- --> 

@@ -1,7 +1,7 @@
 
 +++
 date = "2024-10-05T21:43:00+02:00"
-title = "TToastový chléb II"
+title = "Toastový chléb II"
 autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"

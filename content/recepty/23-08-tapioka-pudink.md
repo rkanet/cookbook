@@ -12,8 +12,8 @@ tags = ["sladké","bez-lepku"]
 
 # Suroviny
 na cca 8 ks
-200g tapioka perel
-1 litr mléko/voda 1:1
+- 200 g tapiokové perly
+- 1 litr mléka/vody 1:1
 
 # Postup
 

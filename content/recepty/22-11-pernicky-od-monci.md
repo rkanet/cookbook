@@ -16,14 +16,14 @@ tags = ["sladké","pečivo"]
 - 320g hladké mouky
 - 125g cukru moučka
 - 50g medu (2 plnější pol.lžíce)
-- 25g másla
-2 celá vejce
-1/2 PL perníkového koření (mám ráda Sonnemtor)
-1 menší čajovou lžičku jedlé sody
+- 25 g másla
+- 2 celá vejce
+- 1/2 PL perníkového koření (mám ráda Sonnentor)
+- 1 menší čajovou lžičku jedlé sody
 
 
 
 # Postup
 
 # Poznámky
-Polovinu těsta lze obarvit kakaem. Ráda dělám den předem, dobře s epak s těstem pracuje.
+Polovinu těsta lze obarvit kakaem. Ráda dělám den předem, nechám uležet v lednici. Dobře se pak s těstem pracuje.

@@ -27,11 +27,11 @@ kategorie = ["moučníky"]
 
 1. smíchat žloutky s tvarohem, vanilkovým cukrem a skořicí a olejem 
 2. smíchat mouku s kypřícím práškem
-3. ušlehat sníh z bílků a a pak do něj zašlehat cukr
+3. ušlehat sníh z bílků a pak do něj zašlehat cukr
 4. smíchat mouku s tvarohovou částí a nakonec opatrně vmíchat sníh
 5. pomocí dvou polevkových lžic dávkujeme do formiček část těsta na to marmelády trochu a "zaklopit druhou půlkou těsta.
 6. navrch zapíchat kouseky jablíčka 
-7. pečeme v předehřáte troubě 200 stupňů, asi 25minut 
+7. pečeme v předehřáte troubě 200 °C, asi 25 minut 
 
 
 
@@ -40,10 +40,10 @@ kategorie = ["moučníky"]
 # Poznámky
 Do muffinové formy používám ještě papírové vložky, ale lze i rovnou do vymazané a moukou vysypané formy.
 Bezlepkové vyzkoušeno zatím z Jizerky (zlaté) a 2PL pohankové mouky. Do bezlepkového dávám asi 4PL mléka než vmíchám sníh. Záleží také na velikosti vajec.
-Zkoušeli jsme i kakaové tj. plus 15g kakaa, je třeba dát o trohcu víc mléka.
+Zkoušeli jsme i kakaové tj. plus 15g kakaa, je třeba dát o trochu víc mléka.
 Z lenosti poslední dobou vynechávám sníh a rozhodně to není o tolik horší o kolik je to jednodušší, prostě to funguje i bez sněhu:)
-Vyzkoušet ušlahat vajíčka z cukrem. Jablíček dávám hodně cca 2 malá. Krájím na malé kostičky cca 1cm - 1,5cm. 
-Zapichuju do těsta, kldně 8 kousků na muffin...takový ježek z toho vznikne, ale jak těsto vyroste tak zapadnou dovnitř.
+Vyzkoušet ušlehat vajíčka z cukrem. Jablíček dávám hodně cca 2 malá. Krájím na malé kostičky cca 1cm - 1,5cm.
+Zapichuju do těsta, klidně 8 kousků na muffin...takový ježek z toho vznikne, ale jak těsto vyroste tak zapadnou dovnitř.
 Marmeláda mi přijde nejlepší malinová a borůvková Schwartau EXTRA, případně marmošky kombinuji dle požadávků strávníků.
 Urodila se nová varianta receptu [s nutellou](/recepty/24-11-tvarohve-muffiny-nutella/).
 

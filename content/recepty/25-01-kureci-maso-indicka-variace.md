@@ -1,7 +1,7 @@
 
 +++
 date = "2025-01-15T12:04:17+01:00"
-title = "Kuřoecí kousky indická variace"
+title = "Kuřecí kousky indická variace"
 autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"

@@ -33,17 +33,17 @@ https://www.youtube.com/watch?v=KYjggwmRqgQ
 # Postup
 1. připravíme Anko, ideálně den předem (fazole se často namáčí, ale není to nezbytně nutné)
   - fazole přivedeme k varu, vaříme 3 minuty, vodu slejeme přecedíme a přidáme novou 2,5 cm nad fazole v té už dovaříme na mírném plamen
-  - doléváme vodu, vaříme cca 40 minut (měkké jsou když po rozemnutí mezi prsty nemají tvrdé jádaro, ale dělají dametovou kaši)
+  - doléváme vodu, vaříme cca 40 minut (měkké jsou když po rozemnutí mezi prsty nemají tvrdé jádro, ale dělají jemnou kaši)
   - vypneme, přiklopíme poklicí a necháme stát 30 minut
   - přecedíme vodu a necháme jí stranou
-  - rozpustíme cukr ve vodě a přidáme fazole vaříme již prudčeji cca 10 minut do požadovanmé konzistence, na dorayaki múže být jemnější
-  - lze nechat hrubé fazole, nebo je paasírovat, udělala jesem něco mezi na závěr je rozmixovala i se slupkou
+  - rozpustíme cukr ve vodě a přidáme fazole vaříme již prudčeji cca 10 minut do požadované konzistence, na dorayaki může být jemnější
+  - lze nechat hrubé fazole, nebo je pasírovat, udělala jsem něco mezi na závěr je rozmixovala i se slupkou
 2. připravíme těsto, necháme odležet v lednici
  - na teflonovou pánev opatrně lijeme lívanečky otáčíme, když zkrz probublávají bubliny
  - otočit jemně jinak se rozprskne:)
 
  # Poznámky
- příště dát méně mouky s xanthanem a více Doves farm plain white, bylo to moc gumové a špatně těsto stékalo na pánev.
+ Příště dát méně mouky s xanthanem a více Doves farm plain white, bylo to moc gumové a špatně těsto stékalo na pánev.
 
  
 

@@ -22,19 +22,19 @@ na 2 ks průměr cca 28cm
 
 # Postup
 1. droždí trocha vody, cukr a lžicí mouky kvásek..
-2. smícháme s ostatníma surovinama
+2. smícháme s ostatními surovinami
 3. Zpracujeme těsto, nechávám cca 3 minuty v robotu
 4. necháme vykynout (cca 2x objem)
 5. vytvarujeme pizzu
-6. podél obvodu cca 1 cm od kraje nanesemestrouhaný sýr (eidam, mozzarella, gouda...), kraje zahneme ke středu a dobře přitiskněte k těstu
-7. pečeme v troubě naa 250 °C (předem vyhřáté!)
+6. podél obvodu cca 1 cm od kraje naneseme strouhaný sýr (eidam, mozzarella, gouda...), kraje zahneme ke středu a dobře přitiskněte k těstu
+7. pečeme v troubě na 250 °C (předem vyhřáté!)
 
 
 # Poznámky
 Do trouby dávám pizza kámen z litiny a přímo na něj sázím pizzu.
-U tohoto blp těsta to lze. Jen je potřeba se přesvědčit (těsně před vsazením) že je těsto uvolněné posunuje s po lopatě (podložce):
+U tohoto blp těsta to lze. Jen je potřeba se přesvědčit těsně před vsazením do trouby, že je těsto uvolněné, posunuje se po lopatě (podložce).
 Pokud ne, tak ho jemně podebrat a uvolnit, podsypat moukou.
-Pro verzi s nočním kynutím lednici dávám jen cca 7g droždí a nedělám kvásek, jen těsto dobře promíchám.
+Pro verzi s nočním kynutím v lednici dávám jen cca 7g droždí a nedělám kvásek, jen těsto dobře promíchám.
 
 
 <!-- originál LaTeta

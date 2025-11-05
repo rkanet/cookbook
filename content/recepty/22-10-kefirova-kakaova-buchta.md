@@ -35,12 +35,12 @@ V míse promíchejte mouku, cukr, jedlou sodu a kakao. Do směsi zašlehejte kef
 2PL-3 PL vody
 1 vejce
 220g mouky Nutrifree Dolci
-1ČL kopečkem skořice
+1 ČL kopečkem skořice
 1 ČL jedlé sody skoro rovná
 
 
 # Postup
-Smícháme zvlášť tekuté (krom horké vody) a zvlášť suché suroviny. Nakonec spojíme promícháme a nalijeme do vymazaného pekáče. 
-Pečeme v předehřáté troubě na 180 st. cca 30 minut. Dle potřeby lze přikrýt na dopečení pečícím papírem.
+Smícháme zvlášť tekuté (kromě horké vody) a zvlášť suché suroviny. Nakonec spojíme, promícháme a nalijeme do vymazaného pekáče.
+Pečeme v předehřáté troubě na 180 °C cca 30 minut. Dle potřeby lze přikrýt na dopečení pečícím papírem.
 
 # Poznámky

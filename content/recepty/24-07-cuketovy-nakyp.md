@@ -27,7 +27,7 @@ draft = false
 
 
 # Postup
-1. Pekáček vymažeme olejem a vysyoeme strouhankou.
+1. Pekáček vymažeme olejem a vysypeme strouhankou.
 2. vše smícháme a výslednou hmotu rozetřeme do pekáče (vrstva nízká, max 2 cm je ideal).
 3. Pečeme docela dlouho (vlhké) do zezlátnutí.
 

@@ -14,8 +14,8 @@ draft = true
 
 
 # Suroviny (Ikea pekáček malý 32x22cm)
-- 2 ks střední cuketa na hrubo strohaná (po nastrouhání a vymačkání vody to bylo asi 650g hmoty)
-- 300 g sna hrubo nastrouhaných brambor
+- 2 ks střední cukety na hrubo strouhané (po nastrouhání a vymačkání vody to bylo asi 650g hmoty)
+- 300 g na hrubo nastrouhaných brambor
 - 2 vejce
 - drcený kmín
 - Italské koření Sonnentor
@@ -25,7 +25,7 @@ draft = true
 - 40g lučina
 
 # Postup
-1. Vše smíchát a vložit do strouankou vysypaného pekáčku.
+1. Vše smíchat a vložit do strouhankou vysypaného pekáčku.
 2. Po asi 40 minutách posypat navcrh blaťáckým zlatem a dopéct.
 
 # Poznámky

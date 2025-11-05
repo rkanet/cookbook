@@ -1,7 +1,7 @@
 
 +++
 date = "2024-03-06T19:53:47+01:00"
-title = "Karlovarksý knedlík"
+title = "Karlovarský knedlík"
 autor = "R.R."
 imgsrc = "/img/karlovarsky-knedlik.jpg"
 imghref = "/recepty/"
@@ -29,15 +29,15 @@ Vařím v potravinářské folii ve vodě cca 20minut.
 
 # Postup
 
-1. Nakrájet chlebik, ohřát na pánvi, lehce zasušit...v tom rozpustit máslo...ještě malinko smahnout...ochladit na talířy.
-2. Mezitím rýžová mouka do  mléka
-3. Až vychladne chleba, tak nalít mléko s moukou kořením a žloudky na chleba, promíchat a nechat stát.
-4. Ulšlehat bílky a promíchat s chlebovou hmotou
-5. Zabalit do potravinové folie (příp. zavázat konce)
-6. Vařit ve vodě cca 20minut -25 minut dle velikosti (přikryté pokličkou).
+1. Nakrájet chlebík, ohřát na pánvi, lehce zasušit. Vhodit  máslo, rozpustit a ještě malinko osmažit. Nechat vychladnout. Pokud spěchám dám vychladit na talíř.
+2. Mezitím rýžovou mouku do mléka, nechat nabobtnat.
+3. Až vychladne chleba, tak nalít mléko s moukou, kořením a žloutky na chleba, promíchat a nechat stát.
+4. Ušlehat bílky a promíchat s chlebovou hmotou.
+5. Zabalit do potravinové folie (příp. zavázat konce).
+6. Vařit ve vodě cca 20-25 minut dle velikosti (přikryté pokličkou).
 
 # Poznámky
 Postup a úskalí má hezky popsané Florentina:
 https://www.kucharkaprodceru.cz/karlovarsky-knedlik/
-Ona myslím nedává mouku, ale mně to u blp s moukou vychází líp. Úkol naučit se vařit v látce, abych nemuslea používat folii.
+Ona myslím nedává mouku, ale mně to u bezlepku s moukou vychází líp.  U lepkového pečiva není sušení na pánvi a osmahnutí nutné, ale u blp příjemně zpevní úečivo, které by se jinak drolilo více. Úkol naučit se vařit v látce, abych nemusela používat folii.
 <!-- --> 

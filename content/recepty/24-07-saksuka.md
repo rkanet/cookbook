@@ -29,7 +29,7 @@ draft = false
 
 1. Na pánvi na oleji opéct cibuli a papriku (nakrájené na silnější plátky).
 2. Přidat nasekaný česnek a na kostky nakrájená rajčata (lze i z konzervy).
-3. Směs dochutit kořením (u nás byl římský kmín, černý pepř, chilli papričkyjsme vynechali) a podle chuti osolit.
+3. Směs dochutit kořením (u nás byl římský kmín, černý pepř, chilli papričky jsme vynechali) a podle chuti osolit.
 4. Vše společně podusit cca 15 minut. (propojení chutí).
 5. Do směsi vbyhloubit důlky a do nich se opatrně vyklepnout vejce. Pánev se zakryje poklicí a za mírné teploty se vejce nechají dojít požadované konzistence. Bílky by měly být pevné, žloutky zhoustnou, ale zůstanou stále trochu vláčné.
 6. Na vrch trochu sekané listové petržele, krajené červené cibule na kolečka a sýr feta.

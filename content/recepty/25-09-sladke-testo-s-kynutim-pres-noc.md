@@ -14,19 +14,18 @@ draft = false
 
 
 # Suroviny
-- 500g hladké mouky 
+- 500 g hladké mouky
 - 200 g mléka
-- 1  vejce
+- 1 vejce
 - 90 g cukru
 - 10 g vanilkového cukru
 - kůra citronu
 - 10-15 g droždí (více při bližší spotřebě těsta)
 - 125 g másla (změklého)
 - 5 g soli
-h
 # Postup
 # Poznámky
-Nejsušší těsto, co jsem vyrobila, analýza časem. Vzhledem k tomu, že receprt už jsem v minulosti dělala, tak to nebude základním receptem.
+Nejsušší těsto, co jsem vyrobila, analýza časem. Vzhledem k tomu, že recept už jsem v minulosti dělala, tak to nebude základním receptem.
 
 <!--original maskrtnice:
 láčné těsto na letní briošky

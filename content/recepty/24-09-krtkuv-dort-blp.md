@@ -43,17 +43,17 @@ Krém
 2. Nalejeme do vymazaného pekáče.
 3. Dáme péct na  200 stupňů, pak po asi 5 minutách snížit na 190 stupňu a péct clekm cca 45 minut.
 4. Rozmixovat banán, přidat vanilkový cukr a 2 ČL citronu. Vychladit v lednici
-5. Až korpus vychladne nožem pvyříznout kruh cca 1,5 cm od kraje. (vyměřuju omoci prstence dortové formy )
-6. Střed dortu mírně naříznout nožem a pak vydlabat vydličkou (bacha na dostateně silné dno). Drobky odložíme stranou.
+5. Až korpus vychladne nožem vyříznout kruh cca 1,5 cm od kraje. (vyměřuju pomocí prstence dortové formy)
+6. Střed dortu mírně naříznout nožem a pak vydlabat vidličkou (bacha na dostatečně silné dno). Drobky odložíme stranou.
 7. Na dno vyskládáme půlky banánů 
-8. Tvaroh rozmícháme s cukrem, pořídáme babánový krém z lednice a nakonec vyšlhenou šlhačku (do tuha).
+8. Tvaroh rozmícháme s cukrem, přidáme banánový krém z lednice a nakonec vyšlehanou šlehačku (do tuha).
 9. Krém navrstvíme na banány a vytvarujeme kopec.
-10. Na vrch sypeme dorbky těsta, vrstvu optrně přimáčkneme do krému a pakna konec ještě nasypeme pro krásu navrch pár volných droběčků.
+10. Na vrch sypeme drobky těsta, vrstvu opatrně přimáčkneme do krému a pak na konec ještě nasypeme pro krásu navrch pár volných drobečků.
 
 
 # Poznámky
 Těsto je použité z receptu na dýňovou buchtu. Je hodně pevné, což je fajn na vydlabávání. Možná zkusit ještě nějaké trochu jemnější.
 Při vydlabávání bacha na poloměr u krajů zůstalo tam zbytečně moc těsta.
-Krému by mohlo být víc, nebo si spíš připravit navíc tvaroh a babány a ze zbytku drobků udělat poháry do sklenic
+Krému by mohlo být víc, nebo si spíš připravit navíc tvaroh a banány a ze zbytku drobků udělat poháry do sklenic
 
 <!-- --> 

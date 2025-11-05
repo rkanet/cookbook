@@ -17,12 +17,15 @@ tags = ["sladké","ovoce","bez-lepku"]
  10g pektinu
  1 rovná ČL kys. citronové (konzervant, mírně okyselí, lze i bez ní)
 
- # postup
+ # Postup
  - omyjeme, odstopkujeme a vypeckujeme třešně
  - zasypeme většinou cukru cca 50g ponecháme stranou na rozmíchání pektinu
  - pocukrované třešně dáme do chladu a necháme do druhého dne
- - druhý den přidáme a pektin s cukrem
+ - druhý den přidáme pektin s cukrem
  - vaříme v širokém hrnci cca 10 minut dle zkoušky tuhnutí na talířku
  - vroucí plníme do čistých sterilovaných skleniček vč. víček
  - otočíme víčkem dolů do vychladnutí
+
+ # Poznámky
+ Lze zpracovat t=ž ihned po vypeckování, ale většinou ráda zacukruji a odložím do lednice.
 

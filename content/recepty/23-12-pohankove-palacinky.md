@@ -10,10 +10,10 @@ ingredience = ["mouka"]
 tags = ["slané","bez-lepku","sladké"]
 +++
 
-# Suroviny cca 10ks na male panvi 
-- 500ml mléko 
-- 1 ks vejce 
-- 200 g pohanková mouka hladká! (Šmajstrla) 
+# Suroviny 
+- 500 ml mléka
+- 1 vejce
+- 200 g pohankové mouky hladké! (Šmajstrla)
 - 1 špetka soli
 
 
@@ -25,7 +25,7 @@ tags = ["slané","bez-lepku","sladké"]
 
 
 # Poznámky
-Do těsta nedávám cukr a jíme dle chuti palačinky na slano (se špenátem...) nebo na sladko.
+Do těsta nedávám cukr a jíme dle chuti palačinky na slano (se špenátem...) nebo na sladko. Vyšlo mi z toho cca 10 ks průměr max 20cm.
 
 
 <!--

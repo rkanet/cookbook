@@ -26,10 +26,10 @@ draft = false
 
 
 # Postup
-
+Postup zatím jen v komentáři.
 
 # Poznámky
-Droždí jsem dala 5g čerstvého bylo starší. Kynulo přes noc v lednici při 3 stupních. Kynulo velmi pomalu, do rána to neuělalo téměř nic. I pak při pokojové teplotě kynulo až do pozdního odpoledne.
+Droždí jsem dala 5g čerstvého bylo starší. Kynulo přes noc v lednici při 3 stupních. Kynulo velmi pomalu, do rána to neudělalo téměř nic. I pak při pokojové teplotě kynulo až do pozdního odpoledne.
 Chleba docela dobrý, ale je hodně cítit chuť mouky MIxB, zkusit s Nutrifree bílou.
 
 

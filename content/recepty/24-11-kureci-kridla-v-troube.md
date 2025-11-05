@@ -30,23 +30,23 @@ Na marinádu:
 
 # Postup
 1. Měla jsem křídla bez letek tj. tenkých koncových částí.  Pokud nejsou křídla přioravená, je třeba tyto tenké špičky oddělit a udělat z nich např. vývar.
-2. Trouba rozehřáta na 120 stupňů (u nás chtělo trochu víc).
-3. Křídla v misce rovnoměrně promíchat s olejeme paprikou, římským kmínem, pepřem a solí. Případně chilli.
+2. Trouba rozehřátá na 120 °C (u nás chtělo trochu víc).
+3. Křídla v misce rovnoměrně promíchat s olejem a paprikou, římským kmínem, pepřem a solí. Případně chilli.
 4. Plech na pečení vykládám papírem (míň se připéká marináda na plech, ale stejně tam zateče, takže není nutný...).Křídla náskladat na plech kůží nahoru s trochu rozestupy, rozhodně v jedné vrstvě! aby horký vzduch mohl k masu ze všech stran.
-5.  Pečte bez zakrývání, podlévání, přelévání a nahlížení do trouby 2 hodiny. Po této době maso zkontrolujte: mělo by jít celkem snadno uvolnit od kosti a kůže by měla vypadat tence a vypečeně. Není-li tomu tak, zvyšte teplotu na 150-160 stupňů a 15 minut dopečte do tohoto stavu. 
-6. Připravit marinádu. Do kastrůlku sójovou omáčku a med, ppřidat prolisovaný česnek a kousky oloupaného zázvoru. Dvě minuty zvolna povařit (mmíchat, hlídat má snahu vypěnit). 
-5. Po cca 2h přihřát marinádu a přecedit přes sítko. Pak rovnoměrně lžící postupně nalít na upečená křídla. Zvýšit teplotu v troubě na 200 stupňů a péct 5 minut.
+5.  Pečte bez zakrývání, podlévání, přelévání a nahlížení do trouby 2 hodiny. Po této době maso zkontrolujte: mělo by jít celkem snadno uvolnit od kosti a kůže by měla vypadat tence a vypečeně. Není-li tomu tak, zvyšte teplotu na 150-160 °C a 15 minut dopečte do tohoto stavu. 
+6. Připravit marinádu. Do kastrůlku sójovou omáčku a med, přidat prolisovaný česnek a kousky oloupaného zázvoru. Dvě minuty zvolna povařit (míchat, hlídat má snahu vypěnit). 
+5. Po cca 2h přihřát marinádu a přecedit přes sítko. Pak rovnoměrně lžící postupně nalít na upečená křídla. Zvýšit teplotu v troubě na 200 °C a péct 5 minut.
 Po této době maso znovu přelít uvolněnou marinádou a péct dalších 5 minut. Pokud by se vm maso z jedné strany v troubě připékalo, otočit plech případně přeskupit ohrožené kousky.
 Po dopečení vyjměte plech z trouby a každý kousek masa uvolněte ode dna. Promíchejte, aby se maso obalilo ve výpeku, a nechte pět minut odpočívat.
 6. Pro efekt sypat sezamem a koriandrovou natí...
 
 # Poznámky
 Finále se hned připaluje 200 st. je nutno opravdu hlidat, rozuměj sedět u trouby. Vyzkoušeno bez hlídání s připálením:).
-Příště přecedit marinádu, aby v ní nebyly kousky česneku, nic moc to nepřidává a možná se to o to víc připaluje. Přecezeno a bylo mnohem lepší.
+Příště přecedit marinádu, aby v ní nebyly kousky česneku, nic moc to nepřidává a možná se to o to víc připaluje. Přeceděno a bylo mnohem lepší.
 Marinádu oproti receptu svařím už na začátku, pak jí před aplikací jen přihřeju a přecedím přes sítko.
-Dělala jsem cca dvojitou dávku , měla jsem křídla už zbavená koncový špičatých částá (letek) cca 4x500g balení. Tato váha odpovídala asi 28 ks křídel. Na osobu je dobré počítat 4 ks, na velkou žranici 6 ks na osobu
+Dělala jsem cca dvojitou dávku, měla jsem křídla už zbavená koncových špičatých částí (letek) cca 4x500g balení. Tato váha odpovídala asi 28 ks křídel. Na osobu je dobré počítat 4 ks, na velkou žranici 6 ks na osobu
 Zatím jsem nedávala chilli, ale malinko pálit by to mohlo.
-Podávám se salátem - listový salát (ideálně kombinace s červeným) okurka, strouhaná mrkev, koriandr, rýžový ocet, olej, případně limetka) a rýží.
+Podávám s rýží a se salátem - listový salát (ideálně kombinace s červeným) okurka, strouhaná mrkev, koriandr, rýžový ocet, olej, případně limetka.  
 
 
 

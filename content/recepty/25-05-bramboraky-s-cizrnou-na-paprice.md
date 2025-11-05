@@ -20,20 +20,20 @@ Na bramboráky klasika:
 - vejce
 - sůl, kmín drcený
 - trocha mouky
+- kysané zelí, kvašená selenina
 
 Na omáčku:
-- cibule
+- 1 cibule
 - červená paprika
 - trocha mouky na zahuštění
 - sůl
 - trochu sojové omáčky
 # Postup
-Cibule orestovat, povařit s moukou na omáčku - rozmixovat, pak přidat cizrnu z konzervy protože rychlovka. 
-A nebo pokud je čas plánovat předem namočenou a uvařenou cizrnu.
-krátce povařit a podávat s bramboráčkama.
+Cibule orestovat, povařit s moukou na omáčku - rozmixovat, pak přidat cizrnu z konzervy, protože rychlovka.
+A nebo pokud je čas plánovat předem namočenou a uvařenou cizrnu. Krátce povařit a podávat s bramboráčkama.
 
 # Poznámky
-Jako doplněk kysané zelí nebo kvašená zelenina. Bramboráky jsme zkoušela v troubě, dá s eu toho dělat i něco jiného než jen smažit. Byly méně mastné jen musím vychytak pečení. Šlo to pomalu a kraje se hodně připalovaly.
-Zkusit od začátku péct na víc stupňů (230) a brzo je otočit na drouhou stranu. (Pekly se víc na spodní straně). Na záčátku lze hcvíli horkovzduch, pak už moc připaluje tenří okraje.
+Jako doplněk kysané zelí nebo kvašená zelenina. Bramboráky jsme zkoušela v troubě, dá se u toho dělat i něco jiného než jen smažit. Byly méně mastné, jen musím vychytat pečení. Šlo to pomalu a kraje se hodně připalovaly.
+Zkusit od začátku péct na více stupňů (230 °C) a brzo je otočit na druhou stranu. (Pekly se víc na spodní straně). Na začátku lze chvíli horkovzduch, pak už moc připaluje tenčí okraje.
 
 <!-- --> 

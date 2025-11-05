@@ -20,19 +20,19 @@ draft = false
 - balíček kypřícího prášku (10g)
 - 240 g  mouky Nutrifree Dolci (dala jsem 260)
 - vanilkový cukr 
-- 1PL kakaa (20g)
+- 1 PL kakaa (20 g)
 - trocha mléka (na rozmíchání kakaa)
 
 # Postup
-1. Formu vymažeme tukem a polohrubou rýžovou moukou
-2. Smíchat smetanu, vajíčka a cukr. (Ideálně trochu prošlehat mixerem)
-3. Přidat mouku s kypřícím práškem a dobře promíchat. 
-4. Asi 1/3 těsta stranou do misky, vmíchat kakao. Přidat trochu mléka, aby mělo těsto obdovnou kozistenci jako světlé)
+1. Formu vymažeme tukem a polohrubou rýžovou moukou.
+2. Smíchat smetanu, vajíčka a cukr. (Ideálně trochu prošlehat mixérem.)
+3. Přidat mouku s kypřícím práškem a dobře promíchat.
+4. Asi 1/3 těsta stranou do misky, vmíchat kakao. Přidat trochu mléka, aby mělo těsto obdobnou konzistenci jako světlé.
 5. Do formy nalít polovinu těsta světlého, na něj tmavé a pak zbytek světlého.
-6. Pečeme na 180 stupňů asi 45 minut. (kontrola špejlí)
+6. Pečeme na 180 °C asi 45 minut. (Kontrola špejlí.)
 
 # Poznámky
-Zkusit přidat trochu rumu, asi do kakaové vrstvy. Hmota byla velmi tekutá, přidala jsem oproti receptu 20g mouky a i tak byla řídká. Bábovka nakonec přes všechny obavy mod dobrá!
+Zkusit přidat trochu rumu, asi do kakaové vrstvy. Hmota byla velmi tekutá, přidala jsem oproti receptu 20 g mouky a i tak byla řídká. Bábovka nakonec přes všechny obavy moc dobrá!
 
 
 <!-- --> 

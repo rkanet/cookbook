@@ -16,9 +16,9 @@ tags = ["sladké","bez-lepku"]
 
 
 # Postup
-1. jablka omylejeme, přepůlíme, vykrojime jadřinec
-2. posypeme skořící (připádně oříšky, mandlemi...)
-2. vyskládáme na pečící papír na plech a pečeme
+1. jablka omyjeme, přepůlíme, vykrojíme jádřinec
+2. posypeme skořicí (případně oříšky, mandlemi...)
+3. vyskládáme na pečící papír na plech a pečeme
 
 
 

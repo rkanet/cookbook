@@ -26,11 +26,12 @@ Krém
 - cukr
  
 Na ozdobu
-čokoláda, ořechy
+- čokoláda, ořechy...
 
 
 # Postup
-Bílky ušleháme do tuha, zapracujeme cukr. Pak opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské).
-Těsto nalijeme do dortové formy nebo na menší plech. Vložíme do předem vyhřáté trouby a pečeme na 180 st., asi 35-40 minut.
+1. Bílky ušleháme do tuha, zapracujeme cukr. 
+2. Opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské).
+3. Těsto nalijeme do vymazané  dortové formy. Vložíme do předem vyhřáté trouby a pečeme na 180 °C, asi 35-40 minut.
 
 # Poznámky

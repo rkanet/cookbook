@@ -23,7 +23,7 @@ draft = false
     - malý kousek 4x2x1cm kořenový celer na tenké nudličky
     - 1 porék na půlkolečka tenká
     - volitelně dle dostupnosti (pak choi, čínské zelí, cuketa, bílá paprika...)
-- čenek
+- česnek
 - sojová omáčka
 - rybí omáčka
 - sůl
@@ -39,14 +39,14 @@ Omáčka
 - Pokud lze připravíme maso předem, nakrájet na tenké nudličky a zakápnout rybí omáčkou, sojovou omáčkou, trochu dosolit.
 - Další den přípravu začneme nakrájením zeleniny (lze také předem,  ráno v den vaření a nechat v lednici)
 - Připravíme omáčku
-- Protože dávám zeleniny hodně, restuju postupně předem, dle "tvrdosti" (cibule, kořenová zelenina, porek a nakonec pak choi, cuketa...). Orestovanou zeleninu shromažďuju v hrnci pod pokličkou.Mírně osolím.
+- Protože dávám zeleniny hodně, restuju postupně předem, dle "tvrdosti" (cibule, kořenová zelenina, pórek a nakonec pak choi, cuketa...). Orestovanou zeleninu shromažďuju v hrnci pod pokličkou. Mírně osolím.
 - S poslední várkou restované zeleniny již rozehřát pánev na maso a dát vařit vodu na rýžové nudle.
 - Osmažíme maso a hotové přihodíme k zelenině.
-- Do pánve nalijeme připravenou omáčku a zprudka trochu zredukujeme. Přihodíme vařené nudle a zlehka krátce promícháváme. 
-- Nudle vyklopíme do hrnce s masem a zeleninou, s pomocí vicliček promícháme a zervírujeme.
+- Do pánve nalijeme připravenou omáčku a zprudka trochu zredukujeme. Přihodíme vařené nudle a zlehka krátce promícháváme.
+- Nudle vyklopíme do hrnce s masem a zeleninou, s pomocí vidliček promícháme a servírujeme.
 
 # Poznámky
 Mrkev  lze "krájet" škrabkou na plátky a pak tenké nudličky. Maso nemám zvážené, ale po nakrájení je rozprostřené na plochu velkého jídelního talíře.    
-Maso smažím na ocelové pánvi. Zeleninu postupně na druhé nerezové. Nudle přiměřeně předem, dle návodu. Pokud jsou rýžové, tak zpravidla stačí dát do vroucí vody spolu se začátkem restování masa. Po uvaření se osvědčil tip nudle na cedníku rychle propláchnout studenou vodou - nelepí se. Zkusit místo rýžových nudlí použít italské bezlepkové špagety značky Granora z quinoi.
+Maso smažím na ocelové pánvi. Zeleninu postupně na druhé nerezové. Nudle přiměřeně předem, dle návodu. Pokud jsou rýžové, tak zpravidla stačí dát do vroucí vody spolu se začátkem restování masa. Po uvaření se osvědčil tip nudle na cedníku rychle propláchnout studenou vodou - nelepí se. Zkusit místo rýžových nudlí použít italské bezlepkové špagety značky Granora z quinoi. 
   
 <!-- --> 

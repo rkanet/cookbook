@@ -19,17 +19,17 @@ draft = false
 # Suroviny na malý ikea pekáč (cca 32 x 22 cm)
 Na krém
 - 2 pudinky
-- 600ml mléka
-- 80g cukru
-- 100g tvarohu ve vaničce
-- 100g povoleného másla
+- 600 ml mléka
+- 80 g cukru
+- 100 g tvarohu ve vaničče
+- 100 g povoleného másla
 
-1. Rozmíchat pudink v cca 100ml mléka. 
-2. Zbytek mléka s cukrem přívést k varu. Krátce odstavím z plotny a za stálého míchání vliji rozmíchaný pudink v mléce. 
-3. Uvaříme hustý pudink. 
+1. Rozmíchat pudink v cca 100 ml mléka.
+2. Zbytek mléka s cukrem přívést k varu. Krátce odstavím z plotny a za stálého míchání vliji rozmíchaný pudink v mléce.
+3. Uvaříme hustý pudink.
 4. Přetáhneme sáčkem/folií a necháme vychladnout.
-5. Až je připravený korpus s jahodovou vrstvou pokračujeme s krémem... Vychladlý pudink vyšlehat do hladkého krému s máslem a tvarohem. Tvaroh i maslo musím mít stejnou teplotu jako pudink tj. pokojovou.
-6. Krém nnamazatna vychladlou jahodovou vrstvu a dátr chladit do lednice.
+5. Až je připravený korpus s jahodovou vrstvou, pokračujeme s krémem. Vychladlý pudink vyšlehat do hladkého krému s máslem a tvarohem. Tvaroh i máslo musí mít stejnou teplotu jako pudink, tj. pokojovou.
+6. Krém namazat na vychladlou jahodovou vrstvu a dát chladit do lednice.
 
 
 Korpus 
@@ -47,10 +47,10 @@ Korpus
 
 
 Jahodová vrstva
-- 500g jahod
+- 500 g jahod
 - cukr dle chuti
-- trocha vody na podlití (100ml)
-- 1 ČL lžícka kukuřičného škrobu (dát víc)
+- trocha vody na podlití (100 ml)
+- 1 ČL kukuřičného škrobu (dát víc)
 
 1. Umyté jahody podliji vodou a dám vařit.
 2. V části vody na podlití rozmíchám škrob, přidám k jahodám.
@@ -59,8 +59,8 @@ Jahodová vrstva
 
 
 # Poznámky
-Na vrch lze dát (po vyhcladnutí cca po 2 hodinách) jednu vyšlehanou 40% smetanu ke šlehání, případně postrouhat čokoládou. Nedělala jsem přišlo mi to už moc. 
-Originál měl tento recept na korpus:3 vejce – žloutky s bilky zvlášt, 120g cukru, 140g mouky Schar mix Bread, 1/2 balíčku kypřícího prášku, 60ml vody, 60 ml oleje. Žloutky, vodu, cukr, olej dejte do mísy a šlehejte nad parou do pěny. Vmíchejte mouku s kypřícím práškem a zlehka vmíchejte sníh. Byla jsem líná dělat něco nového, tak jsem použila můj osvědčený piškotový korpus. Fungovalo asi by byl lepší pevnější korpus. 
+Na vrch lze dát (po vychladnutí cca po 2 hodinách) jednu vyšlehanou 40% smetanu ke šlehání, případně postrouhat čokoládou. Nedělala jsem, přišlo mi to už moc.
+Originál měl tento recept na korpus: 3 vejce – žloutky s bílky zvlášť, 120 g cukru, 140 g mouky Schar mix Bread, 1/2 balíčku kypřícího prášku, 60 ml vody, 60 ml oleje. Žloutky, vodu, cukr, olej dejte do mísy a šlehejte nad parou do pěny. Vmíchejte mouku s kypřícím práškem a zlehka vmíchejte sníh. Byla jsem líná dělat něco nového, tak jsem použila můj osvědčený piškotový korpus. Fungovalo, asi by byl lepší pevnější korpus.
 Dost mi to klouzalo po jahodové vrstvě, ještě to musím vylepšit.
 
 <!-- --> 

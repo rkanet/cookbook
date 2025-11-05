@@ -35,21 +35,21 @@ Takto pečeme asi 40 minut, na posledních pár minut odkrývám víko a ještě
 # Suroviny
 - 320g mouky Nutrifree Per Pane
 - 250ml vody
-- šptka cukrul
-- 1ČL zarovnaná soli
+- špetka cukru
+- 1 ČL zarovnaná soli
 - 14g čerstvého droždí
 - 30ml oleje 
 
 # Postup
-1. nechta zejít kvásek v trošce vody, mouky a špetky cukru
+1. nechat vzejít kvásek v trošce vody, mouky a špetky cukru
 2. zpracujeme těsto
-3. uložíme do lednice 
-4. ráno nechat asi 1h při pokojové teplotě
-5. Těsto rozdělíme na dva díly, už nepropracováváme a  vytvarujeme bagety
-6. rozehřejeme troubu na 250st s litinovým tálem na pizzu
-6. bagetky necháme cca 30minut kynout (obklopené utěrkami)
-7. Přendáme do trouby
-8. Chrstneme na spodní plech vodu, pečeme asi 40 minut
+3. uložíme do lednice
+4. ráno nechat asi 1 h při pokojové teplotě
+5. těsto rozdělíme na dva díly, už nepropracováváme a vytvarujeme bagety
+6. rozehřejeme troubu na 250 °C s litinovým tálem na pizzu
+7. bagetky necháme cca 30 minut kynout (obklopené utěrkami)
+8. přendáme do trouby
+9. chrstneme na spodní plech vodu, pečeme asi 40 minut
 
 
 

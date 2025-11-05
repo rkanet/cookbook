@@ -21,9 +21,9 @@ draft = false
 - jsou li, tak na závěrečné posypání ořechy
 
 # Postup
-1. Uvaříme dýni s quinoua skořicí.
-2. Decentně osladíme
-2. Ochutíme mákem, ořechy a sníme:)
+1. Uvaříme dýni s quinoou a skořicí.
+2. Decentně osladíme.
+3. Ochutíme mákem, ořechy a sníme.
 
 # Poznámky
 Rychlá příprava a zajímavá chuť. Jsou-li, je fajn ke konci vaření přidat švestky.

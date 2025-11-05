@@ -35,5 +35,5 @@ drobenka
 - předehřejeme troubu, vymažeme pekáč
 - v míse smícháme jogurt, cukr a vejce a počkáme až se rozpustí cukr
 - v druhé menší misce promícháme kypřící prášek s moukou pak přidáme k jogurtu
-- nalejeme do pekáče a rozetřeme tenkou vrstvu, předpečeme samotné těsto 10-15 minut při cca 180 st.
-- po vyndání z trouby hned posypeme ovocem a drobenkou a zase rychle vrátíme trouby na dopečení (asi 30 minut) až drobenka zezlátne
+- nalejeme do pekáče a rozetřeme tenkou vrstvu, předpečeme samotné těsto 10-15 minut při cca 180 °C
+- po vyndání z trouby hned posypeme ovocem a drobenkou a zase rychle vrátíme do trouby na dopečení (asi 30 minut) až drobenka zezlátne

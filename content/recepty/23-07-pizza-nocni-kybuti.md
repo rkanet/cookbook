@@ -12,7 +12,7 @@ tags = ["slané","pečivo"]
 
 # Suroviny 
 těsto (cca 3ks, dle velikosti)
-- 500 kg hladké mouky 00 (popřípadě přímo silnější italské mouky na pizzu)
+- 500 g hladké mouky 00 (popřípadě přímo silnější italské mouky na pizzu)
 - 325-350 ml vody (přilévejte postupně podle savosti mouky)
 - 20 g olivového oleje
 - 3 g droždí (pro rychlejší verzi 15 g ) 
@@ -30,16 +30,16 @@ zdobení navrch dle chuti
 # Postup
 - uhněteme těsto (robot cca 10 minut)
 - má se nechat cca 1 hodinu zrát při pokojové teplotě, ale když jsem spěchala, vyšlo to i bez toho
-- v nádobě připryté a s dostatčným prostorem na kynutí (2-3x objem) dáme do lednice
-- druhý den rozdělíme na porce (hotové těsto jsem navážila 877g - byly z toho dvě pizzy po 300g a zbytek na další den zůstal  v lednici) 
-- vytvarujeme bochánky a necháme odpočáívat min 30 minut (lépe 1h-2h) 
+- v nádobě přikryté a s dostatečným prostorem na kynutí (2-3x objem) dáme do lednice
+- druhý den rozdělíme na porce (hotové těsto jsem navážila 877 g - byly z toho dvě pizzy po 300 g a zbytek na další den zůstal v lednici)
+- vytvarujeme bochánky a necháme odpočívat min 30 minut (lépe 1-2 h)
 - vytvarujeme pizzu, potřeme sugem a sázíme do trouby
-- pečeme cca 10minut při 250st
+- pečeme cca 10 minut při 250 °C
 
 
 
 # Poznámky
-Droždí je dala pro pečení druhý den 7g.
+Droždí jsem dala pro pečení druhý den 7 g.
 Když je večer, je potřeba zadělat těsto na pizzu a v polici není hladká mouka, co tam být měla...tak použijete pšeničnou chlebovou:)
 A jak to dopadlo? Slušně, těsto nemělo tak velké bubliny, bylo celkově hutnější. Chuť dobrá, takže pro domácí pizzu použitelné.
 

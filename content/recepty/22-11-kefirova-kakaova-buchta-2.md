@@ -33,7 +33,7 @@ Mouka funguje  Nutrifree Dolci nebo Jizerka zlatá ve stejném množství. Jen J
 Konzistence těsta fajnová. Patří mezi vlhké těsta, což bezlepkovému těstu prospívá. U nás nejvíce chutná prokrojená a namazaná marmeládou. Dobré též s tvarohem na vrch.
 Zkoušela jsem s polevou z hořké čokolády a bylo to spíše moc hořké. Možná časem vyzkouším s jinou polevou.
 Přidala jsem 1ČL lžičku kopcem perníkového koření Sonnetor, přijde mi to příjemné zpestření. Ne všichni strávnící však souhlasí. Lepší špetka skořice:)
-na velkém plechu je vrstva tenká není na prokrojení moc. Pro klasickou výšku kefítové buchty by to chtelo odhadem o 1/3 přidat na surovinách.
+na velkém plechu je vrstva tenká není na prokrojení moc. Pro klasickou výšku kefírové buchty by to chtělo odhadem o 1/3 přidat na surovinách.
 
 - **Acidofilní mléko** - obsahuje bakterie Lactobacillus acidophilus, které snižují pH výrobku, takže chuť acidofilního mléka je výrazně kyselá.
 - **Kefír** - obsahuje nejen mléčné bakterie (Leuconostoc, Lactococcus a Aerobacter), ale i kvasinky (rod Kluyveromyces a Saccharomyces), díky kterým je chuť lehce nahořklá a může být dokonce štiplavá a jemně perlivá. Kvašením laktózy v mléku pomocí kvasinek totiž vzniká oxid uhličitý a malé množství alkoholu.

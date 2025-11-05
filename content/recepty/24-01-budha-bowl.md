@@ -45,7 +45,7 @@ skoro všechno... dle možností a sezony
 # Postup
 K receptu mě inspirovaly nádherné miskové kreace na internetu. Tahle verze je obyčejná, ale naše:) 
 Nejvíce mám ráda pestrost chutí. Co se týká přípravy, líbí se mi nekonečná možnost variant v závislosti na sezoně a podle toho, co je zrovna doma. 
-Fajn je též, že vynecháním/přidám doladíme misku podle preferencí jednotlivých strávníků.
+Fajn je též, že vynecháním/přidáním doladíme misku podle preferencí jednotlivých strávníků.
 Je dobré naplánovat jídla třeba na den, či dva dopředu tak, aby plánované přebytky byly základem do misky. 
 Například uvařené luštěniny, pečené maso. 
 

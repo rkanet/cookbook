@@ -13,7 +13,7 @@ tags = ["sladké","ovoce","bez-lepku"]
 +++
 
 # O receptu
-Dort vznikl spontánně z toho co bylo doma jáhlový korpus, tvarohová mezivrstva (patrně také vyztužená agarem) a rozmixované maliny s agarem. Vypadal efektně a moc dobře letně chutnal. 
-Ve vší spontánnosti jsem odložila zapsaní receptu na později...až jsem všechno zapomněla. Alespoň dávám fotku pro inspiraci a další verzi si určitě zapíšu.
+Dort vznikl spontánně z toho, co bylo doma: jáhlový korpus, tvarohová mezivrstva (patrně také vyztužená agarem) a rozmixované maliny s agarem. Vypadal efektně a moc dobře letně chutnal.
+Ve vší spontánnosti jsem odložila zapsání receptu na později... až jsem všechno zapomněla. Alespoň dávám fotku pro inspiraci a další verzi si určitě zapíšu.
 
 <!--more-->

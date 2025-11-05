@@ -8,7 +8,7 @@ imghref = "/recepty/"
 imgname = ""
 kategorie = ["moučníky"]
 ingredience = ["",""]
-tags = ["sladké""pečivo","bez-lepku"]
+tags = ["sladké","pečivo","bez-lepku"]
 draft = true
 +++
 

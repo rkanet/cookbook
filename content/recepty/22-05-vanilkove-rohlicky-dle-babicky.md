@@ -24,18 +24,18 @@ na obalení
 - 1 vanilínový cukr
 - cukr moučka
 
-# Suroviny
+# Postup
 1. máslo vyndáme předem jinak se špatně zapracovává do těsta
 2. ze všech surovin zpracujeme těsto a necháme odležet do druhého dne v lednici, lépe se  s ním pracuje
 3. těsto rozdělím na cca 4 kusy a postupně rozválím na válečky tloušťky okolo 1cm a krájím na kousky cca 4cm, 
-   nakonec dotvarujeme v ruce oblé špičky a zahneme.
+   nakonec dotvarujeme v ruce oblé špičky a zahneme
 4. skládáme na plech vymazaný nebo vyložený pečícím papírem (trochu nabydou, nechat mezery)
 5. po upečení necháme trochu vychladnout a teplé obalujeme ve směsi moučkového cukru s vanilínovým
 6. necháme vychladnout a uložíme
 
-Poznámky:
-Vanilínový cukr není překlep. Lze samozřejmě použít i vanilkový cukr, ale tu pravou chuť a vůni babiččiných rohlíčků mít nebudou. 
-Do bezlepkového těsta dávám místo žloutku celé vejce. Bezlepkové mám vyzkoušené s Jizerkou lze přidat 1PL lžíci pohankové.
+#Poznámky:
+Vanilínový cukr není překlep. Lze samozřejmě použít i vanilkový cukr, ale tu pravou chuť a vůni babiččiných rohlíčků mít nebudou.
+Do bezlepkového těsta dávám místo žloutku celé vejce. Bezlepkové mám vyzkoušené s Jizerkou, lze přidat 1 PL pohankové.
 A pozor bezlepkové jsou po upečení velmi! křehké. Takže vydržet a nešahat, dokud neztuhnou, pak teprve obalit v cukru.
 Do blp dávám trochu vanilínového cukru i do těsta.
 

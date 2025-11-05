@@ -20,11 +20,11 @@ tags = ["sladké","ovoce","bez-lepku"]
 - 40g cukru krupice nebo krystal 
 - 1 vanilkový cukr
 - 1 panák rumu
-- citronová kůra, nebo Šťáva
+- citronová kůra, nebo šťáva
 
 # Postup
-1. Ušleháme pevný sníh, pak zašleháme sníh s cukrem
-2. v misce smíchat mouku, vanilkový cukr,  citronovou kúru, mléko  žloutky.
+1. ušleháme pevný sníh, pak zašleháme sníh s cukrem
+2. v misce smíchat mouku, vanilkový cukr, citronovou kůru, mléko a žloutky.
 3. opatrně přidáme sníh
 4. rozehřejeme pánev  s tukem  (máslo přepuštěné je nejlepší)
 5. sběračkou nalejeme, nepřiklápíme... v pravý čas otočíme a krátce opečeme i z druhé strany

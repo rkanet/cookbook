@@ -34,7 +34,7 @@ tags = ["sladké","ovoce","bez-lepku"]
 
 1. Jáhly propláchněte a dejte do menšího kastrůlku se silným dnem s 600 ml vody a špetkou soli. Přiveďte k varu a vařte bez míchání s poodkrytou! poklicí cca 15 minut. Po dovaření můžete nechat jáhly ještě 5 minut dojít pod pokličkou.
 
-2. Ještě teplou jahelnou kaši rozmixujte ponorným mixérem přímo v hrnci, ve kterém jste ji vařili, s bílým mandlovým máslem a sirupem. Biosirup přidejte podle své chuti méně či více tak, aby pro vás byla kaše příjemně nasládlá. Výsledkem je jemný krém.
+2. Ještě teplou jáhlovou kaši rozmixujte ponorným mixérem přímo v hrnci, ve kterém jste ji vařili, s bílým mandlovým máslem a sirupem. Biosirup přidejte podle své chuti méně či více tak, aby pro vás byla kaše příjemně nasládlá. Výsledkem je jemný krém.
 
 3. Formu vypláchněte vodou a kaši rozprostřete po celé formě. Získáte tenký korpus, který vám zchladne, než nachystáte ostatní. Pozor na jinou velikost formy, abyste neměli korpus moc vysoký!
 
