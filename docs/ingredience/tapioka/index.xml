@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tapioka on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/tapioka/</link>
-    <description>Recent content in tapioka on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tapioka on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/tapioka/</link>
+    <description>Recent content in Tapioka on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2023 22:25:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/tapioka/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2023 22:25:39 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/tapioka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tapioka dezert</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-08-tapioka-dezert/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-08-tapioka-dezert/</link>
       <pubDate>Thu, 20 Jul 2023 22:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/23-08-tapioka-dezert/</guid>
-      <description>Suroviny Doplnit
-Postup Oproti pudinku se po uvaření propláchnou, zbaví se tak škrobové slizo vrstvy.
-Poznámky </description>
+      <guid>http://localhost:1313/cookbook/recepty/23-08-tapioka-dezert/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;p&gt;Oproti pudinku se po uvaření propláchnou, zbaví se tak škrobové slizové vrstvy.&lt;/p&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
     </item>
-    
     <item>
       <title>Tapioka pudink</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-08-tapioka-pudink/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-08-tapioka-pudink/</link>
       <pubDate>Thu, 20 Jul 2023 22:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/23-08-tapioka-pudink/</guid>
-      <description>Suroviny na cca 8 ks 200g tapioka perel 1 litr mléko/voda 1:1
-Postup Poznámky </description>
+      <guid>http://localhost:1313/cookbook/recepty/23-08-tapioka-pudink/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;na cca 8 ks&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;200 g tapiokové perly&lt;/li&gt;&#xA;&lt;li&gt;1 litr mléka/vody 1:1&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
     </item>
-    
   </channel>
 </rss>

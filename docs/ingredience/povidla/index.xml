@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>povidla on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/povidla/</link>
-    <description>Recent content in povidla on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Povidla on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/povidla/</link>
+    <description>Recent content in Povidla on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jan 2024 22:36:37 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/povidla/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jan 2024 22:36:37 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/povidla/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kváskové koláčky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-01-kolacky-z-kvasu/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-01-kolacky-z-kvasu/</link>
       <pubDate>Sun, 21 Jan 2024 22:36:37 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-01-kolacky-z-kvasu/</guid>
-      <description>Suroviny &amp;amp; postup Verze I.
-večer před pečením&amp;hellip;
- 40g kvásku 60g Doves farm plain white 60g Pohankova hladká 120 g vody 20 g cukr Vše vymícháme ve sklenici &amp;ldquo;od okuerek&amp;rdquo; na kašičku, zkaryjeme mikrotenovým sáčkem necháme na lince minimálně 12 hodin pracovat.  ráno&amp;hellip;
- 140 g Nutrifree per Dolci 120 g rýžové mouky polohrubé 20 g pohankové hladké 1 vejce a 1 žloutek kůra z citronu (chemicky neošetřený) 130 ml mléka 60 g cukru vanilkový (případně vanilínový) cukr 50 g změklého másla (ne rozpuštěného)  Všechny suroviny, krom másla propracovat v robotu.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-01-kolacky-z-kvasu/</guid>
+      <description>&lt;h1 id=&#34;suroviny--postup&#34;&gt;Suroviny &amp;amp; postup&lt;/h1&gt;&#xA;&lt;p&gt;Verze I.&lt;/p&gt;&#xA;&lt;p&gt;večer před pečením&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;40g kvásku&lt;/li&gt;&#xA;&lt;li&gt;60g Doves farm plain white&lt;/li&gt;&#xA;&lt;li&gt;60g Pohankova hladká&lt;/li&gt;&#xA;&lt;li&gt;120 g vody&lt;/li&gt;&#xA;&lt;li&gt;20 g cukru&#xA;Vše symícháme například ve sklenici &amp;ldquo;od okurek&amp;rdquo; na kašičku, zakryjeme mikrotenovým sáčkem a necháme na lince minimálně 12 hodin kvasit.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ráno&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;140 g Nutrifree per Dolci&lt;/li&gt;&#xA;&lt;li&gt;120 g rýžové mouky polohrubé&lt;/li&gt;&#xA;&lt;li&gt;20 g pohankové hladké&lt;/li&gt;&#xA;&lt;li&gt;1 vejce a 1 žloutek&lt;/li&gt;&#xA;&lt;li&gt;kůra z citronu (chemicky neošetřený)&lt;/li&gt;&#xA;&lt;li&gt;130 ml mléka&lt;/li&gt;&#xA;&lt;li&gt;60 g cukru&lt;/li&gt;&#xA;&lt;li&gt;vanilkový (případně vanilínový) cukr&lt;/li&gt;&#xA;&lt;li&gt;50 g změklého másla (ne rozpuštěného)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Všechny suroviny, kromě másla, propracovat v robotu. Až je těsto hladké, přidat máslo a zapracovat do těsta. Opět zakrýt folií, nebo dávám pokličku přímo na mísu robota.&#xA;Nechat odpočívat cca 4 hodiny. Těsto z kvásku oproti droždíovému nakyane jen trochu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Šátečky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-11-satecky-rychle/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-11-satecky-rychle/</link>
       <pubDate>Tue, 22 Nov 2022 19:39:29 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-11-satecky-rychle/</guid>
-      <description>Poznámky Někde se zatoulal recept.</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-11-satecky-rychle/</guid>
+      <description>&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Někde se zatoulal recept.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

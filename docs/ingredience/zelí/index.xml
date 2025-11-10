@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zelí on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/zel%C3%AD/</link>
-    <description>Recent content in zelí on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Zelí on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/zel%C3%AD/</link>
+    <description>Recent content in Zelí on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jun 2024 18:02:43 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/zel%C3%AD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jun 2024 18:02:43 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/zel%C3%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segedínský guláš</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-06-segedinsky-gulas/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-06-segedinsky-gulas/</link>
       <pubDate>Wed, 19 Jun 2024 18:02:43 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-06-segedinsky-gulas/</guid>
-      <description>Suroviny asi 4 porce  900 g vepřové plece na kostky 100 g slaniny na drobno olej na osmažení 2 cibule 2 strouzky česneku 1 lžička drceného kmínu 2 rovné PL sladké papriky 1 lžička soli 4 kuličky nového koření, 1 větší bobkový list 1 balíček kysaného zelí (vymačkat předem vodu) trochu smetany, cca 100ml (měla jsem zrovna 15% do omáček) 1 vrchovatá PL mouky (Doves farm plain white) vývar asi 1,5 litru kysaná smetana na servírovaní (není nutné)  Postup  Nakrájet slaninu na kostičky, cibuli na drobno a maso na kostky.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-06-segedinsky-gulas/</guid>
+      <description>&lt;h1 id=&#34;suroviny-asi-4-porce&#34;&gt;Suroviny asi 4 porce&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;900 g vepřové plece na kostky&lt;/li&gt;&#xA;&lt;li&gt;100 g slaniny na drobno&lt;/li&gt;&#xA;&lt;li&gt;olej na osmažení&lt;/li&gt;&#xA;&lt;li&gt;2 cibule&lt;/li&gt;&#xA;&lt;li&gt;2 strouzky česneku&lt;/li&gt;&#xA;&lt;li&gt;1 lžička drceného kmínu&lt;/li&gt;&#xA;&lt;li&gt;2 rovné PL sladké papriky&lt;/li&gt;&#xA;&lt;li&gt;1 lžička soli&lt;/li&gt;&#xA;&lt;li&gt;4 kuličky nového koření, 1 větší bobkový list&lt;/li&gt;&#xA;&lt;li&gt;1 balíček kysaného zelí (vymačkat předem vodu)&lt;/li&gt;&#xA;&lt;li&gt;trochu smetany, cca 100 ml (měla jsem zrovna 15% do omáček)&lt;/li&gt;&#xA;&lt;li&gt;1 vrchovatá PL mouky (Doves farm plain white)&lt;/li&gt;&#xA;&lt;li&gt;vývar asi 1,5 litru&lt;/li&gt;&#xA;&lt;li&gt;kysaná smetana na servírovaní (není nutné)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Nakrájet slaninu na kostičky, cibuli na drobno a maso na kostky.&lt;/li&gt;&#xA;&lt;li&gt;Orestovat maso, dát stranou. Orestovat slaninu, cibuli.&lt;/li&gt;&#xA;&lt;li&gt;K cibuli přidat mletou papriku, promíchat. Přidám maso a hned zaliji vývarem (vodou). Maso by mělo trochu vyčnívat a nebýt zcela ponořené.&lt;/li&gt;&#xA;&lt;li&gt;Vařím zvolna pod pokličkou nejméně 1 hodinu, raději 1 a půl.&lt;/li&gt;&#xA;&lt;li&gt;Ze zelí vymačkám šťávu. Nechávám stranou na případné dokyselení.&lt;/li&gt;&#xA;&lt;li&gt;Přidám zelí k masu a společně dusím dalších 15-30 minut.&lt;/li&gt;&#xA;&lt;li&gt;Na zahuštění rozmíchat mouku s cca dvěma lžícemi studené vody na kašičku a v guláši provařit min. 10 minut.&lt;/li&gt;&#xA;&lt;li&gt;Dochucení a servírování. Na stůl kysanou smetanu na dochucení.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Do bezlepkového dávám na zahuštění Doves Farm Plain White. Měla jsem rychlý vývar z vepřového masa. Je k tomu dobrá kysaná smetana na servírování. Zelí lze pokrájet na kousky.&#xA;Smetanu dávají v receptech rovnou s moukou na zahuštění.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

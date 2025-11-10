@@ -1,84 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kari-pasta on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/kari-pasta/</link>
-    <description>Recent content in kari-pasta on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Kari-Pasta on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/kari-pasta/</link>
+    <description>Recent content in Kari-Pasta on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 09:59:39 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/kari-pasta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 09:59:39 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/kari-pasta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thajské červené kari</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-06-thajske-kari-cervene/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-06-thajske-kari-cervene/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-06-thajske-kari-cervene/</guid>
-      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;p&gt;cca 3 osoby:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;kuřecí maso cca 300g na nudličky den předem naložit do rybí omáčky, rýžového octa, soli a oleje&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;1 červená paprika nakrájená na krátké nudličky&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;1 cibule na půlky a na tenké měsíčky a rozdrobit na proužky&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;3 střední žampiony na kousky - tenké plátky&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;3/4 cukety malé na kolečka a ty na výseče jako dort&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;1 menší mrkev na tenoučká! kolečka (větší průměr na půlkolečka)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;zázvor kousek povařit
-(lze přidat fazol lusky, brokolici, hrášek luskový - nevyzkoušeno)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;kari pasta červená 1 rovná PL&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;1 PL limetka vymačkaná&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;5 PL kokos mléko&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;asi 300 - 400 ml vývar kuřecí (příp. zeleninový) s 1-2 ČL škrobu rozmíchat&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;1 menší ČL cukru&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;sůl&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2 ČL škrobu&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;čerstvý koriandr&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;thajská bazalka (ušla i africká ze zahrady)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;vše nakrájíme a připravíme&lt;/li&gt;
-&lt;li&gt;dáme vařit rýži&lt;/li&gt;
-&lt;li&gt;orestovat krátce cibulku, pak přidat papriku a mrkev, žampiony a orestovat - vysypat z pánve stranou&lt;/li&gt;
-&lt;li&gt;v troše vývaru rozmíchat škrob&lt;/li&gt;
-&lt;li&gt;na pánvi orestovat maso, jen zatáhnout, přidat kari pastu rozmatlat, pak postupně cukr, vývar mléko&amp;hellip; vše podusit 3 minuty&lt;/li&gt;
-&lt;li&gt;přidat orestovanou zeleninu včetně neorestované cukety, škrob&amp;hellip; dochutit limetkou, rybí omáčkou, solí&amp;hellip; vše podusit 3 minuty&lt;/li&gt;
-&lt;li&gt;na závěr přidat nasekanou thajskou bazalku spolu s koriandrem&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;
-&lt;p&gt;Podáváme s rýží, u nás basmati.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-06-thajske-kari-cervene/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;cca 3 osoby:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;kuřecí maso cca 300g na nudličky den předem naložit do rybí omáčky, rýžového octa, soli a oleje&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 červená paprika nakrájená na krátké nudličky&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 cibule na půlky a na tenké měsíčky a rozdrobit na proužky&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;3 střední žampiony na kousky na tenké plátky&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;3/4 cukety malé na kolečka a ty na výseče jako dort&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 menší mrkev na tenoučká kolečka (větší průměr na půlkolečka)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;zázvor kousek povařit&#xA;(lze přidat fazolové lusky, brokolici, hrášek luskový - nevyzkoušeno)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;kari pasta červená 1 rovná PL&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 PL limetka vymačkaná&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;5 PL kokos mléko&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;asi 300 - 400 ml vývar kuřecí (příp. zeleninový) s 1-2 ČL škrobu rozmíchat&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 menší ČL cukru&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;sůl&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2 ČL škrobu&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;čerstvý koriandr&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;thajská bazalka (ušla i africká ze zahrady)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;vše nakrájíme a připravíme&lt;/li&gt;&#xA;&lt;li&gt;dáme vařit rýži&lt;/li&gt;&#xA;&lt;li&gt;orestovat krátce cibulku, pak přidat papriku a mrkev, žampiony a orestovat - vysypat z pánve stranou&lt;/li&gt;&#xA;&lt;li&gt;v troše vývaru rozmíchat škrob&lt;/li&gt;&#xA;&lt;li&gt;na pánvi orestovat maso, jen zatáhnout, přidat kari pastu rozmatlat, pak postupně cukr, vývar mléko&amp;hellip; vše podusit 3 minuty&lt;/li&gt;&#xA;&lt;li&gt;přidat orestovanou zeleninu včetně neorestované cukety, škrob&amp;hellip; dochutit limetkou, rybí omáčkou, solí&amp;hellip; vše podusit 3 minuty&lt;/li&gt;&#xA;&lt;li&gt;na závěr přidat nasekanou thajskou bazalku spolu s koriandrem&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Podáváme s rýží, u nás basmati.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

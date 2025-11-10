@@ -2,811 +2,627 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ingredience on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/</link>
+    <link>http://localhost:1313/cookbook/ingredience/</link>
     <description>Recent content in Ingredience on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Nov 2025 20:54:41 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Nov 2025 20:54:41 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>jáhly</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/j%C3%A1hly/</link>
+      <title>Jáhly</title>
+      <link>http://localhost:1313/cookbook/ingredience/j%C3%A1hly/</link>
       <pubDate>Mon, 03 Nov 2025 20:54:41 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/j%C3%A1hly/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/j%C3%A1hly/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hokaido</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/hokaido/</link>
+      <title>Hokaido</title>
+      <link>http://localhost:1313/cookbook/ingredience/hokaido/</link>
       <pubDate>Tue, 21 Oct 2025 21:48:16 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/hokaido/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/hokaido/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>quinoa</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/quinoa/</link>
+      <title>Quinoa</title>
+      <link>http://localhost:1313/cookbook/ingredience/quinoa/</link>
       <pubDate>Tue, 21 Oct 2025 21:48:16 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/quinoa/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/quinoa/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fazole</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/fazole/</link>
+      <title>Fazole</title>
+      <link>http://localhost:1313/cookbook/ingredience/fazole/</link>
       <pubDate>Tue, 02 Sep 2025 13:51:56 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/fazole/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/fazole/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kukuřice</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/kuku%C5%99ice/</link>
+      <title>Kukuřice</title>
+      <link>http://localhost:1313/cookbook/ingredience/kuku%C5%99ice/</link>
       <pubDate>Tue, 02 Sep 2025 13:51:56 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/kuku%C5%99ice/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/kuku%C5%99ice/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cizrna</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/cizrna/</link>
+      <title>Cizrna</title>
+      <link>http://localhost:1313/cookbook/ingredience/cizrna/</link>
       <pubDate>Thu, 14 Aug 2025 11:43:55 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/cizrna/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/cizrna/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vejce</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/vejce/</link>
+      <title>Vejce</title>
+      <link>http://localhost:1313/cookbook/ingredience/vejce/</link>
       <pubDate>Mon, 11 Aug 2025 09:34:41 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/vejce/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/vejce/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>chia</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/chia/</link>
+      <title>Chia</title>
+      <link>http://localhost:1313/cookbook/ingredience/chia/</link>
       <pubDate>Thu, 31 Jul 2025 19:58:24 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/chia/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/chia/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tvaroh</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/tvaroh/</link>
+      <title>Tvaroh</title>
+      <link>http://localhost:1313/cookbook/ingredience/tvaroh/</link>
       <pubDate>Thu, 31 Jul 2025 19:58:24 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/tvaroh/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/tvaroh/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>brambory</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/brambory/</link>
+      <title>Brambory</title>
+      <link>http://localhost:1313/cookbook/ingredience/brambory/</link>
       <pubDate>Wed, 18 Jun 2025 08:31:44 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/brambory/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/brambory/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>jablka</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/jablka/</link>
+      <title>Jablka</title>
+      <link>http://localhost:1313/cookbook/ingredience/jablka/</link>
       <pubDate>Wed, 12 Feb 2025 18:04:24 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/jablka/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/jablka/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rýže</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/r%C3%BD%C5%BEe/</link>
+      <title>Rýže</title>
+      <link>http://localhost:1313/cookbook/ingredience/r%C3%BD%C5%BEe/</link>
       <pubDate>Wed, 12 Feb 2025 18:04:24 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/r%C3%BD%C5%BEe/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/r%C3%BD%C5%BEe/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kvásek</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/kv%C3%A1sek/</link>
+      <title>Kvásek</title>
+      <link>http://localhost:1313/cookbook/ingredience/kv%C3%A1sek/</link>
       <pubDate>Wed, 15 Jan 2025 12:03:31 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/kv%C3%A1sek/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/kv%C3%A1sek/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mascarpone</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/mascarpone/</link>
+      <title>Mascarpone</title>
+      <link>http://localhost:1313/cookbook/ingredience/mascarpone/</link>
       <pubDate>Tue, 26 Nov 2024 08:14:12 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/mascarpone/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/mascarpone/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rozmarýn</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/rozmar%C3%BDn/</link>
+      <title>Rozmarýn</title>
+      <link>http://localhost:1313/cookbook/ingredience/rozmar%C3%BDn/</link>
       <pubDate>Tue, 26 Nov 2024 08:14:12 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/rozmar%C3%BDn/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/rozmar%C3%BDn/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kuřecí-křídla</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/ku%C5%99ec%C3%AD-k%C5%99%C3%ADdla/</link>
+      <title>Kuřecí-Křídla</title>
+      <link>http://localhost:1313/cookbook/ingredience/ku%C5%99ec%C3%AD-k%C5%99%C3%ADdla/</link>
       <pubDate>Fri, 22 Nov 2024 22:20:00 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/ku%C5%99ec%C3%AD-k%C5%99%C3%ADdla/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/ku%C5%99ec%C3%AD-k%C5%99%C3%ADdla/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mandle</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/mandle/</link>
+      <title>Mandle</title>
+      <link>http://localhost:1313/cookbook/ingredience/mandle/</link>
       <pubDate>Thu, 21 Nov 2024 16:20:32 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/mandle/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/mandle/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>maso</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/maso/</link>
+      <title>Maso</title>
+      <link>http://localhost:1313/cookbook/ingredience/maso/</link>
       <pubDate>Thu, 21 Nov 2024 15:00:31 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/maso/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/maso/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>papriky</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/papriky/</link>
+      <title>Papriky</title>
+      <link>http://localhost:1313/cookbook/ingredience/papriky/</link>
       <pubDate>Thu, 21 Nov 2024 15:00:31 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/papriky/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/papriky/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rajče</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/raj%C4%8De/</link>
+      <title>Rajče</title>
+      <link>http://localhost:1313/cookbook/ingredience/raj%C4%8De/</link>
       <pubDate>Thu, 21 Nov 2024 15:00:31 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/raj%C4%8De/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/raj%C4%8De/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mouka</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/mouka/</link>
+      <title>Mouka</title>
+      <link>http://localhost:1313/cookbook/ingredience/mouka/</link>
       <pubDate>Sun, 10 Nov 2024 08:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/mouka/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/mouka/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nutella</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/nutella/</link>
+      <title>Nutella</title>
+      <link>http://localhost:1313/cookbook/ingredience/nutella/</link>
       <pubDate>Sun, 10 Nov 2024 08:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/nutella/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/nutella/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>květák</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/kv%C4%9Bt%C3%A1k/</link>
+      <title>Květák</title>
+      <link>http://localhost:1313/cookbook/ingredience/kv%C4%9Bt%C3%A1k/</link>
       <pubDate>Thu, 07 Nov 2024 15:06:37 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/kv%C4%9Bt%C3%A1k/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/kv%C4%9Bt%C3%A1k/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sýr</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/s%C3%BDr/</link>
+      <title>Sýr</title>
+      <link>http://localhost:1313/cookbook/ingredience/s%C3%BDr/</link>
       <pubDate>Thu, 07 Nov 2024 15:06:37 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/s%C3%BDr/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/s%C3%BDr/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>račata</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/ra%C4%8Data/</link>
+      <title>Rajčata</title>
+      <link>http://localhost:1313/cookbook/ingredience/raj%C4%8Data/</link>
       <pubDate>Thu, 07 Nov 2024 15:03:47 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/ra%C4%8Data/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/raj%C4%8Data/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kysaná-smetana</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/kysan%C3%A1-smetana/</link>
+      <title>Kysaná-Smetana</title>
+      <link>http://localhost:1313/cookbook/ingredience/kysan%C3%A1-smetana/</link>
       <pubDate>Sat, 05 Oct 2024 21:42:18 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/kysan%C3%A1-smetana/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/kysan%C3%A1-smetana/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>banán</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/ban%C3%A1n/</link>
+      <title>Banán</title>
+      <link>http://localhost:1313/cookbook/ingredience/ban%C3%A1n/</link>
       <pubDate>Mon, 30 Sep 2024 10:46:36 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/ban%C3%A1n/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/ban%C3%A1n/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kakao</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/kakao/</link>
+      <title>Kakao</title>
+      <link>http://localhost:1313/cookbook/ingredience/kakao/</link>
       <pubDate>Mon, 30 Sep 2024 10:46:36 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/kakao/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/kakao/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nudle</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/nudle/</link>
+      <title>Nudle</title>
+      <link>http://localhost:1313/cookbook/ingredience/nudle/</link>
       <pubDate>Wed, 04 Sep 2024 18:44:11 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/nudle/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/nudle/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dýně</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/d%C3%BDn%C4%9B/</link>
+      <title>Dýně</title>
+      <link>http://localhost:1313/cookbook/ingredience/d%C3%BDn%C4%9B/</link>
       <pubDate>Wed, 04 Sep 2024 17:53:24 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/d%C3%BDn%C4%9B/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/d%C3%BDn%C4%9B/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kuře</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/ku%C5%99e/</link>
+      <title>Kuře</title>
+      <link>http://localhost:1313/cookbook/ingredience/ku%C5%99e/</link>
       <pubDate>Wed, 31 Jul 2024 15:16:06 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/ku%C5%99e/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/ku%C5%99e/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cuketa</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/cuketa/</link>
+      <title>Cuketa</title>
+      <link>http://localhost:1313/cookbook/ingredience/cuketa/</link>
       <pubDate>Wed, 31 Jul 2024 15:15:34 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/cuketa/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/cuketa/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rajčata</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/raj%C4%8Data/</link>
-      <pubDate>Tue, 16 Jul 2024 20:13:59 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/raj%C4%8Data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tofu</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/tofu/</link>
+      <title>Tofu</title>
+      <link>http://localhost:1313/cookbook/ingredience/tofu/</link>
       <pubDate>Sun, 23 Jun 2024 13:32:27 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/tofu/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/tofu/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>zelí</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/zel%C3%AD/</link>
+      <title>Zelí</title>
+      <link>http://localhost:1313/cookbook/ingredience/zel%C3%AD/</link>
       <pubDate>Wed, 19 Jun 2024 18:02:43 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/zel%C3%AD/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/zel%C3%AD/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>jahody</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/jahody/</link>
+      <title>Jahody</title>
+      <link>http://localhost:1313/cookbook/ingredience/jahody/</link>
       <pubDate>Fri, 07 Jun 2024 15:05:50 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/jahody/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/jahody/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pudink</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/pudink/</link>
+      <title>Pudink</title>
+      <link>http://localhost:1313/cookbook/ingredience/pudink/</link>
       <pubDate>Fri, 07 Jun 2024 15:05:50 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/pudink/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/pudink/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>droždí</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/dro%C5%BEd%C3%AD/</link>
+      <title>Droždí</title>
+      <link>http://localhost:1313/cookbook/ingredience/dro%C5%BEd%C3%AD/</link>
       <pubDate>Mon, 29 Apr 2024 22:07:06 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/dro%C5%BEd%C3%AD/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/dro%C5%BEd%C3%AD/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>smetana</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/smetana/</link>
+      <title>Smetana</title>
+      <link>http://localhost:1313/cookbook/ingredience/smetana/</link>
       <pubDate>Thu, 25 Apr 2024 12:55:29 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/smetana/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/smetana/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>želatina</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/%C5%BEelatina/</link>
+      <title>Želatina</title>
+      <link>http://localhost:1313/cookbook/ingredience/%C5%BEelatina/</link>
       <pubDate>Thu, 25 Apr 2024 12:54:53 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/%C5%BEelatina/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/%C5%BEelatina/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>koriandr</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/koriandr/</link>
+      <title>Koriandr</title>
+      <link>http://localhost:1313/cookbook/ingredience/koriandr/</link>
       <pubDate>Wed, 17 Apr 2024 17:41:42 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/koriandr/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/koriandr/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>petržel</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/petr%C5%BEel/</link>
+      <title>Petržel</title>
+      <link>http://localhost:1313/cookbook/ingredience/petr%C5%BEel/</link>
       <pubDate>Wed, 17 Apr 2024 17:41:42 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/petr%C5%BEel/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/petr%C5%BEel/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>agar</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/agar/</link>
+      <title>Agar</title>
+      <link>http://localhost:1313/cookbook/ingredience/agar/</link>
       <pubDate>Wed, 10 Apr 2024 21:20:35 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/agar/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/agar/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>banány</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/ban%C3%A1ny/</link>
+      <title>Banány</title>
+      <link>http://localhost:1313/cookbook/ingredience/ban%C3%A1ny/</link>
       <pubDate>Thu, 07 Mar 2024 21:33:01 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/ban%C3%A1ny/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/ban%C3%A1ny/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kypřící-prášek</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/kyp%C5%99%C3%ADc%C3%AD-pr%C3%A1%C5%A1ek/</link>
+      <title>Kypřící-Prášek</title>
+      <link>http://localhost:1313/cookbook/ingredience/kyp%C5%99%C3%ADc%C3%AD-pr%C3%A1%C5%A1ek/</link>
       <pubDate>Thu, 07 Mar 2024 18:50:58 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/kyp%C5%99%C3%ADc%C3%AD-pr%C3%A1%C5%A1ek/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/kyp%C5%99%C3%ADc%C3%AD-pr%C3%A1%C5%A1ek/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>šlehačka</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/%C5%A1leha%C4%8Dka/</link>
+      <title>Šlehačka</title>
+      <link>http://localhost:1313/cookbook/ingredience/%C5%A1leha%C4%8Dka/</link>
       <pubDate>Thu, 07 Mar 2024 18:50:58 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/%C5%A1leha%C4%8Dka/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/%C5%A1leha%C4%8Dka/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>houska</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/houska/</link>
+      <title>Houska</title>
+      <link>http://localhost:1313/cookbook/ingredience/houska/</link>
       <pubDate>Wed, 06 Mar 2024 19:53:47 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/houska/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/houska/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>jáhy</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/j%C3%A1hy/</link>
+      <title>Jáhy</title>
+      <link>http://localhost:1313/cookbook/ingredience/j%C3%A1hy/</link>
       <pubDate>Mon, 29 Jan 2024 17:26:12 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/j%C3%A1hy/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/j%C3%A1hy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mák</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/m%C3%A1k/</link>
+      <title>Mák</title>
+      <link>http://localhost:1313/cookbook/ingredience/m%C3%A1k/</link>
       <pubDate>Mon, 29 Jan 2024 17:26:12 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/m%C3%A1k/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/m%C3%A1k/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>švestky</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/%C5%A1vestky/</link>
+      <title>Švestky</title>
+      <link>http://localhost:1313/cookbook/ingredience/%C5%A1vestky/</link>
       <pubDate>Mon, 29 Jan 2024 17:26:12 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/%C5%A1vestky/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/%C5%A1vestky/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>povidla</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/povidla/</link>
+      <title>Povidla</title>
+      <link>http://localhost:1313/cookbook/ingredience/povidla/</link>
       <pubDate>Sun, 21 Jan 2024 22:36:37 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/povidla/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/povidla/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>červená-čočka</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/%C4%8Derven%C3%A1-%C4%8Do%C4%8Dka/</link>
+      <title>Červená-Čočka</title>
+      <link>http://localhost:1313/cookbook/ingredience/%C4%8Derven%C3%A1-%C4%8Do%C4%8Dka/</link>
       <pubDate>Wed, 17 Jan 2024 20:21:19 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/%C4%8Derven%C3%A1-%C4%8Do%C4%8Dka/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/%C4%8Derven%C3%A1-%C4%8Do%C4%8Dka/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mrkev</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/mrkev/</link>
+      <title>Mrkev</title>
+      <link>http://localhost:1313/cookbook/ingredience/mrkev/</link>
       <pubDate>Sat, 13 Jan 2024 16:47:22 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/mrkev/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/mrkev/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>adzuki</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/adzuki/</link>
+      <title>Adzuki</title>
+      <link>http://localhost:1313/cookbook/ingredience/adzuki/</link>
       <pubDate>Mon, 08 Jan 2024 19:59:48 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/adzuki/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/adzuki/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>třešně</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/t%C5%99e%C5%A1n%C4%9B/</link>
+      <title>Třešně</title>
+      <link>http://localhost:1313/cookbook/ingredience/t%C5%99e%C5%A1n%C4%9B/</link>
       <pubDate>Mon, 08 Jan 2024 19:59:48 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/t%C5%99e%C5%A1n%C4%9B/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/t%C5%99e%C5%A1n%C4%9B/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>bylinky</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/bylinky/</link>
+      <title>Bylinky</title>
+      <link>http://localhost:1313/cookbook/ingredience/bylinky/</link>
       <pubDate>Fri, 05 Jan 2024 18:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/bylinky/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/bylinky/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>luštěniny</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/lu%C5%A1t%C4%9Bniny/</link>
+      <title>Luštěniny</title>
+      <link>http://localhost:1313/cookbook/ingredience/lu%C5%A1t%C4%9Bniny/</link>
       <pubDate>Fri, 05 Jan 2024 18:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/lu%C5%A1t%C4%9Bniny/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/lu%C5%A1t%C4%9Bniny/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>čočka-červená</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/%C4%8Do%C4%8Dka-%C4%8Derven%C3%A1/</link>
+      <title>Čočka-Červená</title>
+      <link>http://localhost:1313/cookbook/ingredience/%C4%8Do%C4%8Dka-%C4%8Derven%C3%A1/</link>
       <pubDate>Thu, 04 Jan 2024 10:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/%C4%8Do%C4%8Dka-%C4%8Derven%C3%A1/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/%C4%8Do%C4%8Dka-%C4%8Derven%C3%A1/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>máslo</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/m%C3%A1slo/</link>
+      <title>Máslo</title>
+      <link>http://localhost:1313/cookbook/ingredience/m%C3%A1slo/</link>
       <pubDate>Sat, 23 Dec 2023 21:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/m%C3%A1slo/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/m%C3%A1slo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>piškoty</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/pi%C5%A1koty/</link>
+      <title>Piškoty</title>
+      <link>http://localhost:1313/cookbook/ingredience/pi%C5%A1koty/</link>
       <pubDate>Sat, 23 Dec 2023 21:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/pi%C5%A1koty/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/pi%C5%A1koty/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cibule</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/cibule/</link>
+      <title>Česnek</title>
+      <link>http://localhost:1313/cookbook/ingredience/%C4%8Desnek/</link>
       <pubDate>Thu, 21 Dec 2023 21:50:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/cibule/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/%C4%8Desnek/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>česnek</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/%C4%8Desnek/</link>
+      <title>Cibule</title>
+      <link>http://localhost:1313/cookbook/ingredience/cibule/</link>
       <pubDate>Thu, 21 Dec 2023 21:50:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/%C4%8Desnek/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/cibule/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ořechy</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/o%C5%99echy/</link>
+      <title>Ořechy</title>
+      <link>http://localhost:1313/cookbook/ingredience/o%C5%99echy/</link>
       <pubDate>Thu, 09 Nov 2023 19:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/o%C5%99echy/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/o%C5%99echy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>borůvky</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/bor%C5%AFvky/</link>
+      <title>Borůvky</title>
+      <link>http://localhost:1313/cookbook/ingredience/bor%C5%AFvky/</link>
       <pubDate>Sat, 12 Aug 2023 11:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/bor%C5%AFvky/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/bor%C5%AFvky/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>zelenina</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/zelenina/</link>
+      <title>Zelenina</title>
+      <link>http://localhost:1313/cookbook/ingredience/zelenina/</link>
       <pubDate>Sun, 30 Jul 2023 18:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/zelenina/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/zelenina/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kefír</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/kef%C3%ADr/</link>
+      <title>Kefír</title>
+      <link>http://localhost:1313/cookbook/ingredience/kef%C3%ADr/</link>
       <pubDate>Sun, 30 Jul 2023 10:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/kef%C3%ADr/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/kef%C3%ADr/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hrách</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/hr%C3%A1ch/</link>
+      <title>Hrách</title>
+      <link>http://localhost:1313/cookbook/ingredience/hr%C3%A1ch/</link>
       <pubDate>Wed, 26 Jul 2023 22:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/hr%C3%A1ch/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/hr%C3%A1ch/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lněné-semínko</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/ln%C4%9Bn%C3%A9-sem%C3%ADnko/</link>
+      <title>Lněné-Semínko</title>
+      <link>http://localhost:1313/cookbook/ingredience/ln%C4%9Bn%C3%A9-sem%C3%ADnko/</link>
       <pubDate>Thu, 20 Jul 2023 22:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/ln%C4%9Bn%C3%A9-sem%C3%ADnko/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/ln%C4%9Bn%C3%A9-sem%C3%ADnko/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tapioka</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/tapioka/</link>
+      <title>Tapioka</title>
+      <link>http://localhost:1313/cookbook/ingredience/tapioka/</link>
       <pubDate>Thu, 20 Jul 2023 22:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/tapioka/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/tapioka/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cizrnová mouka</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/cizrnov%C3%A1-mouka/</link>
+      <title>Cizrnová Mouka</title>
+      <link>http://localhost:1313/cookbook/ingredience/cizrnov%C3%A1-mouka/</link>
       <pubDate>Fri, 14 Jul 2023 23:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/cizrnov%C3%A1-mouka/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/cizrnov%C3%A1-mouka/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>jogurt</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/jogurt/</link>
+      <title>Jogurt</title>
+      <link>http://localhost:1313/cookbook/ingredience/jogurt/</link>
       <pubDate>Fri, 14 Jul 2023 23:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/jogurt/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/jogurt/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>podmáslí</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/podm%C3%A1sl%C3%AD/</link>
+      <title>Podmáslí</title>
+      <link>http://localhost:1313/cookbook/ingredience/podm%C3%A1sl%C3%AD/</link>
       <pubDate>Fri, 25 Nov 2022 21:46:34 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/podm%C3%A1sl%C3%AD/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/podm%C3%A1sl%C3%AD/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>perníkové-koření</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/pern%C3%ADkov%C3%A9-ko%C5%99en%C3%AD/</link>
+      <title>Perníkové-Koření</title>
+      <link>http://localhost:1313/cookbook/ingredience/pern%C3%ADkov%C3%A9-ko%C5%99en%C3%AD/</link>
       <pubDate>Tue, 22 Nov 2022 19:40:12 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/pern%C3%ADkov%C3%A9-ko%C5%99en%C3%AD/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/pern%C3%ADkov%C3%A9-ko%C5%99en%C3%AD/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>čokoláda</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/%C4%8Dokol%C3%A1da/</link>
+      <title>Čokoláda</title>
+      <link>http://localhost:1313/cookbook/ingredience/%C4%8Dokol%C3%A1da/</link>
       <pubDate>Sat, 22 Oct 2022 17:43:05 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/%C4%8Dokol%C3%A1da/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/%C4%8Dokol%C3%A1da/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ryby</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/ryby/</link>
+      <title>Ryby</title>
+      <link>http://localhost:1313/cookbook/ingredience/ryby/</link>
       <pubDate>Sat, 22 Oct 2022 15:17:33 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/ryby/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/ryby/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ovoce</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/ovoce/</link>
+      <title>Ovoce</title>
+      <link>http://localhost:1313/cookbook/ingredience/ovoce/</link>
       <pubDate>Sat, 15 Oct 2022 14:58:36 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/ovoce/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/ovoce/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>bez-lepku</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/bez-lepku/</link>
+      <title>Bez-Lepku</title>
+      <link>http://localhost:1313/cookbook/ingredience/bez-lepku/</link>
       <pubDate>Sat, 15 Oct 2022 14:53:36 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/bez-lepku/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/bez-lepku/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>instantní-káva</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/instantn%C3%AD-k%C3%A1va/</link>
+      <title>Instantní-Káva</title>
+      <link>http://localhost:1313/cookbook/ingredience/instantn%C3%AD-k%C3%A1va/</link>
       <pubDate>Wed, 10 Aug 2022 16:56:59 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/instantn%C3%AD-k%C3%A1va/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/instantn%C3%AD-k%C3%A1va/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hroznove-vino</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/hroznove-vino/</link>
+      <title>Hroznove-Vino</title>
+      <link>http://localhost:1313/cookbook/ingredience/hroznove-vino/</link>
       <pubDate>Wed, 10 Aug 2022 14:46:12 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/hroznove-vino/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/hroznove-vino/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>jablko</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/jablko/</link>
+      <title>Jablko</title>
+      <link>http://localhost:1313/cookbook/ingredience/jablko/</link>
       <pubDate>Wed, 10 Aug 2022 14:46:12 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/jablko/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/jablko/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pomeranč</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/pomeran%C4%8D/</link>
+      <title>Pomeranč</title>
+      <link>http://localhost:1313/cookbook/ingredience/pomeran%C4%8D/</link>
       <pubDate>Wed, 10 Aug 2022 14:46:12 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/pomeran%C4%8D/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/pomeran%C4%8D/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sušenky</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/su%C5%A1enky/</link>
+      <title>Sušenky</title>
+      <link>http://localhost:1313/cookbook/ingredience/su%C5%A1enky/</link>
       <pubDate>Fri, 08 Jul 2022 22:38:52 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/su%C5%A1enky/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/su%C5%A1enky/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>broskve</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/broskve/</link>
+      <title>Broskve</title>
+      <link>http://localhost:1313/cookbook/ingredience/broskve/</link>
       <pubDate>Fri, 08 Jul 2022 22:13:20 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/broskve/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/broskve/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rybíz</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/ryb%C3%ADz/</link>
+      <title>Rybíz</title>
+      <link>http://localhost:1313/cookbook/ingredience/ryb%C3%ADz/</link>
       <pubDate>Fri, 08 Jul 2022 20:24:17 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/ryb%C3%ADz/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/ryb%C3%ADz/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tanzhong</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/tanzhong/</link>
+      <title>Tanzhong</title>
+      <link>http://localhost:1313/cookbook/ingredience/tanzhong/</link>
       <pubDate>Tue, 28 Jun 2022 14:00:41 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/tanzhong/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/tanzhong/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kari-pasta</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/kari-pasta/</link>
+      <title>Kari-Pasta</title>
+      <link>http://localhost:1313/cookbook/ingredience/kari-pasta/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/kari-pasta/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/kari-pasta/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>miso</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/miso/</link>
+      <title>Miso</title>
+      <link>http://localhost:1313/cookbook/ingredience/miso/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/miso/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/miso/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rýžové-nudle</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/r%C3%BD%C5%BEov%C3%A9-nudle/</link>
+      <title>Rýžové Nudle</title>
+      <link>http://localhost:1313/cookbook/ingredience/r%C3%BD%C5%BEov%C3%A9-nudle/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/r%C3%BD%C5%BEov%C3%A9-nudle/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/r%C3%BD%C5%BEov%C3%A9-nudle/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>kysana-smetana</title>
-      <link>https://rkanet.github.io/cookbook/ingredience/kysana-smetana/</link>
+      <title>Kysana-Smetana</title>
+      <link>http://localhost:1313/cookbook/ingredience/kysana-smetana/</link>
       <pubDate>Mon, 16 May 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/ingredience/kysana-smetana/</guid>
+      <guid>http://localhost:1313/cookbook/ingredience/kysana-smetana/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,156 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jablka on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/jablka/</link>
-    <description>Recent content in jablka on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Jablka on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/jablka/</link>
+    <description>Recent content in Jablka on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 18:04:24 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/jablka/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Feb 2025 18:04:24 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/jablka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rýžová kaše s ovocem</title>
-      <link>https://rkanet.github.io/cookbook/recepty/25-01-ryzova-kase-s-ovocem/</link>
+      <link>http://localhost:1313/cookbook/recepty/25-01-ryzova-kase-s-ovocem/</link>
       <pubDate>Wed, 12 Feb 2025 18:04:24 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/25-01-ryzova-kase-s-ovocem/</guid>
-      <description>Suroviny  rýže kulatozrnná voda mléko skořice cukr (vše přiměřeně:) 3 ks jablka další ovoce k tomu v zimě například náš domácí třešňový kompot  Postup  Rýží vařím se špetkou soli ve vodě. Těsně před změknutím přidám trochu mléka, cukru a skořici. Sladím málo, protože kompot a jablíčka jsou sladká. Jablíčka nakrájím na silnější měsíčky a těsně před dokončením kaše orestuji na nerezové pánvi lehce posypaná třtinovým cukrem. Malinko podliji vodou a nechám vodu odpařit a jablíčka opéct.</description>
+      <guid>http://localhost:1313/cookbook/recepty/25-01-ryzova-kase-s-ovocem/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;rýže kulatozrnná&lt;/li&gt;&#xA;&lt;li&gt;voda&lt;/li&gt;&#xA;&lt;li&gt;mléko&lt;/li&gt;&#xA;&lt;li&gt;skořice&lt;/li&gt;&#xA;&lt;li&gt;cukr&lt;/li&gt;&#xA;&lt;li&gt;3 ks jablka&lt;/li&gt;&#xA;&lt;li&gt;další ovoce k tomu v zimě například náš domácí třešňový kompot&lt;/li&gt;&#xA;&lt;li&gt;ořechy, mandle, semínka na posypání&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Rýži vařím se špetkou soli ve vodě. Těsně před změknutím přidám trochu mléka, cukru a skořici. Sladím málo, protože kompot a jablíčka jsou sladká.&lt;/li&gt;&#xA;&lt;li&gt;Jablíčka nakrájím na silnější měsíčky a těsně před dokončením kaše orestuji na nerezové pánvi lehce posypaná třtinovým cukrem. Malinko podliji vodou a nechám vodu odpařit a jablíčka opéct.&lt;/li&gt;&#xA;&lt;li&gt;Vypeckované třešně uvařím v kompotové šťávě a trochu zahustím kukuřičným škrobem, přidám špetku skořice.&lt;/li&gt;&#xA;&lt;li&gt;Rýži na talíři ozdobím ovocem, třeba jablíčka kolem třešní jako květinu.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Suroviny jsem neměřila, tak zatím vše přiměřeně:). Doplnění ovocem a zdobení má nekonečně variant.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jablečná buchta z mascarpone</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-11-jablecna-buchta-z-mascarpone/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-11-jablecna-buchta-z-mascarpone/</link>
       <pubDate>Thu, 21 Nov 2024 16:20:32 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-11-jablecna-buchta-z-mascarpone/</guid>
-      <description>Suroviny (ikea pekáč cca 32 x 22 cm )  250 g mascarpone 90g třtinového cukru 2 vejce 120 ml polotučného mléka 170 g mouky Nutri free per dolce 50 g pohankové hladké 6 g kypřícího prášku špetka soli 4 jablka (1/4tky, nakrájená na tenké plátky) 1ČL skořice hrst mandlových plátků  Postup  Vymažeme formu a vysypeme moukou. Mascarpone vyšlehat s cukrem a žloutky, nakonec bílky (v3e důkladně prošlehat do nadýchaného krému).</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-11-jablecna-buchta-z-mascarpone/</guid>
+      <description>&lt;h1 id=&#34;suroviny-ikea-pekáč-cca-32-x-22-cm-&#34;&gt;Suroviny (ikea pekáč cca 32 x 22 cm )&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250 g mascarpone&lt;/li&gt;&#xA;&lt;li&gt;90 g třtinového cukru&lt;/li&gt;&#xA;&lt;li&gt;2 vejce&lt;/li&gt;&#xA;&lt;li&gt;120 ml polotučného mléka&lt;/li&gt;&#xA;&lt;li&gt;170 g mouky Nutri free per dolce&lt;/li&gt;&#xA;&lt;li&gt;50 g pohankové hladké&lt;/li&gt;&#xA;&lt;li&gt;6 g kypřícího prášku&lt;/li&gt;&#xA;&lt;li&gt;špetka soli&lt;/li&gt;&#xA;&lt;li&gt;4 jablka (1/4tky, nakrájená na tenké plátky)&lt;/li&gt;&#xA;&lt;li&gt;1 ČL skořice&lt;/li&gt;&#xA;&lt;li&gt;hrst mandlových plátků&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Vymažeme formu a vysypeme moukou.&lt;/li&gt;&#xA;&lt;li&gt;Mascarpone vyšlehat s cukrem a žloutky, nakonec bílky (vše důkladně&#xA;prošlehat do nadýchaného krému).&lt;/li&gt;&#xA;&lt;li&gt;V míse smícháme mouku, skořici sůl a kypřící prášek&lt;/li&gt;&#xA;&lt;li&gt;Přes sítko přidávat postupně mouku a mléko. Dobře rozmíchat&lt;/li&gt;&#xA;&lt;li&gt;Nalijeme těsto do připraveného pekáčku a poklademe plátky jablek a naposypeme plátky mandlí.&lt;/li&gt;&#xA;&lt;li&gt;Pekla jsem na 190 °C asi 30 minut. Zkouška špejlí.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Původní recept byl do dort. formy (24cm) a první polovina těsta se pokryla jablečnými plátky.&#xA;(vějířovitě dokola), pak zbylé těsto a navrch pokrájené půlky jablek&amp;hellip;&#xA;Povrch těsta i jablka posypat skořicovým nebo třtinovým cukrem.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jablečný závin z kysané smetany</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-05-jablecny-zavin/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-05-jablecny-zavin/</link>
       <pubDate>Fri, 07 Jun 2024 22:52:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-05-jablecny-zavin/</guid>
-      <description>Suroviny na 2 záviny Základ
- 330g mouky Nutrifree Per Pane 190g zakysané smetany De Luxe Kunín 20% (jedno balení) 2 vajíčka (Lidl velikost L) na náplň jablka strouhaná na hrubo skořice na posypání těsta pod jablka  Volitelné
- podsypu jablka trochou mletých blp piškotů nebo blp strouhanka obměna ořechy smíchat s piškoty/strouhankou a posypat těsto pod jablka pokud jsou jablka kyselá posypu před zabalením trochou cukru rozpuštěné máslo na potření závinu na vrch závin poyspat plátky mandlí (předem potřený vajíčkem)  Postup  Všechny suroviny smíchat a vypracovat hladké těsto.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-05-jablecny-zavin/</guid>
+      <description>&lt;h1 id=&#34;suroviny-na-2-záviny&#34;&gt;Suroviny na 2 záviny&lt;/h1&gt;&#xA;&lt;p&gt;Základ&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;330 g mouky Nutrifree Per Pane&lt;/li&gt;&#xA;&lt;li&gt;190 g zakysané smetany De Luxe Kunín 20% (jedno balení)&lt;/li&gt;&#xA;&lt;li&gt;2 vajíčka (Lidl, velikost L)&lt;/li&gt;&#xA;&lt;li&gt;na náplň jablka strouhaná na hrubo&lt;/li&gt;&#xA;&lt;li&gt;skořice na posypání těsta pod jablka&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Volitelné&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;podsypu jablka trochou mletých blp piškotů nebo blp strouhanka&lt;/li&gt;&#xA;&lt;li&gt;obměna ořechy smíchat s piškoty/strouhankou a posypat těsto pod jablka&lt;/li&gt;&#xA;&lt;li&gt;pokud jsou jablka kyselá posypu před zabalením trochou cukru&lt;/li&gt;&#xA;&lt;li&gt;rozpuštěné máslo na potření závinu&lt;/li&gt;&#xA;&lt;li&gt;na vrch závin posypat plátky mandlí (předem potřený vajíčkem)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Všechny suroviny smíchat a vypracovat hladké těsto.&lt;/li&gt;&#xA;&lt;li&gt;Těsto rozdělíme na 2 poloviny, každou rozváláme, naplníme jablky a smotáme.&lt;/li&gt;&#xA;&lt;li&gt;Pečeme na cca 200 °C, až povrch zezlátne (přibližně 30 minut).&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Těsto se na počátku zdá dost suché, ale nakonec jde smíchat a má dobrou konzistenci.&#xA;Nejraději dávám odležet do lednice přes noc. Lze péct rovnou, nezkoušela jsem.&#xA;Potřené máslem bylo moc dobré, potírala jsem před vložením do trouby a pak ještě jednou před koncem pečení.&#xA;Mouky vyzkoušeno:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jáhlovo jablečný dezert</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-03-jahlovo-jablecny-dort/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-03-jahlovo-jablecny-dort/</link>
       <pubDate>Wed, 06 Mar 2024 18:29:45 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-03-jahlovo-jablecny-dort/</guid>
-      <description>Suroviny Korpus forma 30 cm /na malou formu Ikea 32 x 22/velkou 38 x30
- 130 g/160g suchých jáhel 700 ml/960ml vody špetka soli 1 polévkové lžíce bílého mandlového másla Rapunzel (dávám z pražených mandlí)/1,5-2PL cca 1,5/ 2PL kopcem třtinového cukrueně  Jablečno-pudinková vrstva
- 750 ml vody asi 8 jablek oloupaných a nakrajených na kousky 60 g škrobu (nebo 1 pudink vanilka a 20g kukuř. škrobu) skořice cukr dle chuti a slakosti jablek  Postup  Jáhly uvařit s vodou,cukrem a špetkou soli.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-03-jahlovo-jablecny-dort/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Korpus forma 30 cm /na malou formu Ikea 32 x 22/velkou 38 x30&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;130 g / 160 g suchých jáhel&lt;/li&gt;&#xA;&lt;li&gt;700 ml / 960 ml vody&lt;/li&gt;&#xA;&lt;li&gt;špetka soli&lt;/li&gt;&#xA;&lt;li&gt;1 polévková lžíce bílého mandlového másla Rapunzel (dávám z pražených mandlí) / 1,5-2 PL&lt;/li&gt;&#xA;&lt;li&gt;cca 1,5 / 2 PL s kopcem třtinového cukru&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Jablečno-pudinková vrstva&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;750 ml vody&lt;/li&gt;&#xA;&lt;li&gt;asi  8 jablek oloupaných a nakrajených na kousky&lt;/li&gt;&#xA;&lt;li&gt;60 g škrobu (nebo 1 pudink vanilka a 20g kukuř. škrobu)&lt;/li&gt;&#xA;&lt;li&gt;skořice&lt;/li&gt;&#xA;&lt;li&gt;cukr dle chuti a slakosti jablek&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Jáhly uvařit s vodou, cukrem a špetkou soli. Nechat pootevřenou pokličku. Přidat mandlové máslo a rozmixovat.&lt;/li&gt;&#xA;&lt;li&gt;Nalít do formy (vypláchnuté studenou vodou).&lt;/li&gt;&#xA;&lt;li&gt;Uvařit kousky jablíček ve vodě jako pudink, nalít na jáhlový korpus.&lt;/li&gt;&#xA;&lt;li&gt;Nechat vychladnout v lednici.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Většina kupovaných jablek jsou pevná, dlouho trvá než se rozvaří. Dávám je tedy vařit předem a pak přileju roztok se škrobem a ještě povařím.&#xA;Ale pokud je to druh, který se hodně rozvaří, je lepší dát až do zahřáté pudinkové hmoty a povařit jen krátce, aby zůstaly zachované kousky.&#xA;Lze udělat do formy jako rychlý dort, nebo jen samotnou pudinkovo-jablečnou vrstvu do sklenic.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jáhlový makovec s ovocem</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-01-jahlovy-makovec/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-01-jahlovy-makovec/</link>
       <pubDate>Mon, 29 Jan 2024 17:26:12 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-01-jahlovy-makovec/</guid>
-      <description>Suroviny Ikea pekáč velký (38 x30)  300g suchých jáhel asi 800 ml mléka a vody v poměru 1:1 cukr třtinový mák mletý asi 50g ovoce na vrch (jablka, švestky) 2PL kukuřičného škrobu skořice volitelně navrch mandlové lupínky  Postup  3x spařím jáhly auvařím v mléce s vodou do změknutí (mírně odklopená polička) přidám cukr a PL škrobu a ještě krátce promíchám (2 minuty) navrstvím hmotu do olejem vymazaného a moukou vysypaného pekáče navrch jablíčka pokrájená na měsíčky a půlky švestek.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-01-jahlovy-makovec/</guid>
+      <description>&lt;h1 id=&#34;suroviny-ikea-pekáč-velký-38-x30&#34;&gt;Suroviny Ikea pekáč velký (38 x30)&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;300g suchých jáhel&lt;/li&gt;&#xA;&lt;li&gt;asi 800 ml mléka a vody v poměru 1:1&lt;/li&gt;&#xA;&lt;li&gt;cukr třtinový&lt;/li&gt;&#xA;&lt;li&gt;mák mletý asi 50g&lt;/li&gt;&#xA;&lt;li&gt;ovoce na vrch (jablka, švestky)&lt;/li&gt;&#xA;&lt;li&gt;2PL kukuřičného škrobu&lt;/li&gt;&#xA;&lt;li&gt;skořice&lt;/li&gt;&#xA;&lt;li&gt;volitelně navrch mandlové lupínky&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3x spařím jáhly a uvařím v mléce s vodou do změknutí (mírně odklopená polička)&lt;/li&gt;&#xA;&lt;li&gt;přidám cukr a PL škrobu a ještě krátce promíchám (2 minuty)&lt;/li&gt;&#xA;&lt;li&gt;navrstvím hmotu do olejem vymazaného a moukou vysypaného pekáče&lt;/li&gt;&#xA;&lt;li&gt;navrch jablíčka pokrájená na měsíčky a půlky švestek. Pokud není tahle ideal kombinace stačí jen jablíčka, případně lze použít i odkapané a vypeckováné švestky z kompotu.&lt;/li&gt;&#xA;&lt;li&gt;decentně posypat skořicí a je-li ovoce moc kyselé, mírně sypu cukrem&lt;/li&gt;&#xA;&lt;li&gt;možné ozdobit plátky mandlí&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Škrob si půjde v pohodě vynechat. Časem zkusím.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kváskové koláčky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-01-kolacky-z-kvasu/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-01-kolacky-z-kvasu/</link>
       <pubDate>Sun, 21 Jan 2024 22:36:37 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-01-kolacky-z-kvasu/</guid>
-      <description>Suroviny &amp;amp; postup Verze I.
-večer před pečením&amp;hellip;
- 40g kvásku 60g Doves farm plain white 60g Pohankova hladká 120 g vody 20 g cukr Vše vymícháme ve sklenici &amp;ldquo;od okuerek&amp;rdquo; na kašičku, zkaryjeme mikrotenovým sáčkem necháme na lince minimálně 12 hodin pracovat.  ráno&amp;hellip;
- 140 g Nutrifree per Dolci 120 g rýžové mouky polohrubé 20 g pohankové hladké 1 vejce a 1 žloutek kůra z citronu (chemicky neošetřený) 130 ml mléka 60 g cukru vanilkový (případně vanilínový) cukr 50 g změklého másla (ne rozpuštěného)  Všechny suroviny, krom másla propracovat v robotu.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-01-kolacky-z-kvasu/</guid>
+      <description>&lt;h1 id=&#34;suroviny--postup&#34;&gt;Suroviny &amp;amp; postup&lt;/h1&gt;&#xA;&lt;p&gt;Verze I.&lt;/p&gt;&#xA;&lt;p&gt;večer před pečením&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;40g kvásku&lt;/li&gt;&#xA;&lt;li&gt;60g Doves farm plain white&lt;/li&gt;&#xA;&lt;li&gt;60g Pohankova hladká&lt;/li&gt;&#xA;&lt;li&gt;120 g vody&lt;/li&gt;&#xA;&lt;li&gt;20 g cukru&#xA;Vše symícháme například ve sklenici &amp;ldquo;od okurek&amp;rdquo; na kašičku, zakryjeme mikrotenovým sáčkem a necháme na lince minimálně 12 hodin kvasit.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ráno&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;140 g Nutrifree per Dolci&lt;/li&gt;&#xA;&lt;li&gt;120 g rýžové mouky polohrubé&lt;/li&gt;&#xA;&lt;li&gt;20 g pohankové hladké&lt;/li&gt;&#xA;&lt;li&gt;1 vejce a 1 žloutek&lt;/li&gt;&#xA;&lt;li&gt;kůra z citronu (chemicky neošetřený)&lt;/li&gt;&#xA;&lt;li&gt;130 ml mléka&lt;/li&gt;&#xA;&lt;li&gt;60 g cukru&lt;/li&gt;&#xA;&lt;li&gt;vanilkový (případně vanilínový) cukr&lt;/li&gt;&#xA;&lt;li&gt;50 g změklého másla (ne rozpuštěného)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Všechny suroviny, kromě másla, propracovat v robotu. Až je těsto hladké, přidat máslo a zapracovat do těsta. Opět zakrýt folií, nebo dávám pokličku přímo na mísu robota.&#xA;Nechat odpočívat cca 4 hodiny. Těsto z kvásku oproti droždíovému nakyane jen trochu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Jahlovo fazolový dort</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-01-jahlovo-fazolovy-dort/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-01-jahlovo-fazolovy-dort/</link>
       <pubDate>Mon, 08 Jan 2024 19:59:48 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-01-jahlovo-fazolovy-dort/</guid>
-      <description>Suroviny Korpus
- 250g jáhel 400 ml mléka 400 ml vody 400 cukr pražené mandle (máslo)  Ovocná vrstva
- 300 g adzuki fazole 700ml jablečného moštu ( 100%) k tomu Štáva z třešňového kompotu vypeckované třešně z kompotu 2 jablka (200g strouhaných jablek) 1 ČL skořice agar (10g práškového! agaru)  Postup  Fazole ideálně namočíme den předem (není úplně nutné, jen se vaří déle). Dáme vařit fazole a první vodu po 3 minutách slejeme a dáme vařit do 0,5 litru jablečného moštu, vaří se asi 1h Jáhly spařímš a vaříme v mléce s vodou.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-01-jahlovo-fazolovy-dort/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Korpus&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g jáhel&lt;/li&gt;&#xA;&lt;li&gt;400 ml mléka&lt;/li&gt;&#xA;&lt;li&gt;400 ml vody 400&lt;/li&gt;&#xA;&lt;li&gt;cukr&lt;/li&gt;&#xA;&lt;li&gt;pražené mandle (máslo)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ovocná vrstva&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;300 g adzuki fazole&lt;/li&gt;&#xA;&lt;li&gt;700ml jablečného moštu ( 100%) k tomu&lt;/li&gt;&#xA;&lt;li&gt;Štáva z třešňového kompotu&lt;/li&gt;&#xA;&lt;li&gt;vypeckované třešně z kompotu&lt;/li&gt;&#xA;&lt;li&gt;2 jablka (200g strouhaných jablek)&lt;/li&gt;&#xA;&lt;li&gt;1 ČL skořice&lt;/li&gt;&#xA;&lt;li&gt;agar (10g práškového! agaru)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Fazole adzuki ideálně namočíme den předem (jinak se vaří déle).&lt;/li&gt;&#xA;&lt;li&gt;Dáme vařit fazole a první vodu po 3 minutách slejeme a dáme vařit do 0,5 litru jablečného moštu, vaří se asi 1h&lt;/li&gt;&#xA;&lt;li&gt;Jáhly spařím a vaříme v mléce s vodou cca 10–15 minut (záleží, zda se před tím namáčely).&lt;/li&gt;&#xA;&lt;li&gt;Po uvaření jáhly osladíme a rozetřeme do vodou omyté formy (propláchnu formu vodou).&lt;/li&gt;&#xA;&lt;li&gt;Jablka nastrouháme najemno a přidáme do uvařených fazolí.&lt;/li&gt;&#xA;&lt;li&gt;Dochutíme skořicí, případně cukrem.&lt;/li&gt;&#xA;&lt;li&gt;Přidáme agar dle návodu (agar předem do trochy moštu).&lt;/li&gt;&#xA;&lt;li&gt;Rozmixujeme mixérem najemno, jak potřebujeme.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Měkké fazole poznáme podle rozemnutí mezi prsty, jsou krásně sametové. Mile překvapilo, moje oblíbená varianta, ale ne všichni souhlasí :)&#xA;Třešně tam byly dobré, šlo by i s jiným ovocem, broskve, černý rybíz. Zkusit také změnit poměr fazolí ve prospěch ovoce.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ovocné knedlíky tvarohové</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-08-ovocne-knedliky/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-08-ovocne-knedliky/</link>
       <pubDate>Sat, 12 Aug 2023 11:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/23-08-ovocne-knedliky/</guid>
-      <description>Suroviny  180g brambor 250g tvaroh tučný vanička 1 vejce 200h hrubé mouky (lzice pohankove, 30g rýžové a zbyte dosypat Jizerkou) špetka soli 2-3 jablka dle velikosti  Borůvkový rozvar
- bvorůvky lesní (lze i koupené) cukr dle chuti škrob na zahuštění  Postup  předem (ráno) uvařit brambory ve slupce a nechat dobře vychladnout borůvky krátce povaříme s cukrem a trochou škrobu oloupaná jablka nakrájet na meší kousky veřené brambory nastrouháme na jemno, přidáme ostatní suroviny a na vále zpracujeme těsto těsto rozválíme, nakrájíme na kousky a plníme jablky knedlíky vaříme ve vodě cca 6 minut  Poznámky </description>
+      <guid>http://localhost:1313/cookbook/recepty/23-08-ovocne-knedliky/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;180g brambor&lt;/li&gt;&#xA;&lt;li&gt;250g tvaroh tučný vanička&lt;/li&gt;&#xA;&lt;li&gt;1 vejce&lt;/li&gt;&#xA;&lt;li&gt;200 g hrubé mouky (lžíce pohankové, 30 g rýžové a zbytek dosypat Jizerkou)&lt;/li&gt;&#xA;&lt;li&gt;špetka soli&lt;/li&gt;&#xA;&lt;li&gt;2-3 jablka dle velikosti&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Borůvkový rozvar&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;borůvky lesní (lze i koupené)&lt;/li&gt;&#xA;&lt;li&gt;cukr dle chuti&lt;/li&gt;&#xA;&lt;li&gt;škrob na zahuštění&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;předem (ráno) uvařit brambory ve slupce a nechat dobře vychladnout&lt;/li&gt;&#xA;&lt;li&gt;borůvky krátce povaříme s cukrem a trochou škrobu&lt;/li&gt;&#xA;&lt;li&gt;oloupaná jablka nakrájet na menší kousky&lt;/li&gt;&#xA;&lt;li&gt;vařené brambory nastrouháme na jemno, přidáme ostatní suroviny a na vále zpracujeme těsto&lt;/li&gt;&#xA;&lt;li&gt;těsto rozválíme, nakrájíme na kousky a plníme jablky&lt;/li&gt;&#xA;&lt;li&gt;knedlíky vaříme ve vodě cca 6 minut&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
     </item>
-    
     <item>
       <title>Tvarohové muffiny</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-08-tvarohve-muffiny/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-08-tvarohve-muffiny/</link>
       <pubDate>Thu, 10 Aug 2023 10:25:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/23-08-tvarohve-muffiny/</guid>
-      <description>Suroviny na 12 ks muffinů  2 vejce 90g třtinového cukru 1 vanilkový cukr 75 ml oleje 250g tvaroh ve vaničce (tučný) 200g mouky (2PL pohankové mouky a Jizerka zlatá) 1/2 prášku do pečiva skořice do těsta (asi 1 rovná ČL ) 2 menší oloupaná jablka marmeláda  Postup  smíchat žloutky s tvarohem, vanilkovým cukrem a skořicí a olejem smíchat mouku s kypřícím práškem ušlehat sníh z bílků a a pak do něj zašlehat cukr smíchat mouku s tvarohovou částí a nakonec opatrně vmíchat sníh pomocí dvou polevkových lžic dávkujeme do formiček část těsta na to marmelády trochu a &amp;ldquo;zaklopit druhou půlkou těsta.</description>
+      <guid>http://localhost:1313/cookbook/recepty/23-08-tvarohve-muffiny/</guid>
+      <description>&lt;h1 id=&#34;suroviny-na-12-ks-muffinů&#34;&gt;Suroviny na 12 ks muffinů&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 vejce&lt;/li&gt;&#xA;&lt;li&gt;90g třtinového cukru&lt;/li&gt;&#xA;&lt;li&gt;1 vanilkový cukr&lt;/li&gt;&#xA;&lt;li&gt;75 ml oleje&lt;/li&gt;&#xA;&lt;li&gt;250g tvaroh ve vaničce (tučný)&lt;/li&gt;&#xA;&lt;li&gt;200g mouky (2PL pohankové mouky a Jizerka zlatá)&lt;/li&gt;&#xA;&lt;li&gt;1/2 prášku do pečiva&lt;/li&gt;&#xA;&lt;li&gt;skořice do těsta (asi 1 rovná ČL )&lt;/li&gt;&#xA;&lt;li&gt;2 menší oloupaná jablka&lt;/li&gt;&#xA;&lt;li&gt;marmeláda&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;smíchat žloutky s tvarohem, vanilkovým cukrem a skořicí a olejem&lt;/li&gt;&#xA;&lt;li&gt;smíchat mouku s kypřícím práškem&lt;/li&gt;&#xA;&lt;li&gt;ušlehat sníh z bílků a pak do něj zašlehat cukr&lt;/li&gt;&#xA;&lt;li&gt;smíchat mouku s tvarohovou částí a nakonec opatrně vmíchat sníh&lt;/li&gt;&#xA;&lt;li&gt;pomocí dvou polevkových lžic dávkujeme do formiček část těsta na to marmelády trochu a &amp;ldquo;zaklopit druhou půlkou těsta.&lt;/li&gt;&#xA;&lt;li&gt;navrch zapíchat kouseky jablíčka&lt;/li&gt;&#xA;&lt;li&gt;pečeme v předehřáte troubě 200 °C, asi 25 minut&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Do muffinové formy používám ještě papírové vložky, ale lze i rovnou do vymazané a moukou vysypané formy.&#xA;Bezlepkové vyzkoušeno zatím z Jizerky (zlaté) a 2PL pohankové mouky. Do bezlepkového dávám asi 4PL mléka než vmíchám sníh. Záleží také na velikosti vajec.&#xA;Zkoušeli jsme i kakaové tj. plus 15g kakaa, je třeba dát o trochu víc mléka.&#xA;Z lenosti poslední dobou vynechávám sníh a rozhodně to není o tolik horší o kolik je to jednodušší, prostě to funguje i bez sněhu:)&#xA;Vyzkoušet ušlehat vajíčka z cukrem. Jablíček dávám hodně cca 2 malá. Krájím na malé kostičky cca 1cm - 1,5cm.&#xA;Zapichuju do těsta, klidně 8 kousků na muffin&amp;hellip;takový ježek z toho vznikne, ale jak těsto vyroste tak zapadnou dovnitř.&#xA;Marmeláda mi přijde nejlepší malinová a borůvková Schwartau EXTRA, případně marmošky kombinuji dle požadávků strávníků.&#xA;Urodila se nová varianta receptu &lt;a href=&#34;http://localhost:1313/cookbook/recepty/24-11-tvarohve-muffiny-nutella/&#34;&gt;s nutellou&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pečená jablka</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-06-pecena-jablka/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-06-pecena-jablka/</link>
       <pubDate>Tue, 16 May 2023 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/23-06-pecena-jablka/</guid>
-      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;jablka&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;jablka omylejeme, přepůlíme, vykrojime jadřinec&lt;/li&gt;
-&lt;li&gt;posypeme skořící (připádně oříšky, mandlemi&amp;hellip;)&lt;/li&gt;
-&lt;li&gt;vyskládáme na pečící papír na plech a pečeme&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/23-06-pecena-jablka/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;jablka&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;jablka omyjeme, přepůlíme, vykrojíme jádřinec&lt;/li&gt;&#xA;&lt;li&gt;posypeme skořicí (případně oříšky, mandlemi&amp;hellip;)&lt;/li&gt;&#xA;&lt;li&gt;vyskládáme na pečící papír na plech a pečeme&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
     </item>
-    
     <item>
       <title>Trhanec bez lepku</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-07-trhanec/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-07-trhanec/</link>
       <pubDate>Fri, 08 Jul 2022 21:06:21 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-07-trhanec/</guid>
-      <description>Suroviny  200g hl.mouky (100 Jizerka + 100 Doves farm) 250ml mléka (dala jsem méně, tak 200ml) špetka soli 4 vejce (ušlehat sníh) 40g cukru krupice nebo krystal 1 vanilkový cukr 1 panák rumu citronová kůra, nebo Šťáva  Postup  Ušleháme pevný sníh, pak zašleháme sníh s cukrem v misce smíchat mouku, vanilkový cukr, citronovou kúru, mléko žloutky. opatrně přidáme sníh rozehřejeme pánev s tukem (máslo přepuštěné je nejlepší) sběračkou nalejeme, nepřiklápíme&amp;hellip; v pravý čas otočíme a krátce opečeme i z druhé strany roztrháme a zasypeme trochou cukru (zaprášíme) lehce promícháme (cukr zkaramelizuje a je to dobré:) servírujeme s jablečným pyré a jablečným kompotem, rádi ještě zasypáváme skořicovým cukrem a mandlovými lupínky  Poznámky  množství vyjde na dvě až tři pánve dle průměru používám teflonovou pánev na ostatních se mi přichytává a nejde otočit  </description>
+      <guid>http://localhost:1313/cookbook/recepty/22-07-trhanec/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;200g hl.mouky (100 Jizerka + 100 Doves farm)&lt;/li&gt;&#xA;&lt;li&gt;250ml mléka (dala jsem méně, tak 200ml)&lt;/li&gt;&#xA;&lt;li&gt;špetka soli&lt;/li&gt;&#xA;&lt;li&gt;4 vejce (ušlehat sníh)&lt;/li&gt;&#xA;&lt;li&gt;40g cukru krupice nebo krystal&lt;/li&gt;&#xA;&lt;li&gt;1 vanilkový cukr&lt;/li&gt;&#xA;&lt;li&gt;1 panák rumu&lt;/li&gt;&#xA;&lt;li&gt;citronová kůra, nebo šťáva&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ušleháme pevný sníh, pak zašleháme sníh s cukrem&lt;/li&gt;&#xA;&lt;li&gt;v misce smíchat mouku, vanilkový cukr, citronovou kůru, mléko a žloutky.&lt;/li&gt;&#xA;&lt;li&gt;opatrně přidáme sníh&lt;/li&gt;&#xA;&lt;li&gt;rozehřejeme pánev  s tukem  (máslo přepuštěné je nejlepší)&lt;/li&gt;&#xA;&lt;li&gt;sběračkou nalejeme, nepřiklápíme&amp;hellip; v pravý čas otočíme a krátce opečeme i z druhé strany&lt;/li&gt;&#xA;&lt;li&gt;roztrháme  a zasypeme trochou cukru (zaprášíme) lehce promícháme  (cukr zkaramelizuje a je to dobré:)&lt;/li&gt;&#xA;&lt;li&gt;servírujeme s jablečným pyré a jablečným kompotem,  rádi ještě zasypáváme skořicovým cukrem a mandlovými lupínky&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;množství vyjde na dvě až tři pánve dle průměru&lt;/li&gt;&#xA;&lt;li&gt;používám teflonovou pánev na ostatních se mi přichytává a nejde otočit&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Strašidelná buchta</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-05-strasidelna-buchta/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-05-strasidelna-buchta/</link>
       <pubDate>Mon, 16 May 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-05-strasidelna-buchta/</guid>
-      <description>&lt;h1 id=&#34;suroviny-ikea-pekáč-32x22&#34;&gt;Suroviny (Ikea pekáč 32x22)&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;400 g kysané smetany,&lt;/li&gt;
-&lt;li&gt;300 g polohrubé mouky,&lt;/li&gt;
-&lt;li&gt;100 g třtinového cukru,&lt;/li&gt;
-&lt;li&gt;2 vejce,&lt;/li&gt;
-&lt;li&gt;kypřící prášek,&lt;/li&gt;
-&lt;li&gt;8 jablek&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;Připravíme strašidelné půlky jablek.&lt;/li&gt;
-&lt;li&gt;Smícháme suché suroviny a mokré zvlášť. Pak spojíme a vlijeme na vymazaná pekáč.&lt;/li&gt;
-&lt;li&gt;Poskládáme vykrojená jablka.&lt;/li&gt;
-&lt;li&gt;Pečeme 180st cca 35 minut.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;
-&lt;p&gt;Na pekáč 32x22 výška cca 5cm.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-05-strasidelna-buchta/</guid>
+      <description>&lt;h1 id=&#34;suroviny-ikea-pekáč-32x22&#34;&gt;Suroviny (Ikea pekáč 32x22)&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;400 g kysané smetany,&lt;/li&gt;&#xA;&lt;li&gt;300 g polohrubé mouky,&lt;/li&gt;&#xA;&lt;li&gt;100 g třtinového cukru,&lt;/li&gt;&#xA;&lt;li&gt;2 vejce,&lt;/li&gt;&#xA;&lt;li&gt;kypřící prášek,&lt;/li&gt;&#xA;&lt;li&gt;8 jablek&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Připravíme strašidelné půlky jablek.&lt;/li&gt;&#xA;&lt;li&gt;Smícháme suché suroviny a mokré zvlášť. Pak spojíme a vlijeme na vymazaný pekáč.&lt;/li&gt;&#xA;&lt;li&gt;Poskládáme vykrojená jablka.&lt;/li&gt;&#xA;&lt;li&gt;Pečeme 180°C cca 35 minut.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Na pekáč 32x22 výška cca 5cm.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

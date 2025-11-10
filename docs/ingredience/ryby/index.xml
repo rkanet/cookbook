@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ryby on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/ryby/</link>
-    <description>Recent content in ryby on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Ryby on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/ryby/</link>
+    <description>Recent content in Ryby on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Oct 2022 15:17:33 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/ryby/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Oct 2022 15:17:33 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/ryby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Onigiri</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-10-onigiri/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-10-onigiri/</link>
       <pubDate>Sat, 22 Oct 2022 15:17:33 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-10-onigiri/</guid>
-      <description>O receptu Recept kombinací více receptů, a určitě nemá být ten pravý japonský, ale jen náš:). Onigiri se podobá sushi, ale liší se už při přípravě rýže. Zatímco sushi rýže se dochucuje rýžovým octem, solí a cukrem, rýže na onigiri se často vaří pouze ve vodě bez soli.
-ingredience  sushi rýže  Náplně:
- tuňák s majonézou losos umeboshi trhané vepřové maso, výrazně ochucené I v Japonsku mají mnoho durhů náplní a pokudnetrváte na japonských tradičních surovinách, tak se možnosti ještě rozšíří.</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-10-onigiri/</guid>
+      <description>&lt;h1 id=&#34;o-receptu&#34;&gt;O receptu&lt;/h1&gt;&#xA;&lt;p&gt;Recept je kombinací více receptů, a určitě nemá být ten pravý japonský, ale jen náš :).&#xA;Onigiri se podobá sushi, ale liší se už při přípravě rýže. Zatímco sushi rýže se dochucuje rýžovým octem, solí a cukrem, rýže na onigiri se často vaří pouze ve vodě bez soli.&lt;/p&gt;&#xA;&lt;h1 id=&#34;ingredience&#34;&gt;ingredience&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;sushi rýže&lt;/li&gt;&#xA;&lt;li&gt;voda&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Náplně a zdobení:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;tuňák s majonézou&lt;/li&gt;&#xA;&lt;li&gt;losos&lt;/li&gt;&#xA;&lt;li&gt;umeboshi&lt;/li&gt;&#xA;&lt;li&gt;trhané vepřové maso, výrazně ochucené&lt;/li&gt;&#xA;&lt;li&gt;volitelně lze obalit či posypat černým sezamem a vločkami z mořské řasy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Zdobení:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

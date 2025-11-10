@@ -1,40 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>banán on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/ban%C3%A1n/</link>
-    <description>Recent content in banán on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Banán on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/ban%C3%A1n/</link>
+    <description>Recent content in Banán on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2024 10:46:36 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/ban%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 10:46:36 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/ban%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>krtkův dort</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-09-krtkuv-dort-blp/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-09-krtkuv-dort-blp/</link>
       <pubDate>Mon, 30 Sep 2024 10:46:36 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-09-krtkuv-dort-blp/</guid>
-      <description>Suroviny Těsto (z dýňové buchty)
- 300 g na hrubo nastrouhané dýně Hokaido (i se slupkou) 300 g mouka  50g pohanková 50g rýžová polohrubá 200g Nutrifree Per Dolci   1 balení kypřícího prášku 2 vejce 40g kakaa 150g třtinový cukr 200 ml olej (cca 20PL, 110g) 1 vanilkový cukr 200g jogurt bílý Hollandia 1 rovná ČL skořice 1 menší čajová lžička skořice  Krém
- 1 tvaroh vanička tučný 1 smetana ke šlhání 40% (procenta dodržet nebo, ztužovač) 1 větší banán 2 ČL citronu  Postup  Dýni, cukr, vejce, olej pak přidat mouku smíchanou s kakaem skořící a kypřícím práškem.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-09-krtkuv-dort-blp/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Těsto (z dýňové buchty)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;300 g na hrubo nastrouhané dýně Hokaido (i se slupkou)&lt;/li&gt;&#xA;&lt;li&gt;300 g mouka&#xA;&lt;ul&gt;&#xA;&lt;li&gt;50g pohanková&lt;/li&gt;&#xA;&lt;li&gt;50g rýžová polohrubá&lt;/li&gt;&#xA;&lt;li&gt;200g Nutrifree Per Dolci&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;1 balení kypřícího prášku&lt;/li&gt;&#xA;&lt;li&gt;2 vejce&lt;/li&gt;&#xA;&lt;li&gt;40g kakaa&lt;/li&gt;&#xA;&lt;li&gt;150g třtinový cukr&lt;/li&gt;&#xA;&lt;li&gt;200 ml olej (cca 20PL, 110g)&lt;/li&gt;&#xA;&lt;li&gt;1 vanilkový cukr&lt;/li&gt;&#xA;&lt;li&gt;200g jogurt bílý Hollandia&lt;/li&gt;&#xA;&lt;li&gt;1 rovná ČL skořice&lt;/li&gt;&#xA;&lt;li&gt;1 menší čajová lžička skořice&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Krém&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 tvaroh vanička tučný&lt;/li&gt;&#xA;&lt;li&gt;1 smetana ke šlhání 40% (procenta dodržet nebo, ztužovač)&lt;/li&gt;&#xA;&lt;li&gt;1 větší banán&lt;/li&gt;&#xA;&lt;li&gt;2 ČL citronu&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Dýni, cukr, vejce, olej pak  přidat mouku smíchanou s kakaem skořící a kypřícím práškem.&lt;/li&gt;&#xA;&lt;li&gt;Nalejeme do vymazaného pekáče.&lt;/li&gt;&#xA;&lt;li&gt;Dáme péct na  200 stupňů, pak po asi 5 minutách snížit na 190 stupňu a péct clekm cca 45 minut.&lt;/li&gt;&#xA;&lt;li&gt;Rozmixovat banán, přidat vanilkový cukr a 2 ČL citronu. Vychladit v lednici&lt;/li&gt;&#xA;&lt;li&gt;Až korpus vychladne nožem vyříznout kruh cca 1,5 cm od kraje. (vyměřuju pomocí prstence dortové formy)&lt;/li&gt;&#xA;&lt;li&gt;Střed dortu mírně naříznout nožem a pak vydlabat vidličkou (bacha na dostatečně silné dno). Drobky odložíme stranou.&lt;/li&gt;&#xA;&lt;li&gt;Na dno vyskládáme půlky banánů&lt;/li&gt;&#xA;&lt;li&gt;Tvaroh rozmícháme s cukrem, přidáme banánový krém z lednice a nakonec vyšlehanou šlehačku (do tuha).&lt;/li&gt;&#xA;&lt;li&gt;Krém navrstvíme na banány a vytvarujeme kopec.&lt;/li&gt;&#xA;&lt;li&gt;Na vrch sypeme drobky těsta, vrstvu opatrně přimáčkneme do krému a pak na konec ještě nasypeme pro krásu navrch pár volných drobečků.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Těsto je použité z receptu na dýňovou buchtu. Je hodně pevné, což je fajn na vydlabávání. Možná zkusit ještě nějaké trochu jemnější.&#xA;Při vydlabávání bacha na poloměr u krajů zůstalo tam zbytečně moc těsta.&#xA;Krému by mohlo být víc, nebo si spíš připravit navíc tvaroh a banány a ze zbytku drobků udělat poháry do sklenic&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Banánový chlebíček</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-09-bananovy-chlebicek/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-09-bananovy-chlebicek/</link>
       <pubDate>Sat, 14 Sep 2024 22:27:57 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-09-bananovy-chlebicek/</guid>
-      <description>Suroviny  140g povoleného másla 100g třtinového cukru 2 vejce (byla L) 4g kypřícího prášku (přidala jsem 4g) 3 menší rozmačkané zralé banány (300g) 140g mouky Nutrifree Dolce (přidala jsem 60g nutrifree a 35g rýžové polohrubé)  Postup  ušlehat povolené máslo s cukrem žloutky do hladkého krému, pak přidat bílky a ještě šlehat. rozmačkat vydličkou banán do hladka nakonec všechny ingredience smíchat, vznikne tekuté těsto nalejeme do vymazané a moukou vysypané formy / nebo formu vyložíme pečícím papírem  Poznámky V robotu mi moc nešlo šlehat máslo z cukrem, prozkoumat správný postup.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-09-bananovy-chlebicek/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;140g povoleného másla&lt;/li&gt;&#xA;&lt;li&gt;100g třtinového cukru&lt;/li&gt;&#xA;&lt;li&gt;2 vejce (byla L)&lt;/li&gt;&#xA;&lt;li&gt;4g kypřícího prášku (přidala jsem 4g)&lt;/li&gt;&#xA;&lt;li&gt;3 menší rozmačkané zralé banány (300g)&lt;/li&gt;&#xA;&lt;li&gt;140g mouky Nutrifree Dolce (přidala jsem 60g nutrifree a 35g rýžové polohrubé)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ušlehat povolené máslo s cukrem žloutky do hladkého krému, pak přidat bílky a ještě šlehat.&lt;/li&gt;&#xA;&lt;li&gt;rozmačkat vydličkou banán do hladka&lt;/li&gt;&#xA;&lt;li&gt;nakonec všechny ingredience smíchat, vznikne tekuté těsto&lt;/li&gt;&#xA;&lt;li&gt;nalejeme do vymazané a moukou vysypané formy / nebo formu vyložíme pečícím papírem&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;V robotu mi moc nešlo šlehat máslo z cukrem, prozkoumat správný postup. Přesto výsledek chutný, těsto vláčné.&#xA;Použila jsem formu na velký chleba cca 30x11x6cm, po upečení byla zpalněna asi do poloviny.&#xA;(Dělala jsem asi s mandlouvou cca 50g už si nejsem jistá&amp;hellip;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ovocný salát</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-08-ovocny-salat/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-08-ovocny-salat/</link>
       <pubDate>Wed, 10 Aug 2022 14:46:12 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-08-ovocny-salat/</guid>
-      <description>Suroviny Smíchat a nakrájet ovoce dle chuti a sezony. U nás vždy základ jablíčka. také se hodí banán, doslazuje a tlumí ostrost kyselých druhů ovoce. Pokud je doma zrovna méně čerstvého ovoce přidáváme kompotované broskve.</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-08-ovocny-salat/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Smíchat a nakrájet ovoce dle chuti a sezony. U nás vždy základ jablíčka.&#xA;také se hodí banán, doslazuje a tlumí ostrost kyselých druhů ovoce.&#xA;Pokud je doma zrovna méně čerstvého ovoce přidáváme kompotované broskve.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

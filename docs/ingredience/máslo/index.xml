@@ -1,60 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>máslo on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/m%C3%A1slo/</link>
-    <description>Recent content in máslo on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Máslo on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/m%C3%A1slo/</link>
+    <description>Recent content in Máslo on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Dec 2023 21:25:39 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/m%C3%A1slo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Dec 2023 21:25:39 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/m%C3%A1slo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vosí hnízda</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-12-vosi-hnizda/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-12-vosi-hnizda/</link>
       <pubDate>Sat, 23 Dec 2023 21:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/23-12-vosi-hnizda/</guid>
-      <description>Suroviny 30ks Těsto:
- 150g piškotů mletých bez lepku 50g másla 50g moučkového cukru 20g kakaa (dávám 3 PL ) 3PL rumu dle konzistence 2-3 polévkové lžíce mléka  Náplň:
- 150g másla 100g moučkového cukru vanilkový cukr trochu 3 polévkové lžíce rumu (dávám 4)  Postup  smíchat suroviny na těsto vyšleháme krém a na konec po troškách přidáme rum formičky je nutné! vysypávat před naplněním piškotovými drobečky tvoříme kuličky (také jednu stranu, trochu obalíme v drobečkách) a těsta vyplníme formičku krém plníme pomocí pevněkšího sáčku s ustřiženým rohem zaklopíme piškotem a opatrně vyklepneme z formičky  </description>
+      <guid>http://localhost:1313/cookbook/recepty/23-12-vosi-hnizda/</guid>
+      <description>&lt;h1 id=&#34;suroviny-30ks&#34;&gt;Suroviny 30ks&lt;/h1&gt;&#xA;&lt;p&gt;Těsto:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;150g piškotů mletých bez lepku&lt;/li&gt;&#xA;&lt;li&gt;50g másla&lt;/li&gt;&#xA;&lt;li&gt;50g moučkového cukru&lt;/li&gt;&#xA;&lt;li&gt;20g kakaa (dávám 3 PL )&lt;/li&gt;&#xA;&lt;li&gt;3PL rumu&lt;/li&gt;&#xA;&lt;li&gt;dle konzistence 2-3 polévkové lžíce mléka&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Náplň:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;150g másla&lt;/li&gt;&#xA;&lt;li&gt;100g moučkového cukru&lt;/li&gt;&#xA;&lt;li&gt;vanilkový cukr trochu&lt;/li&gt;&#xA;&lt;li&gt;3 polévkové lžíce rumu (dávám 4)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;smíchat suroviny na těsto&lt;/li&gt;&#xA;&lt;li&gt;vyšleháme krém a na konec po troškách přidáme rum&lt;/li&gt;&#xA;&lt;li&gt;formičky je nutné! vysypávat před naplněním piškotovými drobečky&lt;/li&gt;&#xA;&lt;li&gt;tvoříme kuličky (také jednu stranu, trochu obalíme v drobečkách) a těsta vyplníme formičku&lt;/li&gt;&#xA;&lt;li&gt;krém plníme pomocí pevněkšího sáčku s ustřiženým rohem&lt;/li&gt;&#xA;&lt;li&gt;zaklopíme piškotem a opatrně vyklepneme z formičky&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
-    
     <item>
       <title>Vanilkové rohlíčky dle babičky Mařenky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-05-vanilkove-rohlicky-dle-babicky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-05-vanilkove-rohlicky-dle-babicky/</link>
       <pubDate>Mon, 16 May 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-05-vanilkove-rohlicky-dle-babicky/</guid>
-      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;1 vanilínový cukr&lt;/li&gt;
-&lt;li&gt;240g hladké mouky&lt;/li&gt;
-&lt;li&gt;160g másla&lt;/li&gt;
-&lt;li&gt;50g cukru&lt;/li&gt;
-&lt;li&gt;100 g mletých ořechů (lískových)&lt;/li&gt;
-&lt;li&gt;1 žloutek&lt;/li&gt;
-&lt;li&gt;1 PL mléka&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;na obalení&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1 vanilínový cukr&lt;/li&gt;
-&lt;li&gt;cukr moučka&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;suroviny-1&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;máslo vyndáme předem jinak se špatně zapracovává do těsta&lt;/li&gt;
-&lt;li&gt;ze všech surovin zpracujeme těsto a necháme odležet do druhého dne v lednici, lépe se  s ním pracuje&lt;/li&gt;
-&lt;li&gt;těsto rozdělím na cca 4 kusy a postupně rozválím na válečky tloušťky okolo 1cm a krájím na kousky cca 4cm, 
-nakonec dotvarujeme v ruce oblé špičky a zahneme.&lt;/li&gt;
-&lt;li&gt;skládáme na plech vymazaný nebo vyložený pečícím papírem (trochu nabydou, nechat mezery)&lt;/li&gt;
-&lt;li&gt;po upečení necháme trochu vychladnout a teplé obalujeme ve směsi moučkového cukru s vanilínovým&lt;/li&gt;
-&lt;li&gt;necháme vychladnout a uložíme&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Poznámky:
-Vanilínový cukr není překlep. Lze samozřejmě použít i vanilkový cukr, ale tu pravou chuť a vůni babiččiných rohlíčků mít nebudou. 
-Do bezlepkového těsta dávám místo žloutku celé vejce. Bezlepkové mám vyzkoušené s Jizerkou lze přidat 1PL lžíci pohankové.
-A pozor bezlepkové jsou po upečení velmi! křehké. Takže vydržet a nešahat, dokud neztuhnou, pak teprve obalit v cukru.
-Do blp dávám trochu vanilínového cukru i do těsta.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-05-vanilkove-rohlicky-dle-babicky/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 vanilínový cukr&lt;/li&gt;&#xA;&lt;li&gt;240g hladké mouky&lt;/li&gt;&#xA;&lt;li&gt;160g másla&lt;/li&gt;&#xA;&lt;li&gt;50g cukru&lt;/li&gt;&#xA;&lt;li&gt;100 g mletých ořechů (lískových)&lt;/li&gt;&#xA;&lt;li&gt;1 žloutek&lt;/li&gt;&#xA;&lt;li&gt;1 PL mléka&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;na obalení&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 vanilínový cukr&lt;/li&gt;&#xA;&lt;li&gt;cukr moučka&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;máslo vyndáme předem jinak se špatně zapracovává do těsta&lt;/li&gt;&#xA;&lt;li&gt;ze všech surovin zpracujeme těsto a necháme odležet do druhého dne v lednici, lépe se  s ním pracuje&lt;/li&gt;&#xA;&lt;li&gt;těsto rozdělím na cca 4 kusy a postupně rozválím na válečky tloušťky okolo 1cm a krájím na kousky cca 4cm,&#xA;nakonec dotvarujeme v ruce oblé špičky a zahneme&lt;/li&gt;&#xA;&lt;li&gt;skládáme na plech vymazaný nebo vyložený pečícím papírem (trochu nabydou, nechat mezery)&lt;/li&gt;&#xA;&lt;li&gt;po upečení necháme trochu vychladnout a teplé obalujeme ve směsi moučkového cukru s vanilínovým&lt;/li&gt;&#xA;&lt;li&gt;necháme vychladnout a uložíme&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;#Poznámky:&#xA;Vanilínový cukr není překlep. Lze samozřejmě použít i vanilkový cukr, ale tu pravou chuť a vůni babiččiných rohlíčků mít nebudou.&#xA;Do bezlepkového těsta dávám místo žloutku celé vejce. Bezlepkové mám vyzkoušené s Jizerkou, lze přidat 1 PL pohankové.&#xA;A pozor bezlepkové jsou po upečení velmi! křehké. Takže vydržet a nešahat, dokud neztuhnou, pak teprve obalit v cukru.&#xA;Do blp dávám trochu vanilínového cukru i do těsta.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

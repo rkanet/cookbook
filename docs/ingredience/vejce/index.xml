@@ -1,164 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vejce on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/vejce/</link>
-    <description>Recent content in vejce on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Vejce on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/vejce/</link>
+    <description>Recent content in Vejce on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Aug 2025 09:34:41 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/vejce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Aug 2025 09:34:41 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/vejce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vejce na měkko</title>
-      <link>https://rkanet.github.io/cookbook/recepty/25-08-vejce-na-mekko/</link>
+      <link>http://localhost:1313/cookbook/recepty/25-08-vejce-na-mekko/</link>
       <pubDate>Mon, 11 Aug 2025 09:34:41 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/25-08-vejce-na-mekko/</guid>
-      <description>Suroviny  vejce  Postup  uvařit vejce   vejce z lednice     Velikost vejce čas popis žloutku     M 57g 7:00 tekutá hnilička   L 70g 8:00 prasklo, vyteklo, hnilička   M 58g 6:30 tekutý, ale mírně i bílek   M 59g 6:32 tekutý, ale mírně i bílek     vejce ze sklepa     Velikost vejce čas popis žloutku     M 57g 18°C 5:40 tekutý, ale mírně i bílek   M 62g 18°C 5:50 tekutý, bílek tekutý více než u menšího    Ihned po vyndání z hrnce dávám do misky se studenou vodou.</description>
+      <guid>http://localhost:1313/cookbook/recepty/25-08-vejce-na-mekko/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;vejce&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;uvařit vejce&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;vejce z lednice&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Velikost vejce&lt;/th&gt;&#xA;          &lt;th&gt;čas&lt;/th&gt;&#xA;          &lt;th&gt;popis  žloutku&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;M 57g&lt;/td&gt;&#xA;          &lt;td&gt;7:00&lt;/td&gt;&#xA;          &lt;td&gt;tekutá hnilička&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;L 70g&lt;/td&gt;&#xA;          &lt;td&gt;8:00&lt;/td&gt;&#xA;          &lt;td&gt;prasklo, vyteklo, hnilička&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;M 58g&lt;/td&gt;&#xA;          &lt;td&gt;6:30&lt;/td&gt;&#xA;          &lt;td&gt;tekutý, ale mírně i bílek&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;M 59g&lt;/td&gt;&#xA;          &lt;td&gt;6:32&lt;/td&gt;&#xA;          &lt;td&gt;tekutý, ale mírně i bílek&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;vejce ze sklepa&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Velikost vejce&lt;/th&gt;&#xA;          &lt;th&gt;čas&lt;/th&gt;&#xA;          &lt;th&gt;popis  žloutku&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;M 57g  18°C&lt;/td&gt;&#xA;          &lt;td&gt;5:40&lt;/td&gt;&#xA;          &lt;td&gt;tekutý, ale mírně i bílek&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;M 62g  18°C&lt;/td&gt;&#xA;          &lt;td&gt;5:50&lt;/td&gt;&#xA;          &lt;td&gt;tekutý, bílek tekutý více než u menšího&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Ihned po vyndání z hrnce dávám do misky se studenou vodou. Vzápětí propláchnu pod tekoucí vodou.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Zkusit z lednice a čas 6:40.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bramborové knedlíky, šišky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-01-bramborove-knedliky-sisky/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-01-bramborove-knedliky-sisky/</link>
       <pubDate>Fri, 05 Jan 2024 10:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-01-bramborove-knedliky-sisky/</guid>
-      <description>Suroviny Těsto (na dva malé knedlíky a nebo talíř šišek)
- 400g vařených brambor 200 g mouky (100g mouka polohruba rýžová, 30g pohanková hladká, zbytek Jizerka) 1 vejce špetka soli vždy a pokud j jsou na slano, tak ještě 1 rovná čajová lžička soli  Postup  den předem, nebo s předstihem uvaříme brambory a necháme vychladnout. brmabory nastrouháme na jemno smícháme brambory, mouku vejce a špetku soli podle záměru vytvarujeme šišky na br.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-01-bramborove-knedliky-sisky/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Těsto (na dva malé knedlíky a nebo talíř šišek)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;400 g vařených brambor&lt;/li&gt;&#xA;&lt;li&gt;200 g mouky (100 g mouky polohrubé rýžové, 30 g pohankové hladké, zbytek Jizerka)&lt;/li&gt;&#xA;&lt;li&gt;1 vejce&lt;/li&gt;&#xA;&lt;li&gt;špetka soli vždy a pokud jsou na slano, tak ještě 1 rovná čajová lžička soli&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;den předem, nebo s předstihem uvaříme brambory a necháme vychladnout&lt;/li&gt;&#xA;&lt;li&gt;brambory nastrouháme na jemno&lt;/li&gt;&#xA;&lt;li&gt;smícháme brambory, mouku, vejce a špetku soli&lt;/li&gt;&#xA;&lt;li&gt;podle záměru vytvarujeme šišky na br. knedlík (2 menší z tohoto množství), nebo válečky, které nakrájíme a vaříme jako šišky&lt;/li&gt;&#xA;&lt;li&gt;vaříme buď v osolené vodě, pokud je na slano, nebo bez soli na sladko&lt;/li&gt;&#xA;&lt;li&gt;šišky vaříme cca 10 minut, knedlíky dle velikosti cca 20 minut&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Varný typ brambor Florentýna doporučuje A/C, často jsem našla C. Většinou mám doma B, tak vařím z nich :)&#xA;Čím víc mouky (krupičky), tím hutnější knedlík. Tedy čím větší podíl brambor vzhledem k mouce, tím bude knedlík nadýchanější.&#xA;Ale bacha, malé množství mouky/krupičky způsobí, že se knedlík rozvaří. Orientačně dodržuji poměr mouka:brambory 1:2.&#xA;(Florentýna uvádí 400 g krupičky /1000 g nastrouhaných brambor jako minimum)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dorayaki</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-12-dorayaki/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-12-dorayaki/</link>
       <pubDate>Thu, 21 Dec 2023 22:40:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/23-12-dorayaki/</guid>
-      <description>Suroviny Těsto:
- 4 vejce 120g cukru 1 vrchovata PL medu 160g mouka ( 50g doves, zbytek Nutri free Mix per Pasta Frolla) 1ČL kypřicího prášku 100 ml vody 1 PL olej  Náplň Anko
- 150g fazolí Adzuki suchých 150g cukru (dát méně cca 120 je až dost) 50 ml vody špetka soli  https://www.youtube.com/watch?v=KYjggwmRqgQ
-Postup  připravíme Anko, ideálně den předem (fazole se často namáčí, ale není to nezbytně nutné)   fazole přivedeme k varu, vaříme 3 minuty, vodu slejeme přecedíme a přidáme novou 2,5 cm nad fazole v té už dovaříme na mírném plamen doléváme vodu, vaříme cca 40 minut (měkké jsou když po rozemnutí mezi prsty nemají tvrdé jádaro, ale dělají dametovou kaši) vypneme, přiklopíme poklicí a necháme stát 30 minut přecedíme vodu a necháme jí stranou rozpustíme cukr ve vodě a přidáme fazole vaříme již prudčeji cca 10 minut do požadovanmé konzistence, na dorayaki múže být jemnější lze nechat hrubé fazole, nebo je paasírovat, udělala jesem něco mezi na závěr je rozmixovala i se slupkou  připravíme těsto, necháme odležet v lednici   na teflonovou pánev opatrně lijeme lívanečky otáčíme, když zkrz probublávají bubliny otočit jemně jinak se rozprskne:)  Poznámky příště dát méně mouky s xanthanem a více Doves farm plain white, bylo to moc gumové a špatně těsto stékalo na pánev.</description>
+      <guid>http://localhost:1313/cookbook/recepty/23-12-dorayaki/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Těsto:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;4 vejce&lt;/li&gt;&#xA;&lt;li&gt;120g cukru&lt;/li&gt;&#xA;&lt;li&gt;1 vrchovata PL medu&lt;/li&gt;&#xA;&lt;li&gt;160g mouka ( 50g doves, zbytek Nutri free Mix per Pasta Frolla)&lt;/li&gt;&#xA;&lt;li&gt;1ČL kypřicího prášku&lt;/li&gt;&#xA;&lt;li&gt;100 ml vody&lt;/li&gt;&#xA;&lt;li&gt;1 PL olej&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Náplň Anko&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;150g fazolí Adzuki suchých&lt;/li&gt;&#xA;&lt;li&gt;150g cukru (dát méně cca 120 je až dost)&lt;/li&gt;&#xA;&lt;li&gt;50 ml vody&lt;/li&gt;&#xA;&lt;li&gt;špetka soli&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KYjggwmRqgQ&#34;&gt;https://www.youtube.com/watch?v=KYjggwmRqgQ&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;připravíme Anko, ideálně den předem (fazole se často namáčí, ale není to nezbytně nutné)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;fazole přivedeme k varu, vaříme 3 minuty, vodu slejeme přecedíme a přidáme novou 2,5 cm nad fazole v té už dovaříme na mírném plamen&lt;/li&gt;&#xA;&lt;li&gt;doléváme vodu, vaříme cca 40 minut (měkké jsou když po rozemnutí mezi prsty nemají tvrdé jádro, ale dělají jemnou kaši)&lt;/li&gt;&#xA;&lt;li&gt;vypneme, přiklopíme poklicí a necháme stát 30 minut&lt;/li&gt;&#xA;&lt;li&gt;přecedíme vodu a necháme jí stranou&lt;/li&gt;&#xA;&lt;li&gt;rozpustíme cukr ve vodě a přidáme fazole vaříme již prudčeji cca 10 minut do požadované konzistence, na dorayaki může být jemnější&lt;/li&gt;&#xA;&lt;li&gt;lze nechat hrubé fazole, nebo je pasírovat, udělala jsem něco mezi na závěr je rozmixovala i se slupkou&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;připravíme těsto, necháme odležet v lednici&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;na teflonovou pánev opatrně lijeme lívanečky otáčíme, když zkrz probublávají bubliny&lt;/li&gt;&#xA;&lt;li&gt;otočit jemně jinak se rozprskne:)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Příště dát méně mouky s xanthanem a více Doves farm plain white, bylo to moc gumové a špatně těsto stékalo na pánev.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Věnečky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-12-venecky/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-12-venecky/</link>
       <pubDate>Fri, 15 Dec 2023 22:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/23-12-venecky/</guid>
-      <description>Suroviny asi 10ks Těsto:
- 100 g mouky Jizerka 160 ml vody špetka soli 50 g oleje 2-3 vejce  Krém 250ml mléka 150g másla 1 pudink 1-2Pl cukru
-Postup  vodu, olej a sůl přivést k varu, pak přidat mouku a odpalovat nechat pod folii vychladnout (lze dát chladnout do mísy robota a jemně promíchávat) pak do hmoty zapracujeme robotem vajíčka, až je tětso hladké přes sáček s cukrářskou špičkou stříkejte na plech do tvaru věnečků.</description>
+      <guid>http://localhost:1313/cookbook/recepty/23-12-venecky/</guid>
+      <description>&lt;h1 id=&#34;suroviny-asi-10ks&#34;&gt;Suroviny asi 10ks&lt;/h1&gt;&#xA;&lt;p&gt;Těsto:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;100 g mouky Jizerka&lt;/li&gt;&#xA;&lt;li&gt;160 ml vody&lt;/li&gt;&#xA;&lt;li&gt;špetka soli&lt;/li&gt;&#xA;&lt;li&gt;50 g oleje&lt;/li&gt;&#xA;&lt;li&gt;2-3 vejce&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Krém&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250ml mléka&lt;/li&gt;&#xA;&lt;li&gt;150g másla&lt;/li&gt;&#xA;&lt;li&gt;1 pudink&lt;/li&gt;&#xA;&lt;li&gt;1-2Pl cukru&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;vodu, olej a sůl přivést k varu, pak přidat mouku a odpalovat&lt;/li&gt;&#xA;&lt;li&gt;nechat pod folii vychladnout (lze dát chladnout do mísy robota a jemně promíchávat)&lt;/li&gt;&#xA;&lt;li&gt;pak do hmoty zapracujeme robotem vajíčka, až je těsto hladké&lt;/li&gt;&#xA;&lt;li&gt;přes sáček s cukrářskou špičkou stříkejte na plech do tvaru věnečků.&lt;/li&gt;&#xA;&lt;li&gt;pečeme v troubě rozpálené na 230 stupňů do zezlátnutí. V průběhu pečení neotvírat troubu.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Těsto docela šlo, ale příště lépe&amp;hellip; Krém se mi srazil&amp;hellip; takže trénovat:)&#xA;Našla jsem i recepty, kde se peče na nižší teplotu&amp;hellip;170 °C, babička peče 230 20 minut velké větrníky.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tvarohová buchta extra rychlá</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-08-tvarohova-buchta-bez-mouky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-08-tvarohova-buchta-bez-mouky/</link>
       <pubDate>Wed, 10 Aug 2022 14:28:01 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-08-tvarohova-buchta-bez-mouky/</guid>
-      <description>Suroviny (dortová forma 28cm)  2 ks tvaroh tučný vanička (500g celkem) 1 ks vanilkový cukr + trochu cukru dle chuti 40g kukuř. škrobu nebo jeden pudink 2 vajíčka smíchat  Postup Tvaroh smícháme s cukrem a necháme ho rozpustit. přidáme škro, pak vajíčka a nalijeme do formy vyložené pečícím papírem. Pečeme zvolna 40-50 minut při cca 180 st (v případě potřeby lze přikrýt pečícím papírem, aby moc zhnědl povrch) V toubě hodně nabyde, ale ve finále je nízký (Pro uvedenou formu cca 1cm).</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-08-tvarohova-buchta-bez-mouky/</guid>
+      <description>&lt;h1 id=&#34;suroviny-dortová-forma-28cm&#34;&gt;Suroviny (dortová forma 28cm)&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 ks tvaroh tučný vanička (500g celkem)&lt;/li&gt;&#xA;&lt;li&gt;1 ks vanilkový cukr   + trochu cukru dle chuti&lt;/li&gt;&#xA;&lt;li&gt;40g kukuř. škrobu nebo jeden pudink&lt;/li&gt;&#xA;&lt;li&gt;2 vajíčka&lt;/li&gt;&#xA;&lt;li&gt;jablečné pyré nebo kompot&lt;/li&gt;&#xA;&lt;li&gt;sekané ořechy, mandle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;p&gt;Tvaroh smícháme s cukrem a necháme ho rozpustit. Přidáme škrob, pak vajíčka a nalijeme do formy vyložené pečícím papírem.&#xA;Pečeme zvolna 40-50 minut při cca 180 °C (v případě potřeby lze přikrýt pečícím papírem, aby moc nezhnědl povrch).&#xA;V troubě hodně nabyde, ale ve finále je nízký (pro uvedenou formu cca 1 cm).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Trhanec bez lepku</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-07-trhanec/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-07-trhanec/</link>
       <pubDate>Fri, 08 Jul 2022 21:06:21 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-07-trhanec/</guid>
-      <description>Suroviny  200g hl.mouky (100 Jizerka + 100 Doves farm) 250ml mléka (dala jsem méně, tak 200ml) špetka soli 4 vejce (ušlehat sníh) 40g cukru krupice nebo krystal 1 vanilkový cukr 1 panák rumu citronová kůra, nebo Šťáva  Postup  Ušleháme pevný sníh, pak zašleháme sníh s cukrem v misce smíchat mouku, vanilkový cukr, citronovou kúru, mléko žloutky. opatrně přidáme sníh rozehřejeme pánev s tukem (máslo přepuštěné je nejlepší) sběračkou nalejeme, nepřiklápíme&amp;hellip; v pravý čas otočíme a krátce opečeme i z druhé strany roztrháme a zasypeme trochou cukru (zaprášíme) lehce promícháme (cukr zkaramelizuje a je to dobré:) servírujeme s jablečným pyré a jablečným kompotem, rádi ještě zasypáváme skořicovým cukrem a mandlovými lupínky  Poznámky  množství vyjde na dvě až tři pánve dle průměru používám teflonovou pánev na ostatních se mi přichytává a nejde otočit  </description>
+      <guid>http://localhost:1313/cookbook/recepty/22-07-trhanec/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;200g hl.mouky (100 Jizerka + 100 Doves farm)&lt;/li&gt;&#xA;&lt;li&gt;250ml mléka (dala jsem méně, tak 200ml)&lt;/li&gt;&#xA;&lt;li&gt;špetka soli&lt;/li&gt;&#xA;&lt;li&gt;4 vejce (ušlehat sníh)&lt;/li&gt;&#xA;&lt;li&gt;40g cukru krupice nebo krystal&lt;/li&gt;&#xA;&lt;li&gt;1 vanilkový cukr&lt;/li&gt;&#xA;&lt;li&gt;1 panák rumu&lt;/li&gt;&#xA;&lt;li&gt;citronová kůra, nebo šťáva&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ušleháme pevný sníh, pak zašleháme sníh s cukrem&lt;/li&gt;&#xA;&lt;li&gt;v misce smíchat mouku, vanilkový cukr, citronovou kůru, mléko a žloutky.&lt;/li&gt;&#xA;&lt;li&gt;opatrně přidáme sníh&lt;/li&gt;&#xA;&lt;li&gt;rozehřejeme pánev  s tukem  (máslo přepuštěné je nejlepší)&lt;/li&gt;&#xA;&lt;li&gt;sběračkou nalejeme, nepřiklápíme&amp;hellip; v pravý čas otočíme a krátce opečeme i z druhé strany&lt;/li&gt;&#xA;&lt;li&gt;roztrháme  a zasypeme trochou cukru (zaprášíme) lehce promícháme  (cukr zkaramelizuje a je to dobré:)&lt;/li&gt;&#xA;&lt;li&gt;servírujeme s jablečným pyré a jablečným kompotem,  rádi ještě zasypáváme skořicovým cukrem a mandlovými lupínky&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;množství vyjde na dvě až tři pánve dle průměru&lt;/li&gt;&#xA;&lt;li&gt;používám teflonovou pánev na ostatních se mi přichytává a nejde otočit&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Miso polévka</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-06-miso-polevka/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-06-miso-polevka/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-06-miso-polevka/</guid>
-      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;vývar&lt;/li&gt;
-&lt;li&gt;rýžové nudle&lt;/li&gt;
-&lt;li&gt;miso (tmavé, Miso genmai - hnědá rýže a soja, výrobce Muso,)&lt;/li&gt;
-&lt;li&gt;vejce&lt;/li&gt;
-&lt;li&gt;zelenina dle chuti nakrájená na nudličky (u nás trocha mrkve, celer, petržel, pórek)&lt;/li&gt;
-&lt;li&gt;uzené tofu na nudličky, zbytky masa z vývaru&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;připravíme vývar (ideálně den předem)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;uvaříme vajíčka na tvrdo&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;v troše teplé vody rozpustíme miso (cca 1PL kopcem na 200ml)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;orestujeme zeleninu, zalijeme vývarem a případně naředíme vodou&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;nakonec vmícháme trochu předem rozpuštěného miso, již nevaříme&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;servírujeme a na tom záleží, takže krásně!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;na talíř hromádka nudlí, rozpůlená vajíčka, trocha masa/tofu, někdy i pažitku nebo tenoučká kolečka pórku na přizdobení&amp;hellip;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;zalijeme vývarem se zeleninou&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;
-&lt;p&gt;Protože různí členové mají odlišný názor na množství misa, dáváme do základu polévky trochu a na talíř si každý dodá ještě sám. 
-Občas vaříme i rychlou verzi s méně zeleniny a vaječnou omeletou. Počítám jedno vejce na osobu lze přidat i trochu strouhaného sýra. Omeletu srolujeme a nakrájíme na nudličky.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-06-miso-polevka/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;vývar&lt;/li&gt;&#xA;&lt;li&gt;rýžové nudle&lt;/li&gt;&#xA;&lt;li&gt;miso (tmavé, Miso genmai - hnědá rýže a soja, výrobce Muso,)&lt;/li&gt;&#xA;&lt;li&gt;vejce&lt;/li&gt;&#xA;&lt;li&gt;zelenina dle chuti nakrájená na nudličky (u nás trochu mrkve, celer, petržel, pórek)&lt;/li&gt;&#xA;&lt;li&gt;uzené tofu na nudličky, zbytky masa z vývaru&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;připravíme vývar (ideálně den předem)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;uvaříme vajíčka na tvrdo&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;v troše teplé vody rozpustíme miso (cca 1PL kopcem na 200ml)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;orestujeme zeleninu, zalijeme vývarem a případně naředíme vodou&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;nakonec vmícháme trochu předem rozpuštěného miso, již nevaříme&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;servírujeme a na tom záleží, takže krásně!&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;na talíř hromádka nudlí, rozpůlená vajíčka, trocha masa/tofu, někdy i pažitku nebo tenoučká kolečka pórku na přizdobení&amp;hellip;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;zalijeme vývarem se zeleninou&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Protože různí členové mají odlišný názor na množství misa, dáváme do základu polévky trochu a na talíř si každý dodá ještě sám.&#xA;Občas vaříme i rychlou verzi s méně zeleniny a vaječnou omeletou. Počítám jedno vejce na osobu lze přidat i trochu strouhaného sýra. Omeletu srolujeme a nakrájíme na nudličky.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bábovka třená</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-05-babovka/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-05-babovka/</link>
       <pubDate>Mon, 16 May 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-05-babovka/</guid>
-      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;180 g másla&lt;/li&gt;
-&lt;li&gt;330 g cukr krupice je idea (ne moučka)&lt;/li&gt;
-&lt;li&gt;4 vejce&lt;/li&gt;
-&lt;li&gt;330 g polohrubé mouky&lt;/li&gt;
-&lt;li&gt;125 ml mléka&lt;/li&gt;
-&lt;li&gt;tuk a hrubá mouka na přípravu formy&lt;/li&gt;
-&lt;li&gt;1 lžíce kakaového prášku&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;Pečlivě vymazat bábovkovou formu a vysypeme hrubou moukou.&lt;/li&gt;
-&lt;li&gt;předehřejeme troubu na 160 stupňů&lt;/li&gt;
-&lt;li&gt;Utřeme máslo (ručně nebo třecího nástavce kuchyňského robotu) cca dvě minuty. Pak přidáme cca dvě třetiny cukru a ještě 10 minut třeme (ručně třete ještě déle). (máslo trochu povolí, nabyde a  babička říkala, že zbělá)&lt;/li&gt;
-&lt;li&gt;Oddělte žloutky od bílků. Žloutky jeden po druhém zašlehejte do máslové pěny, další vždy až poté, co předchozí beze stopy zmizí.&lt;/li&gt;
-&lt;li&gt;Mouku prosijte. Ve třech dávkách pak postupně, tentokrát už jen vařečkou bez robotu, (jemně!) zapracujte vždy třetinu mouky a třetinu mléka.&lt;/li&gt;
-&lt;li&gt;Z bílků a špetky soli ušlehejte řídký sníh. Po lžících zašlehejte zbytek cukru a pokračujte dál ve šlehání, až bude sníh lesklý a zhoustne – při nadzvednutí metličky se na něm vytvoří špičky, které se jen pozvolna ohnou dolů. pak vyklopte z misky k téměř hotovému těstu.&lt;/li&gt;
-&lt;li&gt;Sníh opatrně vmícháme k těstu, nadlehčujeme a mícháme jen po dobu nezbytně nutnou k smísení. (šetříme bubliny v těstě)&lt;/li&gt;
-&lt;li&gt;Pro mramorování oddělíme třetinu těsta a prosijeme na ni kakaový prášek. Opatrně promícháme.&lt;/li&gt;
-&lt;li&gt;Do formy nalijeme&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;první třetinu světlého těsta&lt;/li&gt;
-&lt;li&gt;první polovinou hnědého těsta&lt;/li&gt;
-&lt;li&gt;druhou třetinou světlého těsta&lt;/li&gt;
-&lt;li&gt;zbývající polovinou tmavého těsta&lt;/li&gt;
-&lt;li&gt;třetí třetinu světlého těsta.
-není nutné promíchávat mramorování se vytvoří v průběhu pečení pohybem těsta&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;9&#34;&gt;
-&lt;li&gt;Bábovku vložte do vyhřáté trouby a pečte asi 50 minut. Pokud si nejste jisti a máte pochyby o propečení těsta, klidně 10 minut přidejte (teplota účení je nízká)&lt;/li&gt;
-&lt;li&gt;Po vyndání z trouby nechat stát cca 2 minuty ve formě. Pak vyklopit  tj. přikryjeme formu obráceným a dostatečně velkým talířem a převrátíme. 
-(Lze si pomoci čistou utěrkou a namočte ji do studené vody položenou na formu)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;
-&lt;p&gt;Kypřící prášek není potřeba ani trochu. Kypření zajistí tření másla a šlehání sněhu. Třené těsto nemá rádo moc vysokou teplotu. Pečeme cca na 160 stupňů.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-05-babovka/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;180 g másla&lt;/li&gt;&#xA;&lt;li&gt;330 g cukru krupice je ideál (ne moučka)&lt;/li&gt;&#xA;&lt;li&gt;4 vejce&lt;/li&gt;&#xA;&lt;li&gt;330 g polohrubé mouky&lt;/li&gt;&#xA;&lt;li&gt;125 ml mléka&lt;/li&gt;&#xA;&lt;li&gt;tuk a hrubá mouka na přípravu formy&lt;/li&gt;&#xA;&lt;li&gt;1 lžíce kakaového prášku&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Pečlivě vymazat bábovkovou formu a vysypeme hrubou moukou.&lt;/li&gt;&#xA;&lt;li&gt;Předehřát troubu na 160 °C.&lt;/li&gt;&#xA;&lt;li&gt;Utřít máslo (ručně nebo třecím nástavcem kuchyňského robotu) cca dvě minuty. Pak přidat asi dvě třetiny cukru a ještě 10 minut třít, ručně ještě déle. Máslo trochu povolí, nabyde a babička říkala, že zbělá.&lt;/li&gt;&#xA;&lt;li&gt;Oddělte žloutky od bílků. Žloutky jeden po druhém zašlehejte do máslové pěny, další vždy až poté, co předchozí beze stopy zmizí.&lt;/li&gt;&#xA;&lt;li&gt;Mouku prosijte. Ve třech dávkách pak postupně, tentokrát už jen vařečkou bez robotu, (jemně!) zapracujte vždy třetinu mouky a třetinu mléka.&lt;/li&gt;&#xA;&lt;li&gt;Z bílků a špetky soli ušlehejte řídký sníh. Po lžících zašlehat zbytek cukru, dále šlehat až bude sníh lesklý a zhoustne – při nadzvednutí metličky se na něm vytvoří špičky, které se jen pozvolna ohnou dolů. Pak vyklopte z misky k téměř hotovému těstu.&lt;/li&gt;&#xA;&lt;li&gt;Sníh opatrně vmícháme k těstu, nadlehčujeme a mícháme jen po dobu nezbytně nutnou k smísení. Šetří se bubliny v těstě.&lt;/li&gt;&#xA;&lt;li&gt;Pro mramorování oddělíme třetinu těsta a prosijeme na ni kakaový prášek. Opatrně promícháme.&lt;/li&gt;&#xA;&lt;li&gt;Do formy nalijeme&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;první třetinu světlého těsta&lt;/li&gt;&#xA;&lt;li&gt;první polovinou hnědého těsta&lt;/li&gt;&#xA;&lt;li&gt;druhou třetinou světlého těsta&lt;/li&gt;&#xA;&lt;li&gt;zbývající polovinou tmavého těsta&lt;/li&gt;&#xA;&lt;li&gt;třetí třetinu světlého těsta.&#xA;není nutné promíchávat mramorování se vytvoří v průběhu pečení pohybem těsta&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;9&#34;&gt;&#xA;&lt;li&gt;Bábovku vložte do vyhřáté trouby a pečte asi 50 minut. Pokud si nejste jisti a máte pochyby o propečení těsta, klidně 10 minut přidejte.&lt;/li&gt;&#xA;&lt;li&gt;Po vyndání z trouby nechat stát cca 2 minuty ve formě. Pak vyklopit  tj. přikryjeme formu obráceným a dostatečně velkým talířem a převrátíme. Lze si pomoci čistou utěrkou a namočit do studené vody a položit na formu.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Kypřící prášek není potřeba ani trochu. Kypření zajistí tření másla a šlehání sněhu. Třené těsto nemá rádo moc vysokou teplotu. Pečeme cca na 160 stupňů.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

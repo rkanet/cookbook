@@ -1,131 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tvaroh on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/tvaroh/</link>
-    <description>Recent content in tvaroh on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tvaroh on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/tvaroh/</link>
+    <description>Recent content in Tvaroh on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jul 2025 19:58:24 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/tvaroh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Jul 2025 19:58:24 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/tvaroh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chia dezert s tvarohem</title>
-      <link>https://rkanet.github.io/cookbook/recepty/25-07-chia-dezert-s-tvarohem/</link>
+      <link>http://localhost:1313/cookbook/recepty/25-07-chia-dezert-s-tvarohem/</link>
       <pubDate>Thu, 31 Jul 2025 19:58:24 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/25-07-chia-dezert-s-tvarohem/</guid>
-      <description>Suroviny (asi 3 porce)  20g chia semínek 100g mléko polotučné 250g tvaroh polotučný ve vaničce cukr dle chuti vanilkový cukr čerstvé ovoce rozmixované plus kousky na ozdobu  Postup  předem namočit chia semínka do tvarohu s mlékem a nechat v lednici nabobtnat (nechávám přes noc, ale prý stačí 3 hodiny) rozdělit do misek a přelijeme ovocnou vrstvou případně dozdobit kousky ovoce, listem máty&amp;hellip;  Poznámky Tvaroh jsem měla tučný.</description>
+      <guid>http://localhost:1313/cookbook/recepty/25-07-chia-dezert-s-tvarohem/</guid>
+      <description>&lt;h1 id=&#34;suroviny-asi-3-porce&#34;&gt;Suroviny (asi 3 porce)&lt;/h1&gt;&#xA;&lt;p&gt;Základ&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;20 g chia semínek&lt;/li&gt;&#xA;&lt;li&gt;100 g mléko polotučné&lt;/li&gt;&#xA;&lt;li&gt;250 g tvaroh polotučný ve vaničce&lt;/li&gt;&#xA;&lt;li&gt;cukr dle chuti&lt;/li&gt;&#xA;&lt;li&gt;vanilkový cukr&#xA;2.vrtsva&lt;/li&gt;&#xA;&lt;li&gt;čerstvé ovoce rozmixované&lt;/li&gt;&#xA;&lt;li&gt;kousky ovoce na ozdobu&lt;/li&gt;&#xA;&lt;li&gt;mátové listy na ozdobu&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Předem namočit chia semínka do tvarohu s mlékem a nechat v lednici nabobtnat (nechávám přes noc, ale prý stačí 3 hodiny).&lt;/li&gt;&#xA;&lt;li&gt;Rozdělit do misek a přelijeme ovocnou vrstvou.&lt;/li&gt;&#xA;&lt;li&gt;Případně dozdobit kousky ovoce, listem máty&amp;hellip;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Tvaroh jsem měla tučný. Výsledek jemný, krémový. Polotučný tvaroh vyzkoušen a množství tuku dostačující.&#xA;Tj. senzoricky malý rozdíl, v obsahu přijatého tuku větší, takže se asi budu používat přednostně.&#xA;Do misek je lepší to nadávkovat před úplným nabobtnáním, ale v jednom hrnci se mi to lépe skladuje v lednici.&#xA;S chia se to nemá přehánět, doporučuje se 15 g (suchých) osoba/den, jinak se hůř tráví.&#xA;Vrsta druhá vyzkoušeno:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tvarohové muffiny s nutellou</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-11-tvarohve-muffiny-nutella/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-11-tvarohve-muffiny-nutella/</link>
       <pubDate>Sun, 10 Nov 2024 08:25:39 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-11-tvarohve-muffiny-nutella/</guid>
-      <description>Suroviny na 12 ks muffinů  2 vejce 90g třtinového cukru 75 ml oleje 250g tvaroh ve vaničce (tučný) 200g mouky (2PL pohankové mouky cca 40g a zbytek Jizerka zlatá) 1/2 prášku do pečiva 1 vanilínový cukr Nutella loupané celé mandle (3-4 ks na muffin)  Postup  smíchat cukr, vejce a olej s tvarohem (pokojová teplota) smíchat mouku s kypřícím práškem smíchat mouku s tvarohovou částí pomocí dvou polevkových lžic dávkujeme do formiček trochu těsta na to nuttelu a &amp;ldquo;zaklopit&amp;rdquo; druhou polovinou těsta navrch zapíchnout mandle pečeme v předehřáte troubě 200 stupňů, asi 25minut  Poznámky Recept je variace na tvarohové muffiny.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-11-tvarohve-muffiny-nutella/</guid>
+      <description>&lt;h1 id=&#34;suroviny-na-12-ks-muffinů&#34;&gt;Suroviny na 12 ks muffinů&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 vejce&lt;/li&gt;&#xA;&lt;li&gt;90 g třtinového cukru&lt;/li&gt;&#xA;&lt;li&gt;75 ml oleje&lt;/li&gt;&#xA;&lt;li&gt;250 g tvarohu ve vaničce (tučný)&lt;/li&gt;&#xA;&lt;li&gt;200 g mouky (2 PL pohankové mouky cca 40 g a zbytek Jizerka zlatá)&lt;/li&gt;&#xA;&lt;li&gt;1/2 prášku do pečiva&lt;/li&gt;&#xA;&lt;li&gt;1 vanilínový cukr&lt;/li&gt;&#xA;&lt;li&gt;Nutella&lt;/li&gt;&#xA;&lt;li&gt;loupané celé mandle (3-4 ks na muffin)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;smíchat cukr, vejce a olej s tvarohem (pokojová teplota)&lt;/li&gt;&#xA;&lt;li&gt;smíchat mouku s kypřícím práškem&lt;/li&gt;&#xA;&lt;li&gt;smíchat mouku s tvarohovou částí&lt;/li&gt;&#xA;&lt;li&gt;pomocí dvou polevkových lžic dávkujeme do formiček trochu těsta, na to Nutellu a &amp;ldquo;zaklopit&amp;rdquo; druhou polovinou těsta&lt;/li&gt;&#xA;&lt;li&gt;navrch zapíchnout mandle, lískové ořechy &amp;hellip;&lt;/li&gt;&#xA;&lt;li&gt;pečeme v předehřáté troubě 200 °C, asi 25 minut&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Recept je variace na &lt;a href=&#34;http://localhost:1313/cookbook/recepty/23-08-tvarohve-muffiny/&#34;&gt;tvarohové muffiny&lt;/a&gt;. Základ těsta úplně stejný, jen jsem vynechala skořicový cukr a místo vanilkového cukru dala intenzivnější vanilínový.&#xA;Do muffinové formy používám ještě papírové vložky, mírně vymazat olejem (v nouzi lze i rovnou do vymazané a moukou vysypané formy).&#xA;Bezlepkové vyzkoušeno zatím z Jizerky (zlaté) a 2 PL pohankové mouky. Oproti původnímu receptu sníh už nešlehám. Zkoušela jsem navrch k mandlím ještě kostičky čokolády, ale moc to nepřidá. Spíš to trochu neladí s chutí Nutelly :) Takže když tak nechat na další variantu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tvarohová panna cotta</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-04-tvarohova-panna-cotta/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-04-tvarohova-panna-cotta/</link>
       <pubDate>Thu, 25 Apr 2024 12:54:53 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-04-tvarohova-panna-cotta/</guid>
-      <description>Suroviny Tvarohová vrstva
- 10g želatina Dr. Oetker Želatina na ztužení krémů (tj 1/2 balení) 500g tučného tvarohu (2ks ve vaničce po 250g) cukr 1 vanilkový cukr 200ml vody  Ovocná vrstva
- ovoce  vypeckované třešně ze dvou domácích kompotů trocha mražené ovocné směsi (rybíz, jahody, borůvky&amp;hellip;), dodá kyselost třešním   troška kukuřičného škrobu na zahuštění/nebo varianta pevnějšího želé s agarem cukr  Postup  Namočíme želatinu ve vodě, necháme 10 minut nabobtnat.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-04-tvarohova-panna-cotta/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Tvarohová vrstva&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;10 g želatiny Dr. Oetker Želatina na ztužení krémů (tj. 1/2 balení)&lt;/li&gt;&#xA;&lt;li&gt;500 g tučného tvarohu (2 ks ve vaničce po 250 g)&lt;/li&gt;&#xA;&lt;li&gt;cukr&lt;/li&gt;&#xA;&lt;li&gt;1 vanilkový cukr&lt;/li&gt;&#xA;&lt;li&gt;200 ml vody&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ovocná vrstva&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ovoce&#xA;&lt;ul&gt;&#xA;&lt;li&gt;vypeckované třešně ze dvou domácích kompotů&lt;/li&gt;&#xA;&lt;li&gt;trocha mražené ovocné směsi (rybíz, jahody, borůvky&amp;hellip;), dodá kyselost třešním&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;troška kukuřičného škrobu na zahuštění/nebo varianta pevnějšího želé s agarem&lt;/li&gt;&#xA;&lt;li&gt;cukr&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Namočíme želatinu ve vodě, necháme 10 minut nabobtnat.&lt;/li&gt;&#xA;&lt;li&gt;Rozmícháme tvaroh s cukrem.&lt;/li&gt;&#xA;&lt;li&gt;Želatinu zahřejeme ve vodní lázni do rozpuštění. Nesmí se přehřát, max. 60 °C.&lt;/li&gt;&#xA;&lt;li&gt;Želatinu necháme trochu vychladnout, pak ještě teplou vmícháme do tvarohu.&lt;/li&gt;&#xA;&lt;li&gt;Nalejeme do sklenic a necháme ztuhnout v lednici.&lt;/li&gt;&#xA;&lt;li&gt;Krátce povaříme ovoce, přídávám trochu škrobu na zahuštění (cca 10 minut).&lt;/li&gt;&#xA;&lt;li&gt;Ovocnou směs rozmixujeme ponorným mixérem a nalejeme na vychladlý tvaroh, dáme opět chladit.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Panna cotta je skvělá s čerstvým ovocem. Protože máme dietní omezení a ovoce u nás musí projít varem, vznikla tato varianta.&#xA;Může též posloužit jako zimní varianta, kdy není čerstvé ovoce.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kváskové koláčky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-01-kolacky-z-kvasu/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-01-kolacky-z-kvasu/</link>
       <pubDate>Sun, 21 Jan 2024 22:36:37 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-01-kolacky-z-kvasu/</guid>
-      <description>Suroviny &amp;amp; postup Verze I.
-večer před pečením&amp;hellip;
- 40g kvásku 60g Doves farm plain white 60g Pohankova hladká 120 g vody 20 g cukr Vše vymícháme ve sklenici &amp;ldquo;od okuerek&amp;rdquo; na kašičku, zkaryjeme mikrotenovým sáčkem necháme na lince minimálně 12 hodin pracovat.  ráno&amp;hellip;
- 140 g Nutrifree per Dolci 120 g rýžové mouky polohrubé 20 g pohankové hladké 1 vejce a 1 žloutek kůra z citronu (chemicky neošetřený) 130 ml mléka 60 g cukru vanilkový (případně vanilínový) cukr 50 g změklého másla (ne rozpuštěného)  Všechny suroviny, krom másla propracovat v robotu.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-01-kolacky-z-kvasu/</guid>
+      <description>&lt;h1 id=&#34;suroviny--postup&#34;&gt;Suroviny &amp;amp; postup&lt;/h1&gt;&#xA;&lt;p&gt;Verze I.&lt;/p&gt;&#xA;&lt;p&gt;večer před pečením&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;40g kvásku&lt;/li&gt;&#xA;&lt;li&gt;60g Doves farm plain white&lt;/li&gt;&#xA;&lt;li&gt;60g Pohankova hladká&lt;/li&gt;&#xA;&lt;li&gt;120 g vody&lt;/li&gt;&#xA;&lt;li&gt;20 g cukru&#xA;Vše symícháme například ve sklenici &amp;ldquo;od okurek&amp;rdquo; na kašičku, zakryjeme mikrotenovým sáčkem a necháme na lince minimálně 12 hodin kvasit.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ráno&amp;hellip;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;140 g Nutrifree per Dolci&lt;/li&gt;&#xA;&lt;li&gt;120 g rýžové mouky polohrubé&lt;/li&gt;&#xA;&lt;li&gt;20 g pohankové hladké&lt;/li&gt;&#xA;&lt;li&gt;1 vejce a 1 žloutek&lt;/li&gt;&#xA;&lt;li&gt;kůra z citronu (chemicky neošetřený)&lt;/li&gt;&#xA;&lt;li&gt;130 ml mléka&lt;/li&gt;&#xA;&lt;li&gt;60 g cukru&lt;/li&gt;&#xA;&lt;li&gt;vanilkový (případně vanilínový) cukr&lt;/li&gt;&#xA;&lt;li&gt;50 g změklého másla (ne rozpuštěného)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Všechny suroviny, kromě másla, propracovat v robotu. Až je těsto hladké, přidat máslo a zapracovat do těsta. Opět zakrýt folií, nebo dávám pokličku přímo na mísu robota.&#xA;Nechat odpočívat cca 4 hodiny. Těsto z kvásku oproti droždíovému nakyane jen trochu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tvarohová buchta extra rychlá</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-08-tvarohova-buchta-bez-mouky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-08-tvarohova-buchta-bez-mouky/</link>
       <pubDate>Wed, 10 Aug 2022 14:28:01 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-08-tvarohova-buchta-bez-mouky/</guid>
-      <description>Suroviny (dortová forma 28cm)  2 ks tvaroh tučný vanička (500g celkem) 1 ks vanilkový cukr + trochu cukru dle chuti 40g kukuř. škrobu nebo jeden pudink 2 vajíčka smíchat  Postup Tvaroh smícháme s cukrem a necháme ho rozpustit. přidáme škro, pak vajíčka a nalijeme do formy vyložené pečícím papírem. Pečeme zvolna 40-50 minut při cca 180 st (v případě potřeby lze přikrýt pečícím papírem, aby moc zhnědl povrch) V toubě hodně nabyde, ale ve finále je nízký (Pro uvedenou formu cca 1cm).</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-08-tvarohova-buchta-bez-mouky/</guid>
+      <description>&lt;h1 id=&#34;suroviny-dortová-forma-28cm&#34;&gt;Suroviny (dortová forma 28cm)&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 ks tvaroh tučný vanička (500g celkem)&lt;/li&gt;&#xA;&lt;li&gt;1 ks vanilkový cukr   + trochu cukru dle chuti&lt;/li&gt;&#xA;&lt;li&gt;40g kukuř. škrobu nebo jeden pudink&lt;/li&gt;&#xA;&lt;li&gt;2 vajíčka&lt;/li&gt;&#xA;&lt;li&gt;jablečné pyré nebo kompot&lt;/li&gt;&#xA;&lt;li&gt;sekané ořechy, mandle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;p&gt;Tvaroh smícháme s cukrem a necháme ho rozpustit. Přidáme škrob, pak vajíčka a nalijeme do formy vyložené pečícím papírem.&#xA;Pečeme zvolna 40-50 minut při cca 180 °C (v případě potřeby lze přikrýt pečícím papírem, aby moc nezhnědl povrch).&#xA;V troubě hodně nabyde, ale ve finále je nízký (pro uvedenou formu cca 1 cm).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rybízová buchta s tvarohem</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-07-rybizova-buchta-s-tvarohem/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-07-rybizova-buchta-s-tvarohem/</link>
       <pubDate>Fri, 08 Jul 2022 20:24:17 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-07-rybizova-buchta-s-tvarohem/</guid>
-      <description>Suroviny na malý Ikea pekáč (cca 32 x 22 cm)/na velký (38 x30) Těsto z rychlého jogurtového koláče:
- 250g jogurt Hollandia /400g 1 ks vejce/ 1,6 ks 100g třtinového cukru /160g 1 ks vanilkový cukr (10-20g)/1,5 balíčku 140g mouka (1PL kopcem pohanková hladká, 2PL Doves Farm směs bílá, zbytek Jizerka)/ 225g 2 rovné ČL kypřícího prášku/ 3ČL  Nádivka
- 500g tvarohu/ 800 (zkusit 750g, aby vyšlo na balení) 300g červ.</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-07-rybizova-buchta-s-tvarohem/</guid>
+      <description>&lt;h1 id=&#34;suroviny-na-malý-ikea-pekáč-cca-32-x-22-cmna-velký-38-x30&#34;&gt;Suroviny na malý Ikea pekáč (cca 32 x 22 cm)/na velký (38 x30)&lt;/h1&gt;&#xA;&lt;p&gt;Těsto z rychlého  &lt;a href=&#34;recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/&#34;&gt;jogurtového koláče&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g jogurt Hollandia /400g&lt;/li&gt;&#xA;&lt;li&gt;1 ks vejce/ 1,6 ks&lt;/li&gt;&#xA;&lt;li&gt;100g třtinového cukru /160g&lt;/li&gt;&#xA;&lt;li&gt;1 ks vanilkový cukr (10-20g)/1,5 balíčku&lt;/li&gt;&#xA;&lt;li&gt;140g mouka (1PL kopcem pohanková hladká, 2PL Doves Farm směs bílá, zbytek Jizerka)/ 225g&lt;/li&gt;&#xA;&lt;li&gt;2 rovné ČL kypřícího prášku/ 3ČL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Nádivka&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;500g tvarohu/ 800 (zkusit 750g, aby vyšlo na balení)&lt;/li&gt;&#xA;&lt;li&gt;300g červ. rybízu/480g&lt;/li&gt;&#xA;&lt;li&gt;1 vanilkový cukr /1,5 balíčku&lt;/li&gt;&#xA;&lt;li&gt;2 žloutky/ 3 žloutky&lt;/li&gt;&#xA;&lt;li&gt;40 g solamylu/ 65g&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sněhová pěna&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tvarohový dort s jahodami</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-06-tvarohovy-dort-jahody/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-06-tvarohovy-dort-jahody/</link>
       <pubDate>Mon, 27 Jun 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-06-tvarohovy-dort-jahody/</guid>
-      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Forma 24cm plus 4 misky sklenice, hezké jsou průhledné&lt;/li&gt;
-&lt;li&gt;1 želatina Dr. Oetker (jemně mletá na 500-600ml hmoty)&lt;/li&gt;
-&lt;li&gt;400 ml vody na želatinu&lt;/li&gt;
-&lt;li&gt;4 tvaroh tučný vanička&lt;/li&gt;
-&lt;li&gt;třtinový cukr dle chuti&lt;/li&gt;
-&lt;li&gt;1 vanilkový cukr&lt;/li&gt;
-&lt;li&gt;1 balení piškotů lze pokapat rumem&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;omýt a osušit jahody&lt;/li&gt;
-&lt;li&gt;želatinu rozpustit v 400ml vody a nechat 10 minut bobtnat&lt;/li&gt;
-&lt;li&gt;do formy na dno scvaknout pečící papír navrstvit piškoty, pokapat rumem a navrstvit jahody&lt;/li&gt;
-&lt;li&gt;ohřát želatinu ve vodní lázní (max 60st) do úplného rozpuštění- čirý roztok&lt;/li&gt;
-&lt;li&gt;po zchlazení smíchat oslazený tvaroh a želatinu a zvolna nalít na dort&lt;/li&gt;
-&lt;li&gt;zchladit v lednici&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;bezlepkové piškoty jsou drobivé, lepší bez nich jako dezert bez piškotů&lt;/li&gt;
-&lt;li&gt;tvaroh lze ztužit i agarem (nemám vyzkoušeno)&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-06-tvarohovy-dort-jahody/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Forma 24cm plus 4 misky sklenice, hezké jsou průhledné&lt;/li&gt;&#xA;&lt;li&gt;1 želatina Dr. Oetker (jemně mletá na 500-600ml hmoty)&lt;/li&gt;&#xA;&lt;li&gt;400 ml vody na želatinu&lt;/li&gt;&#xA;&lt;li&gt;4 tvaroh tučný vanička&lt;/li&gt;&#xA;&lt;li&gt;třtinový cukr dle chuti&lt;/li&gt;&#xA;&lt;li&gt;1 vanilkový cukr&lt;/li&gt;&#xA;&lt;li&gt;1 balení piškotů lze pokapat rumem&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;omýt a osušit jahody&lt;/li&gt;&#xA;&lt;li&gt;želatinu rozpustit v 400ml vody a nechat 10 minut bobtnat&lt;/li&gt;&#xA;&lt;li&gt;do formy na dno cvaknut pečící papír, navrstvit piškoty, pokapat rumem a navrstvit jahody&lt;/li&gt;&#xA;&lt;li&gt;ohřát želatinu ve vodní lázní (max 60st) do úplného rozpuštění- čirý roztok&lt;/li&gt;&#xA;&lt;li&gt;když je vlažná, smícháme oslazený tvaroh a želatinu a zvolna nalijeme na dort&lt;/li&gt;&#xA;&lt;li&gt;necháme ztuhnout v lednici&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;bezlepkové piškoty jsou drobivé, lepší bez nich jako dezert bez piškotů&lt;/li&gt;&#xA;&lt;li&gt;tvaroh lze ztužit i agarem (nemám vyzkoušeno)&lt;/li&gt;&#xA;&lt;li&gt;ideálně nechat tuhnout do rána, nebo připravit ráno a pak nechat do odpoledne ztuhnout&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Míša řezy bez mouky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-06-misa-rezy/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-06-misa-rezy/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-06-misa-rezy/</guid>
-      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;5 vajec&lt;/li&gt;
-&lt;li&gt;100 g cukr krystal&lt;/li&gt;
-&lt;li&gt;50 g  kakaa holandského typu&lt;/li&gt;
-&lt;li&gt;1 tučný tvaroh ve vaničce (250 g)&lt;/li&gt;
-&lt;li&gt;200 ml smetany ke šlehání (lze i 250ml) nejlepší je 34% lépe drží&lt;/li&gt;
-&lt;li&gt;1 sáček vanilkového cukru (10g)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;plech vyložit pečícím papírem, osvědčilo se, ho lehce pomastit a sypnout trochu mouky&lt;/li&gt;
-&lt;li&gt;bílky ušlehat  se špetkou soli až po otočení neteče z misky&lt;/li&gt;
-&lt;li&gt;přidat cukr a šlehat cukr s bílkem do doby než se špičky jen mírně ohýbají&lt;/li&gt;
-&lt;li&gt;opatrně šlehací metlou vmíchat žloutky&lt;/li&gt;
-&lt;li&gt;prosít a  postupně (opět šlehací metlou) vmíchat kakao&lt;/li&gt;
-&lt;li&gt;jemně rozetřít na plech, pečeme při 180 st cca 10 minut&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-06-misa-rezy/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5 vajec&lt;/li&gt;&#xA;&lt;li&gt;100 g cukr krystal&lt;/li&gt;&#xA;&lt;li&gt;50 g  kakaa holandského typu&lt;/li&gt;&#xA;&lt;li&gt;1 tučný tvaroh ve vaničce (250 g)&lt;/li&gt;&#xA;&lt;li&gt;200 ml smetany ke šlehání (lze i 250ml) nejlepší je 34% lépe drží&lt;/li&gt;&#xA;&lt;li&gt;1 sáček vanilkového cukru (10g)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;plech vyložit pečícím papírem, osvědčilo se ho lehce pomastit a sypnout trochu mouky&lt;/li&gt;&#xA;&lt;li&gt;bílky ušlehat  se špetkou soli až po otočení neteče z misky&lt;/li&gt;&#xA;&lt;li&gt;přidat cukr a šlehat cukr s bílkem do doby než se špičky jen mírně ohýbají&lt;/li&gt;&#xA;&lt;li&gt;opatrně šlehací metlou vmíchat žloutky&lt;/li&gt;&#xA;&lt;li&gt;prosít a  postupně (opět šlehací metlou) vmíchat kakao&lt;/li&gt;&#xA;&lt;li&gt;jemně rozetřít na plech, pečeme při 180 st cca 10 minut&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Na celý plech mi vychází množství z 8 vajec, 160g mouky a 80g kakaa. Zkusila jsem roládu a zatím se nepodařila. Pokud jsem hýbala s teplým těstem spláclo se. Druhý pokus, srolavat až když vychladlo. tak se zase trhalo. Nutno ještě vyzkoumat.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

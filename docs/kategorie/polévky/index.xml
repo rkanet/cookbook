@@ -1,78 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>polévky on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/kategorie/pol%C3%A9vky/</link>
-    <description>Recent content in polévky on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Polévky on Kitchen</title>
+    <link>http://localhost:1313/cookbook/kategorie/pol%C3%A9vky/</link>
+    <description>Recent content in Polévky on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Sep 2025 13:51:56 +0200</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/kategorie/pol%C3%A9vky/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2025 13:51:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/kategorie/pol%C3%A9vky/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mexická polévka</title>
-      <link>https://rkanet.github.io/cookbook/recepty/25-09-mexicka-polevka/</link>
+      <link>http://localhost:1313/cookbook/recepty/25-09-mexicka-polevka/</link>
       <pubDate>Tue, 02 Sep 2025 13:51:56 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/25-09-mexicka-polevka/</guid>
-      <description>Suroviny   1 větší cibule
-  2 stroužky česneku
-  1 červená paprika
-  3 rajčata
-  olivový olej
-  200 g mletého hovězího masa
-  1/2 lžičky římského kmínu
-  1/2 lžičky mletého koriandru
-  1/4 lžičky skořice pravé
-  5 bobkových listů
-  600 g rajčatové passaty (dala jsem konzervu krájených rajčat a jeden protlak)
-  1 litr vody</description>
+      <guid>http://localhost:1313/cookbook/recepty/25-09-mexicka-polevka/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 větší cibule&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2 stroužky česneku&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 červená paprika&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;3 rajčata&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;olivový olej&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;200 g mletého hovězího masa&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1/2 lžičky římského kmínu&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1/2 lžičky mletého koriandru&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1/4 lžičky skořice pravé&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;5 bobkových listů&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;600 g rajčatové passaty (dala jsem konzervu krájených rajčat a jeden protlak)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 litr vody&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;250 g vařené kukuřice&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;240 g vařených červených fazolí&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 lžička chilli vloček&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;limetová šťáva&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Vyzkoušeno. Verze bezmasá bez nakrájené červené papriky, limetky a chilli. Dobré, zařazujeme do nabídky polévek.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Miso polévka</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-06-miso-polevka/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-06-miso-polevka/</link>
       <pubDate>Thu, 23 Jun 2022 09:59:39 +0200</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/22-06-miso-polevka/</guid>
-      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;vývar&lt;/li&gt;
-&lt;li&gt;rýžové nudle&lt;/li&gt;
-&lt;li&gt;miso (tmavé, Miso genmai - hnědá rýže a soja, výrobce Muso,)&lt;/li&gt;
-&lt;li&gt;vejce&lt;/li&gt;
-&lt;li&gt;zelenina dle chuti nakrájená na nudličky (u nás trocha mrkve, celer, petržel, pórek)&lt;/li&gt;
-&lt;li&gt;uzené tofu na nudličky, zbytky masa z vývaru&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;připravíme vývar (ideálně den předem)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;uvaříme vajíčka na tvrdo&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;v troše teplé vody rozpustíme miso (cca 1PL kopcem na 200ml)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;orestujeme zeleninu, zalijeme vývarem a případně naředíme vodou&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;nakonec vmícháme trochu předem rozpuštěného miso, již nevaříme&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;servírujeme a na tom záleží, takže krásně!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;na talíř hromádka nudlí, rozpůlená vajíčka, trocha masa/tofu, někdy i pažitku nebo tenoučká kolečka pórku na přizdobení&amp;hellip;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;zalijeme vývarem se zeleninou&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;
-&lt;p&gt;Protože různí členové mají odlišný názor na množství misa, dáváme do základu polévky trochu a na talíř si každý dodá ještě sám. 
-Občas vaříme i rychlou verzi s méně zeleniny a vaječnou omeletou. Počítám jedno vejce na osobu lze přidat i trochu strouhaného sýra. Omeletu srolujeme a nakrájíme na nudličky.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-06-miso-polevka/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;vývar&lt;/li&gt;&#xA;&lt;li&gt;rýžové nudle&lt;/li&gt;&#xA;&lt;li&gt;miso (tmavé, Miso genmai - hnědá rýže a soja, výrobce Muso,)&lt;/li&gt;&#xA;&lt;li&gt;vejce&lt;/li&gt;&#xA;&lt;li&gt;zelenina dle chuti nakrájená na nudličky (u nás trochu mrkve, celer, petržel, pórek)&lt;/li&gt;&#xA;&lt;li&gt;uzené tofu na nudličky, zbytky masa z vývaru&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;připravíme vývar (ideálně den předem)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;uvaříme vajíčka na tvrdo&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;v troše teplé vody rozpustíme miso (cca 1PL kopcem na 200ml)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;orestujeme zeleninu, zalijeme vývarem a případně naředíme vodou&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;nakonec vmícháme trochu předem rozpuštěného miso, již nevaříme&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;servírujeme a na tom záleží, takže krásně!&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;na talíř hromádka nudlí, rozpůlená vajíčka, trocha masa/tofu, někdy i pažitku nebo tenoučká kolečka pórku na přizdobení&amp;hellip;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;zalijeme vývarem se zeleninou&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Protože různí členové mají odlišný názor na množství misa, dáváme do základu polévky trochu a na talíř si každý dodá ještě sám.&#xA;Občas vaříme i rychlou verzi s méně zeleniny a vaječnou omeletou. Počítám jedno vejce na osobu lze přidat i trochu strouhaného sýra. Omeletu srolujeme a nakrájíme na nudličky.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

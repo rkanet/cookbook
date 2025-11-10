@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>houska on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/houska/</link>
-    <description>Recent content in houska on Kitchen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Houska on Kitchen</title>
+    <link>http://localhost:1313/cookbook/ingredience/houska/</link>
+    <description>Recent content in Houska on Kitchen</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2024 19:53:47 +0100</lastBuildDate><atom:link href="https://rkanet.github.io/cookbook/ingredience/houska/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Mar 2024 19:53:47 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/cookbook/ingredience/houska/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Karlovarksý knedlík</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-03-karlovarsky-knedlik-bez-lepku/</link>
+      <title>Karlovarský knedlík</title>
+      <link>http://localhost:1313/cookbook/recepty/24-03-karlovarsky-knedlik-bez-lepku/</link>
       <pubDate>Wed, 06 Mar 2024 19:53:47 +0100</pubDate>
-      
-      <guid>https://rkanet.github.io/cookbook/recepty/24-03-karlovarsky-knedlik-bez-lepku/</guid>
-      <description>Suroviny  sůl cca 3/4 čajové lžičky pepř mletý petrželka nasekaná 3 ks vejce muškátový květ (dala jsem ořišek, pár strouhnutí) 200 ml mléko 100 g polohrubá rýžová mouka 60 g másla 250 g houska (dávám Schar bílý chlebík)  Vařím v potravinářské folii ve vodě cca 20minut.
-Postup  Nakrájet chlebik, ohřát na pánvi, lehce zasušit&amp;hellip;v tom rozpustit máslo&amp;hellip;ještě malinko smahnout&amp;hellip;ochladit na talířy. Mezitím rýžová mouka do mléka Až vychladne chleba, tak nalít mléko s moukou kořením a žloudky na chleba, promíchat a nechat stát.</description>
+      <guid>http://localhost:1313/cookbook/recepty/24-03-karlovarsky-knedlik-bez-lepku/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;sůl cca 3/4 čajové lžičky&lt;/li&gt;&#xA;&lt;li&gt;pepř mletý&lt;/li&gt;&#xA;&lt;li&gt;petrželka nasekaná&lt;/li&gt;&#xA;&lt;li&gt;3 ks vejce&lt;/li&gt;&#xA;&lt;li&gt;muškátový květ (dala jsem ořišek, pár strouhnutí)&lt;/li&gt;&#xA;&lt;li&gt;200 ml mléko&lt;/li&gt;&#xA;&lt;li&gt;100 g polohrubá rýžová mouka&lt;/li&gt;&#xA;&lt;li&gt;60 g másla&lt;/li&gt;&#xA;&lt;li&gt;250 g houska (dávám Schar bílý chlebík)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Vařím v potravinářské folii ve vodě cca 20minut.&lt;/p&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Nakrájet chlebík, ohřát na pánvi, lehce zasušit. Vhodit  máslo, rozpustit a ještě malinko osmažit. Nechat vychladnout. Pokud spěchám dám vychladit na talíř.&lt;/li&gt;&#xA;&lt;li&gt;Mezitím rýžovou mouku do mléka, nechat nabobtnat.&lt;/li&gt;&#xA;&lt;li&gt;Až vychladne chleba, tak nalít mléko s moukou, kořením a žloutky na chleba, promíchat a nechat stát.&lt;/li&gt;&#xA;&lt;li&gt;Ušlehat bílky a promíchat s chlebovou hmotou.&lt;/li&gt;&#xA;&lt;li&gt;Zabalit do potravinové folie (příp. zavázat konce).&lt;/li&gt;&#xA;&lt;li&gt;Vařit ve vodě cca 20-25 minut dle velikosti (přikryté pokličkou).&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Postup a úskalí má hezky popsané Florentina:&#xA;&lt;a href=&#34;https://www.kucharkaprodceru.cz/karlovarsky-knedlik/&#34;&gt;https://www.kucharkaprodceru.cz/karlovarsky-knedlik/&lt;/a&gt;&#xA;Ona myslím nedává mouku, ale mně to u bezlepku s moukou vychází líp.  U lepkového pečiva není sušení na pánvi a osmahnutí nutné, ale u blp příjemně zpevní úečivo, které by se jinak drolilo více. Úkol naučit se vařit v látce, abych nemusela používat folii.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
