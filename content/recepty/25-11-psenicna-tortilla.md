@@ -1,7 +1,7 @@
 
 +++
 date = "2025-11-08T20:45:50+01:00"
-title = "Pšeničná tortilla  -work in progress"
+title = "Pšeničná tortilla - work in progress"
 autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
