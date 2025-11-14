@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rajče on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/raj%C4%8De/</link>
+    <link>http://localhost:1313/cookbook/ingredience/raj%C4%8De/</link>
     <description>Recent content in Rajče on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Nov 2024 15:00:31 +0100</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/raj%C4%8De/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/raj%C4%8De/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plněné zapečené papriky s masem</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-11-zapecene-papriky-s-masem/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-11-zapecene-papriky-s-masem/</link>
       <pubDate>Thu, 21 Nov 2024 15:00:31 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/24-11-zapecene-papriky-s-masem/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/24-11-zapecene-papriky-s-masem/</guid>
       <description>&lt;h1 id=&#34;suroviny-2-osoby&#34;&gt;Suroviny (2 osoby)&lt;/h1&gt;&#xA;&lt;p&gt;Na pečené papriky&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 papriky zelené, 2 červené (ideální je mix barev)&lt;/li&gt;&#xA;&lt;li&gt;rýže vařená nezváženo (fajn na zužitkování rýže ze včera)&lt;/li&gt;&#xA;&lt;li&gt;asi 5 PL vařené cizrny&lt;/li&gt;&#xA;&lt;li&gt;nasekané bylinky&lt;/li&gt;&#xA;&lt;li&gt;nasekané černé olivy (cca 10 ks)&lt;/li&gt;&#xA;&lt;li&gt;3 stroužky česneku&lt;/li&gt;&#xA;&lt;li&gt;balkánský sýr rozdrobený&lt;/li&gt;&#xA;&lt;li&gt;sůl (není třeba pokud je dost slaná rýže, navíc se dosolí balkánem a olivama)&lt;/li&gt;&#xA;&lt;li&gt;sýr na povrch paprik na zapečení (ideál blaťácké zlato, ale i eidam poslouží)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Na maso&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zapečená cuketa</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-07-zapecena-cuketa/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-07-zapecena-cuketa/</link>
       <pubDate>Wed, 31 Jul 2024 15:15:34 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/24-07-zapecena-cuketa/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/24-07-zapecena-cuketa/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;cuketa&lt;/li&gt;&#xA;&lt;li&gt;rajčata velká&lt;/li&gt;&#xA;&lt;li&gt;sýr (ideal blaťácké zlato, lze i eidam nebo balkán&amp;hellip;.)&lt;/li&gt;&#xA;&lt;li&gt;pepř&lt;/li&gt;&#xA;&lt;li&gt;česnek&lt;/li&gt;&#xA;&lt;li&gt;jako obměna k základu libovolné bylinky dle chuti&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cuketu nakrájíme na kolečka necháme vypotit a otřeme.&lt;/li&gt;&#xA;&lt;li&gt;Kolečka narovnáme na plech, na každé kolečko trochu prolisovaného čeneku a pepř. Případně obměna bylinky (tymián, dobromysl&amp;hellip;)&lt;/li&gt;&#xA;&lt;li&gt;Necháme krátce s horkovzduchem vysušit v troubě (asi 5 minut/200 ?)&lt;/li&gt;&#xA;&lt;li&gt;Navrch každého kolečka dáme kolečko rajčete, případně opět bylinky a posypeme strouhaným sýrem.&lt;/li&gt;&#xA;&lt;li&gt;Zapečeme až zezlátné sýr.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
     </item>
   </channel>

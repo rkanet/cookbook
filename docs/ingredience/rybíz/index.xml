@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rybíz on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/ryb%C3%ADz/</link>
+    <link>http://localhost:1313/cookbook/ingredience/ryb%C3%ADz/</link>
     <description>Recent content in Rybíz on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jul 2022 20:24:17 +0200</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/ryb%C3%ADz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/ryb%C3%ADz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rybízová buchta s tvarohem</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-07-rybizova-buchta-s-tvarohem/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-07-rybizova-buchta-s-tvarohem/</link>
       <pubDate>Fri, 08 Jul 2022 20:24:17 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-07-rybizova-buchta-s-tvarohem/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-07-rybizova-buchta-s-tvarohem/</guid>
       <description>&lt;h1 id=&#34;suroviny-na-malý-ikea-pekáč-cca-32-x-22-cmna-velký-38-x30&#34;&gt;Suroviny na malý Ikea pekáč (cca 32 x 22 cm)/na velký (38 x30)&lt;/h1&gt;&#xA;&lt;p&gt;Těsto z rychlého  &lt;a href=&#34;recepty/22-07-rychly-jogurtovy-kolac-bez-lepku/&#34;&gt;jogurtového koláče&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g jogurt Hollandia /400g&lt;/li&gt;&#xA;&lt;li&gt;1 ks vejce/ 1,6 ks&lt;/li&gt;&#xA;&lt;li&gt;100g třtinového cukru /160g&lt;/li&gt;&#xA;&lt;li&gt;1 ks vanilkový cukr (10-20g)/1,5 balíčku&lt;/li&gt;&#xA;&lt;li&gt;140g mouka (1PL kopcem pohanková hladká, 2PL Doves Farm směs bílá, zbytek Jizerka)/ 225g&lt;/li&gt;&#xA;&lt;li&gt;2 rovné ČL kypřícího prášku/ 3ČL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Nádivka&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;500g tvarohu/ 800 (zkusit 750g, aby vyšlo na balení)&lt;/li&gt;&#xA;&lt;li&gt;300g červ. rybízu/480g&lt;/li&gt;&#xA;&lt;li&gt;1 vanilkový cukr /1,5 balíčku&lt;/li&gt;&#xA;&lt;li&gt;2 žloutky/ 3 žloutky&lt;/li&gt;&#xA;&lt;li&gt;40 g solamylu/ 65g&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sněhová pěna&lt;/p&gt;</description>
     </item>
   </channel>

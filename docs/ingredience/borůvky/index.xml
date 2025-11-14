@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Borůvky on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/bor%C5%AFvky/</link>
+    <link>http://localhost:1313/cookbook/ingredience/bor%C5%AFvky/</link>
     <description>Recent content in Borůvky on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Aug 2023 11:25:39 +0200</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/bor%C5%AFvky/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/bor%C5%AFvky/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ovocné knedlíky tvarohové</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-08-ovocne-knedliky/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-08-ovocne-knedliky/</link>
       <pubDate>Sat, 12 Aug 2023 11:25:39 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/23-08-ovocne-knedliky/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/23-08-ovocne-knedliky/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;180g brambor&lt;/li&gt;&#xA;&lt;li&gt;250g tvaroh tučný vanička&lt;/li&gt;&#xA;&lt;li&gt;1 vejce&lt;/li&gt;&#xA;&lt;li&gt;200 g hrubé mouky (lžíce pohankové, 30 g rýžové a zbytek dosypat Jizerkou)&lt;/li&gt;&#xA;&lt;li&gt;špetka soli&lt;/li&gt;&#xA;&lt;li&gt;2-3 jablka dle velikosti&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Borůvkový rozvar&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;borůvky lesní (lze i koupené)&lt;/li&gt;&#xA;&lt;li&gt;cukr dle chuti&lt;/li&gt;&#xA;&lt;li&gt;škrob na zahuštění&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;předem (ráno) uvařit brambory ve slupce a nechat dobře vychladnout&lt;/li&gt;&#xA;&lt;li&gt;borůvky krátce povaříme s cukrem a trochou škrobu&lt;/li&gt;&#xA;&lt;li&gt;oloupaná jablka nakrájet na menší kousky&lt;/li&gt;&#xA;&lt;li&gt;vařené brambory nastrouháme na jemno, přidáme ostatní suroviny a na vále zpracujeme těsto&lt;/li&gt;&#xA;&lt;li&gt;těsto rozválíme, nakrájíme na kousky a plníme jablky&lt;/li&gt;&#xA;&lt;li&gt;knedlíky vaříme ve vodě cca 6 minut&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Jogurtový koláč s ovocem</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-07-jogurtovy-kolac-bez-lepku/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-07-jogurtovy-kolac-bez-lepku/</link>
       <pubDate>Fri, 08 Jul 2022 10:32:10 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-07-jogurtovy-kolac-bez-lepku/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-07-jogurtovy-kolac-bez-lepku/</guid>
       <description>&lt;h1 id=&#34;suroviny-forma-ikea-32-x-22-cm&#34;&gt;Suroviny (Forma Ikea 32 x 22 cm)&lt;/h1&gt;&#xA;&lt;p&gt;těsto&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g jogurt Hollandia&lt;/li&gt;&#xA;&lt;li&gt;1 ks vejce&lt;/li&gt;&#xA;&lt;li&gt;100g třtinového cukru&lt;/li&gt;&#xA;&lt;li&gt;1 ks vanilkový cukr (10-20g)&lt;/li&gt;&#xA;&lt;li&gt;140g mouka (1PL kopcem pohanková hladká, 2PL Doves Farm směs bílá, zbytek Jizerka)&lt;/li&gt;&#xA;&lt;li&gt;2 rovné ČL kypřícího prášku&lt;/li&gt;&#xA;&lt;li&gt;600-700g borůvek (či jiného ovoce)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;drobenka&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;60 g máslo&lt;/li&gt;&#xA;&lt;li&gt;60 g vločky&lt;/li&gt;&#xA;&lt;li&gt;70 g mouka Doves Farm směs bílá&lt;/li&gt;&#xA;&lt;li&gt;třtinový cukr 70 g&lt;/li&gt;&#xA;&lt;li&gt;špetka soli&lt;/li&gt;&#xA;&lt;li&gt;dle chuti a druhu ovoce lze přidat trochu skořice&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;předehřejeme troubu, vymažeme pekáč&lt;/li&gt;&#xA;&lt;li&gt;v míse smícháme jogurt, cukr a vejce a počkáme až se rozpustí cukr&lt;/li&gt;&#xA;&lt;li&gt;v druhé menší misce promícháme kypřící prášek s moukou pak přidáme k jogurtu&lt;/li&gt;&#xA;&lt;li&gt;nalejeme do pekáče a rozetřeme tenkou vrstvu, předpečeme samotné těsto 10-15 minut při cca 180 °C&lt;/li&gt;&#xA;&lt;li&gt;po vyndání z trouby hned posypeme ovocem a drobenkou a zase rychle vrátíme do trouby na dopečení (asi 30 minut) až drobenka zezlátne&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

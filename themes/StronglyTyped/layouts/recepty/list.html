@@ -123,6 +123,13 @@
                 </div>
             </div>
         </section>
+
+        <pre>
+Kind: {{ .Kind }}
+Type: {{ .Type }}
+Section: {{ .Section }}
+Template: {{ templates.Current.Filename }}
+</pre>
 </div>        
 {{ partial "footer" . }} 
 

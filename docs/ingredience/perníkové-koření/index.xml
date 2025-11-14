@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Perníkové-Koření on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/pern%C3%ADkov%C3%A9-ko%C5%99en%C3%AD/</link>
+    <link>http://localhost:1313/cookbook/ingredience/pern%C3%ADkov%C3%A9-ko%C5%99en%C3%AD/</link>
     <description>Recent content in Perníkové-Koření on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Nov 2022 19:40:12 +0100</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/pern%C3%ADkov%C3%A9-ko%C5%99en%C3%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/pern%C3%ADkov%C3%A9-ko%C5%99en%C3%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perníčky od Monči</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-11-pernicky-od-monci/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-11-pernicky-od-monci/</link>
       <pubDate>Tue, 22 Nov 2022 19:40:12 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-11-pernicky-od-monci/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-11-pernicky-od-monci/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;320g hladké mouky&lt;/li&gt;&#xA;&lt;li&gt;125g cukru moučka&lt;/li&gt;&#xA;&lt;li&gt;50g medu (2 plnější pol.lžíce)&lt;/li&gt;&#xA;&lt;li&gt;25 g másla&lt;/li&gt;&#xA;&lt;li&gt;2 celá vejce&lt;/li&gt;&#xA;&lt;li&gt;1/2 PL perníkového koření (mám ráda Sonnentor)&lt;/li&gt;&#xA;&lt;li&gt;1 menší čajovou lžičku jedlé sody&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Polovinu těsta lze obarvit kakaem. Ráda dělám den předem, nechám uležet v lednici. Dobře se pak s těstem pracuje.&lt;/p&gt;</description>
     </item>
   </channel>

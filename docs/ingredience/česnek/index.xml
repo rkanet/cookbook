@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Česnek on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/%C4%8Desnek/</link>
+    <link>http://localhost:1313/cookbook/ingredience/%C4%8Desnek/</link>
     <description>Recent content in Česnek on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Dec 2023 21:50:39 +0100</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/%C4%8Desnek/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/%C4%8Desnek/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pečená zelenina</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-12-pecena-zelenina/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-12-pecena-zelenina/</link>
       <pubDate>Thu, 21 Dec 2023 21:50:39 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/23-12-pecena-zelenina/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/23-12-pecena-zelenina/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;cibule&lt;/li&gt;&#xA;&lt;li&gt;česnek&lt;/li&gt;&#xA;&lt;li&gt;kořenová zelenina (mrkev, celer, petržel)&lt;/li&gt;&#xA;&lt;li&gt;lze přidat i brambory, batáty, dýni&amp;hellip; dle preferencí&lt;/li&gt;&#xA;&lt;li&gt;sůl&lt;/li&gt;&#xA;&lt;li&gt;bylinky na ochucení (tymian je fajn)&lt;/li&gt;&#xA;&lt;li&gt;olej&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;pekáč vyložíme pečícím papírem&lt;/li&gt;&#xA;&lt;li&gt;esteticky nakrájíme zeleninu, navrstvíme na papír, osolíme a přidáme bylinky&lt;/li&gt;&#xA;&lt;li&gt;zakapeme olejem a pečeme do zezlátnutí&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>

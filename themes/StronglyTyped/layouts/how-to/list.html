@@ -18,14 +18,17 @@
                                         <h2>Návody & Rady</h2>
                                     </header>
                                     
-                                    <h3>...řazeno abecedně</h3>
+                                    <h3>...řazeno dle data</h3>
                                         
-                                        {{ range .Pages.ByTitle }}
-											<li>
-												<span class="strong"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+                                        {{ range sort .RegularPages "Date" "desc" }}
+                                          <li>
+												<span class="strong"><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
 												<time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
 											</li>
-										{{ end }}
+                                        {{ end }}   
+
+                                        
+                                       
                                     
                                 </article>
 

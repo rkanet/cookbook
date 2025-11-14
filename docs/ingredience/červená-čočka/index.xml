@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Červená-Čočka on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/%C4%8Derven%C3%A1-%C4%8Do%C4%8Dka/</link>
+    <link>http://localhost:1313/cookbook/ingredience/%C4%8Derven%C3%A1-%C4%8Do%C4%8Dka/</link>
     <description>Recent content in Červená-Čočka on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jan 2024 20:21:19 +0100</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/%C4%8Derven%C3%A1-%C4%8Do%C4%8Dka/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/%C4%8Derven%C3%A1-%C4%8Do%C4%8Dka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Čočková omáčka k rýži</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-01-lusteninova-omacka/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-01-lusteninova-omacka/</link>
       <pubDate>Wed, 17 Jan 2024 20:21:19 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/24-01-lusteninova-omacka/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/24-01-lusteninova-omacka/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 velká cibule&lt;/li&gt;&#xA;&lt;li&gt;červená čočka půlená přiměřeně&lt;/li&gt;&#xA;&lt;li&gt;100 g suchých bílých malých fazolí (předem namočit)&lt;/li&gt;&#xA;&lt;li&gt;5 stroužků česneku&lt;/li&gt;&#xA;&lt;li&gt;mrkev 2ks krájená na kolečka&lt;/li&gt;&#xA;&lt;li&gt;trocha kořenové zeleniny na jemno strouhané (petržel, celer)&lt;/li&gt;&#xA;&lt;li&gt;1 rajčata v konzervě&lt;/li&gt;&#xA;&lt;li&gt;1 rajčatový protlak&lt;/li&gt;&#xA;&lt;li&gt;zrovna jsem měla rajče, tak tam přišlo též na kostičky&lt;/li&gt;&#xA;&lt;li&gt;sůl&lt;/li&gt;&#xA;&lt;li&gt;koření Italské Sonnentor hodně, ale ideálně čerstvé bylinky, když jsou&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dáme vařit fazole (připravit ideálně předem)&lt;/li&gt;&#xA;&lt;li&gt;orestujeme cibulku, přidáme česnek&lt;/li&gt;&#xA;&lt;li&gt;pak propláchnutou červenou čočku, nastrouhanou zeleninu a bylinky, nakonec malinko podlejeme vodou&lt;/li&gt;&#xA;&lt;li&gt;krátce podusíme a přidáme rajčata z konzervy&lt;/li&gt;&#xA;&lt;li&gt;nakonec mrkev a podusíme do měkka&lt;/li&gt;&#xA;&lt;li&gt;podáváme s rýží&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
     </item>
   </channel>

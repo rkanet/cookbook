@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Petržel on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/petr%C5%BEel/</link>
+    <link>http://localhost:1313/cookbook/ingredience/petr%C5%BEel/</link>
     <description>Recent content in Petržel on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Apr 2024 17:41:42 +0200</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/petr%C5%BEel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/petr%C5%BEel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Falafel v troubě</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-04-falafel/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-04-falafel/</link>
       <pubDate>Wed, 17 Apr 2024 17:41:42 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/24-04-falafel/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/24-04-falafel/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;300 g suché cizrny&lt;/li&gt;&#xA;&lt;li&gt;80 g nasekané cibule&lt;/li&gt;&#xA;&lt;li&gt;30 g nasekané petržele (velký svazek)&lt;/li&gt;&#xA;&lt;li&gt;? g nasekaný koriandr (dala jsem 1 PL, více nebylo doma)&lt;/li&gt;&#xA;&lt;li&gt;4 stroužky česneku&lt;/li&gt;&#xA;&lt;li&gt;1,5 ČL římského kmínu&lt;/li&gt;&#xA;&lt;li&gt;2 rovné ČL soli (10 g)&lt;/li&gt;&#xA;&lt;li&gt;1/2 ČL sušeného koriandru&lt;/li&gt;&#xA;&lt;li&gt;velká špetka černého pepře&lt;/li&gt;&#xA;&lt;li&gt;3 PL mouky (1 PL cizrnová + 2 PL Doves Farm)&lt;/li&gt;&#xA;&lt;li&gt;1/2 ČL sody&lt;/li&gt;&#xA;&lt;li&gt;olej na potření pečícího papíru&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Namočit cizrnu do druhého dne, nepoužívat vařenou v konzervě.&lt;/li&gt;&#xA;&lt;li&gt;Rozmixovat cizrnu.&lt;/li&gt;&#xA;&lt;li&gt;Pekla jsem  30-35 minut na 210 °C.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
     </item>
   </channel>

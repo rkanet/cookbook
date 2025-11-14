@@ -15,12 +15,12 @@ draft = false
 
 # Suroviny
 Verze 1
-350 g hladké nebo polohrubé mouky (nebo směsi obou druhů)
-5 g soli
-1 g (na špičku nože) prášku do pečiva (nedávám)
-60 g sádla
-225 ml horké, téměř vroucí vody
-1 lžička oleje na vytření pánve
+- 350 g hladké nebo polohrubé mouky (nebo směsi obou druhů)
+- 5 g soli
+- 1 g (na špičku nože) prášku do pečiva (nedávám)
+- 60 g sádla
+- 225 ml horké, téměř vroucí vody
+- 1 lžička oleje na vytření pánve
 
 # Postup
 1. Mouku smíchat se solí a práškem do pečiva. Přidat tuka vytvořit drobenku. Uvařit vodu.
@@ -37,11 +37,12 @@ Hotové opečené placky skládejte na sebe na talíř a přikryjte vlhkou utěr
 
 # Suroviny
 Verze 2
-250g (8.8oz) white bread flour
-160g (5.65oz) boiling water
-3g (0.1oz) salt
-5g (0.17oz) baking soda
-50g (1.75oz) lard, beef dripping, or oil
+- 250g (8.8oz) white bread flour
+- 160g (5.65oz) boiling water
+- 3g (0.1oz) salt
+- 5g (0.17oz) baking soda
+- 50g (1.75oz) lard, beef dripping, or oil
+
 # Postup
 1. Melt the fat and boil the water.
 2. In a large bowl combine the salt and soda. Add the boiling water and melted fat. Mix well to dissolve the salt.

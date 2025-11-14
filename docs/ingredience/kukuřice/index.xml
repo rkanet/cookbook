@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kukuřice on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/kuku%C5%99ice/</link>
+    <link>http://localhost:1313/cookbook/ingredience/kuku%C5%99ice/</link>
     <description>Recent content in Kukuřice on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Sep 2025 13:51:56 +0200</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/kuku%C5%99ice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/kuku%C5%99ice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mexická polévka</title>
-      <link>https://rkanet.github.io/cookbook/recepty/25-09-mexicka-polevka/</link>
+      <link>http://localhost:1313/cookbook/recepty/25-09-mexicka-polevka/</link>
       <pubDate>Tue, 02 Sep 2025 13:51:56 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/25-09-mexicka-polevka/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/25-09-mexicka-polevka/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 větší cibule&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2 stroužky česneku&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 červená paprika&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;3 rajčata&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;olivový olej&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;200 g mletého hovězího masa&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1/2 lžičky římského kmínu&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1/2 lžičky mletého koriandru&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1/4 lžičky skořice pravé&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;5 bobkových listů&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;600 g rajčatové passaty (dala jsem konzervu krájených rajčat a jeden protlak)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 litr vody&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;250 g vařené kukuřice&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;240 g vařených červených fazolí&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 lžička chilli vloček&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;limetová šťáva&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Vyzkoušeno. Verze bezmasá bez nakrájené červené papriky, limetky a chilli. Dobré, zařazujeme do nabídky polévek.&lt;/p&gt;</description>
     </item>
   </channel>
