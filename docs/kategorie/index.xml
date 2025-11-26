@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kategorie on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/kategorie/</link>
+    <link>http://localhost:1313/cookbook/kategorie/</link>
     <description>Recent content in Kategorie on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Nov 2025 20:30:16 +0100</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/kategorie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/kategorie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moučníky</title>
-      <link>https://rkanet.github.io/cookbook/kategorie/mou%C4%8Dn%C3%ADky/</link>
+      <link>http://localhost:1313/cookbook/kategorie/mou%C4%8Dn%C3%ADky/</link>
       <pubDate>Sat, 22 Nov 2025 20:30:16 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/kategorie/mou%C4%8Dn%C3%ADky/</guid>
+      <guid>http://localhost:1313/cookbook/kategorie/mou%C4%8Dn%C3%ADky/</guid>
       <description></description>
     </item>
     <item>
       <title>Polévky</title>
-      <link>https://rkanet.github.io/cookbook/kategorie/pol%C3%A9vky/</link>
+      <link>http://localhost:1313/cookbook/kategorie/pol%C3%A9vky/</link>
       <pubDate>Sat, 22 Nov 2025 18:59:19 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/kategorie/pol%C3%A9vky/</guid>
+      <guid>http://localhost:1313/cookbook/kategorie/pol%C3%A9vky/</guid>
       <description></description>
     </item>
     <item>
       <title>Hlavní-Jídla</title>
-      <link>https://rkanet.github.io/cookbook/kategorie/hlavn%C3%AD-j%C3%ADdla/</link>
+      <link>http://localhost:1313/cookbook/kategorie/hlavn%C3%AD-j%C3%ADdla/</link>
       <pubDate>Thu, 20 Nov 2025 18:48:26 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/kategorie/hlavn%C3%AD-j%C3%ADdla/</guid>
+      <guid>http://localhost:1313/cookbook/kategorie/hlavn%C3%AD-j%C3%ADdla/</guid>
       <description></description>
     </item>
     <item>
       <title>Přílohy</title>
-      <link>https://rkanet.github.io/cookbook/kategorie/p%C5%99%C3%ADlohy/</link>
+      <link>http://localhost:1313/cookbook/kategorie/p%C5%99%C3%ADlohy/</link>
       <pubDate>Thu, 20 Nov 2025 18:48:26 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/kategorie/p%C5%99%C3%ADlohy/</guid>
+      <guid>http://localhost:1313/cookbook/kategorie/p%C5%99%C3%ADlohy/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bez-Lepku on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/bez-lepku/</link>
+    <link>http://localhost:1313/cookbook/ingredience/bez-lepku/</link>
     <description>Recent content in Bez-Lepku on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Oct 2022 14:53:36 +0200</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/bez-lepku/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/bez-lepku/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kefírová buchta s kakaem</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-10-kefirova-kakaova-buchta/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-10-kefirova-kakaova-buchta/</link>
       <pubDate>Sat, 15 Oct 2022 14:53:36 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-10-kefirova-kakaova-buchta/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-10-kefirova-kakaova-buchta/</guid>
       <description>&lt;h1 id=&#34;suroviny-forma-ikea-32-x-22-cm&#34;&gt;Suroviny (Forma Ikea 32 x 22 cm)&lt;/h1&gt;&#xA;&lt;p&gt;200g kefírové mléko (Valašské)&#xA;100g olej&#xA;100g třtinový cukr (zkusit dát ještě míň)&#xA;2PL-3 PL vody&#xA;1 vejce&#xA;220g mouky Nutrifree Dolci&#xA;1 ČL kopečkem skořice&#xA;1 ČL jedlé sody skoro rovná&lt;/p&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;p&gt;Smícháme zvlášť tekuté (kromě horké vody) a zvlášť suché suroviny. Nakonec spojíme, promícháme a nalijeme do vymazaného pekáče.&#xA;Pečeme v předehřáté troubě na 180 °C cca 30 minut. Dle potřeby lze přikrýt na dopečení pečícím papírem.&lt;/p&gt;</description>
     </item>
   </channel>

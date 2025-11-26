@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ořechy on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/o%C5%99echy/</link>
+    <link>http://localhost:1313/cookbook/ingredience/o%C5%99echy/</link>
     <description>Recent content in Ořechy on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Nov 2025 20:30:16 +0100</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/o%C5%99echy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/o%C5%99echy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vanilkové rohlíčky z pohankové mouky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/25-11-vanilkove-rohlicky-z-pohankove-mouky/</link>
+      <link>http://localhost:1313/cookbook/recepty/25-11-vanilkove-rohlicky-z-pohankove-mouky/</link>
       <pubDate>Sat, 22 Nov 2025 20:30:16 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/25-11-vanilkove-rohlicky-z-pohankove-mouky/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/25-11-vanilkove-rohlicky-z-pohankove-mouky/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;280 g pohankové mouky&lt;/li&gt;&#xA;&lt;li&gt;200 g másla pokojové teploty&lt;/li&gt;&#xA;&lt;li&gt;60 g moučkového cukru&lt;/li&gt;&#xA;&lt;li&gt;120 g mletých lískových ořechů&lt;/li&gt;&#xA;&lt;li&gt;1 sáček vanilkového cukru&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;na obalení&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 vanilínový cukr&lt;/li&gt;&#xA;&lt;li&gt;cukr moučka do misky&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Máslo vyndáme předem, jinak se špatně zapracovává do těsta.&lt;/li&gt;&#xA;&lt;li&gt;Ze všech surovin zpracujeme těsto a necháme odležet do druhého dne v lednici, lépe se  s ním pracuje.&lt;/li&gt;&#xA;&lt;li&gt;ěsto rozdělím na cca 4 kusy a postupně rozválím na válečky tloušťky okolo 1cm a krájím na kousky cca 4cm,&#xA;nakonec dotvarujeme v ruce oblé špičky a zahneme.&lt;/li&gt;&#xA;&lt;li&gt;Skládáme na plech vymazaný nebo vyložený pečícím papírem (trochu nabydou, nechat mezery).&lt;/li&gt;&#xA;&lt;li&gt;Po upečení necháme trochu vychladnout a teplé obalujeme ve směsi moučkového cukru s vanilínovým&lt;/li&gt;&#xA;&lt;li&gt;Necháme vychladnout a uložíme&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;#Poznámky:&#xA;Vyzkoušeno zatím s poloviční dávky. Přidala jsem ČL lněného semínka a 2 PL mléka.Do bezlepkového těsta většinou dávám celé vejce, zde v originál receptu nebylo, tak uvidíme.&#xA;Vanilínový cukr je u nás tradice. Lze samozřejmě použít i vanilkový cukr, ale tu pravou chuť a vůni babiččiných rohlíčků mít nebudou.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dýňová buchta</title>
-      <link>https://rkanet.github.io/cookbook/recepty/23-11-buchta--dynova/</link>
+      <link>http://localhost:1313/cookbook/recepty/23-11-buchta--dynova/</link>
       <pubDate>Thu, 09 Nov 2023 19:25:39 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/23-11-buchta--dynova/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/23-11-buchta--dynova/</guid>
       <description>&lt;h1 id=&#34;suroviny-forma-ikea-32-x-22-cm&#34;&gt;Suroviny (Forma Ikea 32 x 22 cm)&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;4 vejce&lt;/li&gt;&#xA;&lt;li&gt;60 g třtinového cukru&lt;/li&gt;&#xA;&lt;li&gt;1 ČL kopečkem skořice (lze i perníkové dle chuti)&lt;/li&gt;&#xA;&lt;li&gt;200 g dýňového pyré&lt;/li&gt;&#xA;&lt;li&gt;110 g mouky Nutri free Per dolce&lt;/li&gt;&#xA;&lt;li&gt;3 g prášku do pečiva&lt;/li&gt;&#xA;&lt;li&gt;60 g mletých vlašských ořechů (pár kousků na ozdobení)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Krém&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 tučný tvaroh s trochou cukru a vanilkového cukru dle chuti&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;uvaříme dýňové pyré a vychladíme, pro urychlení ideálně den předem, bacha né moc vody&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mandlový dort bez mouky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-10-orechovy-dort-bez-mouky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-10-orechovy-dort-bez-mouky/</link>
       <pubDate>Sat, 22 Oct 2022 17:43:05 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-10-orechovy-dort-bez-mouky/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-10-orechovy-dort-bez-mouky/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Korpus&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5 vajec (oddělit žloutky a bílky)&lt;/li&gt;&#xA;&lt;li&gt;150 g moučkového cukru&lt;/li&gt;&#xA;&lt;li&gt;300 g mletých ořechů nebo mandlí&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Krém&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;500ml mléka&lt;/li&gt;&#xA;&lt;li&gt;2 vanilkové pudinky&lt;/li&gt;&#xA;&lt;li&gt;1 tučný tvaroh ve vaničce&lt;/li&gt;&#xA;&lt;li&gt;cukr&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Na ozdobu&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;čokoláda, ořechy&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Bílky ušleháme do tuha, zapracujeme cukr.&lt;/li&gt;&#xA;&lt;li&gt;Opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské).&lt;/li&gt;&#xA;&lt;li&gt;Těsto nalijeme do vymazané  dortové formy. Vložíme do předem vyhřáté trouby a pečeme na 180 °C, asi 35-40 minut.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Ořechové muffiny bez mouky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-10-orechove-muffiny-bez-mouky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-10-orechove-muffiny-bez-mouky/</link>
       <pubDate>Sat, 22 Oct 2022 17:31:11 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-10-orechove-muffiny-bez-mouky/</guid>
-      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5 vajec (oddělit žloutky a bílky)&lt;/li&gt;&#xA;&lt;li&gt;150 g moučkového cukru&lt;/li&gt;&#xA;&lt;li&gt;300 g mletých ořechů&#xA;recept je stejný jako na &lt;a href=&#34;https://rkanet.github.io/cookbook/recepty/22-10-orechovy-dort-bez-mouky/&#34;&gt;ořechový dort&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Na ozdobu:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;jablíčka, čokoláda, ořechy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;p&gt;Bílky ušleháme do tuha, zapracujeme cukr. Pak opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské).&#xA;Těsto nalijeme do muffinových mističek a ozdobíme jablíčky a kousky čokolády. Vložíme do předem vyhřáté trouby a pečeme na 180 °C, asi 35-40 minut.&lt;/p&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Měla jsem recept připravený na dort s krémem, ale bylo přání z toho udělat muffinky, tak jsem vyzkoušela.&#xA;Všechno se snědlo, takže asi dobré, ale na muffinky si umím představit vhodnější těsto.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-10-orechove-muffiny-bez-mouky/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5 vajec (oddělit žloutky a bílky)&lt;/li&gt;&#xA;&lt;li&gt;150 g moučkového cukru&lt;/li&gt;&#xA;&lt;li&gt;300 g mletých ořechů&#xA;recept je stejný jako na &lt;a href=&#34;http://localhost:1313/cookbook/recepty/22-10-orechovy-dort-bez-mouky/&#34;&gt;ořechový dort&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Na ozdobu:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;jablíčka, čokoláda, ořechy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;p&gt;Bílky ušleháme do tuha, zapracujeme cukr. Pak opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské).&#xA;Těsto nalijeme do muffinových mističek a ozdobíme jablíčky a kousky čokolády. Vložíme do předem vyhřáté trouby a pečeme na 180 °C, asi 35-40 minut.&lt;/p&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Měla jsem recept připravený na dort s krémem, ale bylo přání z toho udělat muffinky, tak jsem vyzkoušela.&#xA;Všechno se snědlo, takže asi dobré, ale na muffinky si umím představit vhodnější těsto.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Štafetky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-08-stafetky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-08-stafetky/</link>
       <pubDate>Wed, 10 Aug 2022 16:56:59 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-08-stafetky/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-08-stafetky/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Těsto:&#xA;3 bílky (10 dkg)&#xA;10 dkg moučkového cukru&#xA;špetka soli&#xA;3 dkg lískových nebo vlašských ořechů&#xA;4 dkg hladké mouky&#xA;máslo na vymazání papíru na plechu&lt;/p&gt;&#xA;&lt;p&gt;Krém:&#xA;1,3 dl mléka&#xA;2 lžíce solamylu&#xA;1 žloutek&#xA;2 lžíce cukru (i více)&#xA;1 lžíce rumu&#xA;1 lžička instantní kávy&#xA;10 dkg másla&lt;/p&gt;&#xA;&lt;p&gt;čokoláda a tuk na ozdobu podle potřeby&lt;/p&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;p&gt;Bílky začneme šlehat a během šlehání přisypáváme cukr a špetku soli. Chvíli to bude trvat, ale vyšlehejte sníh dotuha.&#xA;Přimícháme ostatní suroviny (oříšky rozemleté). Směs rozetřeme na pečící papír, který máme vymazaný máslem na plechu 30 x40 cm. Neroztírejte těsto až do krajů, ale asi 1,5 – 2 cm od nich.&#xA;Pečeme hned v předehřáté troubě na 160 °C asi 15 minut. Troubu neotvírejte. Pamatujte, že každá trouba peče jinak a těsto nemá být upečené do červena!&#xA;Krom másla uvaříme všechny suroviny v kastrůlku na hustou kaši a do vychladlé zašleháme změklé máslo.&#xA;Z těsta můžeme dělat řezy nebo rolády, to záleží na Vás. Nařežete si pruhy, potřete krémem a buďto je stočíte nebo dáte pruhy na sebe.&#xA;Na kousky krájíme až krém ve štafetách dobře zatuhne. Konce máčíme v čokoládě a podáváme z lednice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ořechy podle babičky Mařenky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-07-orechy-babicky-marenky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-07-orechy-babicky-marenky/</link>
       <pubDate>Fri, 08 Jul 2022 17:30:27 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-07-orechy-babicky-marenky/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-07-orechy-babicky-marenky/</guid>
       <description>&lt;h1 id=&#34;suroviny-na-těsto&#34;&gt;Suroviny na těsto&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g másla&lt;/li&gt;&#xA;&lt;li&gt;250g hladké mouky&lt;/li&gt;&#xA;&lt;li&gt;100g cukr moučka&lt;/li&gt;&#xA;&lt;li&gt;80g mletých vlašských ořechů&lt;/li&gt;&#xA;&lt;li&gt;2 rovné PL kakaa&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;všechny suroviny zpracujeme do těsta (máslo nechat povolit předem), je-li čas nechat odležet přes noc v lednici&lt;/li&gt;&#xA;&lt;li&gt;dáváme do formiček přiměřeně, docela nabydou (jen oblepit tvar formičky jako mističku)&lt;/li&gt;&#xA;&lt;li&gt;pečeme při 180 do 15 minut (dle množství, tloušťky a trouby)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;krém&#34;&gt;Krém&lt;/h1&gt;&#xA;&lt;p&gt;Originál babiččin je vařený s jíškou, déle vydrží. Z 50g másla a 50g mouky udělat světlou jíšku.&#xA;Chvíli odstavit pak přidat 500ml mléka, dobře rozmíchat a povařit 20 minut za stáleho míchání.&#xA;Před koncem přidat 1 vanilkový cukr.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vanilkové rohlíčky dle babičky Mařenky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-05-vanilkove-rohlicky-dle-babicky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-05-vanilkove-rohlicky-dle-babicky/</link>
       <pubDate>Mon, 16 May 2022 09:59:39 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-05-vanilkove-rohlicky-dle-babicky/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-05-vanilkove-rohlicky-dle-babicky/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 vanilínový cukr&lt;/li&gt;&#xA;&lt;li&gt;240g hladké mouky&lt;/li&gt;&#xA;&lt;li&gt;160g másla&lt;/li&gt;&#xA;&lt;li&gt;50g cukru&lt;/li&gt;&#xA;&lt;li&gt;100 g mletých ořechů (lískových)&lt;/li&gt;&#xA;&lt;li&gt;1 žloutek&lt;/li&gt;&#xA;&lt;li&gt;1 PL mléka&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;na obalení&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 vanilínový cukr&lt;/li&gt;&#xA;&lt;li&gt;cukr moučka&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;máslo vyndáme předem jinak se špatně zapracovává do těsta&lt;/li&gt;&#xA;&lt;li&gt;ze všech surovin zpracujeme těsto a necháme odležet do druhého dne v lednici, lépe se  s ním pracuje&lt;/li&gt;&#xA;&lt;li&gt;těsto rozdělím na cca 4 kusy a postupně rozválím na válečky tloušťky okolo 1cm a krájím na kousky cca 4cm,&#xA;nakonec dotvarujeme v ruce oblé špičky a zahneme&lt;/li&gt;&#xA;&lt;li&gt;skládáme na plech vymazaný nebo vyložený pečícím papírem (trochu nabydou, nechat mezery)&lt;/li&gt;&#xA;&lt;li&gt;po upečení necháme trochu vychladnout a teplé obalujeme ve směsi moučkového cukru s vanilínovým&lt;/li&gt;&#xA;&lt;li&gt;necháme vychladnout a uložíme&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;#Poznámky:&#xA;Vanilínový cukr není překlep. Lze samozřejmě použít i vanilkový cukr, ale tu pravou chuť a vůni babiččiných rohlíčků mít nebudou.&#xA;Do bezlepkového těsta dávám místo žloutku celé vejce. Bezlepkové mám vyzkoušené s Jizerkou, lze přidat 1 PL pohankové.&#xA;A pozor bezlepkové jsou po upečení velmi! křehké. Takže vydržet a nešahat, dokud neztuhnou, pak teprve obalit v cukru.&#xA;Do blp dávám trochu vanilínového cukru i do těsta.&lt;/p&gt;</description>
     </item>
   </channel>

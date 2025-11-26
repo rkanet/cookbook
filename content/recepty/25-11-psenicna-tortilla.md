@@ -15,7 +15,7 @@ draft = false
 
 # Suroviny 8/ 6 ks
 
-- 350 g hladké nebo polohrubé mouky (nebo směsi obou druhů) / 250g
+- 350 g hladké nebo polohrubé mouky (nebo směsi obou druhů) / 250g 
 - 5 g soli / 3 g
 - 1 g (na špičku nože) prášku do pečiva (nedávám) 
 - 60 g sádla  / 45g

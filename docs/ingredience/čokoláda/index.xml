@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Čokoláda on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/%C4%8Dokol%C3%A1da/</link>
+    <link>http://localhost:1313/cookbook/ingredience/%C4%8Dokol%C3%A1da/</link>
     <description>Recent content in Čokoláda on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Oct 2022 17:43:05 +0200</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/%C4%8Dokol%C3%A1da/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/%C4%8Dokol%C3%A1da/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mandlový dort bez mouky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-10-orechovy-dort-bez-mouky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-10-orechovy-dort-bez-mouky/</link>
       <pubDate>Sat, 22 Oct 2022 17:43:05 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-10-orechovy-dort-bez-mouky/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-10-orechovy-dort-bez-mouky/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Korpus&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5 vajec (oddělit žloutky a bílky)&lt;/li&gt;&#xA;&lt;li&gt;150 g moučkového cukru&lt;/li&gt;&#xA;&lt;li&gt;300 g mletých ořechů nebo mandlí&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Krém&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;500ml mléka&lt;/li&gt;&#xA;&lt;li&gt;2 vanilkové pudinky&lt;/li&gt;&#xA;&lt;li&gt;1 tučný tvaroh ve vaničce&lt;/li&gt;&#xA;&lt;li&gt;cukr&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Na ozdobu&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;čokoláda, ořechy&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Bílky ušleháme do tuha, zapracujeme cukr.&lt;/li&gt;&#xA;&lt;li&gt;Opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské).&lt;/li&gt;&#xA;&lt;li&gt;Těsto nalijeme do vymazané  dortové formy. Vložíme do předem vyhřáté trouby a pečeme na 180 °C, asi 35-40 minut.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Ořechové muffiny bez mouky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-10-orechove-muffiny-bez-mouky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-10-orechove-muffiny-bez-mouky/</link>
       <pubDate>Sat, 22 Oct 2022 17:31:11 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-10-orechove-muffiny-bez-mouky/</guid>
-      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5 vajec (oddělit žloutky a bílky)&lt;/li&gt;&#xA;&lt;li&gt;150 g moučkového cukru&lt;/li&gt;&#xA;&lt;li&gt;300 g mletých ořechů&#xA;recept je stejný jako na &lt;a href=&#34;https://rkanet.github.io/cookbook/recepty/22-10-orechovy-dort-bez-mouky/&#34;&gt;ořechový dort&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Na ozdobu:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;jablíčka, čokoláda, ořechy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;p&gt;Bílky ušleháme do tuha, zapracujeme cukr. Pak opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské).&#xA;Těsto nalijeme do muffinových mističek a ozdobíme jablíčky a kousky čokolády. Vložíme do předem vyhřáté trouby a pečeme na 180 °C, asi 35-40 minut.&lt;/p&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Měla jsem recept připravený na dort s krémem, ale bylo přání z toho udělat muffinky, tak jsem vyzkoušela.&#xA;Všechno se snědlo, takže asi dobré, ale na muffinky si umím představit vhodnější těsto.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/cookbook/recepty/22-10-orechove-muffiny-bez-mouky/</guid>
+      <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;5 vajec (oddělit žloutky a bílky)&lt;/li&gt;&#xA;&lt;li&gt;150 g moučkového cukru&lt;/li&gt;&#xA;&lt;li&gt;300 g mletých ořechů&#xA;recept je stejný jako na &lt;a href=&#34;http://localhost:1313/cookbook/recepty/22-10-orechovy-dort-bez-mouky/&#34;&gt;ořechový dort&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Na ozdobu:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;jablíčka, čokoláda, ořechy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;p&gt;Bílky ušleháme do tuha, zapracujeme cukr. Pak opatrně vmícháme žloutky a mleté ořechy (dala jsem vlašské).&#xA;Těsto nalijeme do muffinových mističek a ozdobíme jablíčky a kousky čokolády. Vložíme do předem vyhřáté trouby a pečeme na 180 °C, asi 35-40 minut.&lt;/p&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Měla jsem recept připravený na dort s krémem, ale bylo přání z toho udělat muffinky, tak jsem vyzkoušela.&#xA;Všechno se snědlo, takže asi dobré, ale na muffinky si umím představit vhodnější těsto.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

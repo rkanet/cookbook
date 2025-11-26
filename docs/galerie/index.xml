@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galerie on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/galerie/</link>
+    <link>http://localhost:1313/cookbook/galerie/</link>
     <description>Recent content in Galerie on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/galerie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/galerie/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

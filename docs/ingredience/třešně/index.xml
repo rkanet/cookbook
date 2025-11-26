@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Třešně on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/t%C5%99e%C5%A1n%C4%9B/</link>
+    <link>http://localhost:1313/cookbook/ingredience/t%C5%99e%C5%A1n%C4%9B/</link>
     <description>Recent content in Třešně on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jan 2024 19:59:48 +0100</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/t%C5%99e%C5%A1n%C4%9B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/t%C5%99e%C5%A1n%C4%9B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jahlovo fazolový dort</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-01-jahlovo-fazolovy-dort/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-01-jahlovo-fazolovy-dort/</link>
       <pubDate>Mon, 08 Jan 2024 19:59:48 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/24-01-jahlovo-fazolovy-dort/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/24-01-jahlovo-fazolovy-dort/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Korpus&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g jáhel&lt;/li&gt;&#xA;&lt;li&gt;400 ml mléka&lt;/li&gt;&#xA;&lt;li&gt;400 ml vody 400&lt;/li&gt;&#xA;&lt;li&gt;cukr&lt;/li&gt;&#xA;&lt;li&gt;pražené mandle (máslo)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ovocná vrstva&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;300 g adzuki fazole&lt;/li&gt;&#xA;&lt;li&gt;700ml jablečného moštu ( 100%) k tomu&lt;/li&gt;&#xA;&lt;li&gt;Štáva z třešňového kompotu&lt;/li&gt;&#xA;&lt;li&gt;vypeckované třešně z kompotu&lt;/li&gt;&#xA;&lt;li&gt;2 jablka (200g strouhaných jablek)&lt;/li&gt;&#xA;&lt;li&gt;1 ČL skořice&lt;/li&gt;&#xA;&lt;li&gt;agar (10g práškového! agaru)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Fazole adzuki ideálně namočíme den předem (jinak se vaří déle).&lt;/li&gt;&#xA;&lt;li&gt;Dáme vařit fazole a první vodu po 3 minutách slejeme a dáme vařit do 0,5 litru jablečného moštu, vaří se asi 1h&lt;/li&gt;&#xA;&lt;li&gt;Jáhly spařím a vaříme v mléce s vodou cca 10–15 minut (záleží, zda se před tím namáčely).&lt;/li&gt;&#xA;&lt;li&gt;Po uvaření jáhly osladíme a rozetřeme do vodou omyté formy (propláchnu formu vodou).&lt;/li&gt;&#xA;&lt;li&gt;Jablka nastrouháme najemno a přidáme do uvařených fazolí.&lt;/li&gt;&#xA;&lt;li&gt;Dochutíme skořicí, případně cukrem.&lt;/li&gt;&#xA;&lt;li&gt;Přidáme agar dle návodu (agar předem do trochy moštu).&lt;/li&gt;&#xA;&lt;li&gt;Rozmixujeme mixérem najemno, jak potřebujeme.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Měkké fazole poznáme podle rozemnutí mezi prsty, jsou krásně sametové. Mile překvapilo, moje oblíbená varianta, ale ne všichni souhlasí :)&#xA;Třešně tam byly dobré, šlo by i s jiným ovocem, broskve, černý rybíz. Zkusit také změnit poměr fazolí ve prospěch ovoce.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Třešně v agaru</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-07-tresne-v-agaru/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-07-tresne-v-agaru/</link>
       <pubDate>Fri, 08 Jul 2022 11:59:10 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-07-tresne-v-agaru/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-07-tresne-v-agaru/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;třešně&lt;/li&gt;&#xA;&lt;li&gt;agar&lt;/li&gt;&#xA;&lt;li&gt;voda/džus&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;třešně vypeckujeme&lt;/li&gt;&#xA;&lt;li&gt;rozpustíme agar a povaříme s třešněmi&lt;/li&gt;&#xA;&lt;li&gt;nalejeme do skleniček&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Třešňový džem</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-07-tresnovy-dzem/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-07-tresnovy-dzem/</link>
       <pubDate>Fri, 08 Jul 2022 10:30:28 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-07-tresnovy-dzem/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-07-tresnovy-dzem/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;1 kg vypeckovaných třešní (odpovídá cca 1100g nevypeckovaných)&#xA;500 g cukru&#xA;10g pektinu&#xA;1 rovná ČL kys. citronové (konzervant, mírně okyselí, lze i bez ní)&lt;/p&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;omyjeme, odstopkujeme a vypeckujeme třešně&lt;/li&gt;&#xA;&lt;li&gt;zasypeme většinou cukru cca 50g ponecháme stranou na rozmíchání pektinu&lt;/li&gt;&#xA;&lt;li&gt;pocukrované třešně dáme do chladu a necháme do druhého dne&lt;/li&gt;&#xA;&lt;li&gt;druhý den přidáme pektin s cukrem&lt;/li&gt;&#xA;&lt;li&gt;vaříme v širokém hrnci cca 10 minut dle zkoušky tuhnutí na talířku&lt;/li&gt;&#xA;&lt;li&gt;vroucí plníme do čistých sterilovaných skleniček vč. víček&lt;/li&gt;&#xA;&lt;li&gt;otočíme víčkem dolů do vychladnutí&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Lze zpracovat t=ž ihned po vypeckování, ale většinou ráda zacukruji a odložím do lednice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Třešňový kompot</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-07-tresnovy-kompot/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-07-tresnovy-kompot/</link>
       <pubDate>Sun, 03 Jul 2022 22:12:31 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-07-tresnovy-kompot/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-07-tresnovy-kompot/</guid>
       <description>&lt;h1 id=&#34;suroviny-na-12-sklenic&#34;&gt;Suroviny na 12 sklenic&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;asi 5 kg třešní&lt;/li&gt;&#xA;&lt;li&gt;750 g cukr krupice (dávka 250g/l)&lt;/li&gt;&#xA;&lt;li&gt;3 l vody&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;natrhat, omýt, odstopkovat a přebrat&lt;/li&gt;&#xA;&lt;li&gt;sklenice sterilujeme v troubě na plechu s vodou 15 minut při 175 st&lt;/li&gt;&#xA;&lt;li&gt;víčka sterilujeme v hrnci s trochou octa povaříme 10 minut&lt;/li&gt;&#xA;&lt;li&gt;předehřejeme troubu na 175 stupňů (horkovzduch) na nejnižší příčku dáme plech s vodou cca 2cm&lt;/li&gt;&#xA;&lt;li&gt;naplníme sklenice, zalejeme horkým cukrovým roztokem zavíčkujeme a vložíme do trouby&lt;/li&gt;&#xA;&lt;li&gt;zavařujeme 20 minut při 175 stupních a pak stáhneme na 90st horkovzduch a ještě dalších 40 minut necháme v troubě&lt;/li&gt;&#xA;&lt;li&gt;vyndáme z trouby a sklenice otočíme víčkem dolů až do  vychladnutí, zpravidla do rána&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Instantní-Káva on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/instantn%C3%AD-k%C3%A1va/</link>
+    <link>http://localhost:1313/cookbook/ingredience/instantn%C3%AD-k%C3%A1va/</link>
     <description>Recent content in Instantní-Káva on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Aug 2022 16:56:59 +0200</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/instantn%C3%AD-k%C3%A1va/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/instantn%C3%AD-k%C3%A1va/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Štafetky</title>
-      <link>https://rkanet.github.io/cookbook/recepty/22-08-stafetky/</link>
+      <link>http://localhost:1313/cookbook/recepty/22-08-stafetky/</link>
       <pubDate>Wed, 10 Aug 2022 16:56:59 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/22-08-stafetky/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/22-08-stafetky/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;p&gt;Těsto:&#xA;3 bílky (10 dkg)&#xA;10 dkg moučkového cukru&#xA;špetka soli&#xA;3 dkg lískových nebo vlašských ořechů&#xA;4 dkg hladké mouky&#xA;máslo na vymazání papíru na plechu&lt;/p&gt;&#xA;&lt;p&gt;Krém:&#xA;1,3 dl mléka&#xA;2 lžíce solamylu&#xA;1 žloutek&#xA;2 lžíce cukru (i více)&#xA;1 lžíce rumu&#xA;1 lžička instantní kávy&#xA;10 dkg másla&lt;/p&gt;&#xA;&lt;p&gt;čokoláda a tuk na ozdobu podle potřeby&lt;/p&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;p&gt;Bílky začneme šlehat a během šlehání přisypáváme cukr a špetku soli. Chvíli to bude trvat, ale vyšlehejte sníh dotuha.&#xA;Přimícháme ostatní suroviny (oříšky rozemleté). Směs rozetřeme na pečící papír, který máme vymazaný máslem na plechu 30 x40 cm. Neroztírejte těsto až do krajů, ale asi 1,5 – 2 cm od nich.&#xA;Pečeme hned v předehřáté troubě na 160 °C asi 15 minut. Troubu neotvírejte. Pamatujte, že každá trouba peče jinak a těsto nemá být upečené do červena!&#xA;Krom másla uvaříme všechny suroviny v kastrůlku na hustou kaši a do vychladlé zašleháme změklé máslo.&#xA;Z těsta můžeme dělat řezy nebo rolády, to záleží na Vás. Nařežete si pruhy, potřete krémem a buďto je stočíte nebo dáte pruhy na sebe.&#xA;Na kousky krájíme až krém ve štafetách dobře zatuhne. Konce máčíme v čokoládě a podáváme z lednice.&lt;/p&gt;</description>
     </item>
   </channel>
