@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Šlehačka on Kitchen</title>
-    <link>http://localhost:1313/cookbook/ingredience/%C5%A1leha%C4%8Dka/</link>
+    <link>https://rkanet.github.io/cookbook/ingredience/%C5%A1leha%C4%8Dka/</link>
     <description>Recent content in Šlehačka on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Mar 2024 18:50:58 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/cookbook/ingredience/%C5%A1leha%C4%8Dka/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rkanet.github.io/cookbook/ingredience/%C5%A1leha%C4%8Dka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Šlehačková bábovka</title>
-      <link>http://localhost:1313/cookbook/recepty/24-03-mramorova-babovka/</link>
+      <link>https://rkanet.github.io/cookbook/recepty/24-03-mramorova-babovka/</link>
       <pubDate>Thu, 07 Mar 2024 18:50:58 +0100</pubDate>
-      <guid>http://localhost:1313/cookbook/recepty/24-03-mramorova-babovka/</guid>
+      <guid>https://rkanet.github.io/cookbook/recepty/24-03-mramorova-babovka/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3 vejce&lt;/li&gt;&#xA;&lt;li&gt;200 ml smetany ke šlehání cca (190g)&lt;/li&gt;&#xA;&lt;li&gt;180 g sladidla&lt;/li&gt;&#xA;&lt;li&gt;balíček kypřícího prášku (10g)&lt;/li&gt;&#xA;&lt;li&gt;240 g  mouky Nutrifree Dolci (dala jsem 260)&lt;/li&gt;&#xA;&lt;li&gt;vanilkový cukr&lt;/li&gt;&#xA;&lt;li&gt;1 PL kakaa (20 g)&lt;/li&gt;&#xA;&lt;li&gt;trocha mléka (na rozmíchání kakaa)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Formu vymažeme tukem a polohrubou rýžovou moukou.&lt;/li&gt;&#xA;&lt;li&gt;Smíchat smetanu, vajíčka a cukr. (Ideálně trochu prošlehat mixérem.)&lt;/li&gt;&#xA;&lt;li&gt;Přidat mouku s kypřícím práškem a dobře promíchat.&lt;/li&gt;&#xA;&lt;li&gt;Asi 1/3 těsta stranou do misky, vmíchat kakao. Přidat trochu mléka, aby mělo těsto obdobnou konzistenci jako světlé.&lt;/li&gt;&#xA;&lt;li&gt;Do formy nalít polovinu těsta světlého, na něj tmavé a pak zbytek světlého.&lt;/li&gt;&#xA;&lt;li&gt;Pečeme na 180 °C asi 45 minut. (Kontrola špejlí.)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Zkusit přidat trochu rumu, asi do kakaové vrstvy. Hmota byla velmi tekutá, přidala jsem oproti receptu 20 g mouky a i tak byla řídká. Bábovka nakonec přes všechny obavy moc dobrá!&lt;/p&gt;</description>
     </item>
   </channel>
