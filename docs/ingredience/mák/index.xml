@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mák on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/m%C3%A1k/</link>
+    <link>http://localhost:1313/cookbook/ingredience/m%C3%A1k/</link>
     <description>Recent content in Mák on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jan 2024 17:26:12 +0100</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/m%C3%A1k/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/m%C3%A1k/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jáhlový makovec s ovocem</title>
-      <link>https://rkanet.github.io/cookbook/recepty/24-01-jahlovy-makovec/</link>
+      <link>http://localhost:1313/cookbook/recepty/24-01-jahlovy-makovec/</link>
       <pubDate>Mon, 29 Jan 2024 17:26:12 +0100</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/24-01-jahlovy-makovec/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/24-01-jahlovy-makovec/</guid>
       <description>&lt;h1 id=&#34;suroviny-ikea-pekáč-velký-38-x30&#34;&gt;Suroviny Ikea pekáč velký (38 x30)&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;300g suchých jáhel&lt;/li&gt;&#xA;&lt;li&gt;asi 800 ml mléka a vody v poměru 1:1&lt;/li&gt;&#xA;&lt;li&gt;cukr třtinový&lt;/li&gt;&#xA;&lt;li&gt;mák mletý asi 50g&lt;/li&gt;&#xA;&lt;li&gt;ovoce na vrch (jablka, švestky)&lt;/li&gt;&#xA;&lt;li&gt;2PL kukuřičného škrobu&lt;/li&gt;&#xA;&lt;li&gt;skořice&lt;/li&gt;&#xA;&lt;li&gt;volitelně navrch mandlové lupínky&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3x spařím jáhly a uvařím v mléce s vodou do změknutí (mírně odklopená polička)&lt;/li&gt;&#xA;&lt;li&gt;přidám cukr a PL škrobu a ještě krátce promíchám (2 minuty)&lt;/li&gt;&#xA;&lt;li&gt;navrstvím hmotu do olejem vymazaného a moukou vysypaného pekáče&lt;/li&gt;&#xA;&lt;li&gt;navrch jablíčka pokrájená na měsíčky a půlky švestek. Pokud není tahle ideal kombinace stačí jen jablíčka, případně lze použít i odkapané a vypeckováné švestky z kompotu.&lt;/li&gt;&#xA;&lt;li&gt;decentně posypat skořicí a je-li ovoce moc kyselé, mírně sypu cukrem&lt;/li&gt;&#xA;&lt;li&gt;možné ozdobit plátky mandlí&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Škrob si půjde v pohodě vynechat. Časem zkusím.&lt;/p&gt;</description>
     </item>
   </channel>

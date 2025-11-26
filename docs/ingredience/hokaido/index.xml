@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hokaido on Kitchen</title>
-    <link>https://rkanet.github.io/cookbook/ingredience/hokaido/</link>
+    <link>http://localhost:1313/cookbook/ingredience/hokaido/</link>
     <description>Recent content in Hokaido on Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Oct 2025 21:48:16 +0200</lastBuildDate>
-    <atom:link href="https://rkanet.github.io/cookbook/ingredience/hokaido/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cookbook/ingredience/hokaido/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dýňová kaše s quinou</title>
-      <link>https://rkanet.github.io/cookbook/recepty/25-10-dynova-kase-s-makem-a-quinou/</link>
+      <link>http://localhost:1313/cookbook/recepty/25-10-dynova-kase-s-makem-a-quinou/</link>
       <pubDate>Tue, 21 Oct 2025 21:48:16 +0200</pubDate>
-      <guid>https://rkanet.github.io/cookbook/recepty/25-10-dynova-kase-s-makem-a-quinou/</guid>
+      <guid>http://localhost:1313/cookbook/recepty/25-10-dynova-kase-s-makem-a-quinou/</guid>
       <description>&lt;h1 id=&#34;suroviny&#34;&gt;Suroviny&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dýně hokaido&lt;/li&gt;&#xA;&lt;li&gt;quinoa&lt;/li&gt;&#xA;&lt;li&gt;mletý mák&lt;/li&gt;&#xA;&lt;li&gt;skořice&lt;/li&gt;&#xA;&lt;li&gt;jsou li, tak na závěrečné posypání ořechy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;postup&#34;&gt;Postup&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Uvaříme dýni s quinoou a skořicí.&lt;/li&gt;&#xA;&lt;li&gt;Decentně osladíme.&lt;/li&gt;&#xA;&lt;li&gt;Ochutíme mákem, ořechy a sníme.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;poznámky&#34;&gt;Poznámky&lt;/h1&gt;&#xA;&lt;p&gt;Rychlá příprava a zajímavá chuť. Jsou-li, je fajn ke konci vaření přidat švestky.&lt;/p&gt;</description>
     </item>
   </channel>

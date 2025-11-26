@@ -3,13 +3,13 @@
 date = "2025-11-06T10:21:58+01:00"
 title = "Polévka s kari pastou"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/IMG_5834-polevka-s-kari-pastou.jpg"
 imghref = "/recepty/"
 imgname = ""
 kategorie = ["polévky"]
 ingredience = ["",""]
 tags = ["slané","zelenina","polévky","bez-lepku"]
-draft = true
+draft = false
 +++
 
 

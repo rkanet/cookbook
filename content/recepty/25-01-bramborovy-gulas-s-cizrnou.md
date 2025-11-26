@@ -1,15 +1,15 @@
 
 +++
 date = "2025-01-18T20:28:13+01:00"
-title = ""
+title = "Bramborový guláš s masem a cizrnou"
 autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
 kategorie = ["hlavní-jídla"]
-ingredience = ["",""]
-tags = ["slané","zelenina","bez-lepku"]
-draft = true
+ingredience = ["cizrna"]
+tags = ["slané","zelenina","maso","bez-lepku"]
+draft = false
 +++
 
 
@@ -34,7 +34,7 @@ draft = true
 - namočit cizrnu
 2. den
 - uvařit ráno cizrnu
-- na obed pak přidat dovývaru jen brambory a vařenou cizrnu
+- na obed pak přidat do vývaru jen brambory a vařenou cizrnu
 - vařit do změknutí brambor
 
 # Poznámky

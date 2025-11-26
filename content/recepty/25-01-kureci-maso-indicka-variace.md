@@ -9,7 +9,7 @@ imgname = ""
 kategorie = ["hlavní-jídla"]
 ingredience = ["maso","římský-kmín"]
 tags = ["slané","bez-lepku","maso"]
-draft = true
+draft = false
 +++
 
 
@@ -18,11 +18,12 @@ na naložení masa
 - 650g kuřecí maso stehenní   
 - 100g jogurtu (asi 2PL kopcem
 - 1 rovná ČL římského kmínu
-- 1 rovná ČL červené lahůdkové papriky (místo chilli)
+- 1 rovná ČL červené lahůdkové papriky 
 - 1/2 ČL Garam masala Sonnetor
 - 1 rovná ČL kurkumy
 - 1 větší stroužek česneku prolisovaný
 - sůl
+- volitelně trochu chili (nedávám)
 
 na omáčku
 - 2 ks cibule 

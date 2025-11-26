@@ -6,10 +6,10 @@ autor = "R.R."
 imgsrc = "/img/no-image.jpg"
 imghref = "/recepty/"
 imgname = ""
-kategorie = ["přílohy","hlavní-jídla"]
+kategorie = ["hlavní-jídla"]
 ingredience = ["rýže","paprika", "rajče"]
-tags = ["slané","zelenina","polévky","bez-lepku","maso"]
-draft = true
+tags = ["slané","zelenina","bez-lepku","maso"]
+draft = false
 +++
 
 
