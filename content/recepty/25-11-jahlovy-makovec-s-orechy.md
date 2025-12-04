@@ -13,7 +13,7 @@ draft = false
 +++
 
 
-# Suroviny
+# Suroviny (Forma Ikea 32x22cm)
 - 230g jáhel suchých
 - 120g mletého máku
 - 50g namočených a rozmixovaných rozinek
@@ -35,8 +35,7 @@ draft = false
 7. Rozetřít do pekáče vymazaného a vysypaného moukou. Navrstvit švestky a nasekané ořechy. Decentně vtlačit do těsta.
 
 # Poznámky
-Bylo velmi rozpadavé, ale chutné! Trochu pomohlo nechat vychladnout do druhého dne. Poznámky k vaření jáhel, aby výsledek držel. Zkusit vařit pod pokličkou s těmito poměry od AI:
-Jáhly 230 g / 500 ml tekutin, mletý mák (jemný, 2× mletý) 120 g, cukr 100 g, olej 15 g, vejce 2 ks. Vařit pod pokličkou 12 min, poté nechat 15 min dojít (bez míchání).Vmíchat olej, dochladit a pak mák a cukr. Péct 170 °C / 30–35 minut (až pruží na dotek a voní).
+Bylo velmi rozpadavé, ale chutné! Trochu pomohlo nechat vychladnout do druhého dne. Na druhý pokus, ubrala jsem mák (přispívá k drobivoti). Uvařila jsem 230g jáhly /65g máku// 650g vody pod pokličkou lehce odklopenou. Nechala úplně vychladnout.  Pak přidla 1,5 ČL skořice, 2 žloutky a 2PL mléka šlo to špatně rozmíchat. Nakonec vmíchat vyšlehaný ze 2 bílků a 70g cukru.  Pekla jsem na 180 stupňů asi 70minut. V pekáci hodně dlouho chladne po třech hodinách to bylo ještě teplé a drobivější. Po schlazení v lednici drží dobře. Jo a ubraný mák nijak zásadně nechyběl. Byly dokonce požadavky, aby část pekáše neměla mák vůbec:)
 
 Ořechy lískové moc dobré, i vlašské ňam, ale měla jsem jich málo, tak byly jen na části korpusu.
 

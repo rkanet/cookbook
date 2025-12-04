@@ -2,7 +2,7 @@
 date = "2025-11-22T20:30:16+01:00"
 title = "Vanilkové rohlíčky z pohankové mouky"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/IMG_5876-pohankove-vanilkove-rohlicky.jpg"
 imghref = "/recepty/"
 imgname = "Rohlíčky"
 ingredience = ["ořechy","mouka","máslo"]
