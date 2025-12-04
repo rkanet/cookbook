@@ -6,7 +6,7 @@
 @import 'libs/html-grid';
 @import 'override';
 /*@import url("fontawesome-all.min.css");*/
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600|Arvo:700");
 
 /*
 	Strongly Typed by HTML5 UP
@@ -675,17 +675,22 @@
 		text-align: center;
 
 		> .container {
-			padding: 14em 0 7em 0;
-			border-bottom: solid 2px #e5e5e5;
-			box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
+			padding: 14em 0 4em 0;
+			//rka zmena puvodne - padding: 14em 0 7em 0;
+			//not use > border "moved" to ul #subnav v override.css
+			//border-bottom: solid 2px #e5e5e5;
+			//box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
 		}
 
 		h1 {
-			font-family: 'Arvo';
-			font-weight: 700;
-			color: #ed786a;
-			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
-			font-size: 3em;
+			//rka zmena na font source sans pro, no shadows
+			//font-family: 'Arvo';
+			//font-weight: 700;
+			//text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
+		    //rka changed color, larger font
+			//puvodne
+			//color: #ed786a;
+			//font-size: 3em;
 			letter-spacing: 13px;
 
 			a {

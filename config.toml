@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Kitchen"
 theme = "StronglyTyped"
 
-sectionPagesMenu = "main"
+# sectionPagesMenu = "main"
 
 canonifyurls = true
 
@@ -15,5 +15,33 @@ preserveTaxonomyNames = true
 	kategorie = "kategorie"
 	tag = "tags"
 	taxomony = "taxomonies"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[menu.main.params]
+icon = "solid fa-home"
+
+[[menu.main]]
+name = "Recepty"
+url = "/recepty/"
+weight = 2
+[menu.main.params]
+icon = "solid fa-book"
+
+[[menu.main]]
+name = "Galerie"
+url = "/galerie/"
+weight = 3
+[menu.main.params]
+icon = "solid fa-images"
+
+[[menu.main]]
+name = "How-to"
+url = "/how-to/"
+weight = 4
+[menu.main.params]
+icon = "solid fa-lightbulb"
 
 	

@@ -4,7 +4,6 @@ title = "Galerie"
 type = "galerie"
 autor = "R.R."
 ingredience = [""]
-
 +++
 
 

@@ -10,19 +10,23 @@
                 
 
            <ul>
-                        <li><a href="{{ absURL "" }}"><span>Home</span></a></li>
+                        <!--<li><a  href="{{ absURL "" }}"><span class="icon fa-house"> Home</span></a></li>-->
                         {{ $currentPage := . }}
                         {{ range .Site.Menus.main }}
                                                 
                             <li>
                                 <a href="{{ .URL }}" class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
-                                    <span>{{ .Name }}</span>
-                                    {{ .Pre }}
+                                    {{ with .Params.icon }}<i class="icon {{ . }}"></i>{{ end }}
+                            <span>{{ .Name }}</span>
                                                             
                                 </a>
                             </li>
                                             
                         {{ end }}
+
+
+
+
 
 
                 </ul>
