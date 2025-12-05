@@ -2,7 +2,7 @@
     <div class="container">
 
         <!-- Logo -->
-            <h1 id="logo"><a href="{{ absURL "" }}">Recepty</a></h1>
+            <h1 id="logo"><a href="{{ absURL "" }}">  Recepty</a></h1>
             <p></p>
                  
         <!-- Nav -->
@@ -14,12 +14,13 @@
                         {{ $currentPage := . }}
                         {{ range .Site.Menus.main }}
                                                 
-                            <li>
-                                <a href="{{ .URL }}" class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
-                                    {{ with .Params.icon }}<i class="icon {{ . }}"></i>{{ end }}
-                            <span>{{ .Name }}</span>
+                            <li>                                
+                                <a href="{{ .URL }}" class="icon{{ with .Params.icon }} {{ . }}{{ end }}{{if or ($currentPage.IsMenuCurrent
+                                "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
+
+                                <span>{{ .Name }}</span>
                                                             
-                                </a>
+                             </a>
                             </li>
                                             
                         {{ end }}
