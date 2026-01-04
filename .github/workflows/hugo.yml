@@ -1,4 +1,5 @@
- name: Deploy Hugo site to Pages
+
+  name: Deploy Hugo site to Pages
 
   on:
     push:
