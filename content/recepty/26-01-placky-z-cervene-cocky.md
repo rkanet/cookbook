@@ -8,7 +8,7 @@ imghref = "/recepty/"
 imgname = ""
 kategorie = ["přílohy","hlavní-jídla"]
 ingredience = ["červená-čočka",""]
-tags = ["slané","bez-lepku"]
+tags = ["slané",bez-lepku"]
 draft = false
 +++
 
