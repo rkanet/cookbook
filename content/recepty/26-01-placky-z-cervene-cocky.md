@@ -9,7 +9,7 @@ imgname = ""
 kategorie = ["přílohy","hlavní-jídla"]
 ingredience = ["červená-čočka",""]
 tags = ["slané","bez-lepku"]
-draft = true
+draft = false
 +++
 
 
