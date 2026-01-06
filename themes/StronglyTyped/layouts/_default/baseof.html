@@ -22,6 +22,8 @@
 		{{ $styles := resources.Get "css/fontawesome-all.min.css" | minify | fingerprint }}
         <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
 		<!--<link rel="stylesheet" href="/css/main.css" />-->
+
+		<!--special style for search >-->  <link rel="stylesheet" href="{{ "css/search.css" | relURL }}">
 	</head>
 
 	<body class="homepage is-preload">
@@ -30,6 +32,8 @@
 		{{ end }}
 
 		 <!-- Scripts -->
+
+
   {{ $jquery := resources.Get "js/jquery.min.js" }}
   {{ $dropotron := resources.Get "js/jquery.dropotron.min.js" }}
   {{ $browser := resources.Get "js/browser.min.js" }}
@@ -40,6 +44,9 @@
   {{ $alljs := slice $jquery $dropotron $browser $breakpoints $util $main | resources.Concat "js/main.bundle.js" }}
   {{ $js := $alljs | minify | fingerprint }}
   <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+  <!-- Script for search -->
+     <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+    <script src="{{ "js/search.js" | relURL }}"></script>
 
 	</body>
 </html>

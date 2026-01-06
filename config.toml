@@ -15,6 +15,11 @@ preserveTaxonomyNames = true
 	kategorie = "kategorie"
 	tag = "tags"
 	taxomony = "taxomonies"
+	
+# Search functionality
+# Enables JSON output generation for search index at /index.json	
+[outputs]
+    home = ["HTML", "JSON"]
 
 [[menu.main]]
 name = "Home"
@@ -43,5 +48,4 @@ url = "/how-to/"
 weight = 4
 [menu.main.params]
 icon = "solid fa-lightbulb"
-
-	
+  

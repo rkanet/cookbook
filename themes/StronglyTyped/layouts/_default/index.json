@@ -1,0 +1,10 @@
+ {{- $scratch := newScratch -}}
+  {{- $scratch.Set "index" slice -}}
+  {{- range where .Site.RegularPages "Section" "recepty" -}}
+    {{- $scratch.Add "index" (dict
+      "title" .Title
+      "url" .Permalink
+      "content" (.Plain | truncate 1500)
+    ) -}}
+  {{- end -}}
+  {{- $scratch.Get "index" | jsonify -}}
