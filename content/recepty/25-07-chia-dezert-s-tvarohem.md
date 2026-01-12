@@ -20,6 +20,8 @@ Základ
 - 250 g tvaroh polotučný ve vaničce
 - cukr dle chuti
 - vanilkový cukr
+
+
 2.vrtsva
 - čerstvé ovoce rozmixované 
 - kousky ovoce na ozdobu
