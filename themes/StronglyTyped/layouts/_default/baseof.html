@@ -45,7 +45,6 @@
   {{ $js := $alljs | minify | fingerprint }}
   <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
   <!-- Script for search -->
-     <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
     <script src="{{ "js/search.js" | relURL }}"></script>
 
 	</body>

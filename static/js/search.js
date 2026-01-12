@@ -1,5 +1,4 @@
 (function() {
-  let fuse = null;
   let searchIndex = null;
 
   // Normalize text - remove diacritics and lowercase
@@ -25,19 +24,54 @@
         normalizedContent: normalizeText(item.content)
       }));
 
-      // Initialize Fuse.js
-      fuse = new Fuse(searchIndex, {
-        keys: ['normalizedTitle', 'normalizedContent'],
-        threshold: 0.3,
-        includeMatches: true,
-        minMatchCharLength: 3
-      });
-
       return searchIndex;
     } catch (error) {
       console.error('Failed to load search index:', error);
+      searchIndex = [];
       return [];
     }
+  }
+
+  // Check for exact match
+  function hasExactMatch(query, text) {
+    return text.indexOf(query) !== -1;
+  }
+
+  // Check for word boundary match (query at start of a word)
+  function hasWordBoundaryMatch(query, text) {
+    // Match at: start of text, after space, after newline, after common punctuation
+    const regex = new RegExp('(^|[\\s,.:;!?()\\[\\]"\'\\-])' + escapeRegex(query), 'i');
+    return regex.test(text);
+  }
+
+  // Escape special regex characters
+  function escapeRegex(str) {
+    return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  // Calculate relevance score for a result
+  function scoreResult(item, normalizedQuery) {
+    let score = 0;
+
+    // Exact match in title: +3 points
+    if (hasExactMatch(normalizedQuery, item.normalizedTitle)) {
+      score += 3;
+    }
+    // Word boundary match in title: +1 point
+    else if (hasWordBoundaryMatch(normalizedQuery, item.normalizedTitle)) {
+      score += 1;
+    }
+
+    // Exact match in content: +2 points
+    if (hasExactMatch(normalizedQuery, item.normalizedContent)) {
+      score += 2;
+    }
+    // Word boundary match in content: +1 point
+    else if (hasWordBoundaryMatch(normalizedQuery, item.normalizedContent)) {
+      score += 1;
+    }
+
+    return score;
   }
 
   // Create snippet with highlighted match
@@ -46,7 +80,17 @@
     const normalizedQuery = normalizeText(query);
     const normalizedContent = normalizeText(content);
 
-    const matchIndex = normalizedContent.indexOf(normalizedQuery);
+    // Try to find exact match first
+    let matchIndex = normalizedContent.indexOf(normalizedQuery);
+
+    // If no exact match, try word boundary match
+    if (matchIndex === -1) {
+      const regex = new RegExp('(^|[\\s,.:;!?()\\[\\]"\'\\-])' + escapeRegex(normalizedQuery), 'i');
+      const match = normalizedContent.match(regex);
+      if (match) {
+        matchIndex = match.index + match[1].length;
+      }
+    }
 
     if (matchIndex === -1) {
       return content.substring(0, maxLength) + '...';
@@ -62,14 +106,14 @@
     if (end < content.length) snippet += '...';
 
     // Highlight the match (case-insensitive replacement)
-    const regex = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
-    snippet = snippet.replace(regex, '<mark>$1</mark>');
+    const highlightRegex = new RegExp('(' + escapeRegex(query) + ')', 'gi');
+    snippet = snippet.replace(highlightRegex, '<mark>$1</mark>');
 
     return snippet;
   }
 
   // Perform search
-  function performSearch(query) {
+  async function performSearch(query) {
     const resultsContainer = document.getElementById('search-results');
 
     if (!query || query.length < 3) {
@@ -77,16 +121,38 @@
       return;
     }
 
-    const normalizedQuery = normalizeText(query);
-    const results = fuse.search(normalizedQuery, { limit: 10 });
+    // Ensure index is loaded
+    if (!searchIndex) {
+      resultsContainer.innerHTML = '<div class="no-results">Index se načítá...</div>';
+      resultsContainer.classList.add('active');
+      await loadSearchIndex();
+    }
 
-    if (results.length === 0) {
+    if (!searchIndex || searchIndex.length === 0) {
+      resultsContainer.innerHTML = '<div class="no-results">Chyba načítání indexu</div>';
+      resultsContainer.classList.add('active');
+      return;
+    }
+
+    const normalizedQuery = normalizeText(query);
+
+    // Score all items and filter those with score > 0
+    const scoredResults = searchIndex
+      .map(item => ({
+        item: item,
+        score: scoreResult(item, normalizedQuery)
+      }))
+      .filter(result => result.score > 0)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 10);
+
+    if (scoredResults.length === 0) {
       resultsContainer.innerHTML = '<div class="no-results">Nic nenalezeno</div>';
       resultsContainer.classList.add('active');
       return;
     }
 
-    const html = results.map(function(result) {
+    const html = scoredResults.map(function(result) {
       const item = result.item;
       const snippet = createSnippet(item.content, query);
 

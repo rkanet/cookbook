@@ -2,7 +2,46 @@
 
 ## Přehled
 
-Client-side fulltextové vyhledávání pomocí knihovny Fuse.js. Vyhledávací pole je umístěno ve footeru stránky.
+Client-side fulltextové vyhledávání s kombinovaným algoritmem (přesná shoda + word boundary). Vyhledávací pole je umístěno ve footeru stránky.
+
+## Jak vyhledávání funguje
+
+### Algoritmus
+
+Vyhledávání kombinuje dva přístupy:
+
+1. **Přesná shoda** - hledá zadaný text kdekoliv v textu
+2. **Word boundary** - hledá text na začátku slov (za mezerou, interpunkcí)
+
+### Skórování výsledků
+
+| Typ shody | Body |
+|-----------|------|
+| Přesná shoda v titulku | +3 |
+| Přesná shoda v obsahu | +2 |
+| Word boundary v titulku | +1 |
+| Word boundary v obsahu | +1 |
+
+Výsledky jsou seřazeny podle skóre (nejvyšší první).
+
+### Příklad
+
+Hledání "rajč":
+
+| Výsledek | Skóre | Důvod |
+|----------|-------|-------|
+| Rajčatová polévka | 4 | přesná v titulku (3) + word boundary v obsahu (1) |
+| Guláš s rajčaty | 2 | přesná v obsahu (2) |
+| Salát | 1 | word boundary v obsahu (1) |
+
+### Podpora české deklinace
+
+Word boundary matching zachytí různé tvary slov:
+- "mrkv" najde: mrkev, mrkve, mrkví, mrkvová, mrkvový
+- "rajč" najde: rajče, rajčata, rajčatová
+
+**Důležité:** Nenajde slova, kde je hledaný text uprostřed slova.
+- "raj" nenajde "nakrájet" (není na začátku slova)
 
 ## Komponenty
 
@@ -24,12 +63,24 @@ Client-side fulltextové vyhledávání pomocí knihovny Fuse.js. Vyhledávací 
 Funkce:
 - Načtení indexu při focusu na vyhledávací pole
 - Normalizace textu (odstranění diakritiky, lowercase)
-- Vyhledávání pomocí Fuse.js (fuzzy matching)
+- Kombinované vyhledávání (přesná shoda + word boundary)
+- Skórování a řazení výsledků
 - Zobrazení výsledků s úryvkem a zvýrazněním hledaného textu
 - Debounce 300ms při psaní
 - Zavření výsledků klávesou Escape nebo klikem mimo
 
 **Minimální délka dotazu:** 3 znaky
+
+#### Hlavní funkce
+
+| Funkce | Účel |
+|--------|------|
+| `normalizeText()` | Odstranění diakritiky, lowercase |
+| `hasExactMatch()` | Kontrola přesné shody |
+| `hasWordBoundaryMatch()` | Kontrola shody na začátku slova |
+| `scoreResult()` | Výpočet skóre relevance |
+| `createSnippet()` | Vytvoření úryvku se zvýrazněním |
+| `performSearch()` | Hlavní vyhledávací logika |
 
 ### 3. Styly (`search.css`)
 
@@ -58,8 +109,8 @@ V `config.toml` je nutné povolit JSON output:
 
 ## Závislosti
 
-- **Fuse.js v7** - načítáno z CDN v `baseof.html`
 - **Font Awesome** - ikona lupy (již součástí tématu)
+- Žádné externí knihovny (čistý JavaScript)
 
 ## Jak funguje URL
 
@@ -69,9 +120,9 @@ Hugo funkce `.Permalink` automaticky generuje správnou URL:
 
 ## Známá omezení
 
-**Omezení délky indexovaného textu:** Index obsahuje pouze prvních 1500 znaků každého receptu. Text za touto hranicí není prohledáván. Při průměrné délce receptu ~1700 znaků je většina obsahu pokryta, ale u delších receptů (max ~6000 znaků) může být část textu mimo dosah vyhledávání.
+**Omezení délky indexovaného textu:** Index obsahuje pouze prvních 1500 znaků každého receptu. Text za touto hranicí není prohledáván.
 
-Při potřebě lze limit upravit v `index.json` šabloně (hodnota `truncate`). Vyšší limit = větší index.json soubor.
+**Word boundary a složeniny:** Algoritmus nenajde hledaný text uprostřed složených slov. Např. "masový" nenajde "bezmasový".
 
 ## Soubory k úpravě při změnách
 
@@ -82,3 +133,24 @@ Při potřebě lze limit upravit v `index.json` šabloně (hodnota `truncate`). 
 | `static/css/search.css` | Vzhled |
 | `themes/.../layouts/partials/footer.html` | HTML struktura |
 | `themes/.../layouts/_default/baseof.html` | Načtení CSS/JS |
+
+## Debugging Hugo šablon
+
+Pro zjištění, která šablona se používá a jaký typ stránky se zobrazuje, lze dočasně přidat debug blok do šablony:
+
+```html
+<pre>
+Kind: {{ .Kind }}
+Type: {{ .Type }}
+Section: {{ .Section }}
+Template: {{ templates.Current.Filename }}
+</pre>
+```
+
+**Vysvětlení:**
+- `Kind` - typ stránky (home, page, section, taxonomy, term)
+- `Type` - content type (obvykle název složky v content/)
+- `Section` - sekce obsahu
+- `Template` - absolutní cesta k použité šabloně
+
+**Pozor:** Nezapomeňte debug blok před deployem odstranit!
