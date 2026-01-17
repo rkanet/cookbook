@@ -3,7 +3,7 @@
 date = "2025-01-15T12:04:17+01:00"
 title = "Kuřecí kousky indická variace"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/IMG_6165-kureci-maso-indicka-variace.jpg"
 imghref = "/recepty/"
 imgname = ""
 kategorie = ["hlavní-jídla"]
