@@ -32,7 +32,8 @@ draft = false
 
 # Poznámky
 Mají trochu sponge charakter, ale chutnaly mi dost. Ne všichni to vidí stejně. Dobré dávkovat zdobícím pytlíkem, nebo obyč pevným sáčkem, protože hromádky pomocí dvou lžic trvají dlouho.
-Pekla jsem na 190 asi 17 minut. Lepší dělat menší hromádky. Původní recept byl z poloviční dávky, ale bylo moc pyré, tak jsem ho zužitkovala. Perníkové koření s dýní ládí moc. V originále byly 2ČL, ale došlo mi. tak jsem dala jednu a doplnila skořicí. Kypřící prášek jsem dala 6g toho s vinným kamenem.
+Pekla jsem na 190 asi 17 minut. Lepší dělat menší hromádky.  Perníkové koření s dýní ládí moc. V originále byly 2ČL, ale došlo mi. Tak jsem dala jednu a doplnila skořicí. Kypřící prášek nakonec 6g verze s vinným kamenem.
+Původní recept byl z poloviční dávky, ale bylo moc pyré, tak jsem ho zužitkovala. Sušenky rychle vysychají, tak asi poloviční verze lepší:), nebo pozměnit trochu suroviny.
 
 <!-- Vyšlehejte vejce s cukrem do pěny. Přidejte vanilku a dýňové pyré.
 Smíchejte mouku, prášek do pečiva, koření a sůl.

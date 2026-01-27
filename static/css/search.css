@@ -140,4 +140,14 @@
       #search-section {
           margin-bottom: 2em;
       }
+
+      /* Mobile: Fixed position for search results */
+      .search-results {
+          position: fixed;
+          top: auto;
+          bottom: 60px;
+          left: 10px;
+          right: 10px;
+          max-height: 50vh;
+      }
   }
