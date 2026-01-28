@@ -17,6 +17,8 @@ draft = false
 100 g loupané půlené červené čočky v suchém stavu
 1 lžíce řepkového nebo slunečnicového oleje
 ⅓ lžičky soli
+180 ml vody do těsta
+voda na namočení
 
 # Postup
 1. Červenou čočku nutné předem namočit,  8 hodin (ideálně přes noc).
@@ -34,6 +36,7 @@ Po rozmixování těsto nebylo úplně hladké, zůstaly drobné částečky, po
 Druhý pokus, rozmixovala jsem pouze tyčovým mixerem. Rozmixovat poprvé nechat odležet. Asi po 2h znovu rozmixovat. Těsto bylo hladší než minule.
 Ani na druhý pokus placky nedosáhly dodatečné pevnosti, abych je balila na svačinu na cesty. Pokud je méně náplně drží obstojně. Ale stačí málo a trhají se. 
 Pro zkrocení těsta lze přidat trochu cizrnové, ovesné, rýžové mouky i kypřící prášek jsem našla. Asi vajíčko by šlo. Zatím nevyzkoušeno, neb se mi líbí, že je recept jen z mála surovin:)
-Zajímavá varianta jako lívance. Zkusit přidat vejce (2ks /200g čočky) a z bílků ušlehat sníh, ochutit skořicí například.
+Zajímavá varianta jako lívance. Zkusit přidat vejce (2ks /200g čočky) a z bílků ušlehat sníh, ochutit skořicí například.  Potkala jsme i variantu pro urychlení namáčení, že se čočka jen propláchne ve vodě a pak zaleje vroucí vodou a z tou už se pak rozmixuje.
+
 
 <!-- --> 

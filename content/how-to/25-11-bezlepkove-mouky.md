@@ -59,5 +59,22 @@ draft = false
 | Sůl                            | 1,5 g                  |
 
 
+## Freee Doves Farm Směs bílá bez lepku
+**Složení:** rýžová mouka, bramborová mouka, tapioková mouka, kukuřičná mouka a pohanková mouka.
+
+
+**Zkušenosti:** bez zaušťovadel, ideální na podsypávání protože dále nazhušťuje těsto. Zahušťování polévek a omáček, působí tam přirozeně a přiměřeně zahustí. Také na ní žije náš kvásek. Chtěla jsem, aby byl z čisté mouky bez přídatných látek. Do kvásku dávám 1:1 s pohankovou moukou hladkou. 
+
+| Výživové údaje na 100g | Hodnota  |
+|---------------------------------|------------------------|
+| Energetická hodnota | 1484 kJ / 350 kcal |
+| Tuky | 0,9 g |
+| - z toho nasycené mastné kyseliny | 0,2 g |
+| Sacharidy | 80,1 g |
+| - z toho cukry | 0,4 g |
+| Bílkoviny | 4,8 g |
+| Vláknina | 1,0 g |
+| Sůl | 0,03 g |
+
 
 <!-- --> 
