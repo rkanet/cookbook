@@ -8,7 +8,7 @@ imghref = "/recepty/"
 imgname = ""
 kategorie = ["polévky"]
 ingredience = ["fazole","kukuřice"]
-tags = ["slané","zelenina","bez-lepku"]
+tags = ["slané","zelenina","polévky","bez-lepku"]
 draft = false
 +++
 
