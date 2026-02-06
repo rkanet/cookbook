@@ -48,7 +48,7 @@ draft = false
 
 # Poznámky
 A tak překvapilo. Olej nepěkně ovládl chuť, aspoň pokud byly teplé. Použila jsem sluněčnicový. Po vychladnutí lepší, ale stejně dávám tak 4 z 10ti:) Pomohlo by výraznější koření, nebo více koření. Rovná lžíčka a půl skořice nestačila.
-Mouka kombinace Nutri per dolci 140g a pohanková hladká 40g. Nedala jsem pomerančovou kůru ani štávu, ta by mohla případně chuť oleje potlačit. Takže pokud příště s olejem, tak aspoň citronovou kůru! Zkusím část oleje nahradit polotučným tvarohem. Verze tvaroh olej lepší. Přidala jsem i 3 malé špetky citronové kůry. Kůra tam nebyla na chut poznat vůbec a i skořice poměrně jemná. Tohle mrkvové těsto snese výraznější ochucení pokud by mělo být samostatně. Kombinace s marmeládou, ale snese jemnější základ. Drobenku nedávám je moc hezká/efektni, ale na chuti moc nepřidává. SEkané ořechy nebo mandle jsou lepší.
+Mouka kombinace Nutri per dolci 140g a pohanková hladká 40g. Nedala jsem pomerančovou kůru ani štávu, ta by mohla případně chuť oleje potlačit. Takže pokud příště s olejem, tak aspoň citronovou kůru! Zkusím část oleje nahradit polotučným tvarohem. Verze tvaroh olej lepší. Přidala jsem i 3 malé špetky citronové kůry. Kůra tam nebyla na chut poznat vůbec a i skořice poměrně jemná. Tohle mrkvové těsto snese výraznější ochucení pokud by mělo být samostatně. Kombinace s marmeládou, ale snese jemnější základ. Drobenku nedávám je moc hezká/efektni, ale na chuti moc nepřidává. Sekané ořechy nebo mandle jsou lepší.
 
 <!-- --> 
 

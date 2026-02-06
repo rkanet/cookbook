@@ -43,5 +43,6 @@ Vrsta druhá vyzkoušeno:
 3. Rozmixované broskve první vrstva a borůvky druhá, taky super. Maliny asi stále vedou, ale vzhledem k dostupnosti se jim borůvky dost blíží, zítra sbíráme:).
 4. Jablečný rozvar se skořicí. Příjemná zimní verze. Je-li něco kyselejšího po ruce, doplnit na vrch. Dala jsem například lžíci rybízového rozvaru.
 5. S kakaovým krémem z fazolí adzuki a banánem. Velmi zajímavá zimní verze.
+6. Kousky jablíček podušené ve vlastní šťávě se skoříci, zhuštěné decentně škrobem. Na vrch pikantní marmeládu například z červeného rybízu. Jablka není nutné sladit.
 
 <!-- --> 

@@ -15,11 +15,11 @@ draft = false
 
 # Suroviny
 - 200 g loupané půlené červené čočky v suchém stavu
-- špetka soli do sněhu
 - 300 ml mléka
-- 2 vejce
 - 1/2 ČL skořice
-- 2 ČL cukr (do sněhu na zpevnění)
+- 2 vejce
+- špetka soli do sněhu
+- 2 ČL cukr (do sněhu na zpevnění) 
 
 
 # Postup

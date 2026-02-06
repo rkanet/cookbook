@@ -22,6 +22,7 @@ draft = false
 - majoránka
 - 1 rovná lžíce pohankové mouky
 - trocha oleje na osmažení cibulky
+- voda na podlití, přiměřeně
 - sůl a ocet  na dochucení
 - zelenina dle sezony
 - vejce (u nás 4-5ks)
