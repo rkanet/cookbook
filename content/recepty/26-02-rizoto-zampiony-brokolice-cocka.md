@@ -21,7 +21,7 @@ draft = false
 - čočka beluga
 - sůl
 - koření dle chuti
-- balkánský sýr
+- balkánský sýr, parmezán
 
 # Postup
 1. Uvařit čočku, dát stranou.
