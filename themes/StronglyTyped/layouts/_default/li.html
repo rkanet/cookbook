@@ -1,5 +1,4 @@
-
-{{ $data := getJSON "/data/photo-list.json" }}
+{{ $data := index site.Data "photo-list" }}
 {{ range $data }}
 
 <div class="col-4 col-6-medium col-12-small">
