@@ -13,7 +13,7 @@ draft = false
 +++
 
 
-# Suroviny
+# Suroviny 4 ks
 - 180g MEGGLE Cottage Cheese přírodní (obsah tuku 4,2 %)
 - 1 vejce
 - 2PL mléka
@@ -37,6 +37,6 @@ draft = false
 
 
 # Poznámky
-Tak tohle překvapilo, chutné rychlé houstičky. Zkusila jsem do těsta Italské koření Sonnentor a slušelo tomu. Těsto mělo veké bubliny a typově patří k vlhčím těstům, není jako tradiční vatové houskové těsto. 
- Na svačinový sendvič ideální, nezapomenout na rukolu nebo listový salát:) Za mě by housky bylo možné použít i jako náhradu hamburgrové bulky.
+Tak tohle překvapilo, chutné rychlé houstičky. Zkusila jsem do těsta Italské koření Sonnentor a slušelo mu. Těsto mělo veké bubliny a typově patří k vlhčím těstům, není jako tradiční vatové houskové těsto. 
+Na svačinový sendvič ideální, nezapomenout na rukolu nebo listový salát:) Za mě by housky bylo možné použít i jako náhradu hamburgrové bulky. Zkusila jsem do trouby dát vedle plechu kovovou misku z horkou vodou, aby buchta nepopraskala. A  nevím jestli to funguje, praskliny byly, ale  decentní.
 <!-- --> 

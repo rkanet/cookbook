@@ -26,7 +26,7 @@ draft = false
 # Postup
 1. Žloutky, tvaroh a vanilkový cukr umíchat do hladké hmoty.
 2. Z bílků se špetkou soli vyšleháme tuhý sníh. Pak zašlehat cukr.
-3. Do tvarohové smsi vmícháme mouku smíchanou s kypřícím práškem. A nakonec opatrně sníh.
+3. Do tvarohové směsi vmícháme mouku smíchanou s kypřícím práškem. A nakonec opatrně sníh.
 4. Nalijeme do vymazaného a vysypaného pekáčku a pečeme zvolna v troubě vyhřáté na 170°C přibližně hodinu.
 5. Necháme vychladnout
 

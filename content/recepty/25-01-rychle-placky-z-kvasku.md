@@ -14,12 +14,12 @@ draft = false
 
 
 # Suroviny
-- přebytečný kvásek hydratace 1:1
+- žitný kvásek hydratace 1:1
 - voda/mléko
 - sůl
 - koření dle chuti (kmín, bylinky...)
 - dle chuti něco na vrch, nekonečně možností česnek, rukola, rajče, sýr, olivy, naklíčená ředkvička a lučina...
-- jemné ovesné vločky (1 -2 PL)
+- 2 PL jemné ovesné vločky (voliltelně)
 
 # Postup
 1. Kvásek osolíme, ochutíme a naředíme, aby byl tekutý asi jako hustší palačinkové těsto.
@@ -28,6 +28,6 @@ draft = false
 4. Na vrch obložit dle chuti.
 
 # Poznámky
-Jsou chuťově moc dobré, konzistenci bych asi popsala jako vlhkou, možná čvachtavou. Ale! Tyhle placky vznikly proto, že často přebývá kvásek a k tomu je občas potřeba rychle vykouzlit nějaké "zdravější" pečivo. Ano, daly by se všemi směry vylepšovat. Jen pak už to nebudou ty ultra-rychlé placky, na které zužitkuju všechen kvásek ze sklenice. Do surovin jsem přidala ovesné vločky. Je to s nimi moc dobré, dodájí kváskové kaši příjemnou struktruru.
+Jsou chuťově moc dobré, konzistenci bych asi popsala jako vlhkou, možná čvachtavou. Ale! Tyhle placky vznikly proto, že často přebývá kvásek a k tomu je občas potřeba rychle vykouzlit nějaké "zdravější" pečivo. Ano, daly by se všemi směry vylepšovat. Jen pak už to nebudou ty ultra-rychlé placky, na které zužitkuju všechen kvásek ze sklenice. A přece jsem nakonec objevila vylepšení při zachování rychlosti přípravy. Do surovin jsem přidala ovesné vločky, dávám asi 2 lžíce jemných ovesných vloček a přiměřeně vody. Je to s nimi moc dobré, dodájí kváskové kaši příjemnou struktruru.
 
 <!-- --> 
