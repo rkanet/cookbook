@@ -1,0 +1,25 @@
+Soubory s draft=true v content/recepty:
+
+26-02-rychle-chlebove-placky.md
+25-11-jahlove-rezy-s-kakaem.md
+26-01-cuketove-kousky.md
+26-01-adzuki-kulicky.md
+25-11-polevka-pho.md
+25-11-tvarohový-krém-s-cokoladou.md
+25-10-mrkvova-buchta-nebo-dort.md
+24-10-toastovy-chleb-2.md
+24-07-cuketovy-nakyp-2.md
+24-01-kynute-kolace-s-ovocem.md
+24-01-kolace-ze-slehacky.md
+25-09-rohliky-tukove.md
+25-09-nepeceny-ovocny-dort.md
+24-10-tvarohovo-dynovy-dezert.md
+24-12- kvaskove-bagetky-exprimenty.md
+24-10-dynova-rolada.md
+24-10-domaci-marcipan.md
+24-10-coko-cheese-cake-blp.md
+24-07-cheesecake.md
+24-06-svestkove-rezy.md
+24-05-jahodove-rezy-2.md
+24-01-seminkove-housky-zakysana-smetana.md
+24-01-kolace-z-kefiru.md
