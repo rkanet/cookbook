@@ -6,16 +6,16 @@ autor = "R.R."
 imgsrc = "/img/IMG_7280-domaci-panyr.jpg"
 imghref = "/recepty/"
 imgname = ""
-kategorie = ["polévky","přílohy","moučníky","hlavní-jídla"]
-ingredience = ["",""]
-tags = ["sladké","slané","pečivo","ovoce","zelenina","polévky","bez-lepku","maso"]
+kategorie = ["přílohy"]
+ingredience = ["mléko"]
+tags = ["slané","bez-lepku"]
 draft = false
 +++
 
 
 # Suroviny
-1000 ml mléka
-2 – 4 lžíce citrónové šťávy
+- 1000 ml mléka
+- 2 – 4 lžíce citrónové šťávy
 
 # Postup
 1. Do čistého hrnce nalijeme 1 litr mléka a na středním plameni zahříváme. Občas mléko promícháme, aby se
