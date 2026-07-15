@@ -25,6 +25,12 @@ draft = false
  - 1/2 ČL soli (dala jsem 4g)
  - 6g kypřícího prášku
 
+# suroviny s kváskem
+- všechny základní suroviny
+- přidat kvásek (as 2 PL kopcem)
+- přidat přiměřeně mouky asi 20g 
+- strouhaný eidam na jemno asi 80g
+- doladit do mírně lepivé konzistence
 
 
 # Postup
@@ -37,6 +43,13 @@ draft = false
 
 
 # Poznámky
-Tak tohle překvapilo, chutné rychlé houstičky. Zkusila jsem do těsta Italské koření Sonnentor a slušelo mu. Těsto mělo veké bubliny a typově patří k vlhčím těstům, není jako tradiční vatové houskové těsto. 
-Na svačinový sendvič ideální, nezapomenout na rukolu nebo listový salát:) Za mě by housky bylo možné použít i jako náhradu hamburgrové bulky. Zkusila jsem do trouby dát vedle plechu kovovou misku z horkou vodou, aby buchta nepopraskala. A  nevím jestli to funguje, praskliny byly, ale  decentní.
+Tak tohle překvapilo, chutné rychlé houstičky. Zkusila jsem do těsta Italské koření Sonnentor a slušelo mu. Těsto mělo veké bubliny a typově patří k vlhčím těstům, není jako tradiční vatové houskové těsto. Výsledné těsto je lepivé  tak dělám bulky (spíše hromádky) na plech pomocí dvou lžic. Na svačinový sendvič ideální, nezapomenout na rukolu nebo listový salát:). Za mě by housky bylo možné použít i jako náhradu hamburgrové bulky. 
+
+Pokud má být houska na plnění salátem atp, tak lepší nízké rozpláclé a větší vyjde 4-5 ks. Pokud jen tak na jídlo například k polévce jako doplněk tak dělám menší hromádky 8 ks a nerozpláclé:).
+
+Verze s kváskem připomíná chutí trochu dalamánek. Konzistence mi vyšla hutnější než základní varianta. Strouhaný sýr lze přidat do obou verzí.
+Kváskovou verzi zatím dělám odhadem z kvásku, který zrovna zbyl. Časem nějaký ideální poměr oddvážím a zapíšu.
+
+Nová varianta s česnekem uvnitř a slaninkou navrchu! 
+
 <!-- --> 

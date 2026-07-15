@@ -45,4 +45,8 @@ draft = false
 # Poznámky
 Do bezlepkového dávám na zahuštění Doves Farm Plain White. Měla jsem rychlý vývar z vepřového masa. Je k tomu dobrá kysaná smetana na servírování. Zelí lze pokrájet na kousky.
 Smetanu dávají v receptech rovnou s moukou na zahuštění.
+
+A je to tu... i segedýn, jsem udělala v troubě:). A zkrůtího stehenního masa. Funguje obojí. Dávkování bylo odhadem. Nejprve zapéct maso s kořením cibulí a česnekem. Až později přidat předem podušené zelí a dopéct. Ke konci přidat mouku rozmíchanou v troše vody s mlékem. Cca 20 minut potřebuje mouka, aby se provařila. Nakonec kysanou smetanu, nechat připokojové teplotě a ještě případně dohřát teplou vodu z konvice, aby se nesrazila a pár minut nechat vše komplet prohřát v troubě.
+
+A podávat to jde i s kváskovo bramborovou plackou. Vařené strouhané brambory, trocha mouky a přebývajíící kvásek z lednice. Dochutit drceným kmínem a solí. Přidat kysanou smetanu nebo cottage, co leží v lednici. těsto lepivější, peču na pečícím papíře. Dobré! pro mě lepší než knedlík.
 <!-- --> 

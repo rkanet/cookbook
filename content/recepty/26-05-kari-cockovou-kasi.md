@@ -30,6 +30,6 @@ Na kaši
 # Postup
 
 # Poznámky
-Přidala jsem brokolici vařenou v páře. Z fotky to tak nevypadá, ale je to chutná kombinace.
+Přidala jsem brokolici vařenou v páře. Z fotky to tak nevypadá, ale je to chutná kombinace. Suroviny, takto odhadem myslím stačí. Každý si doladí dle své chuti.
 
 <!-- --> 
