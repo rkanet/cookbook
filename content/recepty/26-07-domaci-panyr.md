@@ -1,7 +1,7 @@
 
 +++
 date = "2026-07-15T14:15:06+02:00"
-title = ""
+title = "Domácí panýr"
 autor = "R.R."
 imgsrc = "/img/IMG_7280-domaci-panyr.jpg"
 imghref = "/recepty/"

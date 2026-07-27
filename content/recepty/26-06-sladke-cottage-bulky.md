@@ -6,8 +6,8 @@ imgsrc = "/img/IMG_7253-sladke-cottage-bulky.jpg"
 imghref = "/recepty/"
 imgname = ""
 kategorie = ["moučníky"]
-ingredience = ["",""]
-tags = ["sladké","bez-lepku","mrkev"]
+ingredience = ["mrkev",""]
+tags = ["sladké","bez-lepku"]
 draft = false
 +++
 
