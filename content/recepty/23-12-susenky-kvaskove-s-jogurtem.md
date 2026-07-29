@@ -1,6 +1,6 @@
 +++
 date = "2023-12-30T16:25:39+01:00"
-title = "Kváskové sušenky"
+title = "Slané kváskové sušenky"
 autor = "R.R."
 imgsrc = "/img/kvaskove-susenky-s-jogurtem.jpg"
 imghref = "/recepty/"
