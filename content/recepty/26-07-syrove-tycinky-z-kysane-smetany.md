@@ -26,8 +26,9 @@ draft = true
 3. Z těsta po uležení vyválíme asi pět milimetrů silný plát, který poté potřeme vajíčkem a posypeme sýrem.
 Mmísto sýra použít kmín, sezamová semínka, bylinky, červenou papriku či hrubozrnnou sůl. V případě hrubozrnné soli navcrh, snížit množství soli do těsta.
 3. Nožem/rádlem těsto nakrájíme na tyčinky. Které přendáme na plech vyložený pečicím papírem.(Krájím plát těsta optraně  už rovnou na plechu)
-4. Pečeme  190 stupňů1 0-15 minut. v závislosti na velikosti a tloušťce tyčinek. 
+4. Pečeme  190 stupňů1 10-15 minut. v závislosti na velikosti a tloušťce tyčinek. 
 
 # Poznámky
+Dala jsem trochu vic kysane smetany, protože zbytek. Mouku jsem doplnila odhadem. Tak se uvidí, ale množství tuku respektiveu  másla v receptu maznačuje, že to nemůže dopadnout špatně:) No tak může, chuť celkem průměrná. Zlepšilo se to přidáním koření do druhé dávky, ale nijak zásadně.
 
 <!-- --> 
