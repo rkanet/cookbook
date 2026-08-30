@@ -12,11 +12,12 @@ draft = false
 +++
 
 
-# Suroviny
+# Suroviny Ikea pekáč malý 32x22cm
 - 50g pohanková mouka hladká
-- 110g mouka Jiyerka zlatá
+- 110g mouka Jizerka zlatá
+- 80g mletých vlašských ořechů
 - 140g zakysané smetany
-- 2 ČL prášku do pečiva
+- 2 rovné ČL prášku do pečiva (cca 6g)
 - 120g třtinového cukru
 - špetka soli
 - 150 ml oleje
@@ -27,10 +28,10 @@ draft = false
 1. Našlehat vejce s cukrem.
 2. Přidat kysanou smetanu, olej.
 3. Nakonec přidat mouku s rozmíchaným kypřícím práškem.
-4. Nalít do pekáče vysypaného moukou a navchrch nakrájené kousky jablek
+4. Nalít do pekáče vysypaného moukou a navrch nakrájené kousky jablek
 
 
 
 # Poznámky
-Zapomněla jsem dát olej, zdálo se mi to husté, tak jsem dala mléko, 3PL. Při dalším pečení zkusit dát jen trochu oleje. Třeba 3PL oleje a 3PL mléka.
+Zapomněla jsem dát olej, zdálo se mi to husté, tak jsem dala mléko, 3PL. Při dalším pečení zkusit dát jen trochu oleje. Třeba 4PL (asi 40ml) oleje a 3PL (30ml) mléka. Druhým pokusem potvrzeno, ze původních 150 ml v recepetu neni potreba. 
 <!-- --> 
