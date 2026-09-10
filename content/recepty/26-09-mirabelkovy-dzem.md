@@ -21,9 +21,9 @@ draft = false
 # Postup
 
 1. Vypeckované mirabelky dáme vařit do do hrnce se silnějším dnem. Vaříme do změknutí mirabelek. 
-2. Pak přidáme pektin rozmíchaný v cukru. A kyselinu citronovou. Povaříme už jen krátce. pektin s enemá vařit moc dlouho, prý max 15 minut.
-3. A vroucí plníme do horký sklenic právě vyndaných z trouby. Ihned zavíčkujeme.
-4. Nakonec dávám ještě sterilovat do trouby na 175 stupňů cca 15 minut. Horní a dolní ohřev bez horkovzduchu.
+2. Pak přidáme pektin rozmíchaný v cukru. A kyselinu citronovou. Povaříme už jen krátce. Pektin se nemá vařit moc dlouho, prý max 15 minut.
+3. Vroucí hmotu plníme do horkých sklenic (právě vyndaných z trouby). Ihned zavíčkujeme.
+4. Naplněné hned dávám sterilovat do trouby vyhřáte na 175 stupňů cca 15 minut. Horní a dolní ohřev bez horkovzduchu.
 
 # Poznámky
 

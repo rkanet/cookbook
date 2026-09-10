@@ -19,9 +19,9 @@ draft = false
 - 3 vejce velikost L
 
 # Postup
-1. Vše promíchat, okořenit osolit.
+1. Nastrouhat na hrubo cuketu a sýr. Vše promíchat, okořenit osolit.
 2. Nalít na plech vyložený pečícím a papír potřený olejem. Rovnoměrně rozetřít po celé ploše. 
-3. Péct v troubě asi 20-30 minut. Na začátek horkovzduch 150 stupňů, vysušení této vodnaté placce fakt nehrozí:) Pak dopéct na 200 stupňů.
+3. Péct v troubě asi 20-30 minut. Na začátek horkovzduch 150 stupňů, vysušení této vodnaté placce fakt nehrozí:) Pak dopéct na 200 stupňů horní/dolní ohřev.
 
 # Poznámky
 Placka je tenká, ani ne půl centimetru. Po mírném schladnutí se krájela dobře.
