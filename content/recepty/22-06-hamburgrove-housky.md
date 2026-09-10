@@ -48,6 +48,7 @@ Poté potřete vajíčkem, posypte seznamem a dejte péct. Po 10 minutách vytá
 - 1 vajíčko
 - 1 žloutek
 - 20g rozpuštěného másla
+- sezam na posypání
 
 # Postup
 1. S předstihem (ideálně den předem) připravíme tanzhong.

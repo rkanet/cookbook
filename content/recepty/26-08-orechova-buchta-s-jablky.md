@@ -22,16 +22,17 @@ draft = false
 - špetka soli
 - 150 ml oleje
 - 2 vejce
-- 3 jablka oloupaná a nakrájená na kostky
+- 3-4 jablka oloupaná a nakrájená na kostky
 
 # Postup
 1. Našlehat vejce s cukrem.
 2. Přidat kysanou smetanu, olej.
 3. Nakonec přidat mouku s rozmíchaným kypřícím práškem.
-4. Nalít do pekáče vysypaného moukou a navrch nakrájené kousky jablek
+4. Nalít do pekáče vysypaného moukou a navrch hodit nakrájené kousky jablek
 
 
 
 # Poznámky
-Zapomněla jsem dát olej, zdálo se mi to husté, tak jsem dala mléko, 3PL. Při dalším pečení zkusit dát jen trochu oleje. Třeba 4PL (asi 40ml) oleje a 3PL (30ml) mléka. Druhým pokusem potvrzeno, ze původních 150 ml v recepetu neni potreba. 
+Zapomněla jsem dát olej, zdálo se mi to husté, tak jsem dala mléko, 3PL. Při dalším pečení zkusit dát jen trochu oleje. Třeba 4PL (asi 40ml) oleje a 3PL (30ml) mléka. Druhým pokusem potvrzeno, ze původních 150 ml v recepetu neni potřeba. 
+Zkusila jsem nahradit ořechy stejným množstvím mletého máku a navrch místo jablek švestky. Moc dobrá obměna. Oproti základmímu receptu se sníženým olejem jsem dala 200g smetany kysané. Přišlo mi, že mák víc saje vodu.
 <!-- --> 

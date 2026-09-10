@@ -2,7 +2,7 @@
 date = "2026-07-27T22:05:20+02:00"
 title = "Ovocné nanuky"
 autor = "R.R."
-imgsrc = "/img/no-image.jpg"
+imgsrc = "/img/IMG_7718-ovocne-nanuky.jpg"
 imghref = "/recepty/"
 imgname = ""
 kategorie = ["moučníky"]
