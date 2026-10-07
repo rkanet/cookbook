@@ -36,6 +36,6 @@ marináda na potření
 # Poznámky
 Testované kuře bylo 1,4 kg.
 Vnitřní teplota těsně před sundání z grilu 76 stupňů, měřeno v "tlustém" svalu.
-Nejjednosušší marináda je též Koření na kuře nebo Grilovací koření značky Sonnentor a olej.
+Nejjednosušší marináda je též Koření na kuře nebo Grilovací koření značky Sonnentor a olej. Druhé pečení kuře 2 kg z farmy, kde běhalo:) Pekli jsme na 200 - 210 stupňů celkem 2 h.  180 stupňů nejde s briketama udržet. Buď se gril dusí nebo je teplota vyšší. Brikety v boxech po stranách, seuper, nevyhasínají. Kuře v modrém smaltovém pekáčku/pánvi s vyšším okrajem. Tentokrát nám marináda shořela. A prtože se kuře po celou dobu peklo skvěle, cca 1h a 45 minut se zlatavou kůrčičkou, nedává nám smysl potírat marinádou, která se velmi rychle a ochotně připálí. Příště tedy kuře naložit ideálně den předem do koření a dobře osolit. Při pečení pakk už jen potřit na začátku olejem a dále potírat z výpeku.  Zahuštěný výpek zkusit před konecem pečení vyndat a udělat na pánvi Šťávu na kaši.
 
 <!-- --> 
